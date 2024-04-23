@@ -244,9 +244,9 @@ The chartist, journalist and radical writer Thomas Frost was born in Croydon on 
 
 In the early stages of their married life, Elizabeth would often illustrate scientifically accurate images of novelty bird specimens that John, her husband, prepared for his customer. After two years of strenuous hard work, her lavishly crafted plates were published in “A Century of Birds from the Himalaya Mountains” (1830-1832) accompanied by N. A. Vigors’ factful scientific explanations. 
 
- ## Sarah Grand (1854-1943)
- 
- [Sarah Grand](19c-grand-biography)
+## Sarah Grand (1854-1943)
+
+[Sarah Grand](19c-grand-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/SG%20passport.jpeg) 
 
