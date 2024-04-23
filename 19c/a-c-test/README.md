@@ -5,13 +5,14 @@ Hoy and steamboats, railways and passenger ships brought people to the county in
 # &nbsp; 
 <param class="cards">
 
+# Featured Essays
 ## Overview
 
 [Overview](19c-kent)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/c9754956-2845-403f-b27b-2e4fb5b36184)
 
-During the 19th century Kent was connected to the metropolis through hoy and steam boats and later by the expanding railway network; it also provided convenient access to the coast of France through the regular passenger ships running from Folkestone and Dover. It attracted the attention of numerous writers across the century. 
+During the 19th century, Kent was connected to the metropolis through hoy and steamboats and later by the expanding railway network; it also provided convenient access to the coast of France through the regular passenger ships running from Folkestone and Dover. It attracted the attention of numerous writers across the century. 
 
 ## Henry Gardiner Adams (1812-1881)
 
@@ -588,9 +589,10 @@ P. G. Wodehouse only spent two years at Malvern House Prep School in the Kearsne
 
 The Jewish author Israel Zangwill’s first recorded encounter with Kent dates to a holiday in Thanet in 1881 when he was sixteen. The future author of Children of the Ghetto ‘was wandering about the Ramsgate sands’ when he spotted a writing competition, advertised in an abandoned issue of Society magazine.
 
+# Places
 ## Broadstairs
 
-[Broadstairs](/dickens/broadstairs-19th-century)
+[Broadstairs](github.com/kent-map/images/blob/main/dickens/broadstairs-19th-century)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://github.com/kent-map/images/blob/main/dickens/Broadstairs_CO.jpg) 
 
@@ -638,8 +640,9 @@ Despite being the favoured holiday destination of no less a figure than Charles 
 
 ## Seaside Resorts
 
-[Seaside resorts](19c-seaside)   
+[Seaside resorts](19c-seaside)  
 
+# Events
 ## Contagious Diseases Acts
 
 [Contagious Diseases Acts](19c-contagious-diseases)   
@@ -659,7 +662,7 @@ Despite being the favoured holiday destination of no less a figure than Charles 
 
 [Leather and Dust](/dickens/19c-leather-and-dust)   
 
-
+# Texts
 ## Miss Balmaine's Past
 
 [Miss Balmaine's Past by Bithia Croker](19c-croker-missbalmaine)   
