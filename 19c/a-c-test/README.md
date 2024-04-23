@@ -1,6 +1,6 @@
 `mdp-header title="19th Century Kent" background=gh:kent-map/images/banners/19c.jpg .sticky`
 
-Hoy and steam boats, railways and passenger ships brought people to the county in ever increasing numbers as the county’s tourist industry develops.
+Hoy and steamboats, railways and passenger ships brought people to the county in ever increasing numbers as its tourist industry developed.
 
 # &nbsp; 
 <param class="cards">
@@ -590,7 +590,11 @@ The Jewish author Israel Zangwill’s first recorded encounter with Kent dates t
 
 ## Broadstairs
 
-[Broadstairs](/dickens/broadstairs-19th-century)   
+[Broadstairs](/dickens/broadstairs-19th-century)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://github.com/kent-map/images/blob/main/dickens/Broadstairs_CO.jpg) 
+
+Despite being the favoured holiday destination of no less a figure than Charles Dickens, Broadstairs never aimed to compete with either the much-vaunted gentility of Ramsgate or the mass appeal of Margate.
 
 ## Canterbury
 
