@@ -596,7 +596,7 @@ The Jewish author Israel Zangwill’s first recorded encounter with Kent dates t
 
 [Broadstairs](dickens/broadstairs-19th-century)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://github.com/kent-map/images/blob/main/dickens/Broadstairs_CO.jpg) 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/dickens/Broadstairs_c13874-68.jpg)
 
 Despite being the favoured holiday destination of no less a figure than Charles Dickens, Broadstairs never aimed to compete with either the much-vaunted gentility of Ramsgate or the mass appeal of Margate.
 
