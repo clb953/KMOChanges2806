@@ -328,7 +328,7 @@ Dramatist and writer, Douglas Jerrold was born on the 3rd of January 1803 and by
 
 [Dora Jordan](19c-jordan-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://en.wikipedia.org/wiki/Dorothea_Jordan#/media/File:Jordan_by_Hoppner.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://en.wikipedia.org/wiki/File:Jordan_by_Hoppner.jpg)
 
 Mrs Dora Jordan was the foremost actress of her day and very much admired. She became the long-standing mistress of the Duke of Clarence, the future King William IV, with whom she lived for many years and had ten children. 
 
