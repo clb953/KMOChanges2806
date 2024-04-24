@@ -2,8 +2,6 @@
 
 Hoy and steamboats, railways and passenger ships brought people to Kent in ever increasing numbers as its tourist industry developed.
 
-## Overview
-
 [Overview](19c-kent)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/c9754956-2845-403f-b27b-2e4fb5b36184)
