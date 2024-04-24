@@ -513,7 +513,7 @@ In March 1848, Archibald Campbell Tait, the headmaster of Rugby School, visited 
 
 [Ellen Ternan](19c-ternan-biography) 
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://en.wikipedia.org/wiki/Ellen_Ternan#/media/File:Ellen_Ternan.jpeg) 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/33/Ellen_Ternan.jpeg) 
 
 Ellen Lawless Ternan was an English actress often associated with the author Charles Dickens. 
 
@@ -521,7 +521,7 @@ Ellen Lawless Ternan was an English actress often associated with the author Cha
 
 [William Makepeace Thackeray](19c-thackeray-biography) 
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://en.wikipedia.org/wiki/William_Makepeace_Thackeray#/media/File:William_Makepeace_Thackeray_by_Jesse_Harrison_Whitehurst-crop.jpg) 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/bf/William_Makepeace_Thackeray_by_Jesse_Harrison_Whitehurst-crop.jpg) 
 
 Educated at Charterhouse and Cambridge, W. M. Thackeray is remembered by many as the author of Vanity Fair (1847) and by some for suggesting that it takes three generations to make a gentleman.
 
@@ -594,7 +594,7 @@ The Jewish author Israel Zangwill’s first recorded encounter with Kent dates t
 
 ## Broadstairs
 
-[Broadstairs](github.com/kent-map/images/blob/main/dickens/broadstairs-19th-century)
+[Broadstairs](dickens/broadstairs-19th-century)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://github.com/kent-map/images/blob/main/dickens/Broadstairs_CO.jpg) 
 
