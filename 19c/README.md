@@ -1,7 +1,7 @@
 `mdp-header title="19th Century Kent" background=gh:kent-map/images/banners/19c.jpg .sticky`
 
 # Overview
-During the 19th century Kent was connected to the metropolis through hoy and steamboats and later by the expanding railway network; it also provided convenient access to the coast of France through the regular passenger ships running from Folkestone and Dover. It attracted the attention of numerous writers across the century. [Read More](19c-kent)
+During the 19th century Kent was connected to the metropolis through hoy and steamboats and later by the expanding railway network; it also provided convenient access to the coast of France through the regular passenger ships running from Folkestone and Dover. It attracted the attention of numerous writers across the century [Read Full Essay](19c-kent)
 
 
 # People
@@ -590,12 +590,13 @@ P. G. Wodehouse only spent two years at Malvern House Prep School in the Kearsne
 
 The Jewish author Israel Zangwill’s first recorded encounter with Kent dates to a holiday in Thanet in 1881 when he was sixteen. The future author of Children of the Ghetto ‘was wandering about the Ramsgate sands’ when he spotted a writing competition, advertised in an abandoned issue of Society magazine.
 
+
 # Places
 <param class="cards">
 
 ## Broadstairs
 
-[Broadstairs](dickens/broadstairs-19th-century)
+[Broadstairs](/dickens/broadstairs-19th-century)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/dickens/Broadstairs_c13874-68.jpg)
 
@@ -627,35 +628,68 @@ Like Ramsgate, Dover considered itself to be among the more genteel of the 19th 
 
 ## Folkestone
 
-[Folkestone](19c-folkestone)   
+[Folkestone](19c-folkestone)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/3e/Mail_carrier_holding_postcards_and_his_bag_has_images_of_the_town_of_Folkestone_%28NBY_7%29.jpg)
+
+As one 19th century wag observed, Folkestone is a near anagram of ‘Kent Fools’, a joke not lost on the unknown author (believed to be from Dover) of The Folkestone Fiery Serpent.
 
 ## Folkestone Free Library
 
-[Folkestone Free Library](19c-folkestone-free-library)  
+[Folkestone Free Library](19c-folkestone-free-library)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/4d/Canterbury_Library_main_entrance.jpg)
+
+Whilst the Libraries Act of 1850 enabled the provision of public libraries through the rates, provincial towns were unaccountably reluctant, in short -  as Mr Micawber might have put it - they were slow to act.
 
 ## Gravesend
 
-[Gravesend](19c-gravesend)   
+[Gravesend](19c-gravesend)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/72/Grand_Entrance_to_Gravesend_Cemetery_-_geograph.org.uk_-_1096043.jpg)
+
+In the nineteenth century, steamboats sailing to Gravesend transferred an influx of tourists to Rosherville Gardens, a Victorian pleasure garden built within an abandoned chalk pit owned by Jeremiah Rosher.
 
 ## Margate
 
-[Margate](19c-margate)   
+[Margate](19c-margate)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://iiif.wellcomecollection.org/image/L0017751/full/full/0/default.jpg)
+
+The ‘modesty hood’, designed to screen naked bathers as they descended the steps of their horse-powered bathing machines, was invented in Margate in 1753.
 
 ## Ramsgate
 
-[Ramsgate](19c-ramsgate) 
+[Ramsgate](19c-ramsgate)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/811dfc80-b02e-4166-a487-02892f44e4c5)
+
+‘Royal Ramsgate’, so-called because Princess Victoria had spent holidays there in 1835 and 1836, largely succeeded in distancing itself from its more louche counterpart Margate in the popular imagination.
 
 ## Rosherville
 
-[Rosherville](19c-rosherville)   
+[Rosherville](19c-rosherville)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/6/67/Rosherville_Gardens_in_Kent.jpg)
+
+Rosherville Gardens, a long-forgotten pleasure garden built in an abandoned chalk pit in Kent in 1830, was a popular tourist attraction in the nineteenth century. 
 
 ## Sandgate
 
-[Sandgate](/placesqz/sandgate-overview)    
+[Sandgate](/placesqz/sandgate-overview)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/04780929-4966-4142-b325-12a69d7ab094)
+
+Sandgate, a coastal village near the outskirts of Folkestone, has been hailed as the 'author's haven of repose' and can claim association with several well-known authors.
 
 ## Seaside Resorts
 
-[Seaside resorts](19c-seaside)  
+[Seaside resorts](19c-seaside)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/19c/Margate_from_the_Parade.jpg)
+
+As the fashionable ‘water cure’ of spas such as Bath and Tunbridge Wells moved coastwards in the late eighteenth and nineteenth centuries, so a number of obscure fishing villages reinvented themselves as seaside resorts.
+
 
 # Events
 <param class="cards">
@@ -678,6 +712,7 @@ Like Ramsgate, Dover considered itself to be among the more genteel of the 19th 
 ## Leather and Dust
 
 [Leather and Dust](/dickens/19c-leather-and-dust)   
+
 
 # Texts
 <param class="cards">
