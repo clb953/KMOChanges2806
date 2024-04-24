@@ -688,22 +688,35 @@ As the fashionable ‘water cure’ of spas such as Bath and Tunbridge Wells mov
 
 ## Contagious Diseases Acts
 
-[Contagious Diseases Acts](19c-contagious-diseases)   
+[Contagious Diseases Acts](19c-contagious-diseases)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/d7/RochesterStBarts4245.JPG)
+
+Parliament passed the Contagious Diseases Act in 1864 (amended in 1866 and 1869). The act was specifically targeted at ports and garrison towns with, unsurprisingly, Chatham qualifying as both.
 
 ## Hoodening
 
-[Hoodening](19c-hoodening)  
+[Hoodening](19c-hoodening)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/c/c0/Hooden_Horses_at_the_Clock_Tower_%28geograph_5502334%29.jpg)
+
+Traditionally, hoodening has taken place mainly around the Thanet, Deal and Canterbury areas. In 1839, a Hooden Horse in Broadstairs so frightened a lady that she collapsed and died.
 
 ## Jewish Emancipation
 
-[Jewish Emancipation](19c-jewish-emancipation)   
+[Jewish Emancipation](19c-jewish-emancipation)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/73/Rochester_Castle_engraved_by_H.Adlard_after_G.F.Sargent._c1836_edited.jpg)
 
+In 1829 the Roman Catholic Relief Act left only Jews excluded from politics by their faith and a campaign for equal rights, which was to last for decades, began.
 
 ## Leather and Dust
 
-[Leather and Dust](/dickens/19c-leather-and-dust)   
+[Leather and Dust](/dickens/19c-leather-and-dust)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f2/The_Dover_road_%28Page_85%29_BHL25262433.jpg)
+
+David Copperfield's curated walk can tell us much about the route he follows from London. Maps can show us the route, but what of the road itself?
 
 
 # Texts
@@ -711,4 +724,8 @@ As the fashionable ‘water cure’ of spas such as Bath and Tunbridge Wells mov
 
 ## Miss Balmaine's Past
 
-[Miss Balmaine's Past by Bithia Croker](19c-croker-missbalmaine)   
+[Miss Balmaine's Past by Bithia Croker](19c-croker-missbalmaine)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/The_description_of_Romney_Marsh_RMG_K1030-001.jpg/800px-The_description_of_Romney_Marsh_RMG_K1030-001.jpg)
+
+‘Horton’ a thinly veiled New Romney is the setting for Bithia Mary Croker’s 1898 novel Miss Balmaine’s Past. The novel paints a dismal portrait of Horton: “no shopping, no lending library – not even a clothing club.”
