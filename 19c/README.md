@@ -2,6 +2,7 @@
 
 Hoy and steamboats, railways and passenger ships brought people to Kent in ever increasing numbers as its tourist industry developed.
 
+
 # People
 <param class="cards">
 
@@ -328,7 +329,7 @@ Dramatist and writer, Douglas Jerrold was born on the 3rd of January 1803 and by
 
 [Dora Jordan](19c-jordan-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=(https://upload.wikimedia.org/wikipedia/commons/8/85/Jordan_by_Hoppner.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/8/85/Jordan_by_Hoppner.jpg)
 
 Mrs Dora Jordan was the foremost actress of her day and very much admired. She became the long-standing mistress of the Duke of Clarence, the future King William IV, with whom she lived for many years and had ten children. 
 
