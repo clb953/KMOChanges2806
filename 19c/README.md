@@ -613,6 +613,10 @@ One of the more surprising features of Canterbury is that, despite the cathedral
 
 [Chatham Dockyard](19c-chatham-dockyard)
 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/14/Joseph_Farington_%281747-1821%29_-_Chatham_Dockyard_-_BHC1782_-_Royal_Museums_Greenwich.jpg)
+
+The 19th century saw Chatham Dockyard rise to a pre-eminent position among naval dockyards, with its prime location and key participation in the Industrial Revolution.
+
 ## Dover
 
 [Dover](19c-dover)   
