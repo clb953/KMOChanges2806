@@ -3,9 +3,7 @@
 Hoy and steamboats, railways and passenger ships brought people to Kent in ever increasing numbers as its tourist industry developed.
 
 # Overview
--- ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/c9754956-2845-403f-b27b-2e4fb5b36184) --
 During the 19th century, Kent was connected to the metropolis through hoy and steamboats and later by the expanding railway network; it also provided convenient access to the coast of France through the regular passenger ships running from Folkestone and Dover. It attracted the attention of numerous writers across the century. [Read More](19c-kent)
-
 
 # People
 <param class="cards">
