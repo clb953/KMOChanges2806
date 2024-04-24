@@ -605,13 +605,13 @@ Despite being the favoured holiday destination of no less a figure than Charles 
 
 [Canterbury](19c-canterbury)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/dickens/Broadstairs_c13874-68.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/0f2de866-06f5-4ffa-a17b-bdf59b8003f2)
 
 One of the more surprising features of Canterbury is that, despite the cathedral being the home of the Church of England, no Archbishop of Canterbury was enthroned there until John Bird Sumner in 1848.
 
 ## Chatham Dockyard
 
-[Chatham Dockyard](19c-chatham-dockyard)  
+[Chatham Dockyard](19c-chatham-dockyard)
 
 ## Dover
 
