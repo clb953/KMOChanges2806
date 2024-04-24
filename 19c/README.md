@@ -619,7 +619,11 @@ The 19th century saw Chatham Dockyard rise to a pre-eminent position among naval
 
 ## Dover
 
-[Dover](19c-dover)   
+[Dover](19c-dover)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/27/Letitia_Landon_1837.png)
+
+Like Ramsgate, Dover considered itself to be among the more genteel of the 19th century seaside resorts but it could not avoid rackety associations altogether.
 
 ## Folkestone
 
