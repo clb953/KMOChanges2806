@@ -1,7 +1,7 @@
 `mdp-header title="19th Century Kent" background=gh:kent-map/images/banners/19c.jpg .sticky`
 
 # Overview
-Hoy and steamboats, railways and passenger ships brought people to Kent in ever increasing numbers as its tourist industry developed. During the 19th century Kent was connected to the metropolis through hoy and steamboats and later by the expanding railway network; it also provided convenient access to the coast of France through the regular passenger ships running from Folkestone and Dover. It attracted the attention of numerous writers across the century. Coleridge, Keats and Jane Austen were among the most famous of Kent’s Georgian visitors, while Dickens, Thackeray and Wilkie Collins all stayed and wrote here in the early to mid-Victorian period. At the fin de siècle George and Weedon Grossmith (authors of The Diary of a Nobody) and New Humourists such as Jerome K. Jerome had a rich comic tradition to draw on for their tales of hapless tourists who get into scrapes at the seaside. [Read More](19c-kent)
+Hoy and steamboats, railways and passenger ships brought people to Kent in ever increasing numbers as its tourist industry developed. During the 19th century Kent was connected to the metropolis through hoy and steamboats and later by the expanding railway network; it also provided convenient access to the coast of France through the regular passenger ships running from Folkestone and Dover. It attracted the attention of numerous writers across the century. [Read More](19c-kent)
 
 
 # People
