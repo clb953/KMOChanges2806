@@ -532,7 +532,7 @@ As a young Princess, Victoria enjoyed several holidays in Ramsgate, first visiti
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/ec/L._Wain%27s_kaleidoscope_cat_II.jpg)
 
-Louis Wain, illustrator of cats, lived for many years in Westgate on Sea. 
+Louis Wain, illustrator of cats, lived for many years in Westgate on Sea. He was born in Clerkenwell in London on 5 August 1860, and by his own account, had a strange childhood.
 
 ## Ann Walker (1803-1854) 
 
@@ -614,7 +614,7 @@ The 19th century saw Chatham Dockyard rise to a pre-eminent position among naval
 
 [Dover](19c-dover)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/27/Letitia_Landon_1837.png)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/dickens/Dover_Castle.jpg)
 
 Like Ramsgate, Dover considered itself to be among the more genteel of the 19th century seaside resorts but it could not avoid rackety associations altogether.
 
@@ -622,7 +622,7 @@ Like Ramsgate, Dover considered itself to be among the more genteel of the 19th 
 
 [Folkestone](19c-folkestone)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/3e/Mail_carrier_holding_postcards_and_his_bag_has_images_of_the_town_of_Folkestone_%28NBY_7%29.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/13/Lee%27s_Promenade_and_Bandstand%2C_Folkestone%2C_England-LCCN2002696748.jpg)
 
 As one 19th century wag observed, Folkestone is a near anagram of ‘Kent Fools’, a joke not lost on the unknown author (believed to be from Dover) of The Folkestone Fiery Serpent.
 
