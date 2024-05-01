@@ -11,8 +11,8 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 <param ve-entity eid="Q5516441" aliases="Gad's Hill">
 <param ve-entity eid="Q301948" aliases="Boxley">
 
-<!-- Basemap centred on Deal -->
-<param ve-map center="Q1011096" zoom="10">
+<!-- Basemap centred on Canterbury -->
+<param ve-map center="Q29303" zoom="10">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="a674cc941b6c08cf" title="1822 OS Map">
