@@ -1,9 +1,10 @@
 `mdp-header title="19th Century Kent" background=gh:kent-map/images/banners/19c.jpg .sticky`
 
+# Overview
 During the 19th century Kent was connected to the metropolis through hoy and steamboats and later by the expanding railway network; it also provided convenient access to the coast of France through the regular passenger ships running from Folkestone and Dover. It attracted the attention of numerous writers across the century ([Read More](19c-kent))
 
 
-
+#
 # People
 <param class="cards">
 
