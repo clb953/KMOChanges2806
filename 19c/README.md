@@ -12,7 +12,7 @@ During the 19th century Kent was connected to the metropolis through hoy and ste
 
 [Henry Gardiner Adams](19c-gardiner-adams-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b5/Charles_Dickens_and_Rochester_%281880%29_%2814768272425%29.jpg) 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/be26a7b9-01e8-423d-9934-50efe93590d3)
 
 Henry Gardiner Adams appears as a stationer in local directories in 1832. An ambitious, self-made man, his literary work includes The Ocean Queen, and Other Poems (1836) and the 1854 God’s Image in Ebony, an edited anthology. 
 
