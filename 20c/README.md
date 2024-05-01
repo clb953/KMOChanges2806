@@ -12,6 +12,7 @@
 
 
 # People
+<param class="cards">
 
 [H.E. Bates](20c-bates-biography)
 
@@ -22,8 +23,9 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 [Edmund Blunden](20c-blunden-biography)   
 [Elizabeth Bowen](20c-bowen-biography)   
-[Jocelyn Brooke](20c-brooke-biography)   
-<param ve-image url="https://stor.artstor.org/stor/00a0bf98-14e0-4ad0-b658-61e9d07f609f">
+[Jocelyn Brooke](20c-brooke-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/00a0bf98-14e0-4ad0-b658-61e9d07f609f)
 
 [Winston Churchill](20c-churchill-chartwell)   
 [Alfred Cohen](20c-cohen-biography)   
@@ -75,7 +77,8 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 [S.E. Winbolt](20c-winbolt-biography)   
 [Pamela Wynne](20c-wynne-biography)   
 
-### Places
+# Places
+<param class="cards">
 
 [Canterbury](/canterbury/20c-canterbury-home)   
 [Folkestone and World War One](20c-folkestone-ww1)   
@@ -83,7 +86,8 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 [Richborough: The Secret Port](20c-richborough)   
 [The Secret War Tunnels of Dover Castle](20c-secret-tunnels)   
 
-### Events
+# Events
+<param class="cards">
 
 [Belgian Refugees](20c-belgian-refugees)   
 [Doodlebugs in Kent](ww2-doodlebug)   
@@ -92,7 +96,8 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 [The Great Storm of 1987](20c-hurricane)   
 [Kent Coal Mining](20c-kent-miners)   
 
-### Texts
+# Texts
+<param class="cards">
 
 [Rupert Bear by Mary Tourtel](20c-rupert-bear)   
 [Shepherds in Sackcloth by Sheila Kaye-Smith](20c-kaye-smith-delmonden)   
