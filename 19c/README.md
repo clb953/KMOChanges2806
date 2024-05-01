@@ -1,6 +1,6 @@
 `mdp-header title="19th Century Kent" background=gh:kent-map/images/banners/19c.jpg .sticky`
 
-During the 19th century Kent was connected to the metropolis through hoy and steamboats and later by the expanding railway network; it also provided convenient access to the coast of France through the regular passenger ships running from Folkestone and Dover. It attracted the attention of numerous writers across the century. [Read More](19c-kent)
+During the 19th century Kent was connected to the metropolis through hoy and steamboats and later by the expanding railway network; it also provided convenient access to the coast of France through the regular passenger ships running from Folkestone and Dover. It attracted the attention of numerous writers across the century ([Read More](19c-kent))
 
 
 
@@ -140,7 +140,7 @@ Like her parents, Jessie contributed to the life of the church. She was a member
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b0/Falstaff_and_Mistress_Quickly_Francis_Philip_Stephanoff.jpeg)
 
-Mary Cowden Clarke (née Novello) (1809-1898), author and Shakespeare scholar, was the eldest daughter of musician Vincent Novello and Mary Hehl. Her parents were friends with the poets Charles and Mary Lamb, Leigh Hunt, Shelley and John Keats, Mary recalls watching in awe as Keats listened attentively to her father playing the organ.
+Mary Cowden Clarke (née Novello) (1809-1898), author, Shakespeare scholar and eldest daughter of musician Vincent Novello and Mary Hehl. Her parents were friends with poets Charles and Mary Lamb, Leigh Hunt, Shelley and John Keats. Mary recalls watching in awe as Keats listened attentively to her father playing the organ.
 
 ## Wilkie Collins (1824-1889)
 
@@ -156,7 +156,7 @@ Best-selling author, playwright and, according to some, the father of detective 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f117483d-65cb-464e-828a-486c8a83ac53) 
 
-Joseph Conrad, an extraordinary and significant Polish British literary figure of the late 19th and early 20th century. Despite his lack of enthusiasm for studying, Conrad retained a love of Polish Romantic literature and acquired French and the classical languages whilst in Krakow. This enabled him to engage with both his first career at sea and then his second as a writer. 
+An extraordinary and significant Polish British literary figure of the late 19th and early 20th century. Despite his lack of enthusiasm for studying, Conrad retained a love of Polish Romantic literature, and acquired French and the classical languages enabling him to engage with both his first career at sea and then his second as a writer.
 
 ## Catherine Ann Crowe (née Stevens) (1790-1872) 
 
@@ -236,7 +236,7 @@ The chartist, journalist and radical writer Thomas Frost was born in Croydon on 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/e1/A_century_of_birds_from_the_Himalaya_Mountains_%28TAB._LII%29_%289237264813%29.jpg)
 
-Elizabeth would often illustrate scientifically accurate images of novelty bird specimens that John, her husband, prepared for his customers. After two years of strenuous hard work, her lavishly crafted plates were published in “A Century of Birds from the Himalaya Mountains” (1830-1832) accompanied by N. A. Vigors’ factful scientific explanations. 
+Elizabeth illustrated scientifically accurate images of novelty bird specimens her husband, prepared for his customers. After two years of hard work, her lavishly crafted plates were published in “A Century of Birds from the Himalaya Mountains” (1830-1832) accompanied by N. A. Vigors’ factful scientific explanations.
 
 ## Sarah Grand (1854-1943)
 
