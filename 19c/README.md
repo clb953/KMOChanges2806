@@ -1,7 +1,7 @@
 `mdp-header title="19th Century Kent" background=gh:kent-map/images/banners/19c.jpg .sticky`
 
-<-- # Overview -->
 During the 19th century Kent was connected to the metropolis through hoy and steamboats and later by the expanding railway network; it also provided convenient access to the coast of France through the regular passenger ships running from Folkestone and Dover. It attracted the attention of numerous writers across the century. [Read More](19c-kent)
+
 
 
 # People
@@ -140,7 +140,7 @@ Like her parents, Jessie contributed to the life of the church. She was a member
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b0/Falstaff_and_Mistress_Quickly_Francis_Philip_Stephanoff.jpeg)
 
-Mary Cowden Clarke (née Novello) (1809-1898), author and Shakespeare scholar, was the eldest daughter of musician Vincent Novello and Mary Hehl. Her parents were friends with the poets Charles and Mary Lamb, Leigh Hunt, Shelley and John Keats, and Mary recalls watching in awe as Keats listened attentively to her father playing the organ.
+Mary Cowden Clarke (née Novello) (1809-1898), author and Shakespeare scholar, was the eldest daughter of musician Vincent Novello and Mary Hehl. Her parents were friends with the poets Charles and Mary Lamb, Leigh Hunt, Shelley and John Keats, Mary recalls watching in awe as Keats listened attentively to her father playing the organ.
 
 ## Wilkie Collins (1824-1889)
 
@@ -156,7 +156,7 @@ Best-selling author, playwright and, according to some, the father of detective 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f117483d-65cb-464e-828a-486c8a83ac53) 
 
-Joseph Conrad, an extraordinary and significant Polish British literary figure of the late nineteenth and early twentieth century. Despite his apparent lack of enthusiasm for studying, Conrad retained a love of Polish Romantic literature and acquired French and the classical languages whilst in Kracow, and this enabled him to engage with both his first career at sea and then his second as a writer. 
+Joseph Conrad, an extraordinary and significant Polish British literary figure of the late 19th and early 20th century. Despite his lack of enthusiasm for studying, Conrad retained a love of Polish Romantic literature and acquired French and the classical languages whilst in Krakow. This enabled him to engage with both his first career at sea and then his second as a writer. 
 
 ## Catherine Ann Crowe (née Stevens) (1790-1872) 
 
@@ -164,7 +164,7 @@ Joseph Conrad, an extraordinary and significant Polish British literary figure o
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/0/05/7_of_%27%28The_Night_Side_of_Nature-_or%2C_Ghosts_and_ghost_seers.%29%27_%2811152605346%29.jpg) 
 
-Crowe’s father was a wine merchant and ran a coffee house in London where his customers included Lord Byron. ‘Stevens’s Coffee House’ had a reputation for association with ‘free-traders’ (pirates or smugglers in more common parlance) and this is a theme that runs through many of Crowe’s novels, particularly in relation to Kent. 
+Crowe’s father was a wine merchant and ran a coffee house in London where his customers included Lord Byron. ‘Stevens’s Coffee House’ had a reputation for association with ‘free-traders’ (pirates or smugglers) and this is a theme that runs through many of Crowe’s novels, particularly in relation to Kent.
 
 ## Richard Dadd (1817-1886)
 
@@ -236,7 +236,7 @@ The chartist, journalist and radical writer Thomas Frost was born in Croydon on 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/e1/A_century_of_birds_from_the_Himalaya_Mountains_%28TAB._LII%29_%289237264813%29.jpg)
 
-In the early stages of their married life, Elizabeth would often illustrate scientifically accurate images of novelty bird specimens that John, her husband, prepared for his customer. After two years of strenuous hard work, her lavishly crafted plates were published in “A Century of Birds from the Himalaya Mountains” (1830-1832) accompanied by N. A. Vigors’ factful scientific explanations. 
+Elizabeth would often illustrate scientifically accurate images of novelty bird specimens that John, her husband, prepared for his customers. After two years of strenuous hard work, her lavishly crafted plates were published in “A Century of Birds from the Himalaya Mountains” (1830-1832) accompanied by N. A. Vigors’ factful scientific explanations. 
 
 ## Sarah Grand (1854-1943)
 
@@ -244,7 +244,7 @@ In the early stages of their married life, Elizabeth would often illustrate scie
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/SG%20passport.jpeg) 
 
-Sarah Grand (Frances Elizabeth Bellenden Clarke), feminist campaigner and proponent of sex education for girls, lived in Tunbridge Wells from 1898-1920. Here she became President of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies and was involved with the Women’s Volunteer Reserve Force during WW1. 
+Sarah Grand (Frances Elizabeth Bellenden Clarke), feminist campaigner and proponent of sex education for girls, became President of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies and was involved with the Women’s Volunteer Reserve Force during WW1.
 
 ## George Grossmith (1847-1912) 
 
@@ -268,7 +268,7 @@ George Alfred Henty who wrote as G A Henty was a Crimean War correspondent as we
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/37/Georgina-hogarth-mamie-dickens.jpg)
 
-In 1876, six years after Dickens’s death, Ellen Ternan married George Wharton Robinson, a clergyman. After touring the south coast looking for suitable premises, the Robinsons decide to invest their money into Margate High School. It was there, in Wharton House, that Georgina Hogarth, sometimes accompanied by Dickens’s eldest daughter, Mamie, came to stay.
+In 1876, six years after Dickens’s death, Ellen Ternan married George Wharton Robinson, a clergyman. The Robinsons decide to invest their money into Margate High School. It was there, in Wharton House, that Georgina Hogarth, sometimes accompanied by Dickens’s eldest daughter, Mamie, came to stay.
 
 ## Hugh Price Hughes (1847 – 1902) 
 
@@ -292,7 +292,7 @@ Writer, mycologist and botanical illustrator Anna Maria Hussey, née Reed was bo
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/0/04/Cox-Jnr-98093_-_Hever_Castle_from_the_Moat_-_circa_1850.jpg)
 
-The opportunity came in the form of a storyline idea that first occurred to James at the end of 1892 as a challenge to the stereotyping of American incomers as unable to understand English heritage except in terms of plunder and profit. He would make an American rather than an English character into a paradoxical embodiment of the values “of attachment to the past, of romance, of history, continuity and conservatism”. 
+At the end of 1892 as a challenge to the stereotyping of American incomers as unable to understand English heritage except in terms of plunder and profit, James made an American rather than an English character into a paradoxical embodiment of the values “of attachment to the past, of romance, of history, continuity and conservatism”.
 
 ## Edith Katherine Spicer Jay (1847-1901)
 
@@ -316,7 +316,7 @@ Watching Folkestone from a steamer in the summer of 1891, the writer Robert Barr
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/c/cd/Edmund_Kean_in_the_Character_of_Macbeth_1814_George_Henry_Harlow.jpg)
 
-Dramatist and writer, Douglas Jerrold was born on the 3rd of January 1803 and by 1813, profits in the theatre were down, so Jerrold aged 10 left school and went to sea, serving on the gunship Namur. His captain was Jane Austen’s brother. His later work as a printer, and then compositor, exposed him to the world of literature. He began writing plays and periodical articles.
+Dramatist and writer. By 1813, profits in the theatre were down, so Jerrold aged 10 left school and went to sea, serving on the gunship Namur. His captain was Jane Austen’s brother. His later work as a printer, and then compositor, exposed him to the world of literature and he began writing plays and periodical articles.
 
 ## Dora Jordan (1761-1816)
 
@@ -404,7 +404,7 @@ he Mechanics Institute in Chatham was established in the early 1850s, and furnis
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/8/86/Londres%2C_Edimburgo%2C_Dubl%C3%ADn%2C_1886_107393_%284100573256%29.jpg) 
 
-Reynolds’s novel Mary Price (1851–53) is a tale of two cities which takes its heroine once to Paris and more than once to London; but, just as Reynolds resets the novel’s timeframe to the years between 1826 (when the heroine is eleven) and 1835 (when she is a new bride), so he shifts its geographical centre of gravity to the area between Ashford and Deal. 
+Reynolds’s novel Mary Price (1851–53) is a tale of two cities which takes its heroine to Paris and London. As Reynolds resets the novel’s timeframe to the years between 1826 (when the heroine is eleven) and 1835 (when she is a new bride), so he shifts its geographical centre to the area between Ashford and Deal.
 
 ## Dante Gabriel Rossetti (1828-1882) and Christina Rossetti (1830-1894)
 
@@ -476,7 +476,7 @@ Stannard (née Palmer) John Strange Winter [pseud.], was a popular novelist who 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2d/Marie_Stopes_in_her_laboratory%2C_1904.jpg) 
 
-Charlotte Carmichael was born in Edinburgh and attended Mr Oliphant’s mixed school. Frustrated by the exclusion of women from universities, she joined the Ladies' Edinburgh Debating Society in 1866 and submitted poems and articles. When university classes were offered to women in 1874, Charlotte began to attend lectures and became the first woman to gain a Certificate in Arts from the University of Edinburgh. 
+Frustrated by the exclusion of women from universities, Charlotte Carmichael joined the Ladies' Edinburgh Debating Society in 1866 and submitted poems and articles. When university classes were offered to women in 1874, Charlotte began to attend lectures and became the first woman to gain a Certificate in Arts from the University of Edinburgh.
 
 ## Francis Storr the Elder (1808-1888) and Younger (1839-1919) 
 
