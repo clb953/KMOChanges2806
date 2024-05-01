@@ -3,7 +3,7 @@
 <param ve-config title="Henry Gardiner Adams (1812-1881)" author="Professor Carolyn Oulton" layout="vtl" 
 banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Professor Carolyn Oulton explores the life and work of Deal (Kent) born poet Henry Gardiner Adams.">
 
-<-- Global Entities -->
+<!-- Global Entities -->
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q729006" aliases="Chatham">
 <param ve-entity eid="Q1011096" aliases="Deal">
