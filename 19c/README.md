@@ -1,7 +1,7 @@
 `mdp-header title="19th Century Kent" background=gh:kent-map/images/banners/19c.jpg .sticky`
 
-# Overview
-During the 19th century Kent was connected to the metropolis through hoy and steamboats and later by the expanding railway network; it also provided convenient access to the coast of France through the regular passenger ships running from Folkestone and Dover. It attracted the attention of numerous writers across the century. [Read Full Essay](19c-kent)
+<-- # Overview -->
+During the 19th century Kent was connected to the metropolis through hoy and steamboats and later by the expanding railway network; it also provided convenient access to the coast of France through the regular passenger ships running from Folkestone and Dover. It attracted the attention of numerous writers across the century. [Read More](19c-kent)
 
 
 # People
@@ -232,7 +232,7 @@ The chartist, journalist and radical writer Thomas Frost was born in Croydon on 
 
 ## Elizabeth Gould (1804-1841)
 
-[ELizabeth Gould](19c-gould-biography)
+[Elizabeth Gould](19c-gould-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/e1/A_century_of_birds_from_the_Himalaya_Mountains_%28TAB._LII%29_%289237264813%29.jpg)
 
@@ -400,7 +400,7 @@ he Mechanics Institute in Chatham was established in the early 1850s, and furnis
 
 ## G. W. M. Reynolds (1814 – 1879) 
 
-[G.W.M. Reynold](19c-reynoldsgwm-biography)
+[G.W.M. Reynolds](19c-reynoldsgwm-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/8/86/Londres%2C_Edimburgo%2C_Dubl%C3%ADn%2C_1886_107393_%284100573256%29.jpg) 
 
@@ -496,7 +496,7 @@ Writer and playwright Netta [Janet] Syrett was born at 23, Harbour Street, Ramsg
 
 ## Archibald Campbell Tait (1811 –1882)
 
-[Arhcibald Campbell Tait](19c-tait-biography)
+[Archibald Campbell Tait](19c-tait-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2c/Archibald_Campbell_Tait_%28H_Hering_NPG_Ax30380%29.jpg) 
 
