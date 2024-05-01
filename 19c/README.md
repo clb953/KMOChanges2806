@@ -699,7 +699,7 @@ Parliament passed the Contagious Diseases Act in 1864 (amended in 1866 and 1869)
 
 [Hoodening](19c-hoodening)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/clb953/KMOfullcopy1104/main/19c/images/Hoodeners.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/clb953/KMOfullcopy3004images/main/19c/images/Hoodeners.jpg)
 
 Traditionally, hoodening has taken place mainly around the Thanet, Deal and Canterbury areas. In 1839, a Hooden Horse in Broadstairs so frightened a lady that she collapsed and died.
 
