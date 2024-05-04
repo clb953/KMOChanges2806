@@ -20,7 +20,7 @@ Sarah Grand (Frances Elizabeth Bellenden Clarke), feminist campaigner and propon
 <!--Basemap centred on Tunbridge Wells-->
 <param ve-map center="Q894097" zoom="12">
 
-Sarah Grand (Frances Clarke) was born in County Down, Ireland in 1854. Like other intelligent women of her generation, she was denied an education comparable to her brothers’, a theme that influences her depiction of variously ignorant and self-taught female characters in her major fiction. She made a disastrous early marriage in 1871 to a much older man, surgeon David Chambers McFall. Somewhat fatefully, their first home was in Sandgate: there was a lock hospital in nearby Shorncliffe, where the [Contagious Diseases Act](/19c/19c-contagious-diseases) had come into force in 1868.
+Sarah Grand (Frances Clarke) was born in County Down, Ireland in 1854. Like other intelligent women of her generation, she was denied an education comparable to her brothers, a theme that influences her depiction of variously ignorant and self-taught female characters in her major fiction. She made a disastrous early marriage in 1871 to a much older man, surgeon David Chambers McFall. Somewhat fatefully, their first home was in Sandgate: there was a lock hospital in nearby Shorncliffe, where the [Contagious Diseases Act](/19c/19c-contagious-diseases) had come into force in 1868.
 <param ve-image url="https://raw.githubusercontent.com/kent-map/kent/main/19c/images/SG%20passport.jpeg" label="Sarah Grand's passport" attribution="Sarah Grand's passport © International Centre for Victorian Women Writers">
 <!--Basemap centred on Sandgate-->
 <param ve-map center="Q1000312" zoom="13">
@@ -30,7 +30,7 @@ By 1888 the marriage had broken down, the catalyst for Grand's move to London an
 <!--Basemap centred on Ramsgate-->
 <param ve-map center="Q736439" zoom="13">
 
-But like Beth McClure, Sarah Grand later transferred her energies from writing to campaigning – her Boots ‘Books I Would Like to Read’ list includes precisely three entries. In 1898 she moved to Tunbridge Wells, (historically one of the more successful spa towns before it was displaced by the rise of the [seaside](/19c/19c-seaside) resorts) where she became President of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies. 
+But like Beth McClure, Sarah Grand later transferred her energies from writing to campaigning – her ‘Books I Would Like to Read’ list includes precisely three entries. In 1898 she moved to Tunbridge Wells, (historically one of the more successful spa towns before it was displaced by the rise of the [seaside](/19c/19c-seaside) resorts) where she became President of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies. 
 <param ve-image url="https://stor.artstor.org/stor/ce0b8389-e980-4597-8f6c-630eaba57b53" label="Taking the Waters - the original spring. The Pantiles, Tunbridge Wells" attribution="H.G. Groves, Tunbridge Wells">
 <!--Basemap centred on Tunbridge Wells-->
 <param ve-map center="Q894097" zoom="15">
