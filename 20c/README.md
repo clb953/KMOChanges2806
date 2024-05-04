@@ -433,8 +433,6 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
  
 Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent. 
- 
-![image](https://github.com/clb953/KMOfullcopy1104/assets/25346036/1ef324c3-aab5-4f99-8ae3-a922d7e0d894)   
 
 
 # Events
