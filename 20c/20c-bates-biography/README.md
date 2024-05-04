@@ -5,7 +5,7 @@
 
 #
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1858 novel _Darling Buds of May_, which centred around the Larkin family and their adventures in rural Kent. The book and its sequels were later turned into a popular television series, starring David Jason and Catherine Zeta-Jones. 
+Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel _Darling Buds of May_, which centred around the Larkin family and their adventures in rural Kent. The book and its sequels were later turned into a popular television series, starring David Jason and Catherine Zeta-Jones. 
 <br><br>
 Bates had moved to The Granary, Little Chart near Pluckley with his wife Madge in 1931 and remained here for the rest of his life.[^ref1] He wrote of his adopted county: 
 <br><br>
