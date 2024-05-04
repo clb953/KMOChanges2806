@@ -20,7 +20,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 
 #
 
-‘Feversham Creek, the marshes between Reculver and Westgate, the gaps between [Margate](/19c/19c-margate) and Kingsgate, and the “guts” of Romney Marsh were the landing-places most in use by the smugglers on the coast of Kent. The numerous green lanes and bridle-paths through the extensive woods stretching from Feversham to [Canterbury](/19c/19c-canterbury), and thence to the coast, the marshes bordering the Swale, and the broader tracts extending west and south from Shorncliff to the borders of Sussex, afforded ample facilities for unobserved inland conveyance.’ 18 _Reminiscences of a country journalist_. 1886.
+‘Feversham Creek, the marshes between Reculver and Westgate, the gaps between [Margate](/19c/19c-margate) and Kingsgate, and the “guts” of Romney Marsh were the landing-places most in use by the smugglers on the coast of Kent. The numerous green lanes and bridle-paths through the extensive woods stretching from Feversham to [Canterbury](/19c/19c-canterbury), and thence to the coast, the marshes bordering the Swale, and the broader tracts extending west and south from Shorncliff to the borders of Sussex, afforded ample facilities for unobserved inland conveyance.’ _Reminiscences of a Country Journalist_. 1886.
 <br><br>
 The chartist and journalist Thomas Frost was born in Croydon on 16 December 1821. His father (a tailor by profession) was involved with the Reform Bill agitation, meaning that while Thomas himself left his Norwood school at the age of 11, ‘the tools of literacy and the imagination were part of the fabric of his everyday life.’  Ancestors on his mother’s side, many of whom were buried in Beckhenam Churchyard, had ‘engaged in the forwarding branch of the contraband trade in Surrey and Kent’.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ac/Faversham_Creek_-_geograph.org.uk_-_2251391.jpg" label="Faversham Creek" attribution="by pam fray  via Wikimedia Commons" license="CC BY-SA 2.0">
@@ -37,7 +37,7 @@ But when Frost and two friends decided that what they needed was a week’s holi
 <!-- Base map centred on Bramling -->
 <param ve-map center=" Q3019704" zoom="8">
 
-It was probably during the Christmas of 1879 that Frost decided on a stay in Southborough, near Tunbridge Wells. He was sufficiently impressed  by ‘this pleasant and healthful place, which many visitors prefer to the larger and gayer town in its vicinity’ to call its surroundings ‘more picturesque than those of any other in which I have resided.’  He went on – of course - to write a guide book focused on Tunbridge Wells in 1881. 
+It was probably during the Christmas of 1879 that Frost decided on a stay in Southborough, near Tunbridge Wells. He was sufficiently impressed  by ‘this pleasant and healthful place, which many visitors prefer to the larger and gayer town in its vicinity’ to call its surroundings ‘more picturesque than those of any other in which I have resided.’  He went on - of course - to write a guide book focused on Tunbridge Wells in 1881. 
 <br><br>
 In later years he was short of money, applying to the Royal Literary Fund no fewer than thirteen times after 1887.  Frost died at his home in Derbyshire on 16 July 1908.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6f/Stewart_Cottage%2C_Southborough_Common_-_geograph.org.uk_-_1833495.jpg" label="Stewart Cottage, Southborough Common" attribution="N Chadwick via Wikimedia Commons" license="CC BY-SA 2.0"> 
