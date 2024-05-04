@@ -47,6 +47,29 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 [Paul Nash](20c-nash-biography)   
 [S.C. Nethersole](20c-nethersole-biography)  
 
+[Daphne Oram](20c-oram-biography)   
+[Baroness Orczy](20c-orczy-biography)   
+[Wilfred Owen](20c-owen-biography)   
+[Marian Fielding Peck](20c-peck-biography)     
+[Mary L. Pendered](20c-pendered-biography)   
+[William Pett Ridge](20c-pett-ridge-biography)   
+[Bertha Porter](20c-porter-biography)   
+[Diana & Tony Powell-Cotton](20c-powell-cotton)   
+
+[J.G. Sarasin](20c-salmon-biography)   
+[Christopher St John](20c-st-john-biography)  
+[Vita Sackville-West](20c-sackville-west-biography)    
+[Siegfried Sassoon](20c-sassoon-biography)   
+[Julian Symons](20c-symons-biography)   
+
+[Ellen Terry](20c-terry-biography)  
+[Mary Tourtel](20c-tourtel-biography)   
+[Elizabeth Von Arnim](20c-vonarnim-biography)   
+[Gladys Waterer](20c-waterer-biography)   
+[H.G. Wells](20c-wellshg-biography)   
+[S.E. Winbolt](20c-winbolt-biography)   
+[Pamela Wynne](20c-wynne-biography)   
+
 
 
 # Places
