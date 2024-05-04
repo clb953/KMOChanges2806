@@ -1,4 +1,4 @@
- mdp-header title="20th Century Kent" background=gh:https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c.sticky
+ mdp-header title="20th Century Kent" background=gh:kent-map/images/banners/19c.jpg .sticky
 
 # Overview
 
