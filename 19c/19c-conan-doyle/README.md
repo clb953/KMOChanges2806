@@ -39,7 +39,8 @@ Also minimising travel, the eponymous figure in ‘The Greek Interpreter’ (189
 
 The investigation in ‘The Golden Pince-Nez’ (1894) involves a journey to <span data-mouseover-image-zoomto="3959,704,2910,2132">Chatham</span> station, although the marshes seen from the window are suggestive of Gravesend and Yoxley Old Place is likely to be somewhere near <span data-mouseover-image-zoomto="4382,1029,1455,1067">Higham</span>. 
 <br><br>
-The last Holmes novel, _The Valley of Fear_, was published in 1915 but set around 1888. While Holmes insists that he is just over the Sussex border rather than in Kent, he spends a notable amount of time in <span data-mouseover-image-zoomto="3301,4389,1455,1067">Tunbridge Wells</span>. 
+The last Holmes novel, _The Valley of Fear_, was published in 1915 but set around 1888. While Holmes insists that he is just over the Sussex border rather than in Kent, he spends a notable amount of time in 
+<span data-mouseover-image-zoomto="3301,4389,1455,1067">Tunbridge Wells</span>. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6a/Parkstone_Down_empty_stock_between_Branksome_and_Parkstone_geograph-2680927-by-Ben-Brooksbank.jpg" label="Late 19th Century Passenger Steam Engine" attribution="Ben Brooksbank, CC BY-SA 2.0, via Wikimedia Commons">
 <!-- Basemap centred on Tunbridge Wells -->
 <param ve-map center="Q665489" zoom="10">
