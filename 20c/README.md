@@ -8,13 +8,30 @@ CHANGE THIS -----  During the 19th century Kent was connected to the metropolis 
 # People
 <param class="cards">
 
+## Henry Gardiner Adams (1812-1881)
+
+[Henry Gardiner Adams](19c-gardiner-adams-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/be26a7b9-01e8-423d-9934-50efe93590d3)
+
+Henry Gardiner Adams appears as a stationer in local directories in 1832. An ambitious, self-made man, his literary work includes The Ocean Queen, and Other Poems (1836) and the 1854 God’s Image in Ebony, an edited anthology. 
+
+## H.E. Bates
+
 [H.E. Bates](20c-bates-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
 
 Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent. 
 
-[Edmund Blunden](20c-blunden-biography)   
+## Edmund Blunden
+
+[Edmund Blunden](20c-blunden-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+
+Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+
 [Elizabeth Bowen](20c-bowen-biography)   
 [Jocelyn Brooke](20c-brooke-biography)
 
