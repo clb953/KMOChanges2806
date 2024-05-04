@@ -389,32 +389,130 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
 
 Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
-![image](https://github.com/clb953/KMOfullcopy1104/assets/25346036/03e020bf-2420-411c-8c3a-9026a9acdd48)
 
 
 # Places
 <param class="cards">
 
-[Canterbury](/canterbury/20c-canterbury-home)   
+## Canterbury
+
+[Canterbury](/canterbury/20c-canterbury-home)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+
+Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+
+## Folkestone and World War One
+ 
 [Folkestone and World War One](20c-folkestone-ww1)   
+ 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+ 
+Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent. 
+ 
+## Gravesend
+ 
 [Gravesend](/placesej/gravesend-overview)   
+ 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+ 
+Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent. 
+ 
+
+## Richborough: The Secret Port
+ 
 [Richborough: The Secret Port](20c-richborough)   
+ 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+ 
+Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent. 
+
+## The Secret War Tunnels of Dover Castle
+ 
 [The Secret War Tunnels of Dover Castle](20c-secret-tunnels)   
+ 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+ 
+Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent. 
+ 
+![image](https://github.com/clb953/KMOfullcopy1104/assets/25346036/1ef324c3-aab5-4f99-8ae3-a922d7e0d894)   
 
 
 # Events
 <param class="cards">
 
+## Belgian Refugees
+ 
 [Belgian Refugees](20c-belgian-refugees)   
+ 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+ 
+Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent. 
+
+## Doodlebugs in Kent
+ 
 [Doodlebugs in Kent](ww2-doodlebug)   
+ 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+ 
+Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+
+## Ellen Terry's funeral
+ 
 [Ellen Terry's funeral](20c-terry-funeral)  
+ 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+ 
+Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent. 
+
+## Hop Picking and the Literary Imagination
+ 
 [Hop Picking and the Literary Imagination](20c-hop-picking)   
+ 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+ 
+Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent. 
+
+## The Great Storm of 1987
+ 
 [The Great Storm of 1987](20c-hurricane)   
+ 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+ 
+Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent. 
+  
+## Kent Coal Mining
+ 
 [Kent Coal Mining](20c-kent-miners)   
+ 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+ 
+Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent. 
+
 
 # Texts
 <param class="cards">
 
+## Rupert Bear by Mary Tourtel
+ 
 [Rupert Bear by Mary Tourtel](20c-rupert-bear)   
+ 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+ 
+Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent. 
+
+## Shepherds in Sackcloth by Sheila Kaye-Smith
+ 
 [Shepherds in Sackcloth by Sheila Kaye-Smith](20c-kaye-smith-delmonden)   
+ 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+ 
+Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent. 
+
+## Double Double by John Brunner
+ 
 [Double Double by John Brunner](20c-double-double)   
+ 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+ 
+Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent. 
