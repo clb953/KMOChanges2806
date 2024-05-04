@@ -1,20 +1,12 @@
 `mdp-header title="20th Century Kent" background=gh:kent-map/images/banners/20c.jpg .sticky`
 
 # Overview
-CHANGE THIS -----  During the 19th century Kent was connected to the metropolis through hoy and steamboats and later by the expanding railway network; it also provided convenient access to the coast of France through the regular passenger ships running from Folkestone and Dover. It attracted the attention of numerous writers across the century ([Read More](19c-kent))
+Dover and Folkestone become the gateway to the Western Front during WW1. Seaside towns decline, challenged by the increasing popularity of overseas holidays.
 
 
 #
 # People
 <param class="cards">
-
-## Henry Gardiner Adams (1812-1881)
-
-[Henry Gardiner Adams](19c-gardiner-adams-biography)
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/be26a7b9-01e8-423d-9934-50efe93590d3)
-
-Henry Gardiner Adams appears as a stationer in local directories in 1832. An ambitious, self-made man, his literary work includes The Ocean Queen, and Other Poems (1836) and the 1854 God’s Image in Ebony, an edited anthology. 
 
 ## H.E. Bates
 
@@ -32,7 +24,14 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
 
-[Elizabeth Bowen](20c-bowen-biography)   
+## Elizabeth Bowen
+
+[Elizabeth Bowen](20c-bowen-biography)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+
+Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+
 [Jocelyn Brooke](20c-brooke-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/00a0bf98-14e0-4ad0-b658-61e9d07f609f)
