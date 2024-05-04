@@ -25,6 +25,29 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 [Noel Coward](20c-coward-biography)   
 [Edith Craig](20c-craig-biography)   
 
+[T.S. Eliot](20c-eliot-biography)   
+[U.A. Fanthorpe](20c-fanthorpe-biography)   
+[John Ferguson](20c-ferguson-biography)   
+[Ian Fleming](20c-fleming-biography)   
+[Ford Madox Ford](20c-fordmadoxford-biography)   
+[E.M. Forster](20c-forster-em-biography)   
+[R. Austin Freeman](20c-freeman-biography)   
+
+[Cicely Hamilton](20c-hamilton-biography)   
+[Victoria Holt](20c-holt-biography)   
+[M.R. James](20c-jamesmr-biography)   
+[Walter James, the fourth Lord Northbourne](20c-northbourne-biography)   
+[Derek Jarman](20c-jarman-biography)   
+[Amy Johnson](20c-johnson-biography)   
+
+[Mary Kelly](20c-kelly-biography)   
+[D.H. Lawrence](20c-lawrence-biography)   
+[Somerset Maugham](20c-maugham-biography)  
+[Donald Maxwell](20c-maxwelld-biography)   
+[Paul Nash](20c-nash-biography)   
+[S.C. Nethersole](20c-nethersole-biography)  
+
+
 
 # Places
 <param class="cards">
