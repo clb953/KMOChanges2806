@@ -94,3 +94,6 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 # Texts
 <param class="cards">
 
+[Rupert Bear by Mary Tourtel](20c-rupert-bear)   
+[Shepherds in Sackcloth by Sheila Kaye-Smith](20c-kaye-smith-delmonden)   
+[Double Double by John Brunner](20c-double-double)   
