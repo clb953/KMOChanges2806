@@ -40,7 +40,7 @@ Did Ellen stay in Rochester? Did her uncle take charge of her, perhaps for a len
 <!--Basemap centred on Rochester -->
 <param ve-map center="Q507517" zoom="12">
 
-Ellen, Ellen as a resident of Rochester, adds a whole other layer of links and memories, opens up a new set of possible interpretations for the novels [Dickens](/dickens/dickens-biography) wrote during their relationship: _[Great Expectations](/dickens/great-expectations-curated-walk)_, _Our Mutual Friend_, and _[The Mystery of Edwin Drood_](/dickens/edwin-drood-curated-walk)_, the first and last of which are both set partly in Rochester, or somewhere that looks an awful lot like it. 
+Ellen, Ellen as a resident of Rochester, adds a whole other layer of links and memories, opens up a new set of possible interpretations for the novels [Dickens](/dickens/dickens-biography) wrote during their relationship: _[Great Expectations](/dickens/great-expectations-curated-walk)_, _Our Mutual Friend_, and _[The Mystery of Edwin Drood_](/dickens/edwin-drood-curated-walk),_ the first and last of which are both set partly in Rochester, or somewhere that looks an awful lot like it. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Mystery_of_edwin_drood_0011.jpg" label="Mystery of Edwin Drood" attribution="Luke Fides, Public domain, via Wikimedia Commons">
 <!--Basemap centred on Rochester -->
 <param ve-map center="Q507517" zoom="12">
