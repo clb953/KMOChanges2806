@@ -33,7 +33,7 @@ Thackeray married Isabella Shawe in 1836. Their first child Anne (Annie) was bor
 
 In the summer of 1840 Thackeray and his young family spent three weeks at 1 Bridge Terrace in [Margate](/19c/19c-margate),[^ref4]  where he wrote _A Shabby Genteel Story_, about a libertine who tricks a naïve young woman into a false marriage. The teasing narrative voice plays on readers’ desire for gossip:
 <br><br>
-'Up to this point, I say, I have had a right to accompany the fat lady and Miss Runt; but whether, on arriving at Mr Fincham’s, they turned to the left, in the direction of the Royal Hotel, or to the right, by the beach, the bathing-machines, and queer rickety old row of houses, called Buenos Ayres, no power on earth shall induce me to say; suffice it, they went to Mrs Gann’s. why should we set all the world gadding to a particular street, to know where that lady lives?'[^ref5]  
+'Up to this point, I say, I have had a right to accompany the fat lady and Miss Runt; but whether, on arriving at Mr Fincham’s, they turned to the left, in the direction of the Royal Hotel, or to the right, by the beach, the bathing-machines, and queer rickety old row of houses, called Buenos Ayres, no power on earth shall induce me to say; suffice it, they went to Mrs Gann’s. Why should we set all the world gadding to a particular street, to know where that lady lives?'[^ref5]  
 <param ve-image url="https://stor.artstor.org/stor/0515f138-ee47-4cc9-906b-51cd54fad21c" label="The Picturesque Beauties of Great Britain: Kent. Margate: the Pier and New Lighthouse" attribution="George Virtue. Photo by Astrid Stilma. By permission of Patrick Marrin.">
 <!-- Basemap centred on Margate -->
 <param ve-map center="Q618045" zoom="15">
