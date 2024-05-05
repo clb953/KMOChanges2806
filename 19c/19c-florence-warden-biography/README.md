@@ -7,9 +7,9 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 #
 
-'Beachythe!'   he repeated, 'Beachythe! I hope I am not betraying a very shocking ignorance of English geography, but I’m afraid I can’t remember for the moment, ever having heard the name before.'
+'Beachythe!' he repeated, 'Beachythe! I hope I am not betraying a very shocking ignorance of English geography, but I’m afraid I can’t remember for the moment, ever having heard the name before.'
 <br>
-'It’s a place on the South Coast,'_ said Clive rather shortly. 'Not very far from Dover.'
+'It’s a place on the South Coast,' said Clive rather shortly. 'Not very far from Dover.'
 <br>
 _Kitty’s Engagement_, 1895.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4b/Hythe_seafront_-_geograph.org.uk_-_1960795.jpg" label="Hythe seafront" attribution="E Gammie, CC BY-SA 2.0, via Wikimedia Commons">
