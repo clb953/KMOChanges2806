@@ -545,7 +545,7 @@ On 12 June 18341, Ann Walker and Anne Lister arrived in Canterbury late at night
 
 ## Sir Hugh Seymour Walpole (1884 - 1941) 
 
-[Sir Hugh Seymour Walpole](19c-walpole-biography) 
+[Sir Hugh Seymour Walpole](19c-walpole-biography)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/3a/Picture_of_Hugh_Walpole.jpg) 
 
