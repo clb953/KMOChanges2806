@@ -24,13 +24,13 @@ Together father and son wrote anthologies of poetry.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/58/All_Saints%2C_Brenchley%2C_Kent_-_geograph.org.uk_-_323900.jpg" label="All Saints, Brenchley, Kent"  attribution="John Salmon">
 <param ve-map center="Q2197855" zoom="15">
 
-_Minnows from Brenchley Brook_, published in 1861,  includes a poem on ‘The Death of Horsa’ , which tells the story of the Battle of Aylesford, in 455CE, when Saxon invaders, led by brothers [Hengest and Horsa](/medieval/hengestandhorsa), defeated ‘Great Vortigen’ on “Aylesford’s open plain’ and “Horsa’s death that bloody day, / A noble victory bought’.[^ref1]  The nod to Kent’s early history is, however, just one of the charms of this eclectic and enthusiastic miscellany of writings, compiled for the entertainment of its writers and their readers. The tantalising use of authorial initials, rather than names, presents another riddle besides those printed in its pages.
+_Minnows from Brenchley Brook_, published in 1861,  includes a poem on ‘The Death of Horsa’, which tells the story of the Battle of Aylesford, in 455CE, when Saxon invaders, led by brothers [Hengest and Horsa](/medieval/hengestandhorsa), defeated ‘Great Vortigen’ on “Aylesford’s open plain’ and “Horsa’s death that bloody day, / A noble victory bought’.[^ref1]  The nod to Kent’s early history is, however, just one of the charms of this eclectic and enthusiastic miscellany of writings, compiled for the entertainment of its writers and their readers. The tantalising use of authorial initials, rather than names, presents another riddle besides those printed in its pages.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d3/Aylesford%2C_Kent_11.jpg" label="Aylesford, Kent" attribution="Simon Burchell, CC BY-SA 4.0, via Wikimedia Commons">
-<param ve-map center="Q793057"zoom="15">
+<param ve-map center="Q793057" zoom="15">
 
 The anthology begins with a poem addressed from ‘F.S., Jun.’ to ‘Mr. Editor’, asking him to ‘Please … excuse / For this number at least my appearance’ because the writer is suffering the after-effects of a ‘soirée’ attended the previous evening with ‘the élite / [o]f Brenchley’, at which ‘Youth, Harmony, Fashion, and Beauty’ prevailed, and the recollection of which might ‘make our fair hostess to blush’. 
 <br><br>
-‘F.S.’, or Francis Storr senior, provides the next poem. Entitled ‘Address’, it is a salutary tale of a moth burnt by flying too close to a flame; a warning to ‘the youthful authors … / Intent on fame and glory’ to heed ‘[t]heir sober mentor sage’ lest, like the moth:   
+‘F.S.’, or Francis Storr senior, provides the next poem. Entitled ‘Address’, it is a salutary tale of a moth burnt by flying too close to a flame; a warning to ‘the youthful authors - / Intent on fame and glory’ to heed ‘[t]heir sober mentor sage’ lest, like the moth:   
 <br>
 _‘Your muse in manuscript may bask   
 On desk in album lying;   
@@ -40,7 +40,7 @@ Be found the flames supplying.’_ (p3)
 ’Conundrums’, on page 24, asserts that its answers will be ‘in our next’, but it seems that no ‘next’ was ever produced. This indicates again a project pursued purely for amusement - like the sports ‘on the field in front of the Vicarage’, which ‘presented a very gay scene’ and provided ‘a great deal of harmless fun.’  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7d/The_Old_Vicarage%2C_Brenchley_-_geograph.org.uk_-_1467749.jpg" label="The Old Vicarage, Brenchley" attribution="Nigel Chadwick, CC BY-SA 2.0, via Wikimedia Commons">
 
-‘A Lay of Modern Brenchley’, on pages 8-11, recounts the ‘battle’ of two football teams, one drawn from local men and one from incomers to the village. The latter team is led by no other than ‘Mr. Bigsby” - editor of the anthology - and his team includes: “Thomson, of the Borders’; “Francis Parker - / Now Taffy called was he’ (so, presumably, of Welsh descent); ‘Jerry Leycester - / Of Chester’; ‘Freddy Cross of Suffolk’; and ‘Rose of Buckingham’. In a game where handling the ball was complete-ly acceptable, the village team, under the leadership of ‘William Hayne of Brenchley’ and therefore known as ‘the Haynites’, is defeated but, as the ‘Lay’ concludes:   
+‘A Lay of Modern Brenchley’, on pages 8-11, recounts the ‘battle’ of two football teams, one drawn from local men and one from incomers to the village. The latter team is led by no other than ‘Mr. Bigsby” - editor of the anthology - and his team includes: “Thomson, of the Borders’; “Francis Parker - / Now Taffy called was he’ (so, presumably, of Welsh descent); ‘Jerry Leycester - / Of Chester’; ‘Freddy Cross of Suffolk’; and ‘Rose of Buckingham’. In a game where handling the ball was completely acceptable, the village team, under the leadership of ‘William Hayne of Brenchley’ and therefore known as ‘the Haynites’, is defeated but, as the ‘Lay’ concludes:   
 <br>
 … _oft as by the fire we sit   
 In days of wet and rain,   
