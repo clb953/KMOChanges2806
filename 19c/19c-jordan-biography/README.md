@@ -24,8 +24,8 @@ Mrs Dora Jordan was the foremost actress of her day and very much admired. She b
 <!-- Base map centred on Canterbury -->
 <param ve-map center=" Q29303" zoom="10">
 
-On the Kent coast, the proprietors of the Theatre Royal [Margate,](/19c/19c-margate) Messrs Grubb, Shaw and Wells, keen to attract celebrated performers from the London theatres, engaged Mrs Jordan for six nights in August 1797 for £300, raising ticket prices to defray this “extraordinary expense.”[^ref3] It was indeed an extraordinary amount; Dora had earned £4 a week for her first London performance twelve years earlier. She opened on Wednesday 30th August with her celebrated performance of Peggy, which had been described as “so powerful – every girlish trick so minutely and naturally delineated, that we pronounce the performance to be HER _chef d’oeuvre,_ and assuredly the boast of modern acting.”[^ref4]    
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3b/Theatre_Royal%2C_Margate-geograph.org.uk-2281466.jpg" label="Theatre Royal, Margate" attribution="David Anstiss/ Theatre Royal, Margate">
+On the Kent coast, the proprietors of the Theatre Royal [Margate,](/19c/19c-margate) Messrs Grubb, Shaw and Wells, keen to attract celebrated performers from the London theatres, engaged Mrs Jordan for six nights in August 1797 for £300, raising ticket prices to defray this “extraordinary expense.”[^ref3] It was indeed an extraordinary amount; Dora had earned £4 a week for her first London performance twelve years earlier. She opened on Wednesday 30th August with her celebrated performance of Peggy, which had been described as “so powerful – every girlish trick so minutely and naturally delineated, that we pronounce the performance to be HER _chef d’oeuvre,_ and assuredly the boast of modern acting.”[^ref4]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3b/Theatre_Royal%2C_Margate-geograph.org.uk-2281466.jpg" label="Theatre Royal, Margate" attribution="David Anstiss/Theatre Royal, Margate">
 <!-- Base map centred on Margate -->
 <param ve-map center=" Q618045" zoom="10">
 
