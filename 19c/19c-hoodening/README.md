@@ -32,19 +32,16 @@ Since 1965: [Broadstairs](/dickens/broadstairs-19th-century) Folk Week: first fu
 <!--Basemap centred on Flete to pickup NE Kent coastline-->
 <param ve-map center="Q5458845" zoom="10">
 
-_‘… at [Ramsgate](/dickens/19c-ramsgate), in Kent I found they begin the festivities of Christmas by a curious procession: a party of young people procure the head of a dead horse, which is affixed by pole about four feet in length; a string is affixed to the lower jaw; a horse-cloth is also attached to the whole, under which one of the party gets, and by frequently pulling on the string, keeps up a loud snapping noise, and is accompanied by the rest of the party, grotesquely habited, with handbells; they thus proceed from house to house, ringing their bells, and singing carols and songs; they are commonly gratified with beer and cake, or perhaps money. This is called, provincially, a Hodening, and … [i]t is I find, general in Thanet on Christmas Eve, and, as far as I can learn, nowhere else …’   
-May 1807. _European Magazine_: 51 (May 1807) 558.   
+‘… at [Ramsgate](/dickens/19c-ramsgate), in Kent I found they begin the festivities of Christmas by a curious procession: a party of young people procure the head of a dead horse, which is affixed by pole about four feet in length; a string is affixed to the lower jaw; a horse-cloth is also attached to the whole, under which one of the party gets, and by frequently pulling on the string, keeps up a loud snapping noise, and is accompanied by the rest of the party, grotesquely habited, with handbells; they thus proceed from house to house, ringing their bells, and singing carols and songs; they are commonly gratified with beer and cake, or perhaps money. This is called, provincially, a Hodening, and … [i]t is I find, general in Thanet on Christmas Eve, and, as far as I can learn, nowhere else'[^ref2]
 <br>
-_"… as far back as 1855 the custom of carrying round a horse’s head, made of wood and with moveable jaws, existed in [Margate](/dickens/19c-margate). The bearer was accompanied by various musicians, who passed round the hat, …"_      
-16 November 1907. _Keble’s Margate and Ramsgate Gazette_.   
+'as far back as 1855 the custom of carrying round a horse’s head, made of wood and with moveable jaws, existed in [Margate](/dickens/19c-margate). The bearer was accompanied by various musicians, who passed round the hat,'[^ref3]   
 <br>
-_"… the custom of ‘Hoodening’, or taking round the ‘Hooden Horse’, on Christmas Eve was an annual one in the villages in Thanet half a century ago, and in Birchington, at least, the custom had not died out in 1906 …"_     
-7 December 1907, _Keble’s Margate and Ramsgate Gazette._   
+'… the custom of ‘Hoodening’, or taking round the ‘Hooden Horse’, on Christmas Eve was an annual one in the villages in Thanet half a century ago, and in Birchington, at least, the custom had not died out in 1906 …'.[^ref4]   
 <param ve-image url="images/Hoodenhorse.jpg" label="Hooden Horse" attribution="©Carolyn Oulton">
 <!--Basemap centred on Ramsgate-->
 <param ve-map center="Q736439" zoom="10">
 
-Distinct from other ‘hobby horse’ and animal-characters abundant in English folklore, the Hooden Horse belongs uniquely to Kent and, as Geoff Doel affirms, 'the tradition appears to lie solely in the eastern part of the county'[^ref1] 
+Distinct from other ‘hobby horse’ and animal-characters abundant in English folklore, the Hooden Horse belongs uniquely to Kent and, as Geoff Doel affirms, 'the tradition appears to lie solely in the eastern part of the county'[^ref5] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/en/0/06/Deal_Hoodeners%2C_1909.jpg" label="Hoodener in Deal" attribution="Published in Percy Maylam's 1909 book The Hooden Horse.">
 <!--Basemap centred on Ramsgate-->
 <param ve-map center="Q736439" zoom="10">
@@ -71,7 +68,10 @@ https://vimeo.com/408562819/78b21d952c
 <param ve-image url="https://upload.wikimedia.org/wikipedia/en/5/5f/Walmer_hoodeners%2C_1907.jpg" label="A troupe of hoodeners from Walmer Court Farm in Walmer, Kent" attribution="Published in Percy Maylam's 1909 book The Hooden Horse">
 
 ### Notes
-[^ref1]: Maylam 53-54.
-[^ref2:Maylam et al 10.
+[^ref1]:  _European Magazine_: 51 (May 1807) 558. May 1807.
+[^ref2]: _Keble’s Margate and Ramsgate Gazette_ - 16 November 1907.
+[^ref3]:  _Keble’s Margate and Ramsgate Gazette._ - 7 December 1907.
+[^ref4]: Maylam 53-54.
+[^ref5]: Maylam _et al._ 10.
 
 
