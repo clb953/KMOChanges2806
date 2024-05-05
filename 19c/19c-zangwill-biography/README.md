@@ -19,7 +19,7 @@
 
 **Holidays in Ramsgate, Margate, Broadstairs and Dover**  
 <br>
-'And a little to the left twinkled ‘The Green Man’— no friendly public-house, but a danger-signal from behind the [Goodwin Sands](/dickens/david-copperfield-goodwin-sands), likewise visible but by miracle.
+'And a little to the left twinkled ‘The Green Man’— no friendly public house, but a danger signal from behind the [Goodwin Sands](/dickens/david-copperfield-goodwin-sands), likewise visible but by miracle.
 <br><br>
 And as we marvelled at these jewels of the night, that shamed the absentee stars, the brake stood still with a jolt and a shock that threw our gay company into momentary alarm. But it was nothing. Only a horse fallen down dead! One of our overworked wheelers had suddenly sunk upon the earth, a carcase. Dust to dust! Who shall tell of the daylong agony of the dumb beast as he plodded pertinaciously through the heat, ministering to the pleasures of his masters?'    
 _‘Without Prejudice’_, 1893
@@ -61,7 +61,7 @@ Zangwill, Israel. _The Celibates’ Club. Being the United Stories of The Bachel
 [^ref3]: ‘Without Prejudice’ 901.   
 [^ref4]: ‘Without Prejudice’ 902.   
 [^ref5]: ‘Without Prejudice’ 902.   
-[^ref6]: ‘Supposed Dynamite Outrage at Broadstairs’.  Zangwill refers in his ‘Without Prejudice’ column in 1893 to having been in Broadstairs at the time of the ‘dynamite mystery’.    
+[^ref6]: ‘Supposed Dynamite Outrage at Broadstairs’. Zangwill refers in his ‘Without Prejudice’ column in 1893 to having been in Broadstairs at the time of the ‘dynamite mystery’.    
 [^ref7]: ‘Without Prejudice’ 902.   
 [^ref8]: ‘Without Prejudice’ 902.   
 [^ref9]: Rochelson. Chronology.   
