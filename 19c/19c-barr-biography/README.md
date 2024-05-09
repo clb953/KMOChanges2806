@@ -1,7 +1,7 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Robert Barr (1849-1912)" author="Professor Carolyn Oulton" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="﻿Professor Carolyn Oulton documents humourist Robert Barr's visit to Folkestone in 1890.">
 
-<-- Global Entities -->
+<!-- Global Entities -->
 <param ve-entity eid="Q375314" aliases="Folkestone">
 
 <!-- Base map centered on Folkestone -->
