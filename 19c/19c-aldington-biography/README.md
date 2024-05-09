@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="May Aldington (1872-1954)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/6/69/An_illustrated_and_descriptive_guide_to_the_great_railways_of_England_and_their_connections_with_the_Continent_%281885%29_%2814573960910%29.jpg" description="Jessie May AldingtonMichelle Crowther traces the often turbulent life and work of the author, Jessie May Aldington.">
+<param ve-config title="May Aldington (1872-1954)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/6/69/An_illustrated_and_descriptive_guide_to_the_great_railways_of_England_and_their_connections_with_the_Continent_%281885%29_%2814573960910%29.jpg" description="Michelle Crowther traces the often turbulent life and work of the author, Jessie May Aldington.">
 
 <!-- Global Entities -->
 <param ve-entity eid="Q2313624" aliases="Rolvenden">
@@ -10,7 +10,7 @@
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q179224" aliases="Dover">
 
-<!-- Base map default centred on Dover -->
+<!-- Base map default centered on Dover -->
 <param ve-map center="Q179224" zoom="10">
 
 <!-- Historical map layers -->
