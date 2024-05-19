@@ -1,8 +1,15 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Francis Storr the Elder and Younger" author="Jacquie Stamp" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+<param ve-config title="Francis Storr the Elder and Younger" author="Jacquie Stamp" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Jacquie Stamp introduces the work of Kent father and son poets and classicists, Revd Francis Storr and Revd Chharles Storr.">
 
+<!-- Global Entities -->
 <param ve-entity eid="Q2197855" aliases="Brenchley">
 <param ve-entity eid="Q793057" aliases="Aylesford">
+
+<!-- Base map centred on Maidstone -->
+<param ve-map center="Q213180" zoom="10">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
 
 #
 
