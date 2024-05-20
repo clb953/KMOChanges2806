@@ -1,11 +1,16 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Lord Northcliffe" author="Professor Carolyn Oulton" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+<param ve-config title="Lord Northcliffe" author="Professor Carolyn Oulton" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Prof. Carolyn Oulton introduces the Kent relationships of successful newspaper proprietor Alfred C. Harmsworth, later Lord Northcliffe.">
 
+<!-- Global Entities -->
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q922739" aliases="Broadstairs">
 <param ve-entity eid="Q179224" aliases="Dover">
 
+<!-- Base map centred on Broadstairs -->
 <param ve-map center="Q922739" zoom="15">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Road Map">
 
 #
 
