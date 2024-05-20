@@ -1,7 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 
-<param ve-config title="George Augustus Sala (1828 –1895)" author="Michelle Crowther" layout="vtl" 
-banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="A visual essay by Michelle Crowther introducing the life and work in Kent of author and journalist, George Augustus Sala.">
+<param ve-config title="George Augustus Sala (1828 –1895)" author="Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="A visual essay by Michelle Crowther introducing the life and work in Kent of author and journalist, George Augustus Sala.">
 
 <!-- Global Entities -->
 <param ve-entity eid="Q29303" aliases="Canterbury">
