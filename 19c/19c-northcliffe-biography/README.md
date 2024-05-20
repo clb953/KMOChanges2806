@@ -10,7 +10,7 @@
 <param ve-map center="Q2779399" zoom="12">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Road Map">
+<param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map">
 
 #
 
