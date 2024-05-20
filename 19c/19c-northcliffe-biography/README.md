@@ -6,8 +6,8 @@
 <param ve-entity eid="Q922739" aliases="Broadstairs">
 <param ve-entity eid="Q179224" aliases="Dover">
 
-<!-- Base map centred on Broadstairs -->
-<param ve-map center="Q922739" zoom="12">
+<!-- Base map centred on Minster-In-Thanet -->
+<param ve-map center="Q54889022" zoom="12">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Road Map">
