@@ -1,6 +1,15 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
-<param ve-config title="John Keats (1795-1821)" author="Dr Sophie Baldock" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+<param ve-config title="John Keats (1795-1821)" author="Dr Sophie Baldock" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Dr Sophie Baldock reviews the influence of his Margate holidays on the work of poet John Keats.">
+
+<!-- Global Entities -->
+<param ve-entity eid="Q618045" title="Margate">
+
+<!-- Base map centred on Canterbury -->
+<param ve-map center="Q618045" zoom="12">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="0d13de43a9570166" title="1820 Map">
 
 #
 
