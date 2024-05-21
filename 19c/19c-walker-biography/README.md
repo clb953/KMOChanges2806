@@ -1,5 +1,5 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Ann Walker (1803-1854)" author="Ivana Nika" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description=">
+<param ve-config title="Ann Walker (1803-1854)" author="Ivana Nika" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Using original diary entries Ivana Nika traces the journey of Anne Walker and Anne Lister through Kent en route for the continent in 1834.">
 
 <!-- Global Entities -->
 <param ve-entity eid="Q29303" aliases="Canterbury">
