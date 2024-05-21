@@ -1,7 +1,13 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Henry James (1843-1916)" author="Dr Peter Merchant" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/1/1d/David_Cox_Jnr_-_Cox-Jnr-98091_-_Hever_Castle_-_circa_1850.jpg">
+<param ve-config title="Henry James (1843-1916)" author="Dr Peter Merchant" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/1/1d/David_Cox_Jnr_-_Cox-Jnr-98091_-_Hever_Castle_-_circa_1850.jpg" description="In this visual essay, Dr Peter Merchant documents the relationship between author Henry James and Hever Castle, Kent home to Anne Boleyn.">
 
 <param ve-entity eid="Q1132683" aliases="Hever Castle">
+
+<!-- Base map centred on Hever Castle -->
+<param ve-map center="Q1132683" zoom="12">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="4f72c8eb5fe1eba5" title="Mackenzie 1900">
 
 #
 
