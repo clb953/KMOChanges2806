@@ -1,7 +1,15 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Ann Walker (1803-1854)" author="Ivana Nika" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+<param ve-config title="Ann Walker (1803-1854)" author="Ivana Nika" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description=">
 
+<!-- Global Entities -->
 <param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q179224" aliases="Dover">
+
+<!-- Base map centred on Canterbury -->
+<param ve-map center="Q29303" zoom="12">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="bd3bb7d13a5d0a88" title="Moule 1850">
 
 #
 
@@ -27,6 +35,8 @@ On their return journey from the Continent, Ann stopped writing in her journal o
 <br><br>
 The [In Search of Ann Walker](https://insearchofannwalker.com/) research collaborative works on bringing to light all aspects of Ann's life.
 <param ve-image url="https://stor.artstor.org/stor/ab25bcd6-9bdf-4d71-8385-1ea957703c5a" label="The Picturesque Beauties of Great Britain: Kent. Rochester Bridge, 1829" attribution="Photo by Astrid Stilma. By permission of Patrick Marrin">
+<!-- Base map centred on Dover -->
+<param ve-map center="Q179224" zoom="12">
 
 ### References
 
