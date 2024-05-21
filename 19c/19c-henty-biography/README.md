@@ -1,8 +1,14 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="George Alfred Henty (1832-1902)" author="Stephen Williamson" layout="vtl" 
-banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Stephen Williamson introduces the influence of a Kentissh childhood on the work of author and war correspondent, George Alfred Henty.">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
+
+<!-- Base map centred on Canterbury -->
+<param ve-map center="Q29303" zoom="10">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="d8938ce88f3b83e4" title="Kent Ordnance Survey 1863">
 
 #
 
