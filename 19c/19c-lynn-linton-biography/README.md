@@ -1,9 +1,16 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Eliza Lynn Linton and Gad’s Hill" author="Juan Pedro Martín Villarreal" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+<param ve-config title="Eliza Lynn Linton and Gad’s Hill" author="Juan Pedro Martín Villarreal" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Juan Pedro Martín Villarreal traces the Gad's Hill connection between Charles Dickens and novelist and Britain's first salaried female journalist Eliza Lynn Linton.">
 
+<!-- Global Entities -->
 <param ve-entity eid="Q729006" aliases="Chatham">
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q507517" aliases="Rochester">
+
+<!-- Base map centred on Gad's Hill Place -->
+<param ve-map center="Q5516441" zoom="10">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent Ordnance Survey 1860">
 
 #
 
