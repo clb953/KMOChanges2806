@@ -8,7 +8,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 <param ve-entity eid="Q2287962" aliases="Cliffsend">
 
 <!-- Base map centred on Lenham -->
-<param ve-map center="Q28339447" zoom="10">
+<param ve-map center="Q28339447" zoom="9">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map">
