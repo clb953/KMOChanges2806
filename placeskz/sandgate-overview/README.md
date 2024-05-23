@@ -1,9 +1,15 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-<param ve-config title="Sandgate" author="Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+<param ve-config title="Sandgate" author="Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Described in the 19th Century as the 'authors haven of repose, Michelle Crowther details the unassuming literary centre of Sandgate, Kent.">
 
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q967166" aliases="Hythe"> 
 <param ve-entity eid="Q16900107" aliases="Shorncliffe">
+
+<!-- Base map centred on Sandgate -->
+<param ve-map center="Q1000312" zoom="12">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="bd3bb7d13a5d0a88" title="Moule 1850">
 
 #
 
