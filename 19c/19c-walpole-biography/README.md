@@ -1,5 +1,4 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-
 <param ve-config title="Sir Hugh Seymour Walpole (1884 - 1941)" author="Alexa Barrett" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Alexa Barrett considers the influence of the Kings School, Canterbury on Sir Hugh Walpole and other authors.">
 
 <!-- Global Entities -->
