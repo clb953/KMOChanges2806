@@ -6,7 +6,7 @@
 <param ve-entity eid="Q16900107" aliases="Shorncliffe">
 
 <!-- Base map centred on Sandgate -->
-<param ve-map center="Q1000312" zoom="12">
+<param ve-map center="Q1000312" zoom="11">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="bd3bb7d13a5d0a88" title="Moule 1850">
