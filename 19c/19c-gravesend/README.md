@@ -1,10 +1,16 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Gravesend in the nineteenth century" author="Hayley Smith" layout="vtl" 
-banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Haley Smith introduces 19th Century visitor experience the popular Kent town of Gravesend.">
 
 <param ve-entity eid="Q676689" aliases="Gravesend">
 
-<!#>
+<!-- Base map centred on Gravesend -->
+<param ve-map center="Q676689" zoom="12">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="bd3bb7d13a5d0a88" title="Moule 1850">
+
+#
 In the nineteenth century steamboats sailing to Gravesend transferred an influx of tourists to Rosherville Gardens, a Victorian pleasure garden built within an abandoned chalk pit owned by Jeremiah Rosher. Rosher made use of Gravesend’s popularity with Londoners and its proximity to the Thames, making it a popular tourist attraction before the rise of the railway and [seaside resorts](/19c/19c-seaside) impacted upon its revenue. [Rosherville Gardens](/19c/19c-rosherville), described as a ‘place to spend a happy day’ in [E. Nesbit](/nesbit/nesbit-biography)’s _The Story of the Amulet_ (1906), was a ‘favourite resort of Londoners. Adorned with small Greek temples and statuary set in the cliffs’, the gardens also contained ‘terraces, an archery lawn, [a] Bijou theatre, [a] Baronial Hall for refreshments, and at one time a lake’.[^ref1] Firework displays, coloured lights, and dancers additionally illuminated the Gardens by night. Despite Rosherville’s decline by the end of the century, the attraction was a triumph earlier in the Victorian era; in fact, ‘in 1857 as many as 20,000 visitors passed through the turnstiles in one week’.[^ref2]  Rosherville Gardens received competition, but its rivals weren’t quite so successful: Victoria Gardens, for example, named after the Princess (later Queen), opened in 1834 and struggled to compete with Rosherville’s flood of Victorian pleasure-seekers. Located nearly a mile from the town, day-trippers chose instead to venture to closer pleasure gardens. The owner, John Robert Hall, consequently converted Victoria Gardens into a cemetery only three years later. Gravesend Cemetery – as it is known today – was designed with the help of Stephen Geary, the architect of the infamous Highgate Cemetery.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/72/Grand_Entrance_to_Gravesend_Cemetery_-_geograph.org.uk_-_1096043.jpg" label="Grand Entrance to Gravesend Cemetery" attribution="David Anstiss" license="CC BY-SA 2.0">
  
