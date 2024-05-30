@@ -10,7 +10,7 @@
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map"> 
 
-<!--#-->
+#
 
 Jessie Challacombe née Worsfold, children’s author, was born in [Dover](/19c/19c-dover) the daughter of Christopher and Martha Worsfold. Her father was a chartered accountant and the borough treasurer and her grandfather was twice mayor of Dover and had been friends with the late Duke of Wellington.[^ref1]  The family lived at 23, Maison Dieu Road but later moved to 33, Liverpool Street next to Kilvington House, a Preparatory School for Boys run by Jessie’s aunts Emily and Lucy. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sea_front%2C_Dover%2C_England-LCCN2002696721.jpg" label="Seafront, Dover, c. 1890" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
