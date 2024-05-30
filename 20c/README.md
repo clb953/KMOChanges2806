@@ -1,12 +1,10 @@
 `mdp-header title="20th Century Kent" background=gh:kent-map/images/banners/20c.jpg .sticky`
 
-# Overview
 Dover and Folkestone become the gateway to the Western Front during WW1. Seaside towns decline, challenged by the increasing popularity of overseas holidays.
 
 
-#
 # People
-<param class="cards">
+`.cards`
 
 ## H.E. Bates
 
@@ -392,7 +390,7 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 
 # Places
-<param class="cards">
+`.cards`
 
 ## Canterbury
 
@@ -436,7 +434,7 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 
 # Events
-<param class="cards">
+`.cards`
 
 ## Belgian Refugees
  
@@ -488,7 +486,7 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 
 # Texts
-<param class="cards">
+`.cards`
 
 ## Rupert Bear by Mary Tourtel
  
