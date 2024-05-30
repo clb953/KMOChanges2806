@@ -1,12 +1,10 @@
 `ve-header title="19th Century Kent" background=gh:kent-map/images/banners/19c.jpg .sticky`
 
-<!-- # Overview -->
+# Overview
 During the 19th century Kent was connected to the metropolis through hoy and steamboats and later by the expanding railway network; it also provided convenient access to the coast of France through the regular passenger ships running from Folkestone and Dover. It attracted the attention of numerous writers across the century ([Read More](19c-kent))
 
 # People
 `.cards`
-
-<!-- param class="cards" -->
 
 ## Henry Gardiner Adams (1812-1881)
 
@@ -585,7 +583,7 @@ The Jewish author Israel Zangwill’s first recorded encounter with Kent dates t
 
 
 # Places
-<param class="cards">
+`.cards`
 
 ## Broadstairs
 
@@ -685,7 +683,7 @@ As the fashionable ‘water cure’ of spas such as Bath and Tunbridge Wells mov
 
 
 # Events
-<param class="cards">
+`.cards`
 
 ## Contagious Diseases Acts
 
@@ -721,7 +719,7 @@ David Copperfield's curated walk can tell us much about the route he follows fro
 
 
 # Texts
-<param class="cards">
+`.cards`
 
 ## Miss Balmaine's Past
 
