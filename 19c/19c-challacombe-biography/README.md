@@ -1,11 +1,12 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Jessie Challacombe (1864-1925)" author="Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Michelle Crowther presents a bibliography of Dover born and raised children's author Jessie Challacombe née Worsfold.">
 
+<!-- Global Entity -->
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q1094104" aliases="Canterbury">
 
-<!-- Kent basemap starting position whole of county centred on Cantebury -->
-<param ve-map center="Q29303" zoom="10">
+<!-- Kent basemap centred on Dover -->
+<param ve-map center="Q179224" zoom="10">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map"> 
@@ -14,7 +15,6 @@
 
 Jessie Challacombe née Worsfold, children’s author, was born in [Dover](/19c/19c-dover) the daughter of Christopher and Martha Worsfold. Her father was a chartered accountant and the borough treasurer and her grandfather was twice mayor of Dover and had been friends with the late Duke of Wellington.[^ref1]  The family lived at 23, Maison Dieu Road but later moved to 33, Liverpool Street next to Kilvington House, a Preparatory School for Boys run by Jessie’s aunts Emily and Lucy. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2c/Sea_front%2C_Dover%2C_England-LCCN2002696721.jpg" label="Seafront, Dover, c. 1890" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
-<param ve-map center="Q179224" zoom="10">
 
 By 1891, the Worsfolds had moved to 1, Christ Church Villa, St Martin’s Hill (Folkestone Road) opposite Christ Church. Christ Church was one of the newer churches in [Dover](/19c/19c-dover), having been consecrated in 1844. The condition of its establishment had been that it should include seating reserved for about 160 soldiers and that its incumbents should be low church.[^ref2]  It rapidly attracted a large congregation and within seven years of its opening, two additional galleries were added. Jessie’s father became churchwarden and a parishioner recalls that he used to '...give account of the financial state of the parish and he generally wound by saying: "I want two or three good door mats,"' and generally asked in such way that one felt ashamed to go to Church next Sunday unless they were forthcoming'.[^ref3] Jessie's mother was involved in the charitable work of the town including raising funds for the Dover orphan home. 
 <param ve-image url="https://stor.artstor.org/stor/5db33e54-3dee-44c0-b6ec-eea3b3013422" label="Ward Lock's Dover and the South East" attribution="Ward Lock">
@@ -34,6 +34,7 @@ After the ceremony, the wedding breakfast was served at Chaldercot, Leyburn-road
 
 Two years after their marriage, the Challacombes moved to New Malden, where they lived and worked for the next 28 years. Jessie began writing stories for children which were published by the Society for the Promotion of Christian Knowledge (SPCK). Her first book _The Brother’s Promise_ was published in 1897 followed by _Little Christopher’s Cross_ a year later, about a small boy named Christopher, no doubt inspired by her own son Christopher who had been born in 1893. Each chapter was prefaced by words from hymns by the former Dean of [Canterbury](/19c/19c-canterbury), Henry Alford. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cf/Poul_Friis_Nybo_-_Interi%C3%B8r_med_en_l%C3%A6sende_kvinde_ved_en_skrivepult.png" label="Interior with a woman reading at a desk, between 1887 and 1929" attribution="Poul Friis Nybo, Public domain, via Wikimedia Commons">
+<param ve-map center="Q1094104" zoom="10">
 
 Jessie wrote at least 12 novels and many short stories, drawing on her knowledge of church life. In _Wait and Win_ (1912) her character Jem is 'very keen on the gymnasium at the Boy’s Club Battersea, and this had been a very good thing for his own development… It was in the Club gymnasium that he made his good influence to be felt among them quite as much as in the church, where he was now a member of the evening choir.'[^ref9] Although the novel is not set in Kent, Jessie’s memories of the boys who attended the Christ Church gymnasium may have influenced the story. 
 <br><br>
