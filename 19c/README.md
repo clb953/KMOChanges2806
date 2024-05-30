@@ -5,7 +5,6 @@ During the 19th century Kent was connected to the metropolis through hoy and ste
 
 # People
 <param class="cards">
-
 ## Henry Gardiner Adams (1812-1881)
 
 [Henry Gardiner Adams](19c-gardiner-adams-biography)
