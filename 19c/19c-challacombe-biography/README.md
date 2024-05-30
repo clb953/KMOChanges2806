@@ -6,7 +6,7 @@
 <param ve-entity eid="Q1094104" aliases="Canterbury">
 
 <!-- Kent basemap centred on Dover -->
-<param ve-map center="Q179224" zoom="10">
+<param ve-map center="Q179224" zoom="12">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map"> 
