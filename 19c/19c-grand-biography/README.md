@@ -8,7 +8,7 @@
 <param ve-entity eid="Q179224" aliases="Dover">
 
 <!-- Basemap centred on Challock -->
-<param ve-map center="Q5036128" zoom="10">
+<!-- param ve-map center="Q5036128" zoom="10" -->
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map">
@@ -33,7 +33,7 @@ By 1888 the marriage had broken down, the catalyst for Grand's move to London an
 But like Beth McClure, Sarah Grand later transferred her energies from writing to campaigning – her ‘Books I Would Like to Read’ list includes precisely three entries. In 1898 she moved to Tunbridge Wells, (historically one of the more successful spa towns before it was displaced by the rise of the [seaside](/19c/19c-seaside) resorts) where she became President of the local branches of the National Council of Women and the National Union of Women’s Suffrage Societies. 
 <param ve-image url="https://stor.artstor.org/stor/ce0b8389-e980-4597-8f6c-630eaba57b53" label="Taking the Waters - the original spring. The Pantiles, Tunbridge Wells" attribution="H.G. Groves, Tunbridge Wells">
 <!--Basemap centred on Tunbridge Wells-->
-<param ve-map center="Q894097" zoom="15">
+<param ve-map center="Q894097" zoom="13">
 
 Like [Gertrude Warden](/19c/19c-gertrude-warden-biography) (another author with Kent connections), she was also a member of the Women Writers' Suffrage League. As a speaker, Grand was certainly in demand, although it is hard to know what to make of the Ramsgate Congregational Institute's invitation to deliver a lecture on 'Mere Man' in 1903. The schedule for the previous few months includes all manner of entertainments, from Alfred Capper’s thought reading to a lantern lecture and costume recitals.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fb/National_Union_Women%27s_Suffrage_shop_on_18_Crescent_Road%2C_Tunbridge_Wells.jpg" label="NUWSS shop on 18 Crescent Road, Tunbridge Wells" attribution="LSE Library, No restrictions, via Wikimedia Commons">
