@@ -1,2 +1,1 @@
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b6/Darwin_restored2.jpg" title="Elliott &amp; Fry
-, Public domain, via Wikimedia Commons">
+<a href="https://commons.wikimedia.org/wiki/File:Darwin_restored2.jpg">Elliott &amp; Fry</a>, Public domain, via Wikimedia Commons
