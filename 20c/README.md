@@ -19,7 +19,7 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/16/Edmund_Blunden_by_Rex_Whistler_pencil%2C_1929.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+‘Two influences stand out clearly and unmistakably; that of Kent, his native countryside, and that of the war. Mr Blunden is a thorough Kentishman. That probably is why he succeeds so admirably in recreating the very soul and atmosphere of the southern counties.’
 
 ## Elizabeth Bowen
 
