@@ -33,9 +33,9 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 [Jocelyn Brooke](20c-brooke-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/20c/Chaucer_Hotel.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/a/ae/Jocelyn_Brooke.jpg)
 
-Rupert Bear is a children’s comic strip character first published on the 8th November 1920 in the Daily Express newspaper. He was created by the Canterbury-born illustrator Mary Tourtel and thus became firmly rooted within the public vision of the city’s literary heritage.
+Jocelyn Brooke spent most of his life in the little village of Bishopsbourne, which lies some 5 miles or so south-east of Canterbury, concealed like a secret in the Elham Valley, where it is washed (and occasionally flooded) by the intermittent waters of the Nailbourne. He remains an obscure and neglected figure, best known, if at all, for The Orchid Trilogy
 
 ## Alfred Cohen
 
@@ -173,14 +173,6 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
 
-## H.E. Bates
-
-[H.E. Bates](20c-bates-biography)
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
-
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
-
 ## H.G. Wells
 
 [H.G. Wells](20c-wellshg-biography)
@@ -257,9 +249,9 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 [Mary Tourtel](20c-tourtel-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/20c/Chaucer_Hotel.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Rupert Bear is a children’s comic strip character first published on the 8th November 1920 in the Daily Express newspaper. He was created by the Canterbury-born illustrator Mary Tourtel and thus became firmly rooted within the public vision of the city’s literary heritage.
 
 ## Noel Coward
 
