@@ -19,7 +19,7 @@ May Aldington wrote _Meg of the Salt Pans_ set in a Kentish village near Sandpor
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/50/The_Watsons_Manuscript.jpg)
 
-Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward Austen Knight, with whom she stayed at Rowling House and later at the magnificent Godmersham Park. During these extended visits, Austen travelled to many other destinations in Kent for social calls or leisure outings.
+Born in Steventon, near Basingstoke, Hampshire, in 1775, Jane Austen often visited Kent, the birthplace of her father, and the long-term residence of her brother Edward Austen Knight, with whom she stayed at Rowling House and later at the magnificent Godmersham Park. 
 
 ## Aphra Behn
 
@@ -196,7 +196,7 @@ J.G. Sarasin, a popular historical fiction writer of the 1920s-1960s, lived in C
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/071a49ae-7ac8-4b59-94ba-d7fdce39f57c)
 
-Edith Katherine Spicer Jay, a writer of popular military tales, lived in Sandgate during the last ten years of her life. Her novels, which involved plots of military men ‘made good’ were shared among the soldiers at Shorncliffe Barracks who enjoyed her ‘realistic study of military life’. Her house was a home from home for the 'Cavalry Circle', where she offered ‘smokes’ and refreshments.
+Edith Katherine Spicer Jay, a writer of popular military tales, lived in Sandgate during the last ten years of her life. Her novels, which involved plots of military men ‘made good’ were shared among the soldiers at Shorncliffe Barracks who enjoyed her ‘realistic study of military life’. 
 
 ## Christopher St John
 
