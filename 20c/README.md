@@ -17,7 +17,7 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 [Edmund Blunden](20c-blunden-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/16/Edmund_Blunden_by_Rex_Whistler_pencil%2C_1929.jpg)
 
 Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
 
@@ -25,9 +25,9 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 [Elizabeth Bowen](20c-bowen-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/3f/Elizabeth_Bowen_1899-1973_Writer_lived_here_1935-1952.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+‘Possibly it was England made me a novelist’ Elizabeth Bowen loved East Kent. When she was uprooted from Ireland and transplanted to the Folkestone area as a child of seven she was immediately bewitched.
 
 ## Jocelyn Brooke
 
