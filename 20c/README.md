@@ -33,7 +33,9 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 [Jocelyn Brooke](20c-brooke-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/00a0bf98-14e0-4ad0-b658-61e9d07f609f)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/20c/Chaucer_Hotel.jpg)
+
+Rupert Bear is a children’s comic strip character first published on the 8th November 1920 in the Daily Express newspaper. He was created by the Canterbury-born illustrator Mary Tourtel and thus became firmly rooted within the public vision of the city’s literary heritage.
 
 ## Alfred Cohen
 
