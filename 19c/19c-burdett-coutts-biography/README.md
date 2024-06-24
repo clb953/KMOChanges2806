@@ -45,7 +45,7 @@ In October 1850, [Dickens](/dickens) was writing the last pages of [_David Coppe
        description="A portrait of Dickens, between 1867 and 1868" 
        license="Public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Dickens_Gurney_head.jpg">
-<param ve-map center="Q725261" zoom="10">
+<param ve-map center="Q1752642" zoom="11">
 
 Like [Dickens](/dickens), Burdett-Coutts clearly felt an affection for the seascape of Thanet, and she would have been aware of the perils caused by the notorious [Goodwin Sands](/dickens/david-copperfield-goodwin-sands). In 1859 she presented the people of [Margate](/19c/19c-margate) with a lifeboat, which arrived by train and was duly processed through the town under the protection of her secretary ([Dickens](/dickens)’s former editor W. H. Wills), accompanied by the town crier and members of the corporation, with a banner announcing the donation of the ‘Angela and Hannah'.[^ref5]
 <param ve-image url="https://stor.artstor.org/stor/6fbd0fc9-b2ce-421e-98e7-36cd1e89a92f" label="The Goodwin Sands image from Heroes of the Goodwin Sands" attribution="by Thomas Stanley Treanor, 1904">
@@ -55,7 +55,7 @@ Burdett-Coutts would return to Kent in person in 1881 on her marriage to the 29 
 <br><br>
 In her lifetime Angela Burdett-Coutts ‘set a new standard in philanthropy: prompt and practical, her charity was given with style and without condescension.’[^ref6] On her death 5 years after [Queen Victoria](/19c/19c-victoria-biography), she was buried in Westminster Abbey, becoming once again a near neighbour of [Dickens](/dickens).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cd/St_Mary%2C_Ashford%2C_June_2021.jpg" label="St Mary's, Ashford" attribution="Poliphilo, CC0, via Wikimedia Commons">
-<param ve-map center="Q725261" zoom="10">
+<param ve-map center="Q725261" zoom="12">
 
 ### Bibliography
 Andersen, Jens. _Hans Christian Andersen: A New Life_. London: Duckworth, 2005.   
