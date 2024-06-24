@@ -31,7 +31,8 @@ Angela Burdett was the daughter of Sir Francis Burdett and his wife Sophia (whos
        description="A portrait of Burdett-Coutts, circa 1840" 
        license="Public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/3/33/Angela_Georgina_Burdett-Coutts%2C_Baroness_Burdett-Coutts_from_NPG.jpg">
-<param ve-map center="Q2543161" zoom="15">
+<!-- Base map starting position centred on Walmer Castle -->
+<param ve-map center="Q2543161" zoom="10">
 
 Burdett-Coutts stayed in Kent several times in the mid-1840s to early-1850s: during two of these summer holidays [Dickens](/dickens) and his family were staying in [Broadstairs](/dickens/dickens-broadstairs). [Dickens](/dickens) wrote to Burdett-Coutts in August 1847, on hearing that she was going to [Sandgate](/placesqz/sandgate-overview).[^ref1] A few days later he asked her to meet the Danish author [Hans Christian Andersen](/19c/19c-christian-andersen), who was staying at the Royal Oak Hotel in [Ramsgate](/dickens/19c-ramsgate).[^ref2] [Andersen](/19c/19c-christian-andersen) would memorably outstay his welcome at [Gad’s Hill](/dickens/dickens-gads-hill) in 1857, but on this occasion the two writers expressed mutual enthusiasm, and [Andersen](/19c/19c-christian-andersen) was delighted that Burdett-Coutts had accepted [Dickens](/dickens)’s  invitation partly in order to meet him. In September [Dickens](/dickens) wrote to Burdett-Coutts again, at the Pavilion Hotel in [Folkestone](/19c/19c-folkestone). He and the illustrator John Leech were going to Maidstone the next day, with dinner planned at the Bull Inn in Rochester. Meanwhile 'There is nothing new in Broadstairs. Everybody except Leech is going away I understand next week'[^ref3].
 <param ve-image url="https://stor.artstor.org/stor/077213e1-ee34-4966-a7eb-64fb7cf89d8d" label="Broadstairs Map" attribution="by kind permission of Dickens Museum, Broadstairs">
