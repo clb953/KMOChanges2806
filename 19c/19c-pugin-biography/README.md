@@ -7,7 +7,10 @@
 <param ve-entity eid="Q1011096" aliases="Deal">
 
 <!-- Base map centred on Ramsgate -->
-<param ve-map center="Q736439" zoom="11">
+<!-- param ve-map center="Q736439" zoom="11" -->
+
+<!-- Base map centred on Godmersham -->
+<param ve-map center="Q632173" zoom="11">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="bd3bb7d13a5d0a88" title="Moule 1850">
