@@ -6,7 +6,7 @@
 <param ve-entity eid="Q2690370" aliases="Hayes">
 
 <!-- Basemap centred on Hayes -->
-<param ve-map center="Q2690370" zoom="10">
+<!-- param ve-map center="Q2690370" zoom="10" -->
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="bd3bb7d13a5d0a88" title="Moule 1850">
@@ -17,13 +17,13 @@ Writer, mycologist and botanical illustrator Anna Maria Hussey, née Reed was bo
 <br><br>
 By the mid-19th century, the study of botany had become ‘an occupation of choice, part of the parcel of normative activities for girls and women’[^ref1]  where they could learn informally from each other about the social and divine order so long as they did not venture into a masculine area of scientific study outside the domestic sphere.[^ref2] Although Hussey appears to have positioned herself within this sphere of female engagement as a daughter of Flora,[^ref3] her writing hints at a willingness to transgress the normative use of the domestic sphere and garden as an enclosed female space.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c9/Hayes_Library%2C_Hayes_%28West_Face_-_01%29.jpg" label="Hayes Library formerly the rectory" attribution="Doyle of London, via Wikimedia Commons" license="CC BY-SA 4.0">
-<!-- Basemap centred on Hayes -->
-<param ve-map center="Q2690370" zoom="10">
+<!-- Basemap centred on Chatham -->
+<param ve-map center="Q729006" zoom="10">
 
 Hussey wrote a fairly conventional and cheerful [holiday diary](https://kent.overdrive.com/media/543802) relating a family holiday to [Dover](/19c/19c-dover) in 1836 to her sister, Henrietta.[^ref4]  An increase in disposable income for at least some in the middle class in the mid-19th century led to a growth in tourism in Britain and ‘the first concentration of resorts developed in the south-east, particularly on the Sussex and Kent coasts’[^ref5] and ‘elite men and women, and travellers were expected to keep a record of what they observed.’[^ref6]  Hussey describes their experience of sea bathing popular by this time[^ref7]  and is keen to have new experiences, commenting on poetry, American literature, and art. Her initial interest seems to have been geology, but she became fascinated in her ‘botanical treasures’ expressing typical modesty tropes that she was ‘surprised [that she] really possessed the power of making acquaintance with strange plants’.[^ref8]  Borsay emphasises that the ‘environmental and social’ visual experience at the seaside was a growing ‘commodity’ in the early 19th century where ‘new ways of perceiving and capturing’ the environment were explored.[^ref9]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f3/David_Cox_-_Dover_-_Google_Art_Project.jpg" label="Dover, 1832" attribution="David Cox, Public domain, via Wikimedia Commons">
 <!-- Basemap centred on Dover -->
-<param ve-map center="Q179224" zoom="10">
+<param ve-map center="Q179224" zoom="12">
 	
 Dr Hussey was no ordinary rector either. He was a keen amateur astronomer. He regularly contributed to _The Transactions of the Royal Astronomical Society._[^ref10]  Although he theorised that there was an eighth planet, later to be named Neptune[^ref11]. his idea was ignored by his peers 'because of his lack of skill in mathematics’.[^ref12] However, he was recognised as one of the first astronomers in Britain to record the return of <span data-mouseover-image-zoomto="1291,164,1536,1126">Halley’s Comet</span> in 1835.[^ref13]  He had a very impressive network of friends and acquaintances, for example, he personally knew [Charles Darwin](/19c/19c-darwin-biography). However, Darwin was less than complimentary about Dr Hussey in a letter to his sister: 'Dr. Hussey and Mr. Willott called yesterday afternoon. The Dr. talked grand nonsense... Poor little Mr. Willott could hardly get a word in sideways...'.[^ref14] Nonetheless, it seems that Hussey gave up his astronomy observations in 1837, selling his observatory to Durham University in 1839.[^ref15]  
 <param ve-image url="https://iiif.wellcomecollection.org/image/V0024725/full/full/0/default.jpg" label="Astronomy: comets in a night sky. Engraving." attribution="Wellcome Collection">
