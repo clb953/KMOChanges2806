@@ -10,8 +10,8 @@
 <param ve-entity eid="Q967166" aliases="Hythe">
 <param ve-entity eid="Q1000312" aliases="Sandgate">
 
-<!-- Basemap centred on Dover -->
-<param ve-map="Q19224" zoom="12">
+<!-- Basemap centred on Sandgate -->
+<param ve-map="Q1000312" zoom="12">
 
 <!-- param data-map-layer
        title="Kent Topo Survey 1860"
@@ -35,7 +35,7 @@ George describes their arrival in England in the winter of 1840:
 <br><br>
 Hipgrave’s Victoria and Gun Hotel and Commercial Inn, adjoined the Custom House and prided itself on its “comfort, convenience and economy.” It offered accommodation on “extra moderate terms” which was exactly what Madame Sala needed having spent a considerable sum on the journey.[^ref4]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Landing_at_Dover_from_the_Steam_Packet_RMG_BHC1791.tiff" label="Landing at Dover from the Steam Packet" attribution="Michael William Sharp, Public domain, via Wikimedia Commons">
-<param ve-map center="Q179224" zoom="11">
+<!-- param ve-map center="Q179224" zoom="11" -->
 
 On arriving in [Dover](/19c/19c-dover), Madame Sala placed an advertisement in the _Dover Telegraph_ announcing that she had “the honour to acquaint the Nobility, Gentry and her friends, Residents and Visitors in [Dover](/19c/19c-dover), that she is just returned from Paris, in consequence of the unsettled state of that city, and will remain in [Dover](/19c/19c-dover) during the Winter, for the purpose of giving lessons in singing.”  George’s older brother Frederic accompanied her on the piano.[^ref5]
 <br><br>
