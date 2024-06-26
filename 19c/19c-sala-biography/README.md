@@ -11,7 +11,7 @@
 <param ve-entity eid="Q1000312" aliases="Sandgate">
 
 <!-- Basemap centred on Sandgate -->
-<param ve-map center="Q1000312" zoom="12">
+<param ve-map center="Q1000312" zoom="11">
 
 <!-- param data-map-layer
        title="Kent Topo Survey 1860"
