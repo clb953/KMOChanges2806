@@ -11,7 +11,7 @@
 <param ve-entity eid="Q375314" aliases="Folkestone">
 
 <!-- Basemap centered on Borough Green -->
-<!param ve-map center="Q2001391" zoom="10">
+<!-- param ve-map center="Q2001391" zoom="10" -->
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="bd3bb7d13a5d0a88" title="Moule 1850">
