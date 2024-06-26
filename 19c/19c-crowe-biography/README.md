@@ -6,9 +6,9 @@
 <param ve-entity eid="Q2001391" aliases="Borough Green">
 <param ve-entity eid="Q26163" aliases="Sandwich">
 <param ve-entity eid="Q1506093" aliases="Romney Marsh">
-<param ve-entity eid="Q2740296" aliases="Wrotham">
 <param ve-entity eid="Q1011096" aliases="Deal">
 <param ve-entity eid="Q375314" aliases="Folkestone">
+<!-- param ve-entity eid="Q2740296" aliases="Wrotham" -->
 
 <!-- Basemap centered on Borough Green -->
 <!-- param ve-map center="Q2001391" zoom="10" -->
@@ -46,6 +46,7 @@ Lucy Sussex says, ‘The child Catherine was reared in rural, coastal Kent, whic
 
 We will of course never really know. However, the bleak and rugged Kentish countryside is prominent in Crowe’s novels. Larken states that ‘‘Incidents, locations and events from the formative years spent at Ivy Hatch and Borough Green are often reflected in Mrs. Crowe’s novels’. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3d/Ivy_Hatch_-_geograph.org.uk_-_2207279.jpg" label="Ivy Hatch" attribution="by Roger Smith, CC BY-SA 2.0, via Wikimedia Commons">
+<param ve-map center="Q2001391" zoom="12">
 
 The most memorable of Crowe’s villains, the piratical Littenhaus family who feature in the novel _The Story of Lily Dawson_ (1849), occupy an Inn called ‘The Black Huntsman’, ‘Not far from the coast, in a remote and somewhat unfrequented part of one of the south-eastern counties of England’.  The Littenhaus men are pirates and wreckers who operate on the coast and Larken claims that they ‘are in fact direct if imaginary descendants of the notorious Hawkhurst smugglers, who terrorised Kent during the first half of the C18th’. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/63/Welcome_to_Hawkhurst_%283622741404%29.jpg" label="Welcome to Hawkhurst" attribution="Simon Harriyott from Uckfield, England, CC BY 2.0, via Wikimedia Commons">
