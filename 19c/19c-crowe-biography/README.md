@@ -2,7 +2,7 @@
 <param ve-config title="Catherine Ann Crowe (née Stevens) (1790-1872)" author="Dr Ruth Heholt" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Dr Ruth Heholt introduces Kent born and raised author Catherine Crowe whose eclectic work has been linked with spirits and smugglers.">
 
 <!-- Global Entities -->
-<param ve-entity eid="Q550991332" aliases="Ivy Hatch">
+<param ve-entity eid="Q55099133" aliases="Ivy Hatch Nature Reserve">
 <param ve-entity eid="Q2001391" aliases="Borough Green">
 <param ve-entity eid="Q26163" aliases="Sandwich">
 <param ve-entity eid="Q1506093" aliases="Romney Marsh">
