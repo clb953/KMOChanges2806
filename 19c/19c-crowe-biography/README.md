@@ -35,8 +35,8 @@ Crowe lived and was educated in Kent in Borough Green during her early life and 
 
 Crowe’s unofficial biographer Geoffrey Larken traced the connections between Crowe and Kent. He says, ‘It is a well-known fact in the history of smuggling that freetraders flourished there and were especially active during the late 18th and early 19th centuries. Illicit cargoes landed on the Kentish coast off Sandwich, Deal and the sands of Romney Marsh were run inland and concealed in hides or depts., which formed a ring around Ivy Hatch and Borough Green. Wrotham was in fact the last halt on the passage to London, and the area comprising Gallows Hill, Wrotham Heath and the Hurst Woods afforded excellent coverage for hides’ 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/93/Smugglers_by_John_Atkinson.jpg" label="Smugglers" attribution="Atkinson, John Augustus (artist); Miller, William (engraver); Walker, James (publisher), Public domain, via Wikimedia Commons">
-<!-- Basemap centered on Canterbury -->
-<param ve-map center="Q29303" zoom="10">
+<!-- Basemap centered on Godmersham -->
+<param ve-map center="Q632173" zoom="10">
 
 Crowe’s father was a wine merchant and ran a coffee house in London where his customers included Lord Byron.  ‘Stevens’s Coffee House’ had a reputation for association with ‘free-traders’ (pirates or smugglers in more common parlance) and this is a theme that runs through many of Crowe’s novels, particularly in relation to Kent.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3c/Byron_1813_by_Phillips.jpg" label="Lord Byron, 1813" attribution="Thomas Phillips, Public domain, via Wikimedia Commons">
