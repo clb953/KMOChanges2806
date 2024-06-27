@@ -17,7 +17,9 @@
 <param ve-entity eid="Q967304"> <!-- Birds of Australia -->
 
 <!-- Base map centred on Canterbury -->
-<param ve-map center="Q29303" zoom="12">
+<!-- param ve-map center="Q29303" zoom="12" -->
+<!-- Base map centred on Stourmouth -->
+<param ve-map center="Q5220240" zoom="11">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="bd3bb7d13a5d0a88" title="Moule 1850">
