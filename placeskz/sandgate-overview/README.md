@@ -15,6 +15,8 @@
 
 Sandgate, a coastal village near the outskirts of Folkestone, has been hailed as the 'author's haven of repose' and can claim association with several well-known authors.[^ref1] 
 <param ve-image url="https://stor.artstor.org/stor/04780929-4966-4142-b325-12a69d7ab094" label="English's Guide to Folkestone, Sandgate, Hythe">
+<!-- Base map centred on Sandgate -->
+<param ve-map center="Q1000312" zoom="12">
 
 Ann Thicknesse (1737-1824) author of _Sketches of the Lives and Writings of the Ladies of France_ which she "Addressed to Mrs [Elizabeth Carter](/18c/18c-carter-biography) moved to Sandgate in 1789 where she enjoyed a house with a sea view.
 <br><br>
