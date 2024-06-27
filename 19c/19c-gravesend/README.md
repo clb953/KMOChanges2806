@@ -5,7 +5,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 <param ve-entity eid="Q676689" aliases="Gravesend">
 
 <!-- Base map centred on Gravesend -->
-<param ve-map center="Q676689" zoom="11.25">
+<param ve-map center="Q676689" zoom="11.5">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="bd3bb7d13a5d0a88" title="Moule 1850">
