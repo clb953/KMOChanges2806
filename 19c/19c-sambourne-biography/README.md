@@ -28,7 +28,6 @@ Punch, 1888
 
 Edward Linley Sambourne, cartoonist, began his career as a marine draughtsman at Messrs Penn and Sons of Greenwich. In 1867 he sent a few of his drawings to Mark Lemon, the editor of _Punch_ who encouraged him to take art lessons; he joined the magazine in 1871. Sambourne was a talented artist, creating satirical portraits of some of the leading figures of the day, including [Charles Darwin](/19c/19c-darwin-biography).
 
-
 A few years after joining the magazine, Sambourne inherited money from his aunt, enabling him to marry Marion Herapath at St Peter’s Church, Thanet in 1874. His bride was the daughter of Spencer Herapath, a wealthy London stockbroker who had built Westwood Lodge as a holiday home. The wedding attracted visitors from London and 'a more imposing and pretty wedding has never been witnessed in the Isle of Thanet.' Special trains brought the visitors to [Broadstairs](/dickens/broadstairs-19th-century) station which was decorated with evergreens and flowers.[^ref2]  [Francis Burnand](/19c/19c-burnand-biography), one of the illustrators and later editor at _Punch_, who lived in [Ramsgate](/19c/19c-ramsgate), attended the wedding. He and his wife were to become lifelong friends of the couple. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/41/St_Peters_Church%2C_Broadstairs.jpg" label="St Peter's Church, Broadstairs" attribution="Graham Pritchard, CC BY-SA 2.0, via Wikimedia Commons">
 <param ve-map center="Q301744" zoom="10">
