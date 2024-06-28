@@ -7,6 +7,8 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q1000312" aliases="Sandgate">
 <param ve-entity eid="Q2287962" aliases="Cliffsend">
+<param ve-entity eid="Q179224" aliases="Dover">
+
 
 <!-- Base map centred on Chilham -->
 <!-- param ve-map center="Q1004824" zoom="10" -->
@@ -22,6 +24,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 <br>
 _Kitty’s Engagement_, 1895.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/4b/Hythe_seafront_-_geograph.org.uk_-_1960795.jpg" label="Hythe seafront" attribution="E Gammie, CC BY-SA 2.0, via Wikimedia Commons">
+<param ve-map center="Q179224" zoom="12">
 
 Florence Warden (16 May 1857 – 11 May 1929), actor and writer lived at St Mildred’s Road, Ramsgate and later Beach House, [Sandgate](/placesqz/sandgate-overview) during the late nineteenth century. Born Florence Alice Price, the daughter of stockbroker Charles Price, she had a privileged childhood, brought up 'in affluence and luxury'[^ref1] and educated by governesses, however, when her father’s business failed, she and her sister Gertrude were thrown upon their own resources. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7e/Portret_van_Florence_Warden%2C_RP-F-2001-7-1358E-15.jpg" label="Portrait of Florence Warden" attribution="Rijksmuseum, CC0, via Wikimedia Commons">
