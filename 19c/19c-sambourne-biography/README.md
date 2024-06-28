@@ -12,7 +12,7 @@
 <param ve-entity eid="Q375314" aliases="Folkestone">
 
 <!-- Basemap centred on Badlesmere -->
-<param ve-map center="Q301744" zoom="10">
+<!-- param ve-map center="Q301744" zoom="10" -->
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map">
