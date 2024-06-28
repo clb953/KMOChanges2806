@@ -1,4 +1,5 @@
-<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+
 <param ve-config title="Edward Linley Sambourne (1844-1910)" author="Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" Description="Visual essay tracing 19C Punch satirical cartoonist Edward Linley Sambourne and his wife's lifelong relationship with the artistic and literary circle in Kent.">
 
 <param ve-entity eid="Q693450" aliases="Greenwich">
@@ -12,11 +13,11 @@
 
 <!-- Basemap centred on Badlesmere -->
 <param ve-map center="Q301744" zoom="10">
+
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map">
 
-
-<!--#-->
+#
  
 _‘Where’s Ramsgate/ Where I’ve often seen   
 Both S-MB-RNE and DU M-R-ER,   
@@ -26,7 +27,7 @@ Punch, 1888
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/64/Edward_Linley_Sambourne%2C_self_portrait_1891.png" label="Edward Linley Sambourne" attribution="Public domain, via Wikimedia Commons">
 
 Edward Linley Sambourne, cartoonist, began his career as a marine draughtsman at Messrs Penn and Sons of Greenwich. In 1867 he sent a few of his drawings to Mark Lemon, the editor of _Punch_ who encouraged him to take art lessons; he joined the magazine in 1871. Sambourne was a talented artist, creating satirical portraits of some of the leading figures of the day, including [Charles Darwin](/19c/19c-darwin-biography).
-<param ve-map center="Q693450" zoom="12">
+
 
 A few years after joining the magazine, Sambourne inherited money from his aunt, enabling him to marry Marion Herapath at St Peter’s Church, Thanet in 1874. His bride was the daughter of Spencer Herapath, a wealthy London stockbroker who had built Westwood Lodge as a holiday home. The wedding attracted visitors from London and 'a more imposing and pretty wedding has never been witnessed in the Isle of Thanet.' Special trains brought the visitors to [Broadstairs](/dickens/broadstairs-19th-century) station which was decorated with evergreens and flowers.[^ref2]  [Francis Burnand](/19c/19c-burnand-biography), one of the illustrators and later editor at _Punch_, who lived in [Ramsgate](/19c/19c-ramsgate), attended the wedding. He and his wife were to become lifelong friends of the couple. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/41/St_Peters_Church%2C_Broadstairs.jpg" label="St Peter's Church, Broadstairs" attribution="Graham Pritchard, CC BY-SA 2.0, via Wikimedia Commons">
