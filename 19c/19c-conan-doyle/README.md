@@ -1,4 +1,5 @@
-<a href="https://juncture-digital.org"><img src="https://juncture-digital.org/images/ve-button.png"></a>
+[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+
 <param ve-config title="Sir Arthur Conan Doyle (1859-1930)" author="Professor Carolyn Oulton" layout="vtl" banner="/images/banners/19c.jpg" discription="Kent railway stations play crucial roles in several of Sir Arthur Conan Doyle's books. This visual essay further explores Conan Doyle’s connection to the county.">
 
 <param ve-entity eid="Q736439" aliases="Ramsgate">
