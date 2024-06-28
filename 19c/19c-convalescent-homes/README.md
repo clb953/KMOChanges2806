@@ -1,11 +1,16 @@
-<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+
 <param ve-config title="Convalescent Homes" author="Hosanna Krienke" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Hosanna Krienke discusses the introduction and development of 19th century convalescent homes which were especially important for industrial worker recovery.">
 
+<!-- Global Entities -->
 <param ve-entity eid="Q936183" aliases="Tonbridge">
 <param ve-entity eid="Q1020364" aliases="Swanley">
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q1000312" aliases="Sandgate">
 <param ve-entity eid="Q736439" aliases="Ramsgate">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map">
 
 #
 
