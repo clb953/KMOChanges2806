@@ -1,6 +1,8 @@
-<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+
 <param ve-config title="George Grossmith (1847-1912)" author="Professor Carolyn Oulton" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Carolyn Oulton follows the Kent exploits of George Grossmith, actor, theatrical manager and his brother Weedon.">
 
+<!-- Global Entities -->
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q922739" aliases="Broadstairs">
 <param ve-entity eid="Q2912867" aliases="the station">
@@ -9,6 +11,7 @@
 
 <!-- Basemap centred on Canterbury -->
 <param ve-map center="Q29303" zoom="10">
+
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map">
 
