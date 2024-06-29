@@ -56,7 +56,7 @@ It was not in poetry but in two prose works that Austin made his ‘nearest appr
 
 [Robert Barr](19c-barr-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/e2/In_the_midst_of_alarms_by_Robert_Barr_LCCN2015645365.jpg) 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/blob/main/thumbnails/19C_Robert_Barr_Book_Cover.JPG)
 
 In December 1889 the local journal Folkestone Visitors’ List and Society Journal (based in Tontine Street) reported excitedly that the humourist Robert Barr of the Detroit Free Press had just arrived in London and was planning an extended stay in Folkestone.
 
