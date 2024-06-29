@@ -1,6 +1,8 @@
-<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+
 <param ve-config title="Edith Nesbit (1858-1924)" author="Eleanor Fitzsimons" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
+<!-- Global Entity -->
 <param ve-entity eid="Q2035885" aliases="Halstead">
 <param ve-entity eid="Q1227477" aliases="Penshurst">
 <param ve-entity eid="Q797782" aliases="Medway">
@@ -8,6 +10,14 @@
 <param ve-entity eid="Q7594245" aliases="St Mary’s Bay">
 <param ve-entity eid="Q939838" aliases="Sevenoaks">
 <param ve-entity eid="Q7594628" aliases="St Mary in the Marsh">
+
+<!-- Base map centred on Canterbury -->
+<!-- param ve-map center="Q29303" zoom="10" -->
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map">
+
+#
 
 **Places:** Halstead, Penshurst, Medway, Dymchurch, St Mary’s Bay 
 <br><br>
