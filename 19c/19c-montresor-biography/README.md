@@ -1,12 +1,22 @@
-<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
+
 <param ve-config title="F. F. Montrésor (1862-1934)" author="Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
+<!-- Global Entities -->
 <param ve-entity eid="Q2551894" aliases="Walmer">
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q26621114" aliases="Denne Hill">
 <param ve-entity eid="Q1003196" aliases="Sheerness">
 <param ve-entity eid="Q2784912" aliases="River">
 <param ve-entity eid="Q950970" aliases="Dover Castle">
+
+<!-- Base map centred on Canterbury -->
+<param ve-map center="Q29303" zoom="10">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map">
+
+#
 
 Romance novelist Frances Frederica (Freda) Montrésor was born at Walmer on 23 September 1862. Freda was the fourth daughter of Commodore Frederick Byng Montrésor and Emily Maria Montrésor (née Delafield) who lived first at <span data-mouseover-image-zoomto="411,989,433,171"> Glen Hill</span> (The Glen) and later <span data-mouseover-image-zoomto="243,535,961,342">The Lawn</span>, Upper Walmer. Her father was Commander in Chief of the East Indies & Cape of Good Hope Station and later rose to the rank of Admiral. He retired in 1870 and his memoirs _Leaves from Memory’s Log Book...'_ were published on his death in 1887. Her mother was related to Matthew Arnold, whose poem 'Dover Beach' was published in 1867. The Montrésors were considerably wealthy and owned a property in Gloucester Square, Kensington, only spending part of their year in Kent.  
 <param ve-image url="https://stor.artstor.org/stor/09984bd4-0c72-4c5b-b55b-26fb8112debd" label="Upper Walmer" attribution="Ward Lock's Dover and South East Kent, c.1920s">
