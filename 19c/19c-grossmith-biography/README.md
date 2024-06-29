@@ -21,8 +21,7 @@ AUGUST 20.— 'I am glad our last day at the seaside was fine, though clouded ov
 <br><br>
 George Grossmith was an actor and theatrical manager, producer and director. But his lasting contribution to literature is the comic _Diary of a Nobody_, written with his brother Weedon Grossmith. The book was first published in volume form and with illustrations, in 1892. But the original version was serialised in _Punch_ between 1888 and 1889 under the editorship of [F. C. Burnand](/19c/19c-burnand-biography), making it a direct rival to [Jerome K. Jerome](/19c/19c-jerome-biography)’s 1889 _Three Men in a Boat_. The Grossmiths’ comic creation Charles Pooter (the eponymous ‘nobody’) lives in the London suburbs, but gives a typically methodical account of his holiday in [Broadstairs](/dickens/broadstairs) with his wife Caroline and their son the self-named Lupin.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2d/Weedon-and-George-Grossmith.jpg" label="Weedon and George Grossmith" attribution="Public domain, via Wikimedia Commons">
-<param ve-map center="Q618045" zoom="13">
-<param ve-map center="Q922739" zoom="13">
+<param ve-map center="Q9033431" zoom="12">
 
 He begins enthusiastically enough, noting that he has secured ‘Very nice apartments near the station. On the cliffs they would have been double the price. The landlady had a nice five o'clock dinner and tea ready, which we all enjoyed, though Lupin seemed fastidious because there happened to be a fly in the butter.’
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d4/From_the_cliffs%2C_Broadstairs%2C_England-LCCN2002696430.jpg" label="From the cliffs, Broadstairs, England-LCCN2002696430.jpg" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
