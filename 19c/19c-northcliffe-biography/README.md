@@ -26,14 +26,14 @@ Harmsworth was known for his generosity to local causes. He was one of the organ
 <br>
 From 1894-97 Harmsworth also funded the Jackson-Harmsworth Arctic expedition, including [Dover](/19c/19c-dover) resident [Dr Reginald Koettlitz](/19c/19c-koettlitz-biography).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7e/Mrs_Alfred_Charles_William_Harmsworth.jpg" label="Mrs Alfred Charles William Harmsworth" attribution="Lafayette studio, London, via Wikimedia Commons" license="CC BY-SA 4.0">
-<param ve-map center="Q922739" zoom="12.5">
+<param ve-map center="Q922739" zoom="13">
 
 He was not sympathetic to every campaign, and in October 1912 [Winston Churchill](/20c/20c-churchill-chartwell) wrote to thank him for ‘a stick with which he could protect himself from the suffragettes.’  However, Harmsworth’s relations with Churchill and other politicians were often strained, particularly during WW1, when he used his newspapers to critique military and political policy (he was notably critical of Kitchener). He was influential enough to claim with some degree of credibility that the Germans were aiming at him personally when Elmwood was shelled by a warship in February 1917. While Harmsworth was unhurt, three people nearby were killed, including a baby.  Northcliffe reported to his Daily Mail staff that he was ‘used to being bombarded’ and pointed out that ‘this is nothing compared with the incidents endured all day long’ in France and Belgium. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/96/Daily_Mail_Zeppelin_Fund_WWI.jpg" label="Daily Mail Zeppelin Fund WW1" attribution="Daily Mail, Public domain, via Wikimedia Commons">
 
 During a prolonged bout of flu, which lasted for 9 weeks in the spring of 1918, he continued his newspaper propaganda from Broadstairs.  At around the same time he recruited [H. G. Wells](/20c/20c-wellshg-biography) to his ministry of propaganda in London, although this friendship also failed to survive the war years.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b6/H.G._Wells_LCCN2014713431.jpg" label="H.G. Wells" attribution="Bain News Service, publisher, Public domain, via Wikimedia Commons">
-<param ve-map center="Q922739" zoom="12.5">
+<param ve-map center="Q922739" zoom="13">
 
 A controversial figure in his own lifetime, Lord Northcliffe opposed women’s suffrage but ‘paid high salaries to female writers before anyone else in Fleet Street’; was ‘a prominent proponent of family values who kept a series of mistresses’;  funded local causes including orphanages and the Dover Patrol memorial, as well as founding the Imperial Paper Mills in [Gravesend](/placesej/gravesend-overview/), which operated until the 1980s,  while ruthlessly sacking pressmen he felt to be inadequate. Regardless of these inconsistencies, he is widely acknowledged as [‘Britain’s greatest press baron’]( https://www.amazon.co.uk/Chief-Northcliffe-Britains-Greatest-Press/dp/B09TWVMQVJ).
 <br><br>
