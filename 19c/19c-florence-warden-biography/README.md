@@ -29,8 +29,8 @@ _Kitty’s Engagement_, 1895.
 
 Florence Warden (16 May 1857 – 11 May 1929), actor and writer lived at St Mildred’s Road, Ramsgate and later Beach House, [Sandgate](/placesqz/sandgate-overview) during the late nineteenth century. Born Florence Alice Price, the daughter of stockbroker Charles Price, she had a privileged childhood, brought up 'in affluence and luxury'[^ref1] and educated by governesses, however, when her father’s business failed, she and her sister Gertrude were thrown upon their own resources. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7e/Portret_van_Florence_Warden%2C_RP-F-2001-7-1358E-15.jpg" label="Portrait of Florence Warden" attribution="Rijksmuseum, CC0, via Wikimedia Commons">
-<!-- Base map centred on Cliffsend -->
-<param ve-map center="Q2287962" zoom="11.75">
+<!-- Base map centred on Minster -->
+<param ve-map center="Q9033431" zoom="12">
 
 Both sisters obtained positions as governesses, and in her spare time Florence began writing short stories and novelettes, however Florence quickly tired of her life as a governess: 'it’s consistent dulness [sic], embittered by constant failure with my pen' [^ref2] and after two years, both she and her sister took up acting, against the advice of their friends.  Adopting the stage names Florence and Gertrude Warden, they worked at the Haymarket and Vaudeville theatres and also toured the provinces, living in digs together in Marylebone.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/TheGovernessRebeccaSolomon.jpg" label="The Governess, Rebecca Solomon c.1851" attribution="Rebecca Solomon, Public domain, via Wikimedia Commons">
