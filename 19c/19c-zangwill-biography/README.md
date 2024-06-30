@@ -29,7 +29,7 @@ _‘Without Prejudice’_, 1893
 
 The Jewish author Israel Zangwill’s first recorded encounter with Kent dates to a holiday in Thanet in 1881 when he was sixteen. The future author of _Children of the Ghetto_ ‘was wandering about the [Ramsgate](/19c/19c-ramsgate) sands’[^ref1]  when he spotted a writing competition, advertised in an abandoned issue of _Society_ magazine. Years later he was delighted to be told by the judge that a number of well-known authors had entered against his winning story ‘Professor Grimmer’.[^ref2] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f6/Sands_Ramsgate_England.jpg" label="The Sands at Ramsgate, c.1890-1900" attribution="Snapshots Of  The Past, CC BY-SA 2.0, via Wikimedia Commons">
-<param ve-map center="Q736439" zoom="13">
+<param ve-map center="Q736439" zoom="12.5">
 
 As an adult Zangwill was less enraptured with the town; in ‘Without Prejudice’, his regular  column for the _Pall Mall Magazine_, he jocosely repeated a story going round the clubs in 1893 that an ill-starred [Henry James](/19c/19c-jamesh-hever-castle) had gone there to find some ‘peace’.[^ref3]  He was still less impressed by neighbouring [Margate](/19c/19c-margate):
 <br><br>
