@@ -7,7 +7,7 @@
 <param ve-entity eid="Q179224" aliases="Dover">
 
 <!-- Base map centred on Manston -->
-<param ve-map center="Q2779399" zoom="12">
+<!-- param ve-map center="Q2779399" zoom="12" -->
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map">
