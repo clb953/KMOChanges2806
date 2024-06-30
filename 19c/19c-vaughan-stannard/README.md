@@ -15,7 +15,7 @@
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map">
 
-<!--#-->
+#
 
 Henrietta Eliza Vaughan Stannard (née Palmer; 1856–1911) John Strange Winter [pseud.], was born in Yorkshire, the daughter of Henry Vaughan Palmer, a cavalry officer turned clergyman. She was a popular novelist who wrote approximately 112 books and contributed 42 short stories to the _Family Herald_ under the pseudonym of 'Violet Whyte'. 
 <param ve-image url="https://stor.artstor.org/stor/d950857f-269b-47fe-b42a-cc488f3eccd7" label="John Strange Winter" attribution="Photo London Stereo">
@@ -26,7 +26,7 @@ Like [Edith Katherine Spicer Jay]( /19c/19c-spicer-jay-biography/), Stannard wro
 After the success of her first novel, Henrietta continued to write military tales, including the popular novel _Bootles Baby_ (1885) which sold two million copies within the first ten years of its publication and was adapted for stage. It was at around this time that she attracted the admiration of the writer and art critic, John Ruskin. Henrietta had written to Ruskin thanking him for a lecture which he had given which had inspired a 'thoroughness' in her writing. (She had rewritten _Bootles Baby_ nine times before she was satisfied with it).[^ref3]  On reading the letter, Ruskin invited Henrietta with her husband Arthur, to visit him in [Sandgate](/placesqz/sandgate-overview) where he was staying in 1887. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fe/Minnie_Terry_as_Mignon_and_C.W._Garthorne_as_Captain_Lucy_in_Bootles%27_Baby.png" label="Minnie Terry as Mignon and C.W. Garthrone as Captain Lucy in Bootles Baby" attribution="V and A Collections, via Wikimedia Commons">
 <!--Basemap centred on Sandgate -->
-<param ve-map center="Q1000312" zoom="10">
+<param ve-map center="Q1000312" zoom="13">
 
 During the Stannards' visit, Ruskin, who was suffering from depression, became angry about British armaments and decided to write a letter about the topic to the _Daily Telegraph_. He asked Henrietta to supply him with figures on the number of 'bayonets that twisted, and the swords that snapped'. Henrietta said in an interview for _The Young Woman_ magazine years later: 'I didn’t know what to do, and nearly had a fit; I didn’t know anything about statistics.'[^ref4]  The following day, 'after a warm controversy', Ruskin decided not to write about armaments.[^ref5] He wrote instead about Henrietta describing her as 'the author to whom we owe the most finished and faithful rendering ever yet given of the character of the British soldier'.[^ref6] The two stuck up a friendship and Stannard, who was pregnant with twins at the time of her visit, asked Ruskin to be their godfather.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/54/John_Ruskin%2C_by_Herbert_Rose_Barraud.jpg" label="Portrait of John Ruskin by Herbert Rose Barraud, 1885" attribution="Public domain, via Wikimedia Commons">
