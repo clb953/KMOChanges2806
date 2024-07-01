@@ -79,7 +79,7 @@ Sala also visited [Canterbury](/19c/19c-canterbury) and [Sandgate](/placesqz/san
 This article was published: 13 November 2021.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2a/GeorgeAugustusSala1828-1895.jpg" label="George Augustus Sala" attribution="Allister  via Wikimedia Commons" license="CC BY 2.0">
 <!-- Basemap centred on Folkstone -->
-<param ve-map center="Q375314" zoom="12">
+<param ve-map center="Q375314" zoom="11">
 
 ### Bibliography
 
