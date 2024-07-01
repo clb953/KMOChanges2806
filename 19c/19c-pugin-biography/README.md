@@ -10,7 +10,7 @@
 <!-- param ve-map center="Q736439" zoom="11" -->
 
 <!-- Base map centred on Goodnestone -->
-<param ve-map center="Q2195317" zoom="10.75">
+<!-- param ve-map center="Q2195317" zoom="10.75" -->
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="bd3bb7d13a5d0a88" title="Moule 1850">
