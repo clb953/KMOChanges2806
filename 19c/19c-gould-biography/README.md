@@ -1,5 +1,4 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-
 <param ve-config title="Elizabeth Gould (1804-1841)" author="Carina Chan" banner="https://i.imgur.com/pCvk1td.jpg" layout="vertical" description="Carina Chan details the life and work of ornithological illustrator and Kent native, Elizabeth Gould.">
   
 <!-- Global Entities -->
@@ -19,7 +18,7 @@
 <!-- Base map centred on Canterbury -->
 <!-- param ve-map center="Q29303" zoom="12" -->
 <!-- Base map centred on Stourmouth -->
-<param ve-map center="Q5220240" zoom="11">
+<!-- param ve-map center="Q5220240" zoom="11" -->
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="bd3bb7d13a5d0a88" title="Moule 1850">
