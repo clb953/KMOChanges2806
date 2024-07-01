@@ -16,6 +16,8 @@
 <param ve-entity title="Ramsgate" eid="Q736439">
 <param ve-entity title="Broadstairs" eid="Q922739">
 <param ve-entity title="Folkestone" eid="Q375314">
+<param ve-entity title="Margate" eid="Q618045">
+<param ve-entity title="Canterbury" eid="Q29303">
 
 <!-- Base map starting position centred on Canterbury -->
 <param ve-map center="Q29303" zoom="10">
@@ -45,17 +47,20 @@ In October 1850, [Dickens](/dickens) was writing the last pages of [_David Coppe
        description="A portrait of Dickens, between 1867 and 1868" 
        license="Public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Dickens_Gurney_head.jpg">
-<param ve-map center="Q1752642" zoom="11">
+<!-- Base map centred on Ramsgate -->     
+<param ve-map center="Q1752642" zoom="12">
 
 Like [Dickens](/dickens), Burdett-Coutts clearly felt an affection for the seascape of Thanet, and she would have been aware of the perils caused by the notorious [Goodwin Sands](/dickens/david-copperfield-goodwin-sands). In 1859 she presented the people of [Margate](/19c/19c-margate) with a lifeboat, which arrived by train and was duly processed through the town under the protection of her secretary ([Dickens](/dickens)’s former editor W. H. Wills), accompanied by the town crier and members of the corporation, with a banner announcing the donation of the ‘Angela and Hannah'.[^ref5]
 <param ve-image url="https://stor.artstor.org/stor/6fbd0fc9-b2ce-421e-98e7-36cd1e89a92f" label="The Goodwin Sands image from Heroes of the Goodwin Sands" attribution="by Thomas Stanley Treanor, 1904">
-<param ve-map center="Q1752642" zoom="11">
+<!-- Base map centred on Margate -->   
+<param ve-map center="Q1752642" zoom="12">
 
 Burdett-Coutts would return to Kent in person in 1881 on her marriage to the 29 year old William Bartlett, who then became William Burdett-Coutts-Bartlett. The newspapers stuck closely to the more conventional aspects of this union, noting that the newly married pair went to Ashford Church, where the bride was ‘affable, and talked to everybody she met there. Late in the afternoon the Baroness and her husband left for [Canterbury](/19c/19c-canterbury)’ so that she could be closer to her medical attendant (‘Local intelligence’), before spending the rest of the honeymoon at Bartlett’s home of Ingledon in Ashford.
 <br><br>
 In her lifetime Angela Burdett-Coutts ‘set a new standard in philanthropy: prompt and practical, her charity was given with style and without condescension.’[^ref6] On her death 5 years after [Queen Victoria](/19c/19c-victoria-biography), she was buried in Westminster Abbey, becoming once again a near neighbour of [Dickens](/dickens).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cd/St_Mary%2C_Ashford%2C_June_2021.jpg" label="St Mary's, Ashford" attribution="Poliphilo, CC0, via Wikimedia Commons">
-<param ve-map center="Q725261" zoom="12">
+<!-- Base map centred on Canterbury -->   
+<param ve-map center="Q29303" zoom="12">
 
 ### Bibliography
 Andersen, Jens. _Hans Christian Andersen: A New Life_. London: Duckworth, 2005.   
