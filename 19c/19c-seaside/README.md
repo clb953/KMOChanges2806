@@ -14,6 +14,7 @@ description="Prof. Carolyn Oulton traces the begins of seaside holidays from the
 
 <!-- Kent basemap starting position whole of county centred on Lenham -->
 <param ve-map center="Q28339447" zoom="10">
+
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent Ordnance Survey 1860">
 
