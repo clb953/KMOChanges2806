@@ -64,7 +64,7 @@ After further delays as he hides from ‘any of these people’ coming towards h
 On his arrival in [Dover](/dickens/dickens-dover) on the sixth day of his journey, David is immediately reminded of the obstacles that his unkempt condition has placed between himself and the sanctuary he is trying to attain. His appearance is not prepossessing and he struggles to be taken seriously by the townspeople:
 <br><br>
 'I inquired about my aunt among the boatmen first, and received various answers. One said she lived in the South Foreland Light, and had singed her whiskers by doing so; another, that she was made fast to the great buoy outside the harbour, and could only be visited at half-tide; a third, that she was locked up in Maidstone jail for child-stealing; a fourth, that she was seen to mount a broom in the last high wind, and make direct for Calais. The fly-drivers, among whom I inquired next, were equally jocose and equally disrespectful; and the shopkeepers, not liking my appearance, generally replied, without hearing what I had to say, that they had got nothing for me'.
-<param ve-map center="Q179224" zoom="13">
+<param ve-map center="Q179224" zoom="12.5">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/de/David_reaches_Canterbury%2C_from_David_Copperfield_art_by_Frank_Reynolds.jpg" label="David reaches Canterbury" attribution="Artwork by Frank Reynolds (1876-1853), Public domain, via Wikimedia Commons">
  
 Symbolically David is sitting on the doorstep of an empty shop at the corner of the marketplace when a fly driver finally takes pity on him and directs him to ‘the heights’ where his aunt lives. It is the driver’s charitable offering of a penny that allows David to make his last meal of a loaf of bread[^ref1].
@@ -89,7 +89,7 @@ Towards the end of the novel the Micawbers will anticipate Pip’s journey downr
 Only once, in a desperate bid to avoid a tête á tête with Uriah, does David strike out in a new direction on the [Ramsgate](/19c/19c-ramsgate) road. His failure to reference Thanet seems peculiar given its accessibility from [Canterbury](/dickens/david-copperfield-canterbury) and [Dickens](/dickens/dickens-biography)’s own love of the sea – indeed parts of the novel were written in [Fort House](dickens-fort-house) in [Broadstairs](/dickens/broadstairs). But beyond the pages of the novel itself David is keeping another secret – while his donkey-loathing aunt ostensibly lives in [Dover](/dickens/dickens-dover), the inspiration for her cottage is to be found in [2 Nuckell’s Place](/dickens/david-copperfield-nuckells-place) (now the [Dickens House Museum](https://www.visitkent.co.uk/attractions/dickens-house-museum-1999/)) in 
 [Broadstairs](/dickens/broadstairs). If David ultimately succeeds in working out where home is, this is not a secret he is prepared to share with the reader.
 <!-- Map centred on Minster, NE Kent -->
-<param ve-map center="Q9033431" zoom="12">
+<param ve-map center="Q9033431" zoom="11.5">
 
 
 ### References
