@@ -1,9 +1,10 @@
-<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+<a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config
        title="David Copperfield - a curated walk" 
        banner="https://raw.githubusercontent.com/kent-map/images/main/dickens/David_Copperfield_banner.jpg"
        author="Ken Moffat and Carolyn W. de la L. Oulton"
-       layout="vtl">
+       layout="vtl"
+       description="Ken Moffat and Carolyn Oulton present a journey through the Kent places featured in Dicken's David Copperfield.">
 
 <!-- Global entities -->
 <param title="Agnes Wickfield" article="Agnes_Wickfield">
@@ -28,10 +29,11 @@
 <param title="Traddles" article="Traddles">
 <param title="Uriah Heep" article="Uriah_Heep">
 
+<!-- Base map default centred on Chatham --> 
 <param ve-map center="Q729006" zoom="12">
 
 <!-- Historical map layers --> 
-<param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent Ordnance Survey 1860">
+<param ve-map-layer active allmaps allmaps-id="d93beb8a7cb608af" title="Kent Ordnance Survey 1860">
 
 #
 
@@ -76,8 +78,6 @@ Towards the end of the novel the Micawbers will anticipate Pip’s journey downr
 
 Only once, in a desperate bid to avoid a tête á tête with Uriah, does David strike out in a new direction on the [Ramsgate](/19c/19c-ramsgate) road. His failure to reference Thanet seems peculiar given its accessibility from [Canterbury](/dickens/david-copperfield-canterbury) and [Dickens](/dickens/dickens-biography)’s own love of the sea – indeed parts of the novel were written in [Fort House](dickens-fort-house) in [Broadstairs](/dickens/broadstairs). But beyond the pages of the novel itself David is keeping another secret – while his donkey-loathing aunt ostensibly lives in [Dover](/dickens/dickens-dover), the inspiration for her cottage is to be found in [2 Nuckell’s Place](/dickens/david-copperfield-nuckells-place) (now the [Dickens House Museum](https://www.visitkent.co.uk/attractions/dickens-house-museum-1999/)) in 
 [Broadstairs](/dickens/broadstairs). If David ultimately succeeds in working out where home is, this is not a secret he is prepared to share with the reader.
-
-Find more open access articles associated with _David Copperfield_ through the JSTOR Understanding series [here](https://www.jstor.org/understand/work/david-copperfield).
 
 ### References
 
