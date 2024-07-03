@@ -28,7 +28,7 @@ Andersen visited [Charles Dickens](/dickens/dickens-biography) at his [Gads Hill
 
 Andersen had visited Kent before, staying with Dickens’s publisher Richard Bentley in Sevenoaks and visiting Knowle House and Chevening Church, as well as visiting Dickens in [Broadstairs](/dickens/broadstairs-19th-century) in 1847. Bentley describes Andersen’s love of “the glorious sylvan scenery” surrounding his house, prized above the man-made architecture of the church. Bentley’s description, included in Andersen’s recollections, portrays Andersen as a thoughtful man of simple pleasures, at odds with the descriptions of Andersen as eccentric and awkward which characterise Dickens’s own letters. [Gad’s Hill Place](/dickens/dickens-gads-hill) features a note pinned to the wall declaring Hans (Christian) Andersen slept in this room for five weeks – which seemed to the family AGES! 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/47/Knowle_Lake_-_geograph.org.uk_-_1843108.jpg" label="Knowle Lake" attribution="Derek Harper, via Wikimedia Commons" license="CC-BY-SA 2.0">
-<param ve-map center="Q939838" zoom="13">
+<param ve-map center="Q6906313" zoom="13">
 
 ### References
 
