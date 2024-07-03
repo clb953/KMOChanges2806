@@ -49,17 +49,17 @@ Neither David nor Pip ever quite gets the hang of making journeys without being 
 [_Great Expectations_](/dickens/great-expectations-curated-walk)_ would not be written until 1861, but it is set at around the same period as _David Copperfield_, roughly the time of Dickens’s own move from [Chatham](/dickens/dickens-chatham) to London. The reader is therefore free to imagine David crossing the path taken by both Pip and Dickens, as he leaves Salem House behind him and walks another twenty three miles, ‘coming over the bridge at [Rochester](/dickens/dickens-medway), footsore and tired, and eating bread that I had bought for supper.’ With a few pence left and in fear of the tramps he has met on the road (possibly discharged veterans of the Napoleonic Wars), he decides not to risk the cheap lodging houses, but instead elects to sleep rough, ‘toiling into [Chatham](/dickens/dickens-chatham), - which, in that night's aspect, is a mere dream of chalk, and drawbridges, and mastless ships in a muddy river, roofed like Noah's arks’, and lying down near a cannon in the vicinity of an oblivious sentry.
 <param ve-image url="https://stor.artstor.org/stor/b20551a2-aa18-453c-b464-69a72531d6ac" label="Bridge at Rochester">
 <!-- Base map default centred on Chatham --> 
-<param ve-map center="Q4949442" zoom="13">
+<param ve-map center="Q729006" zoom="13">
  
 It is in a [Chatham](/dickens/dickens-chatham) slop shop that David falls foul of ‘a dreadful old man to look at, in a filthy flannel waistcoat, and smelling terribly of rum’, who beats him down from half a guinea to eigteenpence for his jacket. Worse, when David asks for his money the proprietor utters a series of imprecations mainly consisting of 'Oh, my lungs and liver’ and ‘goroo’, finally wearing him down and giving only fourpence by the end of the day. The hapless boy spends threepence on refreshment and then limps on for a further seven miles. The message is clear: David must sacrifice caste in order to feed himself, but every time he does he further jeopardises his chance of recovering his lost position by making an impression on his formidable aunt. On the following day he is threatened by a tinker, who steals his neckerchief and gives him nothing in exchange. In another threat to his own innocence, David is forced to witness the tinker’s female companion being knocked down for trying to intervene.
 <!-- Base map default centred on Chatham --> 
 <param ve-map center="Q729006" zoom="13">
  
 After further delays as he hides from ‘any of these people’ coming towards him, David’s first sight of [Canterbury](/dickens/david-copperfield-canterbury) with its ‘sunny street’ and ‘stately, grey Cathedral shows a city that is at once peaceful and notably at odds with his own state. Where the city is ‘dozing’ in the heat, David himself is both dusty and quite possibly dehydrated. He cannot stay here – or not yet – and makes his way through the main street and down the [Dover Road](/dickens/david-copperfield-dover-road) (now the Old Dover Road) that leads directly on for another eighteen miles.
-<!-- Base map default centred on Chilham --> 
-<param ve-map center="Q1004824" zoom="10">
 <param ve-map-overlay geojson url="/geojson/david-copperfield-dover-road.json">
 <param ve-image url="https://stor.artstor.org/stor/360206a8-3604-42df-806f-0059dbbf2b85" label="The Micawbers at Canterbury">
+<!-- Base map default centred on Chilham --> 
+<param ve-map center="Q4949442" zoom="10">
 
 On his arrival in [Dover](/dickens/dickens-dover) on the sixth day of his journey, David is immediately reminded of the obstacles that his unkempt condition has placed between himself and the sanctuary he is trying to attain. His appearance is not prepossessing and he struggles to be taken seriously by the townspeople:
 <br><br>
