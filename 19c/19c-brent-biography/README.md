@@ -6,7 +6,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 
 <!-- Base map centred on Canterbury -->
-<param ve-map center="Q29303" zoom="12.5">
+<param ve-map center="Q29303" zoom="11">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="d8938ce88f3b83e4" title="Kent OS 1863">
