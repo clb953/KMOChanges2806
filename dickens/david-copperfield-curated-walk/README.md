@@ -30,7 +30,7 @@
 <param title="Uriah Heep" article="Uriah_Heep">
 
 <!-- Base map default centred on Chatham --> 
-<param ve-map center="Q729006" zoom="12">
+<!-- param ve-map center="Q729006" zoom="12" -->
 
 <!-- Historical map layers --> 
 <param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent os 1860">
