@@ -49,21 +49,22 @@ Neither David nor Pip ever quite gets the hang of making journeys without being 
 [_Great Expectations_](/dickens/great-expectations-curated-walk)_ would not be written until 1861, but it is set at around the same period as _David Copperfield_, roughly the time of Dickens’s own move from [Chatham](/dickens/dickens-chatham) to London. The reader is therefore free to imagine David crossing the path taken by both Pip and Dickens, as he leaves Salem House behind him and walks another twenty three miles, ‘coming over the bridge at [Rochester](/dickens/dickens-medway), footsore and tired, and eating bread that I had bought for supper.’ With a few pence left and in fear of the tramps he has met on the road (possibly discharged veterans of the Napoleonic Wars), he decides not to risk the cheap lodging houses, but instead elects to sleep rough, ‘toiling into [Chatham](/dickens/dickens-chatham), - which, in that night's aspect, is a mere dream of chalk, and drawbridges, and mastless ships in a muddy river, roofed like Noah's arks’, and lying down near a cannon in the vicinity of an oblivious sentry.
 <param ve-image url="https://stor.artstor.org/stor/b20551a2-aa18-453c-b464-69a72531d6ac" label="Bridge at Rochester">
 <!-- Base map default centred on Chatham --> 
-<param ve-map center="Q729006" zoom="12">
+<param ve-map center="Q729006" zoom="13">
  
 It is in a [Chatham](/dickens/dickens-chatham) slop shop that David falls foul of ‘a dreadful old man to look at, in a filthy flannel waistcoat, and smelling terribly of rum’, who beats him down from half a guinea to eigteenpence for his jacket. Worse, when David asks for his money the proprietor utters a series of imprecations mainly consisting of 'Oh, my lungs and liver’ and ‘goroo’, finally wearing him down and giving only fourpence by the end of the day. The hapless boy spends threepence on refreshment and then limps on for a further seven miles. The message is clear: David must sacrifice caste in order to feed himself, but every time he does he further jeopardises his chance of recovering his lost position by making an impression on his formidable aunt. On the following day he is threatened by a tinker, who steals his neckerchief and gives him nothing in exchange. In another threat to his own innocence, David is forced to witness the tinker’s female companion being knocked down for trying to intervene.
 <!-- Base map default centred on Chatham --> 
-<param ve-map center="Q729006" zoom="12">
+<param ve-map center="Q729006" zoom="13">
  
 After further delays as he hides from ‘any of these people’ coming towards him, David’s first sight of [Canterbury](/dickens/david-copperfield-canterbury) with its ‘sunny street’ and ‘stately, grey Cathedral shows a city that is at once peaceful and notably at odds with his own state. Where the city is ‘dozing’ in the heat, David himself is both dusty and quite possibly dehydrated. He cannot stay here – or not yet – and makes his way through the main street and down the [Dover Road](/dickens/david-copperfield-dover-road) (now the Old Dover Road) that leads directly on for another eighteen miles.
-<param ve-map center="Q29303" zoom="11">
+<!-- Base map default centred on Chilham --> 
+<param ve-map center="Q1004824" zoom="10">
 <param ve-map-overlay geojson url="/geojson/david-copperfield-dover-road.json">
 <param ve-image url="https://stor.artstor.org/stor/360206a8-3604-42df-806f-0059dbbf2b85" label="The Micawbers at Canterbury">
 
 On his arrival in [Dover](/dickens/dickens-dover) on the sixth day of his journey, David is immediately reminded of the obstacles that his unkempt condition has placed between himself and the sanctuary he is trying to attain. His appearance is not prepossessing and he struggles to be taken seriously by the townspeople:
 <br><br>
 'I inquired about my aunt among the boatmen first, and received various answers. One said she lived in the South Foreland Light, and had singed her whiskers by doing so; another, that she was made fast to the great buoy outside the harbour, and could only be visited at half-tide; a third, that she was locked up in Maidstone jail for child-stealing; a fourth, that she was seen to mount a broom in the last high wind, and make direct for Calais. The fly-drivers, among whom I inquired next, were equally jocose and equally disrespectful; and the shopkeepers, not liking my appearance, generally replied, without hearing what I had to say, that they had got nothing for me'.
-<param ve-map center="Q179224" zoom="11">
+<param ve-map center="Q179224" zoom="13">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/de/David_reaches_Canterbury%2C_from_David_Copperfield_art_by_Frank_Reynolds.jpg" label="David reaches Canterbury" attribution="Artwork by Frank Reynolds (1876-1853), Public domain, via Wikimedia Commons">
  
 Symbolically David is sitting on the doorstep of an empty shop at the corner of the marketplace when a fly driver finally takes pity on him and directs him to ‘the heights’ where his aunt lives. It is the driver’s charitable offering of a penny that allows David to make his last meal of a loaf of bread[^ref1].
@@ -72,12 +73,13 @@ Even when he finally finds the cottage his aunt’s servant, assuming that he is
 
 At this point David is assimilated into the Kent landscape, moving between [Dover](/dickens/dickens-dover) and [Canterbury,](/dickens/david-copperfield-canterbury) where he is put to school with Dr Strong and develops romantic attachments to a succession of young woman like the eldest Miss Larkins.
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/The_Eldest_Miss_Larkins_T00072-21.jpg" fit="contain" title="The Eldest Miss Larkins">
-<param ve-map center="Q29303" zoom="11">
+<!-- Base map default centred on Chilham --> 
+<param ve-map center="Q1004824" zoom="10">
 
 As a young man David will return triumphantly to London, where he duly engages in other rites of passage such as getting drunk with social superiors, failing to keep his lodgings in order and falling in love with his employer’s daughter. Like Pip he takes the coach on his visits to 
 [Canterbury](/dickens/david-copperfield-canterbury) to visit Agnes Wickfield, for whose sake he will triumphantly denounce Uriah Heep with the aid of Traddles and Mr Micawber. 
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/Heep_of_Infamy_M00002-10.jpg" Label="Uriah Heep">
-<param ve-map center="Q29303" zoom="11">
+<param ve-map center="Q29303" zoom="12">
 
 Towards the end of the novel the Micawbers will anticipate Pip’s journey downriver to [Gravesend](/19c/19c-gravesend). The night before Mr Micawber is inevitably arrested for debt and has to be baled out by David. But unlike Magwitch he is able to leave openly on the steamer from Hungerford Steps on his way to make his fortune in Australia. 
 
