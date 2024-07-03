@@ -45,7 +45,7 @@ Unlike Pip the blacksmith’s boy, who must learn to challenge what it really me
 <param ve-map-layer geojson active eid="dickens:dover-road" title="Dover Road" url="/geojson/david-copperfield-dover-road.json">
 
 Neither David nor Pip ever quite gets the hang of making journeys without being ripped off at every stage. Young as he is, David has already learned how to budget on the six or seven shillings a week he is paid by his stepfather’s firm of wine merchants. But at the outset of his journey he trusts himself to a boy with a donkey cart who promptly steals his luggage and most of his money. Having pawned his waistcoat for ninepence somewhere near Greenwich, he makes his way on foot to Blackheath and sleeps under a haystack near his old school Salem House. The next morning he ‘crept away from the wall as Mr. Creakle's boys were getting up, and struck into the long dusty track which I had first known to be the [Dover Road](/dickens/david-copperfield-dover-road) when I was one of them, and when I little expected that any eyes would ever see me the wayfarer I was now, upon it.’
-<param ve-map-overlay geojson url="/geojson/david-copperfield-dover-road.json">
+<param ve-map-layer geojson active eid="dickens:dover-road" title="Dover Road" url="/geojson/david-copperfield-dover-road.json">
 
 [_Great Expectations_](/dickens/great-expectations-curated-walk)_ would not be written until 1861, but it is set at around the same period as _David Copperfield_, roughly the time of Dickens’s own move from [Chatham](/dickens/dickens-chatham) to London. The reader is therefore free to imagine David crossing the path taken by both Pip and Dickens, as he leaves Salem House behind him and walks another twenty three miles, ‘coming over the bridge at [Rochester](/dickens/dickens-medway), footsore and tired, and eating bread that I had bought for supper.’ With a few pence left and in fear of the tramps he has met on the road (possibly discharged veterans of the Napoleonic Wars), he decides not to risk the cheap lodging houses, but instead elects to sleep rough, ‘toiling into [Chatham](/dickens/dickens-chatham), - which, in that night's aspect, is a mere dream of chalk, and drawbridges, and mastless ships in a muddy river, roofed like Noah's arks’, and lying down near a cannon in the vicinity of an oblivious sentry.
 <param ve-image url="https://stor.artstor.org/stor/b20551a2-aa18-453c-b464-69a72531d6ac" label="Bridge at Rochester">
@@ -88,8 +88,8 @@ Towards the end of the novel the Micawbers will anticipate Pip’s journey downr
 
 Only once, in a desperate bid to avoid a tête á tête with Uriah, does David strike out in a new direction on the [Ramsgate](/19c/19c-ramsgate) road. His failure to reference Thanet seems peculiar given its accessibility from [Canterbury](/dickens/david-copperfield-canterbury) and [Dickens](/dickens/dickens-biography)’s own love of the sea – indeed parts of the novel were written in [Fort House](dickens-fort-house) in [Broadstairs](/dickens/broadstairs). But beyond the pages of the novel itself David is keeping another secret – while his donkey-loathing aunt ostensibly lives in [Dover](/dickens/dickens-dover), the inspiration for her cottage is to be found in [2 Nuckell’s Place](/dickens/david-copperfield-nuckells-place) (now the [Dickens House Museum](https://www.visitkent.co.uk/attractions/dickens-house-museum-1999/)) in 
 [Broadstairs](/dickens/broadstairs). If David ultimately succeeds in working out where home is, this is not a secret he is prepared to share with the reader.
-<!-- Map centred on Nash Court, NE Kent -->
-<param ve-map center="Q26386990" zoom="11">
+<!-- Map centred on Minster, NE Kent -->
+<param ve-map center="Q9033431" zoom="12">
 
 
 ### References
