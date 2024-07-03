@@ -11,7 +11,7 @@
 <param ve-map center="Q729006" zoom="15">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="d93beb8a7cb608af" title="Kent os 1860">
+<param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent os 1860">
 
 #
 
