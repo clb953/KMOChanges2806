@@ -70,6 +70,7 @@ On his arrival in [Dover](/dickens/dickens-dover) on the sixth day of his journe
 Symbolically David is sitting on the doorstep of an empty shop at the corner of the marketplace when a fly driver finally takes pity on him and directs him to ‘the heights’ where his aunt lives. It is the driver’s charitable offering of a penny that allows David to make his last meal of a loaf of bread[^ref1].
 <br><br> 
 Even when he finally finds the cottage his aunt’s servant, assuming that he is a vagrant, is half inclined to send him away unannounced. But when the Murdstones are once again invited into what he hopes will become ‘home’, it is only to be summarily dismissed in a symbolic re-enactment of what they once did to the child[^ref2]. 
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/49/Canterbury_-_The_Buttermarket_-_geograph.org.uk_-_6444523.jpg" label="Canterbury - The Buttermarket" attribution="Photograph by Colin Park, CC BY-SA 2.0 via Wikimedia Commons">
 
 At this point David is assimilated into the Kent landscape, moving between [Dover](/dickens/dickens-dover) and [Canterbury,](/dickens/david-copperfield-canterbury) where he is put to school with Dr Strong and develops romantic attachments to a succession of young woman like the eldest Miss Larkins.
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/The_Eldest_Miss_Larkins_T00072-21.jpg" fit="contain" title="The Eldest Miss Larkins">
@@ -79,9 +80,11 @@ At this point David is assimilated into the Kent landscape, moving between [Dove
 As a young man David will return triumphantly to London, where he duly engages in other rites of passage such as getting drunk with social superiors, failing to keep his lodgings in order and falling in love with his employer’s daughter. Like Pip he takes the coach on his visits to 
 [Canterbury](/dickens/david-copperfield-canterbury) to visit Agnes Wickfield, for whose sake he will triumphantly denounce Uriah Heep with the aid of Traddles and Mr Micawber. 
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/Heep_of_Infamy_M00002-10.jpg" Label="Uriah Heep">
-<param ve-map center="Q29303" zoom="12">
+<param ve-map center="Q29303" zoom="13">
 
-Towards the end of the novel the Micawbers will anticipate Pip’s journey downriver to [Gravesend](/19c/19c-gravesend). The night before Mr Micawber is inevitably arrested for debt and has to be baled out by David. But unlike Magwitch he is able to leave openly on the steamer from Hungerford Steps on his way to make his fortune in Australia. 
+Towards the end of the novel the Micawbers will anticipate Pip’s journey downriver to [Gravesend](/19c/19c-gravesend). The night before Mr Micawber is inevitably arrested for debt and has to be baled out by David. But unlike Magwitch he is able to leave openly on the steamer from Hungerford Steps on his way to make his fortune in Australia.
+<!-- Map centred on Gravesend -->
+<param ve-map center="Q676689" zoom="13">
 
 Only once, in a desperate bid to avoid a tête á tête with Uriah, does David strike out in a new direction on the [Ramsgate](/19c/19c-ramsgate) road. His failure to reference Thanet seems peculiar given its accessibility from [Canterbury](/dickens/david-copperfield-canterbury) and [Dickens](/dickens/dickens-biography)’s own love of the sea – indeed parts of the novel were written in [Fort House](dickens-fort-house) in [Broadstairs](/dickens/broadstairs). But beyond the pages of the novel itself David is keeping another secret – while his donkey-loathing aunt ostensibly lives in [Dover](/dickens/dickens-dover), the inspiration for her cottage is to be found in [2 Nuckell’s Place](/dickens/david-copperfield-nuckells-place) (now the [Dickens House Museum](https://www.visitkent.co.uk/attractions/dickens-house-museum-1999/)) in 
 [Broadstairs](/dickens/broadstairs). If David ultimately succeeds in working out where home is, this is not a secret he is prepared to share with the reader.
