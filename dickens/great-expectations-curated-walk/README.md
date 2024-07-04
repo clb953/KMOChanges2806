@@ -82,7 +82,7 @@ But the finger post also conveys the boundaries of Pip’s world. The novel is i
 
 Little wonder that the route into Rochester seems more appealing. But here too there are obstacles and pitfalls. To reach Miss Havisham’s Satis House ‘up town’, Pip must first navigate the High Street. This means passing Pumblechook’s house and the provincial majesty of the [Guildhall](/dickens/great-expectations-guildhall) where he will feel like a convict himself when he is formally apprenticed to Joe, as well as braving the many watchful eyes of the town dwellers.
 <!-- Kent with map centred at Satis House -->
-<param ve-map center="Q26377461" zoom="12">
+<param ve-map center="Q26377461" zoom="13">
 
 At Satis House itself Pip’s initial reception is humiliating. Mocked by Estella for his coarse hands and thick boots, he determines to become a gentleman and rid himself of these outward signs of low status. Estella’s own pretensions are undermined when it transpires that she is the daughter of a convict and a murderer. In a surreal twist to the story of this dignified young woman, Restoration House
 was bought and restored in the 1980s by entertainer Rod Hull and his irrepressible puppet Emu.
@@ -92,7 +92,7 @@ was bought and restored in the 1980s by entertainer Rod Hull and his irrepressib
 
 On a visit to the town after his succession to fortune Pip will be taunted by the unimpressed Trabb’s boy, who ducks in and out of the backstreets of the town to appear in front of him jeering, finally ‘crowing and pursuing me across the bridge with crows, as from an exceedingly dejected fowl who had known me when I was a blacksmith’. This untoward reception and final triumph of the tailor’s assistant over the product of expensive clothing ‘culminated the disgrace with which I left the town, and was, so to speak, ejected by it into the open country’[^ref2].  
 <!-- Kent with map centred at Cliffe Woods -->
-<param ve-map center="Q5132831" zoom="12">
+<param ve-map center="Q5132831" zoom="13">
 
 Later events will force Pip to reassess his own past and what it means to be a ‘gentleman’. Thackeray famously said that it took three generations ‘to make a gentleman’; Magwitch believes that through his hard work and self-denial he has ‘made a gentleman’; Pip’s unlikely counterpart Estella is the most obviously constructed character in the novel and herself has to be ‘educated for a lady’. A mature Pip will provide the only possible answer to this conundrum when he describes Joe as ‘this gentle Christian man’.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/87/With_Estella_after_all%2C_by_Marcus_Stone.jpg" label="With Estella after all" attribution="Marcus Stone">
@@ -102,7 +102,7 @@ Pip himself seems about to come full circle in returning to the [marshes](/lands
 This curated walk is also available as a [video](https://www.youtube.com/watch?v=meumYGqMQLc&t=11s).
 <param ve-image url="https://stor.artstor.org/stor/960a6b98-33e1-4471-9c09-71186a39a6d1" fit="contain">
 <!-- Kent with map centred at The Ship Inn, Medway -->
-<param ve-map center="Q26377259" zoom="12">
+<param ve-map center="Q26377259" zoom="13">
 
 ### References
 [^ref1]: http://www.literaturepage.com/read/greatexpectations-250.html
