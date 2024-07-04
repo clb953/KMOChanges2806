@@ -58,8 +58,8 @@ A comparison of his carefully detailed account of his movements with a map drawn
 <param ve-map center="Q5132825" zoom="13">
 
 Philip Pirrip tells us in his very name that he is trapped in language. Hardly surprisingly the child cannot perform this tongue twister and reduces his name to an inarticulate stutter: Pip.  According to this logic his full name must be pronounceable as ‘Pip Pip’, which would become a slang term for ‘goodbye’ in the twentieth century. As Joe will later say to him, ‘life is made of ever so many partings’[^ref1].
-<!-- Kent with map centred at Rochester -->
-<!-- param ve-map center="Q507517" zoom="13" -->
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/ba/%22Pip%27s_a_gentleman_of_fortune%2C_then%22_said_Joe%2C_%22and_God_bless_him_in_it%21%22.jpeg" label="Joe explains Pip's good fortune" attribution="John McLenan, Public domain, via Wikimedia Commons" fit="contain">
+
 
 But the novel insists that Pip does have choices. He keeps his encounter with Magwitch a secret. He accepts the offer of a mysterious benefactor to transform him into a gentleman, largely in hopes of winning Estella. He puts up at the Blue Boar on his return from London rather than staying with Joe at the forge. The starkness of these choices is symbolised by the accusatory finger post at the end of the village. Pointing both towards town and in the opposite direction towards the marshes and the church, this signpost offers two mutually exclusive paths for Pip to take whenever he leaves the village. This road does not exist on maps of the time, or at least there is no road that obviously leads in both directions in the direct way that Pip suggests. The moral imperatives, which he will increasingly ignore, are symbolically mapped by the guilty character himself. 
 <!-- param ve-map-layer geojson active title="Pips choice of routes" url="/geojson/chalk1.json" aliases="pip does have choices" -->
