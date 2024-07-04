@@ -101,8 +101,8 @@ Pip himself seems about to come full circle in returning to the [marshes](/lands
 <br><br>
 This curated walk is also available as a [video](https://www.youtube.com/watch?v=meumYGqMQLc&t=11s).
 <param ve-image url="https://stor.artstor.org/stor/960a6b98-33e1-4471-9c09-71186a39a6d1" fit="contain">
-<!-- Kent with map centred at The Ship Inn, Medway -->
-<param ve-map center="Q26377259" zoom="13">
+<!-- Kent with map centred at Cliffe -->
+<param ve-map center="Q5132825" zoom="13">
 
 ### References
 [^ref1]: http://www.literaturepage.com/read/greatexpectations-250.html
