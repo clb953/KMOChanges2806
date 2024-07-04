@@ -4,7 +4,7 @@
        banner="https://raw.githubusercontent.com/kent-map/images/main/dickens/Grammar_School_Gate_Rochester.jpg"
        author="Ken Moffat and Carolyn W. de la L. Oulton"
        layout="vtl"
-       description="In this visual essay Ken Moffat and Carolyn Oulton trace Pip's journies through the flat marshlands of the north            Kent coast as detailed in Dicken's Great Expectations.">
+       description="In this visual essay Ken Moffat and Carolyn Oulton trace Pip's journies through the flat marshlands of the north Kent coast as detailed in Dicken's Great Expectations.">
 
 <!-- Global entities -->
 <param title="Charles Dickens" eid="Q5686">
@@ -43,10 +43,9 @@
 <param ve-map center="Q507517" zoom="10">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="d93beb8a7cb608af" title="Kent Ordnance Survey 1860">
-<param ve-map-layer  allmaps allmaps-id="0d13de43a9570166" title="1820 Map">
+<param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent OS 1860">
 
-<!-- # -->
+#
 
 The landscape Pip describes seems to alter as he moves across it. In his nightmarish journey across the marshes to take provisions to Magwitch in Chapter 3 the finger post is all but invisible in the mist until it presents itself as ‘a phantom devoting me to the [Hulks](/prisons/convict-hulks)’. Gates, dykes and banks come ‘bursting’ at him and in his terror, he finds himself explaining his conduct to a curious ox.
 <param ve-image primary url="https://stor.artstor.org/stor/f2afe648-fc79-434a-acab-40d16335c345" title="The Marshes" fit="contain">
@@ -58,7 +57,6 @@ A comparison of his carefully detailed account of his movements with a map drawn
 <param ve-image url="https://stor.artstor.org/stor/e0659eea-10b4-4682-b094-0fcc08b714c2" title="West View of the City of Rochester" fit="contain">
 <!-- Kent with map centred at Rochester -->
 <param ve-map center="Q507517" zoom="12">
-<!-- param ve-map-layer mapwarper mapwarper-id="38872" title="Kent 1820" active -->
 
 Philip Pirrip tells us in his very name that he is trapped in language. Hardly surprisingly the child cannot perform this tongue twister and reduces his name to an inarticulate stutter: Pip.  According to this logic his full name must be pronounceable as ‘Pip Pip’, which would become a slang term for ‘goodbye’ in the twentieth century. As Joe will later say to him, ‘life is made of ever so many partings’[^ref1].
 <!-- Kent with map centred at Rochester -->
@@ -85,10 +83,9 @@ Little wonder that the route into Rochester seems more appealing. But here too t
 
 At Satis House itself Pip’s initial reception is humiliating. Mocked by Estella for his coarse hands and thick boots, he determines to become a gentleman and rid himself of these outward signs of low status. Estella’s own pretensions are undermined when it transpires that she is the daughter of a convict and a murderer. In a surreal twist to the story of this dignified young woman, Restoration House
 was bought and restored in the 1980s by entertainer Rod Hull and his irrepressible puppet Emu.
+<param ve-image primary url="https://stor.artstor.org/stor/0d85c39c-dfad-4981-b570-dca84de881e8" fit="contain" title="Restoration House">
 <!-- Kent with map centred at Satis House -->
 <param ve-map center="Q26377461" zoom="13">
-<!-- param ve-map-layer mapwarper active title="Kent 1820" mapwarper-id="38872" -->
-<param ve-image primary url="https://stor.artstor.org/stor/0d85c39c-dfad-4981-b570-dca84de881e8" fit="contain" title="Restoration House">
 
 On a visit to the town after his succession to fortune Pip will be taunted by the unimpressed Trabb’s boy, who ducks in and out of the backstreets of the town to appear in front of him jeering, finally ‘crowing and pursuing me across the bridge with crows, as from an exceedingly dejected fowl who had known me when I was a blacksmith’. This untoward reception and final triumph of the tailor’s assistant over the product of expensive clothing ‘culminated the disgrace with which I left the town, and was, so to speak, ejected by it into the open country’[^ref2].  
 <!-- Kent with map centred at Cliffe Woods -->
