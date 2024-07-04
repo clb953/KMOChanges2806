@@ -19,7 +19,7 @@ Henry Gardiner Adams appears as a stationer in local directories in 1832. An amb
 
 [William Harrison Ainsworth](19c-whainsworth-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/7d/Rookwood_-_Frontispiece.jpg) 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/19c/images/19C-william-harrison-ainsworth-esq.jpg) 
 
 Prolific author William (usually known as Harrison) Ainsworth, born on 4 February 1805, wrote for The London Magazine and had plays and poetry published in numerous journals including The Edinburgh Magazine and The European Magazine. His first success, however, came with the 1834 Gothic Romance Rookwood. 
 
