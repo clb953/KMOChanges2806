@@ -5,17 +5,19 @@
 <param ve-entity eid="Q922739" aliases="Broadstairs">
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q507517" aliases="Rochester">
+<param ve-entity eid="Q2041007" aliases="Staplehurst">
 
 <!-- Basemap centred on Lenham -->
-<param ve-map center="Q28339447" zoom="10">
+<!-- param ve-map center="Q28339447" zoom="10" -->
+
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent 1860">
+<param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent OS 1860">
 
 _‘Kent, Sir – Every body knows Kent – apples, cherries, hops, and women.’_ _The Pickwick Papers_.   
 <br>
 Often seen as the greatest of the Victorian novelists, Charles Dickens lived in Kent from 1816 to 1822 when his father was working in the Naval Pay Office at [Chatham Dockyard](/dickens/dickens-chatham), and again from 1856 to his death in 1870 (at [Gad’s Hill](/dickens/dickens-gads-hill), Higham). The surrounding area appears in his earliest novel [_The Pickwick Papers_](/dickens/pickwick-papers), which includes a lovingly evocative depiction of local inn the [Leather Bottle](/dickens/pickwick-papers-leather-bottle). [_Great Expectations_ ](/dickens/great-expectations-curated-walk) takes the reader through local scenes from [Cooling churchyard](/dickens/great-expectations-cooling) to Rochester with its [Guildhall](/dickens/great-expectations-guildhall) and - to Pip - equally awe inspiring [Satis House](/dickens/great-expectations-restoration-house). The hapless Magwitch will spend his last night of freedom just a few miles away at the sign of the ['Ship'](/dickens/great-expectations-ship-and-lobster).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/aa/Charles_Dickens_and_Rochester_%281880%29_%2814581635499%29.jpg" label="Satis House, Charles Dickens and Rochester (1880)" attribution="Internet Archive Book Images, No restrictions, via Wikimedia Commons">
-<param ve-map center="Q507517" zoom="11">
+<param ve-map center="Q507517" zoom="12">
 
 Dickens's unfinished last novel _The Mystery of Edwin Drood_ is set largely in Rochester, and features landmarks such as the cathedral cloister and [Eastgate House](/dickens/edwin-drood-eastgate-house). He was working on the novel on the morning of his death in the [Swiss Chalet](/dickens/dickens-swiss-chalet) at [Gad's Hill](/dickens/dickens-gads-hill). This story of jealousy and intrigue has never been solved, although the obsessive behaviour of John Jasper continues to keep readers guessing. Just five years earlier Dickens's own reputation had been threatened when the carriage in which he was travelling with [Ellen Ternan](/19c/19c-ternan-biography) was destabilised in the [Staplehurst](/dickens/dickens-staplehurst) railway accident.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b8/Staplehurst_rail_crash.jpg" label="Staplehurst rail crash" attribution="Illustrated London News, Public domain, via Wikimedia Commons">
