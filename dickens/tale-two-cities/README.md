@@ -64,7 +64,7 @@ _A Tale of Two Cities_ is not the only Dickens's novel to include the treacherou
 Dickens was a frequent visitor to France, a country he loved dearly. In a letter to Emile de la Rue in 1847 he described the French to be "the first people in the universe"[^ref13]. However with the railway opening in Dover in 1844 and the boat train available from the more fashionable neighbouring town of [Folkestone](/19c/19c-folkestone) from 1848, it is more likely Dickens travelled by train than coach to the continent. It is on one of these journeys that he was involved in the [Staplehurst](/dickens/dickens-staplehurst/) rail crash, proving that rail journeys, although more comfortable could be as perilous as the earlier mail coach.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b8/Staplehurst_rail_crash.jpg" label="Staplehurst rail crash" attribution="Illustrated London News, Public domain, via Wikimedia Commons">
 <!-- Basemap centred on Staplehurst -->
-<param ve-map center="Q2041007" zoom="13">
+<param ve-map center="Q2041007" zoom="11">
 
 However, despite his love of the French, _A Tale of Two Cities_, was not very popular in France, and there are fewer French translations than his other works. Some suppose that the book is misunderstood in translation. The title of the first translation _Paris et Londres en 1793_  (Paris and London in 1793)[^ref14], seems to miss the point, ignoring the novel's start date of 1775, and this may account for its lack of popularity. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f1/A_Tale_of_Two_Cities_title_page.png" label="A Tale of Two Cities by Charles Dickens" attribution="Public domain, via Wikimedia Commons">
