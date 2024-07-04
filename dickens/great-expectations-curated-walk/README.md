@@ -49,8 +49,8 @@
 
 The landscape Pip describes seems to alter as he moves across it. In his nightmarish journey across the marshes to take provisions to Magwitch in Chapter 3 the finger post is all but invisible in the mist until it presents itself as ‘a phantom devoting me to the [Hulks](/prisons/convict-hulks)’. Gates, dykes and banks come ‘bursting’ at him and in his terror, he finds himself explaining his conduct to a curious ox.
 <param ve-image primary url="https://stor.artstor.org/stor/f2afe648-fc79-434a-acab-40d16335c345" title="The Marshes" fit="contain">
-<!-- Kent with map centred at Rochester -->
-<param ve-map center="Q507517" zoom="11">
+<!-- Kent with map centred at Mockbegger -->
+<param ve-map center="Q26633449" zoom="11">
 <param ve-video vid="wizsPOYyE9o" title="Great Expectations by Charles Dickens Dickens's Kent">
 
 A comparison of his carefully detailed account of his movements with a map drawn up in the 1820s reveals further optical illusions – the hulks Pip describes are almost certainly miles from where he places them and the finger post is also in the wrong place. But as his main reference points, the marshes and Rochester confirm the stark contrast he himself sets up between stifling gentility and brutal survival. Whether the 21st century visitor sets out on an actual ‘pilgrimage’ or follows Pip’s progress on a map, the fascination of these '[mobile landscapes](/dickens/mobile-landscapes)’ lies precisely in their ability to symbolise darkness and the guilt of impossible choices. The curated walk that follows offers one suggestion for how we might enter and interpret that lost world.
