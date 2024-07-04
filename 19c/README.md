@@ -26,7 +26,7 @@ Prolific author William (usually known as Harrison) Ainsworth, born on 4 Februar
 ## Hans Christian Andersen (1805-1875) 
 [Hans Christian Andersen](19c-christian-andersen)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/75/HCA_by_Thora_Hallager_1869.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418)
 
 Andersen had visited Kent before, staying with Dickens’s publisher Richard Bentley in Sevenoaks and visiting Knowle House and Chevening Church, as well as visiting Dickens in Broadstairs in 1847.
 
@@ -42,7 +42,7 @@ Anna Atkins, botanist and photographer, was born on 16 March 1799 and became one
 
 [Jane Austen](19c-austen-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2a/CassandraAusten-JaneAusten%28c.1810%29_intensified.jpg) 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/16f50fe5-af80-4d10-a5f4-9820d3e7c63c) 
 
 One of the greatest English novelists of all time, Jane Austen visited Kent regularly. During or shortly after her visit to Rowling in 1796, Austen began writing ‘First Impressions’, the story which was later published as Pride and Prejudice in 1813. 
 
@@ -50,7 +50,7 @@ One of the greatest English novelists of all time, Jane Austen visited Kent regu
 
 [Alfred Austin](19c-austin-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/da/Alfred_Austin%2C_by_Barber.jpg) 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/92a76fb8-2dd9-4c8f-9ab4-875516a84afc) 
 
 It was not in poetry but in two prose works that Austin made his ‘nearest approach to literature’. One of these works was The Garden That I Love (1894), in which he describes the garden of Swinford Old Manor, near Ashford. 
 
@@ -74,7 +74,7 @@ Best known for Lorna Doone, novelist R. D. Blackmore (1825-1900) set part of his
 
 [M.E. Braddon](19c-braddon-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5d/Mary_Elizabeth_Maxwell_%28n%C3%A9e_Braddon%29_by_William_Powell_Frith.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/19c/Braddon_family.jpg)
 
 Acknowledged in her lifetime as ‘the Queen of the Circulating Libraries’, actress and author Mary Braddon is still best known for her 1862 sensation novel Lady Audley’s Secret and only slightly less so for her unconventional domestic life as the unmarried partner of publisher John Maxwell.
 
@@ -90,7 +90,7 @@ Author, poet, campaigner and antiquarian John Brent was born in Rotherhithe in 1
 
 [Angela Burdett-Coutts](19c-burdett-coutts-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/33/Angela_Georgina_Burdett-Coutts%2C_Baroness_Burdett-Coutts_from_NPG.jpg) 
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/6fbd0fc9-b2ce-421e-98e7-36cd1e89a92f) 
 
 Angela’s accession to the fabulous Coutts fortune, as well as the family name, in 1837 led to her becoming one of the most admired as well as one of the most generous philanthropists of her time.
 
@@ -98,7 +98,7 @@ Angela’s accession to the fabulous Coutts fortune, as well as the family name,
 
 [William Burges](19c-burges-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/be/William_Burges_portrait.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/a75dd5b0-7e59-46ad-9d6a-ba2f5a2a1c88)
 
 In 1858, William ‘Billy’ Burges, Neo-gothic architect and designer, was commissioned by Alexander Beresford-Hope, the MP for Maidstone to design a missionary monument at St Augustine’s College, Canterbury.
 
