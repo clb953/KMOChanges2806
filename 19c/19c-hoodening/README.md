@@ -1,7 +1,7 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 
 <param ve-config title="The Hooden Horse: an East Kent tradition" author="Jacqui Stamp" layout="vtl" 
-banner="https://github.com/kent-map/images/blob/main/banners/19c.jpg" description="This visual essay by Jacqui Stamp discusses the mythical but enduring folk tradition of the early 19th century Hooden Horse in Kent.">
+banner="https://github.com/kent-map/images/main/banners/19c.jpg" description="This visual essay by Jacqui Stamp discusses the mythical but enduring folk tradition of the early 19th century Hooden Horse in Kent.">
 
 <!-- Global Entities -->
 <param ve-entity eid="Q618045" aliases="Margate">
@@ -11,7 +11,7 @@ banner="https://github.com/kent-map/images/blob/main/banners/19c.jpg" descriptio
 <param ve-entity eid="Q1011096" aliases="Deal">
 
 <!--Basemap centred on Cantebury-->
-<!--param ve-map center="Q29303" zoom="10"-->
+<!-- param ve-map center="Q29303" zoom="10" -->
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent OS 1860">
