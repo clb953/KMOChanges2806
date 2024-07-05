@@ -4,6 +4,7 @@
 <!-- Global Entities -->
 <param ve-entity eid="Q2678184" aliases="Petham">
 <param ve-entity eid="Q4459957" aliases="Elmsted">
+<param ve-entity eid="Q66226453" aliases="Bodsham">
 
 <!-- Basemap centred on Petham -->
 <!-- param ve-map center="Q2678184" zoom="10" -->
