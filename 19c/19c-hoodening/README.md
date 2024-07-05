@@ -38,8 +38,8 @@ Since 1965: [Broadstairs](/dickens/broadstairs-19th-century) Folk Week: first fu
 <br>
 '… the custom of ‘Hoodening’, or taking round the ‘Hooden Horse’, on Christmas Eve was an annual one in the villages in Thanet half a century ago, and in Birchington, at least, the custom had not died out in 1906 …'.[^ref4]   
 <param ve-image url="images/Hoodenhorse.jpg" label="Hooden Horse" attribution="©Carolyn Oulton">
-<!--Basemap centred on Broadstairs-->
-<param ve-map center="Q922739" zoom="12">
+<!--Basemap centred on Nash Court -->
+<param ve-map center="Q26386990" zoom="12">
 
 Distinct from other ‘hobby horse’ and animal-characters abundant in English folklore, the Hooden Horse belongs uniquely to Kent and, as Geoff Doel affirms, 'the tradition appears to lie solely in the eastern part of the county'[^ref5] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/en/0/06/Deal_Hoodeners%2C_1909.jpg" label="Hoodener in Deal" attribution="Published in Percy Maylam's 1909 book The Hooden Horse.">
