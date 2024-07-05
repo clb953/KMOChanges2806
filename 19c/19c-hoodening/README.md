@@ -46,13 +46,13 @@ Distinct from other ‘hobby horse’ and animal-characters abundant in English 
 
 The above quotes from publications of 1807 and 1907 show that Hoodening was well-known in East Kent during the nineteenth century. Today it continues in towns and villages such as St Nicholas-at-Wade, Sarre, Wickhambreaux and Deal. Hop Hoodening in Canterbury Cathedral each September also upholds the tradition, and Hooden Horses feature prominently at the annual [Broadstairs](/dickens/broadstairs-19th-century) Folk Week and other local folk festivals. Many of Kent’s Morris sides now have a Hooden Horse, with that created in 1959 for East Kent Morris purported to be the first designed in an upright position, enabling him to join in the dancing.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Hoodening_in_Whitstable_May_2018.jpg" label="Hoodening in Whitstable" attribution="Edwininlondon, CC BY-SA 4.0, via Wikimedia Commons">
-<!--Basemap centred on Broadstairs-->
-<param ve-map center="Q922739" zoom="12">
+<!--Basemap centred on Nash Court -->
+<param ve-map center="Q26386990" zoom="12">
 
 Victorian Hoodeners – usually stable hands or farmworkers needing money to see them through the winter – called at houses in their village around Christmas time. One, stooping and draped in a cloak, carried the skull of a dead horse on a pole. Another led this ‘horse’, while a third tried comically to mount him as he dodged and swayed; once the rider was astride, it was the sport of onlookers to try and knock him off again. In the 1840s, skulls were replaced with wooden heads after a resident of [Broadstairs](/dickens/broadstairs-19th-century) was literally frightened to death by a Hooden Horse at her door.
 <param ve-image url="images/hoodeners.jpg" label="Hoodeners from Hale Farm in St. Nicholas-at-Wade, Kent, as photographed in June 1905" attribution="This Photo by Unknown Author is licensed under CC BY-SA. Hoodeners are still active in these villages today">
-<!--Basemap centred on Broadstairs-->
-<param ve-map center="Q922739" zoom="12">
+<!--Basemap centred on Nash Court -->
+<param ve-map center="Q26386990" zoom="12">
 
 The earlier history of the Hooden Horse is a matter of conjecture. It could derive from the fifth century crest of Kent’s first Saxon king, or the Saxon custom of parading animal heads in worship of Odin, whose festival coincides with Christmas. Similar customs took place in East Kent in the seventh century, and links to other ‘Hooding’ and animal-character traditions are plausible.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ad/Odin_rides_to_Hel.jpg" label="Odin rides to Hel" attribution="W.G. Collingwood (1854 - 1932), Public domain, via Wikimedia Commons">
