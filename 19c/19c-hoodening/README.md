@@ -1,6 +1,7 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
+
 <param ve-config title="The Hooden Horse: an East Kent tradition" author="Jacqui Stamp" layout="vtl" 
-banner="/images/banners/19c.jpg" description="This visual essay by Jacqui Stamp discusses the mythical but nonetheless enduring folk tradition of the Hooden Horse in Kent from the early 19th century to today.">
+banner="http//:kent-online/images/banners/19c.jpg" description="This visual essay by Jacqui Stamp discusses the mythical but nonetheless enduring folk tradition of the Hooden Horse in Kent from the early 19th century to today.">
 
 <!-- Global Entities -->
 <param ve-entity eid="Q618045" aliases="Margate">
