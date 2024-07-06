@@ -17,7 +17,7 @@
 <param ve-entity eid="Q950970" title="Dover Castle">
 
 <!-- Base map centred on Sevenoaks -->
-<param ve-map center=" Q939838" zoom="10">
+<param ve-map center="Q939838" zoom="10">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="aae9830c9a43bd57" title="Mudge 1809">
