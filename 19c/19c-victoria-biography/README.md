@@ -7,7 +7,7 @@
 <param ve-entity eid="Q507517" aliases="Rochester">
 <param ve-entity eid="Q2543161" aliases="Walmer Castle">
 
-<!-- Base map centred on Canterbury -->
+<!-- Base map centred on Nash Court -->
 <param ve-map center="Q4949442" zoom="10">
 
 <!-- Historical map layers -->
