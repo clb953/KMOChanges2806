@@ -11,8 +11,8 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 <param ve-entity eid="Q1006232" aliases="Woolwich">
 <param ve-entity eid="Q507517" aliases="Rochester">
 
-<!-- Base map centred on Canterbury -->
-<param ve-map center="Q29303" zoom="10">
+<!-- Base map centred on Lentham -->
+<param ve-map center="Q28339447" zoom="10">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map">
