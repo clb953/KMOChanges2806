@@ -25,8 +25,8 @@ Feminist and social reformer, Josephine Butler (1828-1906) visited Kent in the S
 <br><br>
 The Act which had been passed 'for the prevention of contagious diseases at certain naval and military stations' in 1864 was the first of four acts. It gave the police powers to arrest women suspected of being prostitutes and subject them to physical examinations for venereal disease. The women were then sent to lock hospitals until they were cured. The Act was in force in the Kentish towns of Woolwich, Sheerness, [Chatham](19c/19c-chatham-dockyard/) and Shorncliffe. It came under criticism as men were not subject to the same inspections.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/66/Josephine_Butler_bust_%2826484385992%29.jpg" label="Josephine Butler, LSE Library, No restrictions, via Wikimedia Commons">
-<!-- Base map centred on Charing -->
-<param ve-map center="Q2005288" zoom="9.5">
+<!-- Base map centred on Boughton Malherbe -->
+<param ve-map center="Q2161900" zoom="9.5">
 
 Butler recalls in her memoir:
 <br><br>
