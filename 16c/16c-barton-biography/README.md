@@ -50,7 +50,7 @@ This article was published: 30 April 2022.
 ### Bibliography   
 Cheney, Denton A. ‘The Holy Maid of Kent,’ _Transaction of the Royal Historical Society_, 18 (1904): 107-29.
 <br>
- Collins, A. H. (1910). “The Holy Maid of Kent.” _The Antiquary_, 6, 6, (1910) 213-219. Retrieved from https://www.proquest.com/historical-periodicals/holy-maid-kent/docview/6702584/se-2?accountid=9869. 
+Collins, A. H. (1910). “The Holy Maid of Kent.” _The Antiquary_, 6, 6, (1910) 213-219. Retrieved from https://www.proquest.com/historical-periodicals/holy-maid-kent/docview/6702584/se-2?accountid=9869. 
 <br>
 Elton, G.R. “The Law of Treason in the Early Reformation.” _The Historical Journal_ 11, no. 2 (1968): 212-22. 
 <br>
@@ -66,9 +66,9 @@ Petrie, Anne. “The History Press, When Henry VIII Met the Holy Maid of Kent.�
 <br>
 Shagan, Ethan. _Popular Politics and the English Reformation_. Cambridge: Cambridge University Press, 2003.
 <br>
-Watt, Diane. “Reconstructing the Word: The Political Prophecies of Elizabeth Barton (1506-1534).” _Renaissance Quarterly_ 50, no. 1 (1997): 136–63. https://doi.org/10.2307/3039331.
-<br>
 United Kingdom. Statutes of the Realm. Edited by A. Luders and others. 11 vols. London: HMSO 1810-28. http://heinonline.org/HOL/Welcome. Accessed March 14, 2022.
+<br>
+Watt, Diane. “Reconstructing the Word: The Political Prophecies of Elizabeth Barton (1506-1534).” _Renaissance Quarterly_ 50, no. 1 (1997): 136–63. https://doi.org/10.2307/3039331.
 <br>
 Whatmore, L.E., ed. “The Sermon against the Holy Maid of Kent and her Adherents, delivered at Paul's Cross, November the 23rd, 1533, and at Canterbury, December the 7th." _English Historical Review_. 58 (1943): 463-75
 
