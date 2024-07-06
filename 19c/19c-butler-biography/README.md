@@ -14,6 +14,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q676689" aliases="Gravesend">
+<param ve-entity eid="Q2005288" aliases="Charing">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map">
