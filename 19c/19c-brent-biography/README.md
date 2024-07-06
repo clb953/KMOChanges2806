@@ -9,7 +9,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 <param ve-map center="Q29303" zoom="11.5">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="d8938ce88f3b83e4" title="Kent OS 1863">
+<param ve-map-layer active allmaps allmaps-id="d645df6b2e36d6f3" title="Kent OS 1863">
 
 #
 
