@@ -23,7 +23,7 @@
 In March 1848, Archibald Campbell Tait, the headmaster of Rugby School, visited [Broadstairs](/dickens/broadstairs-19th-century) on the advice of his doctor. Tait who had been chosen to succeed Dr Thomas Arnold as headmaster at Rugby six years earlier, was severely exhausted. On his appointment to the post, his friends 'scarcely knew whether to congratulate him or not upon the perilous inheritance'[^ref1] as the school was overcrowded, and underfunded. [^ref2] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2c/Archibald_Campbell_Tait_%28H_Hering_NPG_Ax30380%29.jpg" label="Archibald Campbell Tait c.1860" attribution="Henry Hering, Public domain, via Wikimedia Commons">
 <!-- Base map centred on Broadstairs -->
-<param ve-map center="Q922739" zoom="12">
+<param ve-map center="Q26386990" zoom="12">
 
 Although Tait described his time at the school as 'a very happy and a very bright life'[^ref3] (it was during this time that he met and married his wife, Catharine), it was also one of anxiety, which took its toll on his health. When he fell ill in the spring of '48, the school feared for his life: 'expecting that any moment the chapel bell might toll.' [^ref4]  It was seen as imperative that he should be removed from the stresses of Rugby. Dr Hodson, who predicated a 'rapid decline' suggested the soft air of Beaumaris, whilst Dr Babington, who had treated Tait before, recommended the bracing air of [Broadstairs](https://www.kent-maps.online/dickens/broadstairs-19th-century).[^ref5]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f9/Rugby_school_1859.jpg" label="Rugby School, 1859" attribution="Unknown author, Public domain, via Wikimedia Commons">
