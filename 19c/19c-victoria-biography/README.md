@@ -8,7 +8,7 @@
 <param ve-entity eid="Q2543161" aliases="Walmer Castle">
 
 <!-- Base map centred on Canterbury -->
-<param ve-map center="Q29303" zoom="10">
+<param ve-map center="Q4949442" zoom="10">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="d645df6b2e36d6f3" title="Kent OS 1863">
