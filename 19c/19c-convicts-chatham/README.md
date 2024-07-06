@@ -3,7 +3,7 @@
 banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="A visual essay by Dr Ben Bethell discussing the 19th century Chatham prison and convicts.">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="bd3bb7d13a5d0a88" title="Moule 1850">
+<param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent OS 1860">
 
 #
 
