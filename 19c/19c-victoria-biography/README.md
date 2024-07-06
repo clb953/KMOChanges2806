@@ -5,6 +5,13 @@
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q507517" aliases="Rochester">
+<param ve-entity eid="Q2543161" aliases="Walmer Castle">
+
+<!-- Base map centred on Canterbury -->
+<param ve-map center="Q29303" zoom="10">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="d645df6b2e36d6f3" title="Kent OS 1863">
 
 #
 
@@ -29,6 +36,7 @@ Later, Victoria, Albert and their two young children stayed at the Duke of Welli
 <br><br>
 This article was published: 25 April 2021.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3a/Walmer_Castle_aerial_view.jpg" label="Walmer Castle, Aerial View" attribution="Lieven Smits, CC BY-SA 3.0, via Wikimedia Commons">
+<param ve-map center="51.3319, 1.4183" zoom="15">
 
 ### Bibliography
 
