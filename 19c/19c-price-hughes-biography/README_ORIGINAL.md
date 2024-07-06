@@ -1,4 +1,4 @@
-<a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
+[![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
 
 <param ve-config title="Hugh Price Hughes (1847 – 1902)" author="Sue Boulden and Michelle Crowther" layout="vtl" 
 banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="">
@@ -9,7 +9,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 <param ve-entity eid="Q26656370" aliases="Grand Shaft">
 
 <!-- Base map centred on Canterbury -->
-<!param ve-map center="Q29303" zoom="10">
+<!-- param ve-map center="Q29303" zoom="10" -->
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="d8938ce88f3b83e4" title="Kent OS 1863">
