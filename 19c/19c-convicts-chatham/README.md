@@ -28,7 +28,6 @@ Faced with toil of this kind, often for years on end, some convicts deliberately
 
 In 1892, once work on the new dockyard reached an end, the prison closed and its cell-blocks were dismantled. The Royal Naval barracks built on its former site are today home to the Universities at Medway campus, and one of the dockyard basins built by convicts now serves as a [marina](https://www.mdlmarinas.co.uk/marinas/mdl-chatham-maritime-marina/). Throughout the [Chatham Maritime Estate](https://www.cmtrust.co.uk/), the products of convict labour are everywhere to be seen. Yet there is little to indicate that this was once a place where, in the assessment of one former convict, ‘more human blood was spilt and more human lives lost through excessive labour than in any other prison in the country’.[^ref8]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/61/Chatham_Marina_and_St_Mary%27s_Island_-_geograph.org.uk_-_2163988.jpg" label="Chatham Marina and St Mary's Island" attribution="by Chris Allen via Wikimedia Commons" license="CC BY-SA 2.0">
-<br>
 
 ### Bibliography
 Bethell, Ben. _‘Star Men’ in English Convict Prisons, 1879-1948_. London: Routledge, 2023.   
