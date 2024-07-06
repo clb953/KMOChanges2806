@@ -10,6 +10,9 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 <param ve-entity eid="Q964785" aliases="Whitstable">
 <param ve-entity eid="Q1006232" aliases="Woolwich">
 <param ve-entity eid="Q507517" aliases="Rochester">
+<param ve-entity eid="Q729006" aliases="Chatham">
+<param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q29303" aliases="Canterbury">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map">
@@ -21,7 +24,7 @@ Feminist and social reformer, Josephine Butler (1828-1906) visited Kent in the S
 The Act which had been passed 'for the prevention of contagious diseases at certain naval and military stations' in 1864 was the first of four acts. It gave the police powers to arrest women suspected of being prostitutes and subject them to physical examinations for venereal disease. The women were then sent to lock hospitals until they were cured. The Act was in force in the Kentish towns of Woolwich, Sheerness, [Chatham](19c/19c-chatham-dockyard/) and Shorncliffe. It came under criticism as men were not subject to the same inspections.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/66/Josephine_Butler_bust_%2826484385992%29.jpg" label="Josephine Butler, LSE Library, No restrictions, via Wikimedia Commons">
 <!-- Base map centred on Lentham -->
-<param ve-map center="Q28339447" zoom="9.5">
+<param ve-map center="Q28339447" zoom="9.75">
 
 Butler recalls in her memoir:
 <br><br>
@@ -29,8 +32,8 @@ Butler recalls in her memoir:
 <br><br>
 She was referring to the extension of the Act that summer which increased the period of detention in the lock hospitals from 6 months to 9 months.[^ref2] It also extended the act to [Canterbury](/19c/19c-canterbury), [Dover](/19c/19c-dover/), [Gravesend](/19c/19c-gravesend/) and Maidstone.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6c/Vilhelm_Bille_-_Sejlb%C3%A5de_ud_for_Dovers_kyst.png" label="Dover by Vilhelm Bille c. 1882-1908">
-<!-- Base map centred on Dover -->
-<param ve-map center="Q179224" zoom="13">
+<!-- Base map centred on Lentham -->
+<param ve-map center="Q28339447" zoom="9.75">
 
 Butler established the Ladies National Association for the Repeal of the Contagious Diseases Acts and published _An Appeal to the People of England_, by 'an English Mother', early in 1870. She argued that hospital admissions should be on a voluntary basis and that prostitutes should be examined by women doctors.  She began a nationwide campaign to repeal the act, giving talks in towns and cities up and down the country, including Chatham, Whitstable and Canterbury. By the middle of June, Butler had travelled 3700 miles campaigning against the Acts.[^ref3]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f6/Photograph_of_Josephine_Butler_c._1880_%2822795738651%29.jpg" label="Josephine Butler c. 1880, LSE Library, No restrictions, via Wikimedia Commons">
@@ -40,7 +43,7 @@ Butler established the Ladies National Association for the Repeal of the Contagi
 In the Spring of 1870, Butler was invited by Wesleyan minister, Reverend [Hugh Price Hughes](/19c/19c-price-hughes-biography/) and Councillor Rowland Rees to speak at a public meeting in Dover. She spoke for an hour to a mixed assembly of men and women on the theme of 'the poor and outcast women at the hands of immoral men'.[^ref4] One hundred and twenty women had undergone examination in Dover since the instigation of the Act, of whom 74 had been sent to hospital.[^ref5] Her talk received a mixed reception as some audience members felt it was inappropriate for a woman to speak about the topic 'in all its nauseating detail' in front of men.[^ref6] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/19/Joshua_Cristall_-_Dover_Pier_-_B1977.14.5756_-_Yale_Center_for_British_Art.jpg" label="Dover Pier, Joshua Cristall, CC0, via Wikimedia Commons">
 <!-- Base map centred on Dover -->
-<param ve-map center="Q179224" zoom="13">
+<param ve-map center="Q179224" zoom="12">
 
 Continuing in her campaign, Butler spoke at the Corn Exchange, Maidstone, at the end of April with Annie Young and Mrs Bottomley to a women-only meeting.[^ref7] By May, Butler was reported as having told the Home Secretary that 'she had visited the garrison towns of Kent, and could assert that the grossest and most indecent outrages on women were practised under the operation of these new laws, and the excitement in consequence was dangerous to the peace'.[^ref8]
 <br><br>
