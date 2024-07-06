@@ -1,6 +1,6 @@
 <a href="https://dev.visual-essays.app"><img src="https://dev-visual-essays.netlify.app/images/ve-button.png"></a>
 <param ve-config title="Dora Jordan (1761-1816)" author="Michelle and Martin Crowther" layout="vtl" 
-banner="/images/banners/19c.jpg" description="Michelle and Martin Crowther trace the Kent performances of the famous early nineteenth-century actress Dora Jordan.">
+banner=https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg description="Michelle and Martin Crowther trace the Kent performances of the famous early nineteenth-century actress Dora Jordan.">
 
 <!-- Global Entities -->
 <param ve-entity eid="Q618045" aliases="Margate">
@@ -14,7 +14,7 @@ banner="/images/banners/19c.jpg" description="Michelle and Martin Crowther trace
 <param ve-map center=" Q29303" zoom="10">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id=" 15ad43c245280ea3" title="Cary 1800">
+<param ve-map-layer active allmaps allmaps-id="aae9830c9a43bd57" title="Mudge 1809">
 
 
 #
