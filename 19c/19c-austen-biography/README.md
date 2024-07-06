@@ -14,7 +14,7 @@ banner="https://stor.artstor.org/stor/a8bc686a-046f-4df8-8946-dd34baf364cc" desc
 <param ve-map center="Q29303" zoom="10">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="1ae1dd538a9d2020" title="Kent 1800">
+<param ve-map-layer active allmaps allmaps-id="aae9830c9a43bd57" title="Mudge 1809">
 
 #
 
