@@ -1,6 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="The Maid of Kent: Elizabeth Barton" author="Amber Potter" layout="vtl" 
-banner="https://upload.wikimedia.org/wikipedia/commons/b/bd/Binsfeld%2C_witches.jpg">
+banner="https://upload.wikimedia.org/wikipedia/commons/b/bd/Binsfeld%2C_witches.jpg" description="Amber Potter traces the life of early 16th century prophetess Elizabeth Barton: the Maid of Kent.">
 
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q921173" aliases="Aldington">
