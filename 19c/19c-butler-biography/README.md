@@ -1,7 +1,7 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
 <param ve-config title="Josephine Butler" author="Ez Swanström and Michelle Crowther" layout="vtl" 
-banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Ez Swanström and Michelle Crowther introduce feminist and social reformer, Josephine Butler's 1870 Kent campaign visit.">
 
 <param ve-entity eid="Q16900107" aliases="Shorncliffe">
 <param ve-entity eid="Q213180" aliases="Maidstone">
@@ -10,6 +10,14 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 <param ve-entity eid="Q964785" aliases="Whitstable">
 <param ve-entity eid="Q1006232" aliases="Woolwich">
 <param ve-entity eid="Q507517" aliases="Rochester">
+
+<!-- Base map centred on Canterbury -->
+<param ve-map center="Q29303" zoom="10">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map">
+
+#
 
 Feminist and social reformer, Josephine Butler (1828-1906) visited Kent in the Spring of 1870. She was on a country-wide tour to campaign against the [Contagious Diseases Act](/19c/19c-contagious-diseases).
 <br><br>
@@ -29,7 +37,7 @@ Butler established the Ladies National Association for the Repeal of the Contagi
 In the Spring of 1870, Butler was invited by Wesleyan minister, Reverend [Hugh Price Hughes](/19c/19c-price-hughes-biography/) and Councillor Rowland Rees to speak at a public meeting in Dover. She spoke for an hour to a mixed assembly of men and women on the theme of 'the poor and outcast women at the hands of immoral men'.[^ref4] One hundred and twenty women had undergone examination in Dover since the instigation of the Act, of whom 74 had been sent to hospital.[^ref5] Her talk received a mixed reception as some audience members felt it was inappropriate for a woman to speak about the topic 'in all its nauseating detail' in front of men.[^ref6] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/19/Joshua_Cristall_-_Dover_Pier_-_B1977.14.5756_-_Yale_Center_for_British_Art.jpg" label="Dover Pier, Joshua Cristall, CC0, via Wikimedia Commons">
 
-Continuing in her campaign, Butler spoke at the Corn Exchange, Maidstone, at the end of April with Annie Young and Mrs Bottomley to a women-only meeting.[^ref7] By May, Butler was reported as having told the Home Secretary that 'she had visited the garrison towns of Kent, and could assert that the grossest and most indecent outrages on women were practiced under the operation of these new laws, and the excitement in consequence was dangerous to the peace'.[^ref8]
+Continuing in her campaign, Butler spoke at the Corn Exchange, Maidstone, at the end of April with Annie Young and Mrs Bottomley to a women-only meeting.[^ref7] By May, Butler was reported as having told the Home Secretary that 'she had visited the garrison towns of Kent, and could assert that the grossest and most indecent outrages on women were practised under the operation of these new laws, and the excitement in consequence was dangerous to the peace'.[^ref8]
 <br><br>
 Butler continued to campaign until the Act was finally repealed in 1886. However, as the practice of forced examinations continued in India Butler renewed her campaign, determined that no woman should suffer. 
 <param ve-image url="https://stor.artstor.org/stor/c87a31b4-b490-41f8-930c-97b5b9e7a5b0" label="Maidstone">
