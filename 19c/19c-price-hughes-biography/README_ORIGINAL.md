@@ -1,25 +1,32 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
 <param ve-config title="Hugh Price Hughes (1847 – 1902)" author="Sue Boulden and Michelle Crowther" layout="vtl" 
-banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="">
 
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q4983275" aliases="Buckland">
 <param ve-entity eid="Q26550125" aliases="Snargate Street">
 <param ve-entity eid="Q26656370" aliases="Grand Shaft">
 
+<!-- Base map centred on Canterbury -->
+<!param ve-map center="Q29303" zoom="10">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="d8938ce88f3b83e4" title="Kent OS 1863">
+
 #
 
 Windswept Dover, sheltering beneath the beetling crag on which the castle stands, is more like a grey town in the canny north than a southern watering-place. Like Ithaca of old it was framed in its ruggedness to be an excellent nurse to the youthful soul, and the ruggedness lay not so much in the environment of nature as in those sharp problems of everyday life with which he found it to abound. – _The Life of Hugh Price Hughes_, 1904
 <param ve-image url="https://stor.artstor.org/stor/1cb66dda-70f7-465c-8a67-b61a92931e9b" label="Dover Castle" attribution="By kind permission of Marrin Books">
-<param ve-map center="Q179224" zoom="15">
+<param ve-map center="Q179224" zoom="13">
 
 Reverend Hugh Price Hughes, Wesleyan minister and religious reformer, was appointed to the Dover Methodist circuit in 1869. Aged twenty-two and fresh from Richmond Theological College, the ‘pale bespectacled’ young man  was to become a key figure in the [Dover](/19c/19c-dover) temperance movement.[^ref1]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b4/Hugh_Price_Hughes3.jpg" label="Hugh Price Hughes" attribution="Unknown author, Public domain, via Wikimedia Commons">
+<param ve-map center="Q179224" zoom="13">
 
 On arrival in [Dover](/19c/19c-dover), Hughes took up lodgings at 1, Buckland Terrace, next door to the Buckland Street Chapel.[^ref2] It was a poor area of the town where the townsfolk “surged on the pavement rather than in the narrow confines of their homes”.[^ref3] The chapel raised up from the main street, was built in 1839 and had a galleried interior, Romanesque front elevation and doric columns. 
 <param ve-image url="https://stor.artstor.org/stor/806a5042-aa22-4c78-a1dc-f70ad0798ec2" label="Buckland Chapel" attribution="Martin Crowther">
-<param ve-map center="Q4983275" zoom="15">
+<param ve-map center="Q4983275" zoom="13">
 
 Hughes preached his first sermon at the Snargate Street Chapel, which had been opened in 1834. The congregation were so overwhelmed by his earnest and charismatic preaching that 18 people came forward to dedicate their lives to Christ.[^ref4] 
 <param ve-image url="https://stor.artstor.org/stor/f3afaf5c-646f-47c9-8c92-4ce0e72c8170" label="Snargate Street Chapel" attribution="Souvenir Programme of Centenary Celebrations">
