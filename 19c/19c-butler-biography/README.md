@@ -34,8 +34,8 @@ Butler recalls in her memoir:
 <br><br>
 She was referring to the extension of the Act that summer which increased the period of detention in the lock hospitals from 6 months to 9 months.[^ref2] It also extended the act to [Canterbury](/19c/19c-canterbury), [Dover](/19c/19c-dover/), [Gravesend](/19c/19c-gravesend/) and Maidstone.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6c/Vilhelm_Bille_-_Sejlb%C3%A5de_ud_for_Dovers_kyst.png" label="Dover by Vilhelm Bille c. 1882-1908">
-<!-- Base map centred on Lentham -->
-<param ve-map center="Q28339447" zoom="9.75">
+<!-- Base map centred on Boughton Malherbe -->
+<param ve-map center="Q2161900" zoom="9.5">
 
 Butler established the Ladies National Association for the Repeal of the Contagious Diseases Acts and published _An Appeal to the People of England_, by 'an English Mother', early in 1870. She argued that hospital admissions should be on a voluntary basis and that prostitutes should be examined by women doctors.  She began a nationwide campaign to repeal the act, giving talks in towns and cities up and down the country, including Chatham, Whitstable and Canterbury. By the middle of June, Butler had travelled 3700 miles campaigning against the Acts.[^ref3]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f6/Photograph_of_Josephine_Butler_c._1880_%2822795738651%29.jpg" label="Josephine Butler c. 1880, LSE Library, No restrictions, via Wikimedia Commons">
