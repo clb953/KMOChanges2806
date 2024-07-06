@@ -30,7 +30,7 @@ She wrote a detailed diary throughout her life of which 141 volumes survive, num
 
 As a young Princess, Victoria enjoyed several holidays in Ramsgate, first visiting the town in 1823 at the age of four. She particularly enjoyed walks along the pier and watching the ships in the harbour.  Twelve years later, she stayed at [Albion House](/19c/19c-victoria-albion-house) with her mother and visited [Broadstairs](/19c/19c-victoria-broadstairs), [Margate](/dickens/19c-margate/) and [Canterbury](/19c/19c-canterbury/). She returned in the autumn of that year, staying at [West Cliff House](/19c/19c-victoria-west-cliff) on this occasion and had an overnight stay at an inn in Rochester.  
 <param ve-image url="https://stor.artstor.org/stor/8538611a-a4ed-4003-a5d6-fd5168d378cf" label="Pierremont House, Broadstairs" attribution="Photographed by Martin Crowther">
-<param ve-map center="51.3319, 1.4183" zoom="15">
+<param ve-map center="Q2543161" zoom="12">
 
 Later, Victoria, Albert and their two young children stayed at the Duke of Wellington’s residence, [Walmer Castle](/19c/19c-victoria-walmer-castle). The couple also visited wounded military personnel in Chatham.
 <br><br>
