@@ -13,6 +13,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 <param ve-entity eid="Q729006" aliases="Chatham">
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q676689" aliases="Gravesend">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="9537d136c6cd0dac" title="Kent Railway Map">
@@ -24,7 +25,9 @@ Feminist and social reformer, Josephine Butler (1828-1906) visited Kent in the S
 The Act which had been passed 'for the prevention of contagious diseases at certain naval and military stations' in 1864 was the first of four acts. It gave the police powers to arrest women suspected of being prostitutes and subject them to physical examinations for venereal disease. The women were then sent to lock hospitals until they were cured. The Act was in force in the Kentish towns of Woolwich, Sheerness, [Chatham](19c/19c-chatham-dockyard/) and Shorncliffe. It came under criticism as men were not subject to the same inspections.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/66/Josephine_Butler_bust_%2826484385992%29.jpg" label="Josephine Butler, LSE Library, No restrictions, via Wikimedia Commons">
 <!-- Base map centred on Charing -->
-<param ve-map center="Q2005288" zoom="9.75">
+<!param ve-map center="Q2005288" zoom="9.75">
+<!-- Base map centred on Kingsdown, Swaledale -->
+<param ve-map center="Q3197107" zoom="10">
 
 Butler recalls in her memoir:
 <br><br>
