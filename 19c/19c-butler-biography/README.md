@@ -37,8 +37,8 @@ She was referring to the extension of the Act that summer which increased the pe
 
 Butler established the Ladies National Association for the Repeal of the Contagious Diseases Acts and published _An Appeal to the People of England_, by 'an English Mother', early in 1870. She argued that hospital admissions should be on a voluntary basis and that prostitutes should be examined by women doctors.  She began a nationwide campaign to repeal the act, giving talks in towns and cities up and down the country, including Chatham, Whitstable and Canterbury. By the middle of June, Butler had travelled 3700 miles campaigning against the Acts.[^ref3]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f6/Photograph_of_Josephine_Butler_c._1880_%2822795738651%29.jpg" label="Josephine Butler c. 1880, LSE Library, No restrictions, via Wikimedia Commons">
-<!-- Base map centred on Faversham -->
-<param ve-map center="Q1000115" zoom="11">
+<!-- Base map centred on Kingsdown, Swaledale -->
+<param ve-map center="Q3197107" zoom="11">
 
 In the Spring of 1870, Butler was invited by Wesleyan minister, Reverend [Hugh Price Hughes](/19c/19c-price-hughes-biography/) and Councillor Rowland Rees to speak at a public meeting in Dover. She spoke for an hour to a mixed assembly of men and women on the theme of 'the poor and outcast women at the hands of immoral men'.[^ref4] One hundred and twenty women had undergone examination in Dover since the instigation of the Act, of whom 74 had been sent to hospital.[^ref5] Her talk received a mixed reception as some audience members felt it was inappropriate for a woman to speak about the topic 'in all its nauseating detail' in front of men.[^ref6] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/19/Joshua_Cristall_-_Dover_Pier_-_B1977.14.5756_-_Yale_Center_for_British_Art.jpg" label="Dover Pier, Joshua Cristall, CC0, via Wikimedia Commons">
