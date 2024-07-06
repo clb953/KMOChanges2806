@@ -1,6 +1,22 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Jane Austen" author="Susan Civale" layout="vtl" 
-banner="https://stor.artstor.org/stor/a8bc686a-046f-4df8-8946-dd34baf364cc">
+banner="https://stor.artstor.org/stor/a8bc686a-046f-4df8-8946-dd34baf364cc" description="In this visual essay, Susan Civale introduces the Kent of the novelist Jane Austen.">
+
+<!-- Global Entities -->
+<param ve-entity eid="Q29303" title="Canterbury">
+<param ve-entity eid="Q1004824" title="Chilham">
+<param ve-entity eid="Q17529295" title="Godmersham Park">
+<param ve-entity eid="Q2195317" title="Goodnestone">
+<param ve-entity eid="Q179224" title="Ramsgate">
+<param ve-entity eid="Q939838" title="Sevenoaks">
+<param ve-entity eid="Q936183" title="Tonbridge">
+<param ve-entity eid="Q665489" title="Tunbridge Wells">
+
+<!-- Base map centred on Canterbury -->
+<param ve-map center="Q29303" zoom="10">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="1ae1dd538a9d2020" title="Kent 1800">
 
 #
 
