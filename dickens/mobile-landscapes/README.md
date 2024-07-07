@@ -4,7 +4,8 @@
        title="Mobile Landscapes"
        banner="https://raw.githubusercontent.com/kent-map/images/main/dickens/Viking_Bay_Broadstairs.jpg"
        author="Ken Moffat and Carolyn W. de la L. Oulton"
-       layout="vtl">
+       layout="vtl"
+       description="Ken Moffat and Carolyn Oulton introduce the literary landscape of the English County of Kent.">
 
 <param title="Broadstairs" eid="Q29303">
 <param title="Canterbury" eid="Q922739">
@@ -31,6 +32,7 @@
 
 <!-- Kent with map centered at Rochester -->
 <!-- param ve-map center="Q1094104" zoom="10" -->
+
 <!-- Kent with map centered at Boughton Malherbe -->
 <param ve-map center="Q2161900" zoom="10">
 
