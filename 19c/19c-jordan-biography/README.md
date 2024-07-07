@@ -1,5 +1,4 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
-
 <param ve-config title="Dora Jordan (1761-1816)" author="Michelle and Martin Crowther" layout="vtl" 
 banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Michelle and Martin Crowther trace the Kent performances of the famous early nineteenth-century actress Dora Jordan.">
 
