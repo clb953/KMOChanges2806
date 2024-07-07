@@ -8,6 +8,14 @@ Supported by student ambassadors from Canterbury Christ Church University, parti
 # People 
 `.cards`
 
+## Ada Lovelace
+
+[Ada Lovelace]([https://github.com/clb953/dofe/blob/main/pages/ada-lovelace-essay.md))
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/the_garden_of_england1.jpg)
+
+'Ever before me is the picture of the High Street, Yalding. I smell the hop wagons rucking down from the farms whose least Bramling weighed ten times as much as was raised at impious Pembury or baleful Paddock Wood.' Read Alice's research into the life of war poet, Edmund Blunden, who grew up in Yalding, near Maidstone.
+
 ## Edmund Blunden
 
 [Edmund Blunden](/20c/20c-blunden-biography)
