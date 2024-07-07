@@ -11,7 +11,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 <param ve-entity eid="Q1626044" title="Sittingbourne">
 
 <!-- Base map centred on Canterbury -->
-<param ve-map center=" Q29303" zoom="10">
+<param ve-map center="Q29303" zoom="10">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="3cec6f180298eeb9" title="Mudge 1801">
