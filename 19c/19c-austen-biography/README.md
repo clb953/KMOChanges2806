@@ -4,7 +4,6 @@ banner="https://stor.artstor.org/stor/a8bc686a-046f-4df8-8946-dd34baf364cc" desc
 
 <!-- Global Entities -->
 <param ve-entity eid="Q29303" title="Canterbury">
-<param ve-entity eid="Q1004824" title="Chilham">
 <param ve-entity eid="Q17529295" title="Godmersham Park">
 <param ve-entity eid="Q736439" title="Ramsgate">
 <param ve-entity eid="Q939838" title="Sevenoaks">
@@ -26,6 +25,7 @@ _Pride and Prejudice_
 <!-- Base map centred on Boughton Malherbe -->
 <param ve-map center="Q2161900" zoom="9.5">
 <param ve-entity eid="Q725261" title="Ashford">
+<param ve-entity eid="Q1004824" title="Chilham">
 <param ve-entity eid="Q858775" title="Dartford">
 <param ve-entity eid="Q936183" title="Tonbridge">
 <param ve-entity eid="Q26324024" aliases="Rowling House">
