@@ -6,7 +6,6 @@ Supported by student ambassadors from Canterbury Christ Church University, parti
 
 # &nbsp; 
 `.cards`
-
 ## Spanish Armada
 
 [Spanish Armada](/16c/16c-spanish-armada)
@@ -110,4 +109,20 @@ Botanist and gardener, John Tradescant the Younger was born at Meopham and educa
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
 
 Mathematician and cryptographer, John Wallis who was born in Ashford is known for his pioneering work in infinitesimal calculus and inspired Charlie and Barnaby to research this article.
+
+## Plum Pudding
+
+[Plum Pudding](/projects/duke-of-edinburgh/plumpudding)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/29/The_Christmas_Pudding%2C_or_Grand-papa%27s_Darling_%28BM_1935%2C0522.8.13%29.jpg)
+
+Christmas conflict forms between the people of Canterbury and the Lord Mayor over new British Puritan rule.
+
+## Rochester Cathedral
+
+[Rochester Cathedral](/projects/duke-of-edinburgh/rochester-cathedral-essay)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/6/68/Rochester_Cathedral_%28Cathedral_Church_of_Christ_and_the_Blessed_Virgin_Mary_of_Rochester%29_-_geograph.org.uk_-_5923755.jpg)
+
+An introduction to Rochester Cathedral the second oldest cathedral in England.
 
