@@ -7,8 +7,8 @@
        layout="vtl"
        description="Ken Moffat and Carolyn Oulton introduce the literary landscape of Charles Dicken's Kent.">
 
-<param title="Broadstairs" eid="Q29303">
-<param title="Canterbury" eid="Q922739">
+<param title="Canterbury" eid="Q29303">
+<param title="Broadstairs" eid="Q922739">
 <param title="Chalk" eid="Q5068781" aliases="the village">
 <param title="Chatham" eid="Q729006">
 <param title="Cooling" eid="Q2649453">
