@@ -3,12 +3,12 @@
 banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Michelle and Martin Crowther trace the Kent performances of the famous early nineteenth-century actress Dora Jordan.">
 
 <!-- Global Entities -->
-<param ve-entity eid="Q618045" aliases="Margate">
-<param ve-entity eid="Q29303" aliases="Canterbury">
-<param ve-entity eid="Q179224" aliases="Dover">
-<param ve-entity eid="Q1011096" aliases="Deal">
-<param ve-entity eid="Q736439" aliases="Ramsgate">
-<param ve-entity eid="Q1626044" aliases="Sittingbourne">
+<param ve-entity eid="Q618045" title="Margate">
+<param ve-entity eid="Q29303" title="Canterbury">
+<param ve-entity eid="Q179224" title="Dover">
+<param ve-entity eid="Q1011096" title="Deal">
+<param ve-entity eid="Q736439" title="Ramsgate">
+<param ve-entity eid="Q1626044" title="Sittingbourne">
 
 <!-- Base map centred on Canterbury -->
 <param ve-map center=" Q29303" zoom="10">
