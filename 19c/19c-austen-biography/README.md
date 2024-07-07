@@ -25,6 +25,10 @@ _Pride and Prejudice_
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2a/CassandraAusten-JaneAusten%28c.1810%29_intensified.jpg" label="Jane Austen" attribution="Cassandra Austen (1773-1845), digitally processed by Amano1, Public domain, via Wikimedia Commons">
 <!-- Base map centred on Boughton Malherbe -->
 <param ve-map center="Q2161900" zoom="9.5">
+<param ve-entity eid="Q725261" title="Ashford">
+<param ve-entity eid="Q858775" title="Dartford">
+<param ve-entity eid="Q936183" title="Tonbridge">
+<param ve-entity eid="Q26324024" aliases="Rowling House">
 
 One of the greatest English novelists of all time, Jane Austen visited Kent regularly to see her brother, Edward Austen Knight, who lived first at Rowling House, near Goodnestone, where Austen stayed in 1794 and 1796, and later at the magnificent [Godmersham Park](/austen/austen-godmersham), where Austen visited six times between 1798 and 1813.  During or shortly after her visit to Rowling in 1796, Austen began writing ‘First Impressions’, the story which was later published as _Pride and Prejudice_ in 1813.  The novel may reflect, in the figure of Lady Catherine De Bourgh, for example, some of the class snobbery Austen witnessed in mixing with what she termed “East Kent wealth”. 
 <param ve-image url="https://stor.artstor.org/stor/16f50fe5-af80-4d10-a5f4-9820d3e7c63c" label="Back view of Godmersham Park" attribution="Martin Crowther">
