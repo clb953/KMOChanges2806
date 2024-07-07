@@ -52,6 +52,14 @@ To accompany the Inspirational Kent Women Writers event held by the Centre for K
 
 To celebrate Dover at Night, Kent Maps Online have written an article about Dover as depicted in literature, where smuggling, assignations and abductions occur along its moonlit shore.
 
+## Duke of Edinburgh
+
+[Duke of Edinburgh](projects/duke-of-edinburgh)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/duke-of-edinburgh.jpg)
+
+During the COVID pandemic, Kent Maps Online offered remote volunteering and skills training to Duke of Edinburgh participants at all levels. This space showcases their work.
+
 # Essays by period 
 `.cards`
 
