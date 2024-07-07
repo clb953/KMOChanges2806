@@ -5,7 +5,7 @@
        banner="https://raw.githubusercontent.com/kent-map/images/main/dickens/Viking_Bay_Broadstairs.jpg"
        author="Ken Moffat and Carolyn W. de la L. Oulton"
        layout="vtl"
-       description="Ken Moffat and Carolyn Oulton introduce the literary landscape of the English County of Kent.">
+       description="Ken Moffat and Carolyn Oulton introduce the literary landscape of Charles Dicken's Kent.">
 
 <param title="Broadstairs" eid="Q29303">
 <param title="Canterbury" eid="Q922739">
@@ -30,23 +30,18 @@
 <param title="Rod Hull" eid="Q7356235">
 <param title="Satis House" eid="Q26377461">
 
-<!-- Kent with map centered at Rochester -->
-<!-- param ve-map center="Q1094104" zoom="10" -->
-
 <!-- Kent with map centered at Boughton Malherbe -->
 <param ve-map center="Q2161900" zoom="9.5">
 
 <!-- Historical map layers -->
-<!-- <param mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860" ve-map-layer/> -->
 <param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent Ordnance Survey 1860">
 
 **Welcome to Dickens Land!**   
 You’ll need a map because there are no signposts. There are witnesses of course, hundreds of them queueing up to tell you that they are the original Aunt Betsey, or Broadstairs fisherman, or Janet, or how sorry they are now for stealing that pie. They are not all to be trusted. And don’t be fooled by the first ‘Pickwick Pub’ or ‘Pip’s Inn’ you see. There are many places to stop and refresh yourself on the way. And you will need refreshments, this is going to be tiring work.
 <param ve-image url="https://stor.artstor.org/stor/06cc864a-9a22-4049-b398-1a743cf03a51" label="A selection of books about Dickens and place" attribution="©Carolyn Oulton">
 
-Of course at this point you don’t exactly know where you are, let alone where you are going. But if you are coming from London, Duncan Moul’s turn of the century suggestion seems reasonable enough, ‘At [Gravesend](/19c/19c-gravesend) we may be said to enter Dickens Land’[^ref1]. Just be careful, there are dangerous waters here. Or perhaps you are coming the other way, from the [sea](/seascape)? [Broadstairs](/dickens/broadstairs-19th-century) or [Dover](/dickens/dickens-dover), it doesn’t matter – you don’t believe it yet, but they are the same place after all. When you get to Higham you will stop for tea, won’t you? Dickens will be waiting for you there. You just have to know how to look.
+Of course, at this point you don’t exactly know where you are, let alone where you are going. But if you are coming from London, Duncan Moul’s turn of the century suggestion seems reasonable enough, ‘At [Gravesend](/19c/19c-gravesend) we may be said to enter Dickens Land’[^ref1]. Just be careful, there are dangerous waters here. Or perhaps you are coming the other way, from the [sea](/seascape)? [Broadstairs](/dickens/broadstairs-19th-century) or [Dover](/dickens/dickens-dover), it doesn’t matter – you don’t believe it yet, but they are the same place after all. When you get to Higham you will stop for tea, won’t you? Dickens will be waiting for you there. You just have to know how to look.
 <param ve-image url="https://stor.artstor.org/stor/267a9b45-9c4f-4db0-843a-67931fc83467" label="Baynes's Map of the Environs of Gravesend, 1864" attribution="by kind permission of Patrick Marrin">
-<param ve-map center="Q676689" zoom="10">
 
 **The adventure begins**   
 The study where parts of _David Copperfield_ were written. The view from the [Swiss chalet](/dickens/dickens-swiss-chalet) where Dickens was working on the morning of his death. The churchyard where [Pip](/articles/~Pip) first meets [Magwitch](/articles/~Magwitch). Since the nineteenth century readers in search of Dickens Land, sometimes called the Dickens Country, have been willingly beguiled by Kent’s associations both with the writer himself and with the characters who move across the county. The idea of reading familiar passages in the places where they are set holds out the elusive promise of new meaning, or at least a deeper connection with the books. But Victorian enthusiasts were immediately confronted with a dilemma – most of Dickens’s novels, including  _David Copperfield_ – are huge. No one wants to stomp round Canterbury on a hot day in search of Agnes Wickfield’s house, clutching an 800 page hardback. Once found there might be just the slightest temptation to hit her round the head with it.
@@ -66,7 +61,6 @@ In this frame of mind it was inevitable that we should see Dickens everywhere. A
 <br>
 What follows is our attempt to capture something of this experience, one autobiographical novel at a time. In the manner of Arthur Helliar’s 1924 guide to Broadstairs, it includes incidents that are ‘strange and curious’ as well as 'much unreliable information and many quaint conceits.’
 <param ve-image url="https://stor.artstor.org/stor/04e9631a-5523-4e71-95cf-41e21e51b8c4" label="Benjamin High Street" attribution="Benjamin Mortley">
-<param ve-map center="Q729006" zoom="10">
 
 **David Copperfield**   
 What we are calling [David Copperfield: a curated walk](/dickens/david-copperfield-curated-walk) is more ambitious than anything we actually attempted. Which is why it takes David so many hundreds of pages to get through it. Walking from London to Kent might have been Dickens's idea of a good time. It had never been ours. So we took the softer option and began in [Broadstairs](/dickens/broadstairs).
@@ -75,6 +69,8 @@ What we are calling [David Copperfield: a curated walk](/dickens/david-copperfie
 **Broadstairs**   
 We parked the car half a mile out of town to avoid the Pay and Display, trusted to memory for the name of the road and friendly locals to help us find it again. Then down those irresistible breakneck lanes to the sea, where we sat on a wall kicking our legs and talking about mermaids. Broadstairs is an ideal place to start a Dickens pilgrimage, in that there is just no getting away from him. The Albion Hotel, Bleak House (originally [Fort House](/dickens/dickens-fort-house) ), even a [Dickens Museum](https://www.thanet.gov.uk/info-pages/dickens-house-museum/) There’s a reason the museum looks suspiciously like [Aunt Betsey’s cottage](/dickens/david-copperfield-nuckells-place)  (it’s meant to be in [Dover](/dickens/dickens-dover), but who’s counting?) - but why a later owner reinvented [Fort House](/dickens/dickens-fort-house) as Bleak House, to commemorate a novel set in Hertfordshire, is anyone’s guess.
 <param ve-image primary url="https://stor.artstor.org/stor/e8ea25b0-76d8-4eac-93e6-d1c2838da651" title="Dickens Museum" attribution="©Martin Crowther">
+<!-- Base map centered on Broadstairs -->
+<param ve-map center="Q29303" zoom="13">
 
 All three buildings are within sight of each other at [Broadstairs](/dickens/dickens-broadstairs), and of the sea where Dickens swam like ‘a kind of salmon-coloured porpoise’ in the late summer of 1843. We began – almost – with the museum. But there was something we had to do first. By all means try this at home, your child’s teacher will love you for it, for a start. But two adults standing in a gateway, one declaring to the other that he has ‘been slighted, and taught nothing, and thrown upon myself, and put to work not fit for me’ is not quite what that teacher means by ‘reading together’.  Little wonder that Aunt Betsey stared in desperate silence as she was told that ‘I was robbed at first setting out, and have walked all the way, and have never slept in a bed since I began the journey.'[^ref1](Actually David, you came in a Citroen Picasso and you’ve graciously offered to take your aunt to lunch). But if she then ‘got up in a great hurry, collared me, and took me into the parlour’, getting further into character with a series of energetic pokes in the ribs, at least she wasn’t shouting ‘DONKEYS!’ and upsetting the neighbours.
 <param ve-image primary url="https://raw.githubusercontent.com/kent-map/images/main/dickens/Hassam.jpg" title="Bleak House, Broadstairs, 1889" attribution="Childe Hassam (American, 1859-1935). Watercolor on paper, 13 1/2 x 9 3/4 in. Canton Museum of Art Collection, Canton, Ohio, USA, 2017.83">
@@ -117,8 +113,7 @@ Buoyed by our success, we made our way back down the High Street, where it was c
 
 **(In which we don’t go to) Folkestone**   
 [Chaucer’s pilgrims](/medieval/14c-chaucer), may we remind ourselves, never get anywhere near Canterbury. [Jerome](/19c/19c-jerome-biography)’s three men in a boat give up two days early and return by train. And while Dickens in full holiday mode could ‘still in reason walk any distance, jump over anything, and climb up anywhere’ as he smugly tells us in ‘Out of Town’ in the summer of 1855, we were not Dickens. We had navigated the maze that is [Broadstairs](/dickens/broadstairs), been assaulted by wasps in Canterbury and lived to tell the tale. We weren’t about to ruin it all by tripping over the admittedly picturesque but painfully steep, cobbled streets of [Folkestone](/dickens/dickens-folkestone).
-<param ve-image primary url="https://raw.githubusercontent.com/kent-map/kent/main/manifests/folkestone.json" title="Bleak House, Broadstairs, 1889" attribution="Childe Hassam (American, 1859-1935). Watercolor on paper, 13 1/2 x 9 3/4 in. Canton Museum of Art Collection, Canton, Ohio, USA, 2017.83">
-<!-- param ve-image iiifmirador primary manifest="https://raw.githubusercontent.com/kent-map/kent/main/manifests/folkestone.json" -->
+<param ve-image iiifmirador primary manifest="https://raw.githubusercontent.com/kent-map/kent/main/manifests/folkestone.json">
 
 Our detractors may infer from this that there are no pie shops in the town. Untrue. But none of the novels is set here either, and even if we were infatuated enough to stand and stare at the windows of 3 Albion Villas while reading ‘Out of Town’ to each other, the idea of explaining ourselves to the current owner - and possibly the police - was enough to deter us from anything so rash. We could have gone to [Dover](/dickens/dickens-dover) instead to look for Aunt Betsey’s cottage. But probably the less said about that the better.
 <param ve-image url="https://stor.artstor.org/stor/976ac6dd-9111-43f0-8d31-ddc807990e24" label="3, Albion Villas, Folkestone" attribution="©Martin Crowther">
