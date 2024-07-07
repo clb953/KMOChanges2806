@@ -20,6 +20,7 @@
 <param title="Estella" eid="Q5400904" article="/articles/Estella.md">
 <param title="Dover" eid="Q179224">
 <param title="Folkestone" eid="Q375314">
+<param title="Gads Hill Place" eid="Q5516441">
 <param title="Gravesend" eid="Q676689">
 <param ve-entity label="Joe Gargery" article="/articles/Joe.md" aliases="Joe">
 <param title="Guildhall" eid="Q15272878" aliases="Guildhall">
@@ -118,57 +119,57 @@ Spot which one of us went to boarding school as a child (bath nights Wednesday a
 
 The three flights of stairs proved to be an interesting challenge, but healthier than using the lift. The real problem was that the volumes of letters are extremely heavy - and did we mention there were twelve of them? Didn’t Dickens have anything else to do with his time? But it just so happens that he really, really liked Broadstairs. Lucky neither of us is writing a PhD on Canterbury (which barely gets a mention). Oh. Clearly it was time for lunch and further immersive research into pies.
 <param ve-image url="https://stor.artstor.org/stor/48b30422-8835-4e77-892d-50a1a82b35c2" title="Augustine House interior" attribution="©Michelle Crowther">
-!-- Base map centered on Canterbury -->
+<!-- Base map centered on Canterbury -->
 <param ve-map center="Q29303" zoom="13">
 
 Revived and reanimated (for one of us at least elderflower jelly would become a symbol of all that is worth having in this life) we set off to find Dr Strong’s house, which we knew was on Lady Wootton’s Green because we’d read it somewhere. Although clearly not in the 1928 _Canterbury and Charles Dickens_, which could have told us that the whole idea was ‘absurd’.
 <param ve-image url="https://stor.artstor.org/stor/f5acfe60-3c2c-4d9e-979f-2ec2896ebb2d" label="Lady Wootton's Green, Canterbury, 2021">
-!-- Base map centered on Canterbury -->
+<!-- Base map centered on Canterbury -->
 <param ve-map center="Q29303" zoom="13">
 
 With hindsight, a recurring feature of these expeditions was our enthusiasm for engaging passersby in conversation, something in the manner of the ancient mariner. As a rule they treated us as harmless eccentrics, which made us feel more than ever like Aunt Betsey and Mr Dick. But on this occasion an old man kindly got off his bike and directed us immediately and with confidence  to the very spot where Dr Strong’s dictionary took shape. We all stared in awe for a while, took it in turns to identify conclusive architectural features and pontificate – we had, surely we all felt this, been drawn together in a shared experience that we would not lightly forget. It only occurred to us some weeks later that we had no idea who it was we’d been talking to and no reason whatsoever to believe that we had been looking at the right house. 
 <br><br>
 We felt on safer ground with the House of Agnes ‘bulging out’ over the (Old) Dover Road in the Westgate, just as David describes. Sadly we could only get in if we requested a room for the night, which seemed excessive. But we peered determinedly through the windows and fingered the door handle – Agnes, or at least her representatives, spend much time polishing a door handle much like this one, which removed any lingering vestige of doubt.
 <param ve-image url="https://stor.artstor.org/stor/aaceb5d3-7946-4843-8443-d6663752501a" label="The House of Agnes" attribution="Nat Lowden and Sara Gelencer">
-!-- Base map centered on Canterbury -->
+<!-- Base map centered on Canterbury -->
 <param ve-map center="Q29303" zoom="13">
 
 Buoyed by our success, we made our way back down the High Street, where it was clearly time to block the flow of tourists and school groups while reading a passage or two from the novel to anyone who wanted to listen. The weekday shoppers, not unused to street preaching, took no notice whatsoever. Exhausted by our efforts, we followed Mr Dick’s excellent example and took tea in the Abode Hotel.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6f/Abode_Hotel_Canterbury.jpg" label="The Abode Hotel, Canterbury" attribution="DaKey2insight, via Wikimedia Commons" license="CC BY-SA 4.0">
-!-- Base map centered on Canterbury -->
+<!-- Base map centered on Canterbury -->
 <param ve-map center="Q29303" zoom="13">
 
 **(In which we don’t go to) Folkestone**   
 [Chaucer’s pilgrims](/medieval/14c-chaucer), may we remind ourselves, never get anywhere near Canterbury. [Jerome](/19c/19c-jerome-biography)’s three men in a boat give up two days early and return by train. And while Dickens in full holiday mode could ‘still in reason walk any distance, jump over anything, and climb up anywhere’ as he smugly tells us in ‘Out of Town’ in the summer of 1855, we were not Dickens. We had navigated the maze that is [Broadstairs](/dickens/broadstairs), been assaulted by wasps in Canterbury and lived to tell the tale. We weren’t about to ruin it all by tripping over the admittedly picturesque but painfully steep, cobbled streets of [Folkestone](/dickens/dickens-folkestone).
 <param ve-image iiifmirador primary manifest="https://raw.githubusercontent.com/kent-map/kent/main/manifests/folkestone.json">
-!-- Base map centered on Folkestone -->
+<!-- Base map centered on Folkestone -->
 <param ve-map center="Q375314" zoom="13">
 
 Our detractors may infer from this that there are no pie shops in the town. Untrue. But none of the novels is set here either, and even if we were infatuated enough to stand and stare at the windows of 3 Albion Villas while reading ‘Out of Town’ to each other, the idea of explaining ourselves to the current owner - and possibly the police - was enough to deter us from anything so rash. We could have gone to [Dover](/dickens/dickens-dover) instead to look for Aunt Betsey’s cottage. But probably the less said about that the better.
 <param ve-image url="https://stor.artstor.org/stor/976ac6dd-9111-43f0-8d31-ddc807990e24" label="3, Albion Villas, Folkestone" attribution="©Martin Crowther">
-!-- Base map centered on Folkestone -->
+<!-- Base map centered on Folkestone -->
 <param ve-map center="Q375314" zoom="13">
 
 **Chalk**   
 In [Broadstairs](/dickens/broadstairs) a few weeks earlier it had all been straightforward enough. Betsey Trotwood’s cottage is in the wrong place (it is after all meant to be in [Dover](/dickens/dickens-dover)), but just about everywhere connected with the novel is clearly visible from everywhere else, and there is much to be said for that.
 <param ve-image url="https://stor.artstor.org/stor/1807d34b-a40f-4979-95a8-fee341c98aa5" label="Victoria Parade, Broadstairs" attribution="©Martin Crowther">
-!-- Base map centered on Chalk -->
+<!-- Base map centered on Chalk -->
 <param ve-map center="Q5068781" zoom="13">
  
 The day we went to find Pip Pirrip nothing was initially visible from anywhere. Finding Dickens’s local church when we weren’t actually looking felt like an achievement at the time, although with hindsight it just makes us look incompetent. In any case it was locked, so we wandered around outside for a few minutes, took a picture of a gargoyle and left.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/64/Chalk_Church%2C_Kent.jpg" label="Chalk Church" attribution="Glen, via Wikimedia Commons" license="CC BY 2.0">
-!-- Base map centered on Chalk -->
+<!-- Base map centered on Chalk -->
 <param ve-map center="Q5068781" zoom="13">
 
 But the real stumbling block was Joe Gargery’s forge. In our determination not to miss it we must have stopped at every plausible cottage in a five mile radius. Finally we found one called The Old Forge in Chalk, believed to be the village described in the book. There was no obvious place to park, and anyway it was raining. But we had come here to feel something, so we stashed the car a hundred yards down a narrow lane, marched back in single file and tried not to look like burglars as we stared wanly at the cladding on the walls and told each other it was typically Kentish. Pip arrives back at the forge from his encounter with Magwitch cold, damp and frightened. We were cold, damp and slightly inhibited by thinking what fools we’d feel if this turned out to be the wrong house.
 <param ve-image primary url="https://stor.artstor.org/stor/268e63f4-837e-405b-aae4-cf63b8288c18" title="Forge Cottage, Chalk" attribution="©Ken Moffat">
-!-- Base map centered on Chalk -->
+<!-- Base map centered on Chalk -->
 <param ve-map center="Q5068781" zoom="13">
 
 **Cooling**   
 And then the moment that somehow changed everything. Reading the first scene of the novel where it is meant to have happened, in the churchyard of [Cooling Church](/dickens/great-expectations-cooling). The church porch is small with a bench on each side. Imagine sitting on one of these benches, legs pulled up in front of you, leaning back towards the church. From here you can see straight ahead into the churchyard. There is the tomb stone, just a few feet away, where Magwitch hoists Pip and demands a file and wittles. Imagine that facing you on the other bench someone is sitting with a scuffed paperback copy of the novel, open at the first page. They are not in your line of vision but you know that they can see you. You want them to see you, to register this book being written on your face. There is more than one voice here, you can hear the roughness of the man assuming rights over a child he has never met; the diffidence of the boy as he introduces his parents, the names of the dead who stand witness and can do nothing. You want to help, but it’s too late, and you know what will happen next but there’s nothing you can do. And you know how it will end – a fading away, the closing of the book, and silence. That will be thank you. You’ll have to move, look at each other, but that’s ok, you’ve done this before. And then you’re running through the rain, towards the river.
 <param ve-image url="https://stor.artstor.org/stor/efdfe6c0-6b85-41ec-b620-b04bfc7432f2" title="Cooling Churchyard" attribution="©Carolyn Oulton">
-!-- Base map centered on Cooling -->
+<!-- Base map centered on Cooling -->
 <param ve-map center="Q2649453" zoom="13">
 
 This is the river down which Pip will row so desperately in his abortive attempt to smuggle Magwitch out of the country from [Gravesend](/19c/19c-gravesend). We nearly ended up in it when the sat nav helpfully directed us to the [Ship and Lobster](/dickens/great-expectations-ship-and-lobster) via a small yard hemmed in by industrial buildings, and over a jetty. Convinced we had taken a wrong turning we reversed cautiously back out and down the back road by which we’d just arrived. For one moment it seemed that lunch was going to be a burger from a layby kiosk. But before we gave in it was worth approaching those men in luminous yellow – you did just address them as ‘mate’, didn’t you? – and asking if the pub was nearby. Some gesticulating, much nodding, a word that sounded like ‘mate’ repeated several times; by this point the driver feared she might be eating alone. (It’s an experience in itself observing a male bonding ritual and marvelling at how much mileage can seemingly be got out of this one word). And then we were moving slowly back in the direction of the yard.
@@ -207,14 +208,14 @@ So for our next foray we carefully avoided the river and set off in search of Es
 Whenever he leaves the forge Pip is confronted with a choice between the [marshy expanse](/landscape/kentish-landscapes) of his childhood trauma and the claustrophobic world of Satis House (or to give it its real name, [Restoration House](/dickens/great-expectations-restoration-house) where he submits to be tortured by the only woman he will ever love. Later he will shamefully opt for the Blue Boar on his visits from London, rather than stay with Joe at the forge. 
 <param ve-image url="https://stor.artstor.org/stor/71d79942-8b89-4986-93c1-26ac1891d108" title="Bull Hotel" fit="cover" attribution="Benjamin Mortley">
 <!-- Base map centered on Rochester -->
-<param ve-map center="Q507517" zoom="12">
+<param ve-map center="Q507517" zoom="13">
 
 We were forced to question his decision when – having assumed we would find the inn without effort – we found ourselves in a startlingly empty, neon blue and purple bar, trying not to notice the prevalence of cocktail umbrellas or to look each other in the eye. Immediately we found ourselves speaking in whispers, as if we had been kidnapped or inadvertently walked into the wrong meeting. Clearly this was never going to do, but we spent several minutes plotting our escape in a kind of semaphore (which was odd, as there were apparently no staff to be offended, and the door was wide open), before finally bolting back into the sunshine and agreeing never to speak of this again. The actual Blue Boar was of course shut, so we took refuge in a quaintly oak-beamed pub a few doors down, where a motherly woman, almost certainly descended from Joe and Biddy’s children, took one look at our still ashen faces and put some extra gravy on the pie.
 <br><br>
 Renewed and revitalised by this act of kindness, we were ready to infringe some dignity at work policies in the park opposite 'Satis' [Restoration House](/dickens/great-expectations-restoration-house). 
 <param ve-image url="https://stor.artstor.org/stor/08a01877-5172-46fe-ba14-108ac56bf37b" title="Restoration House" attribution="Benjamin Mortley">
 <!-- Base map centered on Rochester -->
-<param ve-map center="Q507517" zoom="12">
+<param ve-map center="Q507517" zoom="13">
 
 [‘He calls the knaves, Jacks, this boy!’](http://www.literatureproject.com/great-expectations/great_8.htm)  
 <br>
@@ -227,12 +228,12 @@ Pip detected guiltily looking at his feet. Distracted glance in our direction fr
 Meanwhile Estella, enjoying herself enormously by this stage, ‘denounced me for a stupid, clumsy labouring-boy’ while throwing in ‘a look of supreme aversion’ for good measure.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ac/Estellapip.jpg" label="Estella and Pip" attribution="F. A. Fraser., Public domain, via Wikimedia Commons">
 <!-- Base map centered on Rochester -->
-<param ve-map center="Q507517" zoom="12">
+<param ve-map center="Q507517" zoom="13">
 
 It was a dejected Pip – or it should have been – who subsequently found himself touring a life size model of a hulk with said Estella in the very [Guildhall](/dickens/great-expectations-guildhall) (now a [museum](https://www.visitmedway.org/attractions/rochester-guildhall-museum-2132/) ) where he would later be apprenticed to Joe.  Notably he perked up sufficiently to make threatening comments at the whipping post on the way past. And the sudden appearance of the curator may have been entirely coincidental, but we were not wholly convinced that the museum was really due to close, as he firmly told us it was.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/70/GuildhallRochester.jpg" title="Guild Hall, Rochester" attribution="Wikimedia Commons">
 <!-- Base map centered on Rochester -->
-<param ve-map center="Q507517" zoom="12">
+<param ve-map center="Q507517" zoom="13">
 
 Back in the High Street it was clearly time for further refreshments. With only a cursory nod to the [Swiss Chalet](/dickens/dickens-swiss-chalet), now held in the garden of the Nun’s House (otherwise [Eastgate House](/dickens/edwin-drood-eastgate-house)) beloved of Rosa Budd in _[The Mystery of Edwin Drood](/dickens/edwin-drood-curated-walk)_ (as one email memorably put it around this time, ‘With a few minor exceptions, I would merrily strangle most Dickens heroines with my own hands’), we spotted a charming looking establishment, went through the door and straight into Estella. The real one this time. She was at least seven foot tall, immaculately turned out and quite determined that if she had to serve us at all, we were both going to have tea. Pip, who by this time had had about enough, calmly explained that while his friend was indeed having tea, he himself had endured as much abuse as he was going to take from a fictional character, and had in fact asked her for a glass of moët.    
 ‘So what,’ she demanded in icy tones, ‘am I meant to do with this tea?’   
@@ -240,7 +241,7 @@ Back in the High Street it was clearly time for further refreshments. With only 
 Her expression as she poured it down the sink would have shaken anyone but a born teacher.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/64/Eastgate_House%2C_Rochester_High_St.JPG" title="Eastgate House, Rochester High St." attribution="Wikimedia Commons">
 <!-- Base map centered on Rochester -->
-<param ve-map center="Q507517" zoom="12">
+<param ve-map center="Q507517" zoom="13">
 
 Gratifyingly we had a cool half hour in which to show that she didn’t scare _us_, before suddenly remembering the meter and making a less dignified exit than we might have chosen.   
 Technically it still had a minute to run when we saw the traffic warden, but this was no time to take risks.   
@@ -254,7 +255,7 @@ _What do you think she’s going to do, chase us?_
 And then we got lost again, but at least Estella wasn’t there to see it.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/87/With_Estella_after_all%2C_by_Marcus_Stone.jpg" label="With Estella after all" attribution="Marcus Stone, Public domain, via Wikimedia Commons">
 <!-- Base map centered on Rochester -->
-<param ve-map center="Q507517" zoom="12">
+<param ve-map center="Q507517" zoom="13">
 
 **Gad’s Hill: Journey’s End**    
 Honestly. Parents.   
