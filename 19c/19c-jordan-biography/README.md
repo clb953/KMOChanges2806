@@ -16,7 +16,6 @@ banner=https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg de
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="3cec6f180298eeb9" title="Mudge 1801">
 
-
 #
 
 Mrs Dora Jordan was the foremost actress of her day and very much admired. She became the long-standing mistress of the Duke of Clarence, the future King William IV, with whom she lived for many years and had ten children. As well as performing in London, she toured the provinces extensively, making several visits to Kent, where she appeared at theatres including Canterbury, Margate, Ramsgate, Deal and Dover. Starting her career in Ireland at the age of 15, Dora toured Yorkshire, before taking London by storm with her performance of Peggy in _The Country Girl_ at Drury Lane Theatre in 1785.[^ref1] Known for her comedy performances, Dora was soon being talked about in the provinces, and theatre prints of her as Miss Lucy in Henry Fielding’s farce _The Virgin Unmasked_ were produced and sold by [Kentish Gazette](/18c/18c-kentish-gazette) and Canterbury printers Simmons and Kirkby, in 1791. [^ref2] 
