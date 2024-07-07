@@ -110,14 +110,6 @@ Botanist and gardener, John Tradescant the Younger was born at Meopham and educa
 
 Mathematician and cryptographer, John Wallis who was born in Ashford is known for his pioneering work in infinitesimal calculus and inspired Charlie and Barnaby to research this article.
 
-## Ada Lovelace
-
-[Ada Lovelace](/projects/duke-of-edinburgh/ada-lovelace-essay)
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f7/Carpenter_portrait_of_Ada_Lovelace_-_detail.png)
-
-From early childhood, Ada Lovelace showed signs of a keen mathematical mind. She was born into a tumultuous family, and the rift between her parents – Lord and Lady Byron – had a profound impact on Ada’s life.
-
 ## Rochester Cathedral
 
 [Rochester Cathedral](/projects/duke-of-edinburgh/rochester-cathedral-essay)
@@ -126,3 +118,11 @@ From early childhood, Ada Lovelace showed signs of a keen mathematical mind. She
 
 An introduction to Rochester Cathedral the second oldest cathedral in England.
 
+
+## Ada Lovelace
+
+[Ada Lovelace](/projects/duke-of-edinburgh/ada-lovelace-essay)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f7/Carpenter_portrait_of_Ada_Lovelace_-_detail.png)
+
+From early childhood, Ada Lovelace showed signs of a keen mathematical mind. She was born into a tumultuous family, and the rift between her parents – Lord and Lady Byron – had a profound impact on Ada’s life.
