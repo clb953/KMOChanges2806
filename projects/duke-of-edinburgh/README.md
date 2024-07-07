@@ -4,16 +4,9 @@ During the Covid pandemic, Kent Maps Online offered remote volunteering and skil
 <br><br>
 Supported by student ambassadors from Canterbury Christ Church University, participants explored the extraordinary history of Kent and the people who have lived here, using words, images and innovative coding to bring their stories to life. You can read more about the project in these blog posts written by participants: [Student Experience](https://blogs.canterbury.ac.uk/fahe/student-experience-duke-of-edinburgh-scheme/) and [My Experience using Juncture for Kent Maps Online](https://labs.jstor.org/blog/carina-chan-on-juncture-and-kent-maps/).
 
-# &nbsp; 
+
+# People 
 `.cards`
-
-## Spanish Armada
-
-[Spanish Armada](/16c/16c-spanish-armada)
-
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/wartime_Spanish_Armada.jpg)
-
-With invasion threatening, Kent mobilised its forces, but did it leave the coastal town of Margate unprotected? In this joint article, the participants researched different aspects of Armada history, from beacons to ships.
 
 ## Edmund Blunden
 
@@ -22,14 +15,6 @@ With invasion threatening, Kent mobilised its forces, but did it leave the coast
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/the_garden_of_england1.jpg)
 
 'Ever before me is the picture of the High Street, Yalding. I smell the hop wagons rucking down from the farms whose least Bramling weighed ten times as much as was raised at impious Pembury or baleful Paddock Wood.' Read Alice's research into the life of war poet, Edmund Blunden, who grew up in Yalding, near Maidstone.
-
-## Doodlebugs in Kent
-
-[Doodlebugs in Kent](/20c/ww2-doodlebug)
-
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/war_in_kent1.jpg)
-
-Co-researched and designed by Duke of Edinburgh participants, Hannah and Jonathan, and Applied Humanities student Alfie. This article illustrates the collaborative nature of the project. 
 
 ## Leonard and Thomas Digges
 
@@ -63,14 +48,6 @@ The Kentish physician who contributed to the study of anatomy and physiology, ad
 
 Mathematician born in Rochester and known for his work on analysis, number theory, and differential equations. Littlewood said 'Before creation, God did just pure mathematics. Then He thought it would be a pleasant change to do some applied.' Read Fanta's research to find out more.
 
-## Lullingstone Roman Villa
-
-[Lullingstone Roman Villa](/built/lullingstone-roman-villa)
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/d6/Painted_Walls_from_Lullinstone_Roman_Villa%2C_4th_century_AD%2C_British_Museum_%2816119773582%29.jpg)
-
-Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent Valley. Read Nadia's article about the excavations which took place during the 1940s-60s.
-
 ## John Lyly
 
 [John Lyly](/16c/16c-lyly-biography)
@@ -86,14 +63,6 @@ Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/a/ac/Plot_memorial%2C_Borden.jpg)
 
 Hannah researched the life of naturalist and chemist, Robert Plot who was born at Borden in Kent.
-
-## Plum Pudding Riots
-
-[Plum Pudding Riots](/17c/17c-plum-pudding-riots)
-
-![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
-
-Hannah writes a news report on the Canterbury riots which occurred on Christmas Day, 1647.
 
 ## John Tradescant the Younger
 
@@ -111,3 +80,42 @@ Botanist and gardener, John Tradescant the Younger was born at Meopham and educa
 
 Mathematician and cryptographer, John Wallis who was born in Ashford is known for his pioneering work in infinitesimal calculus and inspired Charlie and Barnaby to research this article.
 
+
+# Places 
+`.cards`
+
+## Lullingstone Roman Villa
+
+[Lullingstone Roman Villa](/built/lullingstone-roman-villa)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/d6/Painted_Walls_from_Lullinstone_Roman_Villa%2C_4th_century_AD%2C_British_Museum_%2816119773582%29.jpg)
+
+Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent Valley. Read Nadia's article about the excavations which took place during the 1940s-60s.
+
+
+# Events 
+`.cards`
+
+## Spanish Armada
+
+[Spanish Armada](/16c/16c-spanish-armada)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/wartime_Spanish_Armada.jpg)
+
+With invasion threatening, Kent mobilised its forces, but did it leave the coastal town of Margate unprotected? In this joint article, the participants researched different aspects of Armada history, from beacons to ships.
+
+## Doodlebugs in Kent
+
+[Doodlebugs in Kent](/20c/ww2-doodlebug)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/war_in_kent1.jpg)
+
+Co-researched and designed by Duke of Edinburgh participants, Hannah and Jonathan, and Applied Humanities student Alfie. This article illustrates the collaborative nature of the project. 
+
+## Plum Pudding Riots
+
+[Plum Pudding Riots](/17c/17c-plum-pudding-riots)
+
+![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/garden_John_Tradescant.jpg)
+
+Hannah writes a news report on the Canterbury riots which occurred on Christmas Day, 1647.
