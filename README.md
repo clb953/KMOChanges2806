@@ -58,7 +58,7 @@ To celebrate Dover at Night, Kent Maps Online have written an article about Dove
 
 ![](https://raw.githubusercontent.com/kent-map/images/main/thumbnails/duke-of-edinburgh.jpg)
 
-During the COVID pandemic, Kent Maps Online offered remote volunteering and skills training to Duke of Edinburgh participants at all levels. This space showcases their work.
+During the Covid pandemic, Kent Maps Online offered remote volunteering and skills training for Duke of Edinburgh participants who may not have been able to complete their awards without access to online opportunities. This space showcases the work completed by our Duke of Edinburgh participants at all levels.
 
 # Essays by period 
 `.cards`
