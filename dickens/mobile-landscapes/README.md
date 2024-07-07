@@ -34,7 +34,7 @@
 <!-- param ve-map center="Q1094104" zoom="10" -->
 
 <!-- Kent with map centered at Boughton Malherbe -->
-<param ve-map center="Q2161900" zoom="10">
+<param ve-map center="Q2161900" zoom="9.5">
 
 <!-- Historical map layers -->
 <!-- <param mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860" ve-map-layer/> -->
