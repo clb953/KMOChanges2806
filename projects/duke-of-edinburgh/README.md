@@ -110,13 +110,13 @@ Botanist and gardener, John Tradescant the Younger was born at Meopham and educa
 
 Mathematician and cryptographer, John Wallis who was born in Ashford is known for his pioneering work in infinitesimal calculus and inspired Charlie and Barnaby to research this article.
 
-## Plum Pudding
+## Ada Lovelace
 
-[Plum Pudding](/projects/duke-of-edinburgh/plumpudding)
+[Ada Lovelace](/projects/duke-of-edinburgh/ada-lovelace-essay)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/29/The_Christmas_Pudding%2C_or_Grand-papa%27s_Darling_%28BM_1935%2C0522.8.13%29.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f7/Carpenter_portrait_of_Ada_Lovelace_-_detail.png)
 
-Christmas conflict forms between the people of Canterbury and the Lord Mayor over new British Puritan rule.
+From early childhood, Ada Lovelace showed signs of a keen mathematical mind. She was born into a tumultuous family, and the rift between her parents – Lord and Lady Byron – had a profound impact on Ada’s life.
 
 ## Rochester Cathedral
 
