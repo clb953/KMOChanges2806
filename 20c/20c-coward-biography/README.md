@@ -17,7 +17,7 @@
 <param ve-map center="Q1506093" zoom="10">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="542e2ed0e875aeb4" title="OS East Kent 1945">
+<param ve-map-layer active allmaps allmaps-id="09908d6628a5278f" title="OS East Kent 1945">
 
 #
 
