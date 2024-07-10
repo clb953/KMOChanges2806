@@ -44,7 +44,7 @@ Caroline Verlaine, the first-person narrator, is widowed at an early age and she
 <!-- Base map entered on Temple Ewell -->
 <!-- param ve-map center="Q2703021" zoom="12" -->
 <!-- Base map entered on St. Radegund's Abbey -->
-<param ve-map center="Q7591573" zoom="12">
+<param ve-map center="Q7591573" zoom="11.5">
 
 During her time at Lovat Stacy, Caroline learns something of the history of Sandown, Deal and Walmer castles and she hears the local legend of the ghostly Grey Lady. But it is the Goodwin Sands which return again and again. They create an ominous sense of foreboding, with their submerged wrecks and their “desolate” atmosphere. They form an increasingly sinister background to the shocking tale of crime, mystery and romance that unfolds as Caroline finally learns the fate of her sister.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Sandown_Castle_1853.png" label="Sandown Castle, Kent" attribution="John Leech (1817-1864), Public domain, via Wikimedia Commons">
