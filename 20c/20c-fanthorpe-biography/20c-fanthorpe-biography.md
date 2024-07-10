@@ -11,11 +11,13 @@ banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c" desc
 <param ve-entity eid="Q1285144" aliases="Knole">
 
 <!-- Base map centred on Canterbury -->
-<param ve-map center="Q29303" zoom="10">
+<!-- param ve-map center="Q29303" zoom="10" -->
+<!-- Base map centred on Knole -->
+<param ve-map center="Q1285144" zoom="10">
 
 <!-- Historical map layers -->
 <!-- param ve-map-layer active allmaps allmaps-id="09908d6628a5278f" title="OS East Kent 1945" -->
-<param ve-map-layer active allmaps allmaps-id="eafa2705413ed881" title="OS Kent 1941">
+<param ve-map-layer active allmaps allmaps-id="02beda348c553bd7" title="OS SE England 1933">
 
 #
 
