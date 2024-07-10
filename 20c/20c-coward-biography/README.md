@@ -16,7 +16,7 @@
 <!-- Base map centred on Romney Marsh -->
 <!-- param ve-map center="Q1506093" zoom="10" -->
 <!-- Base map centred on Hawkinge -->
-<param ve-map center="Q2482605" zoom="12">
+<param ve-map center="Q2482605" zoom="11">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="542e2ed0e875aeb4" title="OS East Kent 1945">
