@@ -40,7 +40,7 @@ Caroline Verlaine, the first-person narrator, is widowed at an early age and she
 <!-- Base map entered on West Hougham -->
 <!-- param ve-map center="Q76835942" zoom="12" -->
 <!-- Base map entered on Alkham -->
-<param ve-map center="Q578630" zoom="11.5">
+<!-- param ve-map center="Q578630" zoom="11.5" -->
 <!-- Base map entered on Temple Ewell -->
 <param ve-map center="Q2703021" zoom="12">
 
