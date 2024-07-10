@@ -45,7 +45,7 @@ The doodlebug became an object of curiosity during 'Doodlebug Summer' particular
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Fieseler_Fi_103R_Reichenberg.jpg">
 <!-- Base map centered on Canterbury -->
-<param ve-map center="Q29303" zoom="12">
+<param ve-map center="Q29303" zoom="11">
 
 A map in _The Kent Messenger_ from the Summer of 1944 shows the extent of the bombing in Kent. Kent’s location en route to the more densely populated city of London, meant that enemy bombers who ran out of fuel or were shot down before they reached London, as well as any bombs that fell short of their target, would fall on Kent instead. [Winston Churchill](/20c/20c-churchill-chartwell/) speaking in parliament in the summer of 1944, said 'The flying bomb is a weapon literally and essentially indiscriminate in its nature, purpose, and effect.’[^ref10]
 <param ve-image url="https://www.normandythenandnow.com/wp-content/uploads/2018/04/Map-showing-where-the-doodlebug-fell-in-kent-published-in-the-Kent-Messenger-newspaper.jpg" label="Where the doodlebugs fell, Kent Messenger, via https://www.normandythenandnow.com/wp-content/uploads/2018/04/Map-showing-where-the-doodlebug-fell-in-kent-published-in-the-Kent-Messenger-newspaper.jpg"> 
