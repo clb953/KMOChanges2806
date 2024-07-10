@@ -44,7 +44,7 @@ During her time at Lovat Stacy, Caroline learns something of the history of Sand
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Sandown_Castle_1853.png" label="Sandown Castle, Kent" attribution="John Leech (1817-1864), Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f6/The_castle%2C_Deal%2C_England-LCCN2002696656.jpg" label="Deal Castle" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/12/Walmer_Castle_from_the_west.jpg" label="Walmer Castle" attribution="DeFacto, CC BY-SA 4.0, via Wikimedia Commons">
-<param ve-map center="Q1011096" zoom="12">
+<param ve-map center="Q1011096" zoom="13">
 
 ### References
 
