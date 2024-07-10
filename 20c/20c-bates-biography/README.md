@@ -5,7 +5,7 @@
 <param ve-entity eid="Q2470003" aliases="Little Chart">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="02beda348c553bd7" title="OS SE England & London 1933">
+<param ve-map-layer active allmaps allmaps-id="eafa2705413ed881" title="OS SE England & London 1933">
 
 #
 
