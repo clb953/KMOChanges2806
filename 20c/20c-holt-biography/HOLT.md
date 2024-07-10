@@ -37,7 +37,9 @@ Caroline Verlaine, the first-person narrator, is widowed at an early age and she
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/bc/Sugarloaf_Hill_-_geograph.org.uk_-_685635.jpg" label="Sugar Loaf Hill" attribution="Nigel Thornton / Sugarloaf Hill">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6b/Richborough_Castle_02.jpg" label="Richborough Castle" attribution="Nilfanion, CC BY-SA 4.0, via Wikimedia Commons">
 <!-- Base map entered on West Hougham -->
-<param ve-map center="Q76835942" zoom="12">
+<!-- param ve-map center="Q76835942" zoom="12" -->
+<!-- Base map entered on Alkham -->
+<param ve-map center="Q578630" zoom="12">
 
 During her time at Lovat Stacy, Caroline learns something of the history of Sandown, Deal and Walmer castles and she hears the local legend of the ghostly Grey Lady. But it is the Goodwin Sands which return again and again. They create an ominous sense of foreboding, with their submerged wrecks and their “desolate” atmosphere. They form an increasingly sinister background to the shocking tale of crime, mystery and romance that unfolds as Caroline finally learns the fate of her sister.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Sandown_Castle_1853.png" label="Sandown Castle, Kent" attribution="John Leech (1817-1864), Public domain, via Wikimedia Commons">
