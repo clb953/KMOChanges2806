@@ -17,7 +17,7 @@
 
 <!-- Historical map layers -->
 <!-- param ve-map-layer active allmaps allmaps-id="09908d6628a5278f" title="OS East Kent 1945" -->
-<param ve-map-layer active allmaps allmaps-id="02beda348c553bd7" title="OS SE England 1933">
+<param ve-map-layer active allmaps allmaps-id="542e2ed0e875aeb4" title="OS East Kent 1945">
 
 #
 
