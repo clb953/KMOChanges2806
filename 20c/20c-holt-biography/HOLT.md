@@ -13,7 +13,7 @@
 <param ve-entity eid="Q783371" aliases="Martin Mill">
 <param ve-entity eid="Q26323548" aliases="Oxney Court">
 <param ve-entity eid="Q7416497" aliases="Sandown">
-<param ve-entity eid="Q2343161" aliases="Walmer">
+<param ve-entity eid="Q2343161" aliases="Walmer Castle">
 
 <!-- Historical map layers -->
 <!-- param ve-map-layer active allmaps allmaps-id="09908d6628a5278f" title="OS East Kent 1945" -->
