@@ -21,7 +21,7 @@ Ursula Askham Fanthorpe (more commonly known as U. A. Fanthorpe) was born in the
 <param ve-entity eid="Q208201" aliases="Bromley">
 <param ve-entity eid="Q6512849" aliases="Lee">
 <param ve-entity eid="Q1431935" aliases="Biggin Hill">
-<param ve-map center="Q208201" zoom="10.5">
+<param ve-map center="Q208201" zoom="11.5">
 
 At fifty, Fanthorpe published her first poetry collection entitled _Side Effects_ (1978). There are notable mentions of Kent within the collection, including ‘Earthed’, where Fanthorpe describes ‘the chalky / Kent mud’.[^ref4]  During her childhood Fanthorpe enjoyed reading about English landscapes and it is clear that the [Kentish landscape](/landscape/kentish-landscapes/) specifically has permeated her work.[^ref5]  Her relationship with Kent continues in her collection _A Watching Brief_ (1987) where we can identify a link between the implications of war and Fanthorpe’s childhood spent in Kent. In ‘A Wartime Education’ the speaker of the poem describes ‘A father in uniform conferred status. Mine / Camping it up with the Home Guard in Kent / On summer nights, too human for heroics.’[^ref6]  The poem harbours a feeling of detachment from the places and people of childhood especially, for example, in the line break after ‘Mine’. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d5/King_George_VI_talking_to_a_member_of_the_Home_Guard_during_an_inspection_in_Kent%2C_10_August_1940._H2936.jpg" label="King George VI talking to a member of the Home Guard during an inspection in North Kent, 10 August 1940." attribution="Imperial War Museum, Horton (Capt), War Office official photographer, Public domain, via Wikimedia Commons">
