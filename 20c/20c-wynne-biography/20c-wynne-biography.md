@@ -6,8 +6,8 @@
 <param ve-entity eid="Q15063189" aliases="Sissinghurst">
 <param ve-entity eid="Q107338949" aliases="Mill Cottage">
 
-<!-- Base map centred on Margate -->
-<param ve-map center="Q618045" zoom="13">
+<!-- Base map centred on Nash Court -->
+<param ve-map center="Q26386990" zoom="13">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="542e2ed0e875aeb4" title="OS East Kent 1945">
