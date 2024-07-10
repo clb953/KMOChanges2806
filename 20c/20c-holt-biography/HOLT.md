@@ -15,6 +15,10 @@
 <param ve-entity eid="Q7416497" aliases="Sandown">
 <param ve-entity eid="Q2343161" aliases="Walmer">
 
+<!-- Historical map layers -->
+<!-- param ve-map-layer active allmaps allmaps-id="09908d6628a5278f" title="OS East Kent 1945" -->
+<param ve-map-layer active allmaps allmaps-id="02beda348c553bd7" title="OS SE England 1933">
+
 #
 
 Victoria Holt was a prolific and popular author who was a pioneer of the genre known variously as the modern Gothic novel, Gothic romance or romantic suspense. Her novel The _Shivering Sands_ (1969), is set near the Goodwin Sands. Holt stayed in Deal in the late 1960s and purchased and restored a house in Sandwich, known as The King’s Lodging, in the 1970s.  
