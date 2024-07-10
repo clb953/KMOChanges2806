@@ -37,7 +37,7 @@ The year 1944 was one of devastating human loss for Kent, in part due to the imp
 <param ve-map center="Q2465206" zoom="9.5">
 
 Despite its somewhat light-hearted nickname, the doodlebug was a source of great terror for civilians. For the residents of Tonbridge, which was on the flight of the 'bomb lane', it was a period of anxiety and stress.[^ref2]. The first bomb dropped on Swanscombe on the 13th June.[^ref3] Four days later, the first civilian casualities were recorded at Benenden when a flying bomb demolished a cottage and damaged two more, as well as causing extensive damage to the sanitorium.[^ref4] As the summer wore on, there were more civilian casualties in the Kent villages of Lympne, Capel-le-Ferne, Rolvenden, and Brabourne.[^ref5] In the House of Commons, Tom Driberg, called for more Morrison shelters to protect people in rural areas.[^ref6]
-<!-- Base map centered on Rolvenden -->
+<!-- Base map centered on Tenterden -->
 <param ve-map center="Q614560" zoom="10">
 
 The doodlebug became an object of curiosity during 'Doodlebug Summer' particularly in those areas where few bombs fell. At the bank holiday fete in [Canterbury](/canterbury/20c-canterbury-ww2/) "an almost complete specimen of the Hun's terror weapon" was one of the side shows.[^ref7]. In Herne Bay residents could view a Doodlebug at Woolworths[^ref8] and in Whitstable at the local Auction Mart. Adults were charged 6d and children 3d to view the weapon, with the funds going towards the Fund for the 'few' who had fought in the [Battle of Britain](/20c/20c-battle-of-britain-memorial/). [^ref9]  
@@ -46,6 +46,8 @@ The doodlebug became an object of curiosity during 'Doodlebug Summer' particular
        description="The Fiesler 103R bomb" 
        license="public domain" 
        url="https://upload.wikimedia.org/wikipedia/commons/1/1f/Fieseler_Fi_103R_Reichenberg.jpg">
+<!-- Base map centered on Canterbury -->
+<param ve-map center="Q29303" zoom="12">
 
 A map in _The Kent Messenger_ from the Summer of 1944 shows the extent of the bombing in Kent. Kent’s location en route to the more densely populated city of London, meant that enemy bombers who ran out of fuel or were shot down before they reached London, as well as any bombs that fell short of their target, would fall on Kent instead. [Winston Churchill](/20c/20c-churchill-chartwell/) speaking in parliament in the summer of 1944, said 'The flying bomb is a weapon literally and essentially indiscriminate in its nature, purpose, and effect.’[^ref10]
 <param ve-image url="https://www.normandythenandnow.com/wp-content/uploads/2018/04/Map-showing-where-the-doodlebug-fell-in-kent-published-in-the-Kent-Messenger-newspaper.jpg" label="Where the doodlebugs fell, Kent Messenger, via https://www.normandythenandnow.com/wp-content/uploads/2018/04/Map-showing-where-the-doodlebug-fell-in-kent-published-in-the-Kent-Messenger-newspaper.jpg"> 
