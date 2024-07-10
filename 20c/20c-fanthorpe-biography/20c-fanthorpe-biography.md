@@ -42,7 +42,8 @@ _A Watching Brief_ (1987)
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a9/SISSINGHURST_CASTLE_GARDEN_The_Prospect_Tower_and_lawn.JPG" label="Sissinghurst Castle Garden, The Prospect Tower and Lawn" attribution="HARTLEPOOLMARINA2014, CC BY-SA 4.0, via Wikimedia Commons">
 <param ve-entity eid="Q24660387" aliases="Sissinghurst Castle">
 <param ve-entity eid="Q1285144" aliases="Knole">
-<param ve-map center="Q24660387" zoom="12">
+<!-- param ve-map center="Q24660387" zoom="12" -->
+<param ve-map center="Q2346872" zoom="11">
 
 ### Bibliography 
 
