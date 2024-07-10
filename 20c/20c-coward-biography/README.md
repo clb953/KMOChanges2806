@@ -32,8 +32,8 @@ Coward’s career as a director, writer and actor continued to flourish througho
 <!-- param ve-map center="Q1506093" zoom="10" -->
 <!-- Base map centred on Aldington -->
 <!-- param ve-map center="Q921173" zoom="10" -->
-<!-- Base map centred on Newchurch -->
-<param ve-map center="Q749436" zoom="13">
+<!-- Base map centred on Lympne -->
+<param ve-map center="Q2056118" zoom="12">
 
 The following decade sees Coward take-off into stardom as his work circulates the globe, with his plays frequenting the theatres of New York, London and Paris. At the break of war in 1939, Coward takes on several roles, the primary roles being in propaganda work for the Ministry of Information and his performing of patriotic, propagandistic plays. Coward’s participation in the ‘Phoney War’ of propaganda led to tours of Australia and New Zealand, whilst acquiring funding for war charities.  
 <br>
