@@ -37,15 +37,13 @@ Caroline Verlaine, the first-person narrator, is widowed at an early age and she
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/bc/Sugarloaf_Hill_-_geograph.org.uk_-_685635.jpg" label="Sugar Loaf Hill" attribution="Nigel Thornton / Sugarloaf Hill">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/6b/Richborough_Castle_02.jpg" label="Richborough Castle" attribution="Nilfanion, CC BY-SA 4.0, via Wikimedia Commons">
 <!-- Base map entered on West Hougham -->
-<param ve-map center="Q76835942" zoom="13">
+<param ve-map center="Q76835942" zoom="12">
 
 During her time at Lovat Stacy, Caroline learns something of the history of Sandown, Deal and Walmer castles and she hears the local legend of the ghostly Grey Lady. But it is the Goodwin Sands which return again and again. They create an ominous sense of foreboding, with their submerged wrecks and their “desolate” atmosphere. They form an increasingly sinister background to the shocking tale of crime, mystery and romance that unfolds as Caroline finally learns the fate of her sister.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/Sandown_Castle_1853.png" label="Sandown Castle, Kent" attribution="John Leech (1817-1864), Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f6/The_castle%2C_Deal%2C_England-LCCN2002696656.jpg" label="Deal Castle" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/12/Walmer_Castle_from_the_west.jpg" label="Walmer Castle" attribution="DeFacto, CC BY-SA 4.0, via Wikimedia Commons">
-<param ve-map center="Q1011096" zoom="10">
-<param ve-map center="Q2543161" zoom="10">
-<param ve-map center="Q7416497" zoom="15">
+<param ve-map center="Q1011096" zoom="12">
 
 ### References
 
