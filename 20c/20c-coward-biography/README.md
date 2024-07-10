@@ -29,9 +29,13 @@ Sir Noël Peirce Coward (1899-1973) was born in Teddington, south-west London, o
 Coward’s career as a director, writer and actor continued to flourish throughout the first and second decades of the twentieth century. After returning from a visit to America and his success with _A Withered Nosegay_ (1922), Coward spent his first days in Kent, staying first at Dymchurch with friend Gladys Calthrop. After several weeks exploring [Romney Marsh](/landscape/romney-writers) in search of a more permanent residence, the pair found a cottage next to the Star Inn at St. Mary in the Marsh where he became acquainted with [Edith Nesbit](/nesbit/nesbit-biography), the author of _The Railway Children_. Four years later, he re-located to Goldenhurst Farm near Aldington. Goldenhurst Farm would remain his beloved country retreat for the two following decades. Whilst at Goldenhurst Farm, Coward would produce two key works of his early years: _The Vortex_ (1924), and _Bitter Sweet_ (1929). By the break of the 1930s, Coward was well established as a theatrical celebrity and continued to write for many decades to come and. He later toured the Far East where he continued to write notable works such as _Private Lives_ (1930) and _Post-Mortem_ (1930). 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ab/The_Old_House%2C_Goldenhurst%2C_Kent.jpg" label="The Old House, Goldenhurst" attribution="David Anstiss" license="CC BY-SA 2.0">
 <!-- Base map centred on Romney Marsh -->
-<param ve-map center="Q1506093" zoom="10">
+<!-- param ve-map center="Q1506093" zoom="10" -->
 <!-- Base map centred on Aldington -->
-<param ve-map center="Q921173" zoom="10">
+<!-- param ve-map center="Q921173" zoom="10" -->
+<!-- Base map centred on Newchurch -->
+<param ve-map center="Q749436" zoom="10">
+
+
 
 The following decade sees Coward take-off into stardom as his work circulates the globe, with his plays frequenting the theatres of New York, London and Paris. At the break of war in 1939, Coward takes on several roles, the primary roles being in propaganda work for the Ministry of Information and his performing of patriotic, propagandistic plays. Coward’s participation in the ‘Phoney War’ of propaganda led to tours of Australia and New Zealand, whilst acquiring funding for war charities.  
 <br>
