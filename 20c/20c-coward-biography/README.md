@@ -28,12 +28,6 @@ Sir Noël Peirce Coward (1899-1973) was born in Teddington, south-west London, o
 
 Coward’s career as a director, writer and actor continued to flourish throughout the first and second decades of the twentieth century. After returning from a visit to America and his success with _A Withered Nosegay_ (1922), Coward spent his first days in Kent, staying first at Dymchurch with friend Gladys Calthrop. After several weeks exploring [Romney Marsh](/landscape/romney-writers) in search of a more permanent residence, the pair found a cottage next to the Star Inn at St. Mary in the Marsh where he became acquainted with [Edith Nesbit](/nesbit/nesbit-biography), the author of _The Railway Children_. Four years later, he re-located to Goldenhurst Farm near Aldington. Goldenhurst Farm would remain his beloved country retreat for the two following decades. Whilst at Goldenhurst Farm, Coward would produce two key works of his early years: _The Vortex_ (1924), and _Bitter Sweet_ (1929). By the break of the 1930s, Coward was well established as a theatrical celebrity and continued to write for many decades to come and. He later toured the Far East where he continued to write notable works such as _Private Lives_ (1930) and _Post-Mortem_ (1930). 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ab/The_Old_House%2C_Goldenhurst%2C_Kent.jpg" label="The Old House, Goldenhurst" attribution="David Anstiss" license="CC BY-SA 2.0">
-<!-- Base map centred on Romney Marsh -->
-<!-- param ve-map center="Q1506093" zoom="10" -->
-<!-- Base map centred on Aldington -->
-<!-- param ve-map center="Q921173" zoom="10" -->
-<!-- Base map centred on Burmarsh -->
-<!-- param ve-map center="Q2383465" zoom="12" -->
 <!-- Base map centred on Lympne -->
 <param ve-map center="Q2056118" zoom="12">
 
@@ -43,7 +37,7 @@ Goldenhurst Farm was requisitioned by the army and at the end of the war, Coward
 <param ve-image url="https://stor.artstor.org/stor/5aee558d-22f7-4227-9dbc-4a0a188399e9" label="White Cliffs" attribution="Daniel Vincent">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/15/White_cliffs_at_St._Margaret%27s_Bay_-_geograph.org.uk_-_2139591.jpg" label="White Cliffs at St. Margaret's Bay" attribution="Graham Horn,via Wikimedia Commons" license="CC BY-SA 2.0">
 <!-- Base map centred on St. Margaret’s -->
-<param ve-map center="Q24638363" zoom="15">
+<param ve-map center="Q24638363" zoom="13">
 
 His friendship with [Ian Fleming](/20c/20c-fleming-biography) began when Coward started leasing Fleming’s Jamaican residence, Goldeneye, in 1948; they instantly became friends and great deal of time together in the following years. Coward built a place for himself in the Caribbean and would spend many happy years frequenting his foreign estate, Firefly; he would never again reside in his native country. Coward would be knighted in the 1970 New Year’s Honours List and began his retirement at his home in Jamaica. In 1973, Sir Noël Peirce Coward passed away peacefully at Firefly and is buried on Firefly Hill.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ee/Ian-Fleming-bronze-bust-by-sculptor-Anthony-Smith.jpg" label="Ian Fleming bronze bust by Anthony Smith" attribution="Fortheloveofknowledge, via Wikimedia Commons" license="CC BY-SA 4.0">
