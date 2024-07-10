@@ -28,9 +28,9 @@
 <param ve-map center="Q29303" zoom="10">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="09908d6628a5278f" title="OS East Kent 1945">
+<param ve-map-layer active allmaps allmaps-id="02beda348c553bd7" title="OS SE England & London 1933">
 
-
+#
 
 The year 1944 was one of devastating human loss for Kent, in part due to the impact of a newly invented ‘revenge weapon’ (Vergeltungswaffen) used by the Germans. The V-1 flying bomb, also known as the doodlebug because of its erratic movement and buzzing noise, was powered by a jet engine and carried a ton of explosive in its nose. The bombs were launched from the Pas de Calais and Picardy during the summer of 1944, with most passing over the Kent coast between Hythe and Dungeness; their destination, London.[^ref1] 
 <param ve-map center="Q967166" zoom="10">
