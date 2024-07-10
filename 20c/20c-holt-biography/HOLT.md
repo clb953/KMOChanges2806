@@ -3,6 +3,7 @@
 <param ve-config title="Victoria Holt (1906-1993), a pseudonym of Eleanor Hibbert" author="Mandy Jones" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
 <param ve-entity eid="Q1011096" aliases="Deal">
+<param ve-entity eid="Q1180981" aliases="Deal Castle">
 <param ve-entity eid="Q26163" aliases="Sandwich">
 <param ve-entity eid="Q1494482" aliases="Goodwin Sands">
 <param ve-entity eid="Q375314" aliases="Folkestone">
