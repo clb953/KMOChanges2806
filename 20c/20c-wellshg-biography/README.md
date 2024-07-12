@@ -8,7 +8,7 @@
 <param ve-entity eid="Q921173" aliases="Aldington">
 
 <!-- Base map default centered on Sandgate -->
-<param ve-map center="Q29303" zoom="10">
+<param ve-map center="Q1000312" zoom="12">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="6215fa6c47c47347" title="Bartholomew Kent 1904">
