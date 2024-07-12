@@ -98,9 +98,9 @@ Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent
 
 [Rochester Cathedral](/projects/duke-of-edinburgh/rochester-cathedral-essay)
 
-![](thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/6/68/Rochester_Cathedral_%28Cathedral_Church_of_Christ_and_the_Blessed_Virgin_Mary_of_Rochester%29_-_geograph.org.uk_-_5923755.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/6/68/Rochester_Cathedral_%28Cathedral_Church_of_Christ_and_the_Blessed_Virgin_Mary_of_Rochester%29_-_geograph.org.uk_-_5923755.jpg)
 
-An introduction to Rochester Cathedral the second oldest cathedral in England.
+An introduction to Rochester Cathedral which is the second oldest cathedral in England.
 `
 
 # Events 
