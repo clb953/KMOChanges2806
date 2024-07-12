@@ -7,7 +7,7 @@
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q921173" aliases="Aldington">
 
-<!-- Base map default centered on Canterbury -->
+<!-- Base map default centered on Sandgate -->
 <param ve-map center="Q29303" zoom="10">
 
 <!-- Historical map layers -->
