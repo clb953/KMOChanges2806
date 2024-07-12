@@ -10,7 +10,7 @@
 <param ve-entity eid="Q967166" aliases="Hythe">
 
 <!-- Base map default centered on Sandgate -->
-<param ve-map center="Q1000312" zoom="12">
+<param ve-map center="Q1000312" zoom="12.5">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="6215fa6c47c47347" title="Bartholomew Kent 1904">
