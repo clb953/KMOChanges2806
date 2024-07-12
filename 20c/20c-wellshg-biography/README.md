@@ -6,6 +6,8 @@
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q921173" aliases="Aldington">
+<param ve-entity eid="Q1000312" aliases="Sandgate">
+<param ve-entity eid="Q967166" aliases="Hythe">
 
 <!-- Base map default centered on Sandgate -->
 <param ve-map center="Q1000312" zoom="12">
