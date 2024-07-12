@@ -4,7 +4,7 @@
 
 Kent Maps Online is an interactive Digital Humanities project exploring the county's rich heritage, using multi-disciplinary lenses to research and present historic, literary and geographical records. Travel through the site and find answers to questions you haven’t even thought of yet.
 
-# Featured essays 
+# Featured Essays 
 `.cards`
 
 ## Mobile Landscapes - Finding Kent Dickensian
@@ -60,7 +60,7 @@ To celebrate Dover at Night, Kent Maps Online have written an article about Dove
 
 During the Covid pandemic, Kent Maps Online offered remote volunteering and skills training for Duke of Edinburgh participants, at all levels, who may not have been able to complete their awards without access to online opportunities. This space showcases the work they completed.
 
-# Essays by period 
+# Essays by Period 
 `.cards`
 
 ## Medieval
@@ -124,7 +124,7 @@ Dover and Folkestone become the gateway to the Western Front during WW1. Seaside
 Regeneration and the rise of the DFL, street murals, poetry, books and Covid.
 
 
-# Essays by place 
+# Essays by Place 
 `.cards`
 
 ## Places A-D
@@ -152,7 +152,7 @@ Towns of grandeur. Articles on Folkestone and Gravesend.
 
 Seaside resorts such as Ramsgate and Sandgate.
 
-# Essays by theme 
+# Essays by Theme 
 `.cards`
 
 ## Actors and Theatres
