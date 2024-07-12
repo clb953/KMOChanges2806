@@ -33,7 +33,7 @@ Wells had many connections to authors who spent time in and wrote about Kent. Ar
 In 1901 _The Sea Lady_ was published in _Pearson’s Magazine_ and then published as a book in 1902.  The novel tells the story of a mermaid washed ashore in Sandgate who is taken in by a wealthy family. After becoming well known to the town and creating the myth of wanting to integrate into society, her real motives become clear – to seduce Harry Chatteris.
 <param ve-image url="https://stor.artstor.org/stor/3faa86d1-377e-4bf1-a238-14456e2214dd" label="Spade House" ttribution="By permission of Alan Taylor, Folkestone Local History Society">
 <!-- Base map default centered on Sandgate -->
-<param ve-map center="Q1000312" zoom="12.75">
+<param ve-map center="Q1000312" zoom="13">
 
 During 1901 Wells embarked on a cycling tour of Kent, visiting Hill farm in Aldington to focus on his writing and then on to Ramsgate.  A few years later in 1904 Wells completed his novel _Kipps_ which was published in 1905. _Kipps_ , based mainly in Folkestone, is the rags-to-riches story of Kipps, a draper’s assistant (the inspiration arguably from Wells’ own experience as an apprentice at the family drapery ), who received a large, surprise inheritance. With his new-found wealth he is accepted into the higher classes of Folkestone but finds himself struggling to integrate. One scene shows Kipps desperately trying to educate himself in the [local library](/19c/19c-folkestone-free-library). This comic novel’s critics have claimed it has autobiographical moments and a sense of Wells’ own life.  
 <param ve-image url="https://stor.artstor.org/stor/58489167-08c1-41d7-975b-e7d8dc0b3735" label="Kipps Alehouse, Folkestone, 2021" attribution="© Michelle Crowther">
