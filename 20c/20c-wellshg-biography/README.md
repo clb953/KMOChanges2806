@@ -43,7 +43,7 @@ During 1901 Wells embarked on a cycling tour of Kent, visiting Hill farm in Aldi
 In 1907, Wells’ became a Justice of the Peace for Folkestone,   received a visit from the author [Elizabeth von Armin](/20c/20c-vonarnim-biography) and a few years later, in 1910, published his novel _The History of Mr. Polly_. _The History of Mr. Polly_ is the story of Alfred Polly, a shop keeper in the fictional town of Fishbourne in Kent, based on Sandgate.  It retells Mr. Polly’s history and, similar to Kipps, he begins as a draper’s assistant, hanging around with the Three Ps until he eventually receives an inheritance from his late father. After this he travels to [Canterbury](/canterbury/20c-canterbury-home), has a short love affair which ends in heartbreak and settles on marrying Miriam (his first cousin) bringing the novel back into the present, revealing the reality of shop-owning life. Similar to _Kipps_  the novel feels somewhat autobiographical, a theme throughout Wells’ writing. Each of the novels Wells wrote while living in Sandgate gives its reader a small glimpse into the history of H.G Wells. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9e/The_promenade%2C_Sandgate%2C_England-LCCN2002708091.jpg" label="The Promenade, Sandgate" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
 <!-- Base map default centered on Canterbury -->
-<param ve-map center="Q29303" zoom="12">
+<param ve-map center="Q29303" zoom="13">
 
 ### Bibliography 
 Roberts, Adam. _H.G Wells: A literary Life_. Palgrave Macmillan, 2019. [Springer E-books](https://link.springer.com/book/10.1007%2F978-3-030-26421-5#about). Accessed 22/06/2020.   
