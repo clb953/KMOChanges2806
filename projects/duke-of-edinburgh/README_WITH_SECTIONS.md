@@ -95,7 +95,7 @@ Mathematician and cryptographer, John Wallis who was born in Ashford is known fo
 Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent Valley. Read Nadia's article about the excavations which took place during the 1940s-60s.
 
 
-`image ## Rochester Cathedral
+## Rochester Cathedral
 
 [Rochester Cathedral](/projects/duke-of-edinburgh/rochester-cathedral-essay)
 
@@ -103,8 +103,6 @@ Lullingstone Roman Villa is situated near the village of Eynsford, in the Darent
 
 An introduction to Rochester Cathedral the second oldest cathedral in England.
 `
-
-
 
 # Events 
 `.cards`
