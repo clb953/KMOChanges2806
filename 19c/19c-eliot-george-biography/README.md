@@ -15,7 +15,7 @@
 <param ve-entity eid="Q618045" title="Margate">
 <param ve-entity eid="Q179224" title="Dover">
 
-<!-- Base map centred on Broadstairs -->
+<!-- Base map centred on Nash Court -->
 <param ve-map center="Q26386990" zoom="12">
 
 <!-- Historical map layers -->
