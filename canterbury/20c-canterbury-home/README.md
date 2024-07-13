@@ -35,7 +35,7 @@ Since the 1960s the map of Canterbury reflects the development of commercial ret
 
 [Retail](/canterbury/20c-canterbury-retail-store)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/a/ae/Jocelyn_Brooke.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/a88a700f-df99-46c1-ba05-e5809a9d9e77)
 
 The first retail department store in Canterbury, Lefevre’s, opened in 1926. The brainchild of Charles Lefevre (1879-1945), his father William Lefevre, born 1847 in Canterbury and of Huguenot descent. The 20th century had arrived!
 
