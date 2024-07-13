@@ -75,9 +75,9 @@ Directors Michael Powell and Emeric Pressburger pay homage to Geoffrey Chaucer's
 
 [Transport](/canterbury/20c-canterbury-transport)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/e5ce46d0-9be4-4154-8f87-856471fd5e67)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+The Canterbury and Kent road and railway networks developed throughout the 20th century. One lesson of the 20th century was that the more provision was made for cars the more congestion followed.
 
 ## Railway
 
