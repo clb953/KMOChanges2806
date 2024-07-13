@@ -13,6 +13,9 @@
 
 'Kent of all the counties of England, is thickest set with historical reminiscences, and he alone, who has tried, will fully realise how hard it is in writing of such a county to compress and select.' _Bell’s Pocket Guide to Kent_ (1930)
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/Roman_Folkestone_by_Winbolt_MJC.jpg" label="Roman Folkestone by S.E. Winbolt">
+<param ve-image compare=true full
+    gh:kent-map/images/then-and-now/Ancient_Lavatory_1905 pct:0,8,70,92 
+    gh:kent-map/images/then-and-now/Ancient_Lavatory_2021 pct:0,15,70,85 >
 
 When Samuel Edward Winbolt, a classics and history teacher and writer of school textbooks, was holidaying in Folkestone in August 1923, he was to learn of a little-known site of archaeological interest on the East Cliff. It was here that Winbolt was to spend the next two holidays excavating the remains of a Roman villa.[^ref1]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/be/Folkestone_Roman_Villa%2C_Wear_Bay_Road_%28geograph_2573346%29.jpg" label="Folkestone Roman Villa, Wear Bay Road" attribution="Lesley Smith / Folkestone Roman Villa, Wear Bay Road">
