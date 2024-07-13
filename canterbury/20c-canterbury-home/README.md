@@ -1,4 +1,4 @@
-`ve-header title="20th Century Kent" background=gh:kent-map/images/banners/20c.jpg .sticky`
+`ve-header title="20th Century Canterbury" background=gh:kent-map/images/banners/20c.jpg .sticky`
 
 `.cards`
 
