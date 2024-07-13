@@ -1,6 +1,6 @@
 [![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
 
-`ve-header title="19th Century Kent" background=gh:kent-map/images/banners/Millennium.jpg .sticky`
+`ve-header title="20th Century Canterbury" background=gh:kent-map/images/banners/Millennium.jpg .sticky`
 
 This collection of short essays covers a range of themes that help explain how Canterbury developed into the city that it is today.
 
