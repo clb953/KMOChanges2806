@@ -24,7 +24,7 @@ Both S-MB-RNE and DU M-R-ER,
 When I have gone by 3.15   
 Granville Express, Victorier’_[^ref1]    
 Punch, 1888
-<br>
+<br><br>
 Edward Linley Sambourne, cartoonist, began his career as a marine draughtsman at Messrs Penn and Sons of Greenwich. In 1867 he sent a few of his drawings to Mark Lemon, the editor of _Punch_ who encouraged him to take art lessons; he joined the magazine in 1871. Sambourne was a talented artist, creating satirical portraits of some of the leading figures of the day, including [Charles Darwin](/19c/19c-darwin-biography).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/64/Edward_Linley_Sambourne%2C_self_portrait_1891.png" label="Edward Linley Sambourne" attribution="Public domain, via Wikimedia Commons">
 
