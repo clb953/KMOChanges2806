@@ -1,6 +1,6 @@
 [![](https://v3.juncture-digital.org/images/wb.svg)](https://v3.juncture-digital.org/wb)
 
-`ve-header title="20th Century Canterbury" background=gh:kent-map/images/banners/Millennium banner.jpg.sticky`
+`ve-header title="20th Century Canterbury" background=gh:kent-map/images/banners/20c.jpg .sticky`
 
 This collection of short essays covers a range of themes that help explain how Canterbury developed into the city that it is today.
 
@@ -23,14 +23,6 @@ The 20th-century map of Canterbury has to combine both the post  World War II re
 
 Supplying the growing car manufacturing sector, one of the largest upholstery tanneries in Europe prospered throughout the 20th century within the city walls until its closure in 2002.
 
-## Boom City
-
-[Boom City](/canterbury/20c-canterbury-boom-city).
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/de/Canterbury_War_Memorial_Buttermarket.JPG)
-
-During the “Great War” of 1914-1918 Canterbury was mobilised as a garrison city with hospitals handed over to the army, and for the mustering and training of thousands of horses for the carnage of the western front.
-
 ## Trading Estates
 
 [Trading Estates](/canterbury/20c-canterbury-trading-estates)
@@ -46,6 +38,14 @@ Since the 1960s the map of Canterbury reflects the development of commercial ret
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/a88a700f-df99-46c1-ba05-e5809a9d9e77)
 
 The first retail department store in Canterbury, Lefevre’s, opened in 1926. The brainchild of Charles Lefevre (1879-1945), his father William Lefevre, born 1847 in Canterbury and of Huguenot descent. The 20th century had arrived!
+
+## Boom City
+
+[Boom City](/canterbury/20c-canterbury-boom-city).
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/de/Canterbury_War_Memorial_Buttermarket.JPG)
+
+During the “Great War” of 1914-1918 Canterbury was mobilised as a garrison city with hospitals handed over to the army, and for the mustering and training of thousands of horses for the carnage of the western front.
 
 ## Universities
 
@@ -63,6 +63,14 @@ By the end of the 20th century Canterbury was home to three universities, the Un
 
 In view of the rich heritage of Christian learning it is not surprising that in the 20th century Canterbury became pre-eminent as a centre of education. Physically the expansion of schools and universities filled every vacant space in the city.
 
+## A Canterbury Tale
+
+[A Canterbury Tale](/canterbury/20c-canterbury-tales-film)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Canterbury_Holland_Chaucer_statue.jpg/894px-Canterbury_Holland_Chaucer_statue.jpg)
+
+Directors Michael Powell and Emeric Pressburger pay homage to Geoffrey Chaucer's work in their 1944 film A Canterbury Tale, where the characters willingly or unwillingly follow in the footsteps of the old pilgrims and even feel their presence.
+
 ## Transport
 
 [Transport](/canterbury/20c-canterbury-transport)
@@ -75,14 +83,10 @@ The Canterbury and Kent road and railway networks developed throughout the 20th 
 
 [Railway](/canterbury/20c-canterbury-railway)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5b/Canterbury_West_Station_-_geograph.org.uk_-_5033042.jpg)
+
+`image ![](thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Canterbury_Holland_Chaucer_statue.jpg/894px-Canterbury_Holland_Chaucer_statue.jpg)`
+
+
+`image ![](thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5b/Canterbury_West_Station_-_geograph.org.uk_-_5033042.jpg)`
 
 Canterbury West station now comprises an impressive set of Grade 2 listed railway buildings. The Goods Shed was about to be demolished in 1986, before being saved by a preservation order. 
-
-## A Canterbury Tale
-
-[A Canterbury Tale](/canterbury/20c-canterbury-tales-film)
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Canterbury_Holland_Chaucer_statue.jpg/894px-Canterbury_Holland_Chaucer_statue.jpg)
-
-Directors Michael Powell and Emeric Pressburger pay homage to Geoffrey Chaucer's work in their 1944 film A Canterbury Tale, where the characters willingly or unwillingly follow in the footsteps of the old pilgrims and even feel their presence.
