@@ -7,7 +7,7 @@
 <param ve-entity eid="Q28921788" aliases="Catherine Williamson">
 
 <!-- Base map centred on Canterbury -->
-<param ve-map center="Q29303" zoom="10">
+<param ve-map center="Q29303" zoom="12">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
