@@ -1,4 +1,4 @@
-`ve-header title="20th Century Kent" background=gh:kent-map/images/banners/20c.jpg .sticky`
+`ve-header title="20th Century Kent" background=gh:kent-map/images/maps/KentRoadMap.jpg .sticky`
 
 Dover and Folkestone become the gateway to the Western Front during WW1. Seaside towns decline, challenged by the increasing popularity of overseas holidays.
 
