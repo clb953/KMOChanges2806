@@ -83,6 +83,6 @@ The Canterbury and Kent road and railway networks developed throughout the 20th 
 
 [Railway](/canterbury/20c-canterbury-railway)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Canterbury_West_Station_Signal_Box%2C_Edit_1.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Canterbury West station now comprises an impressive set of Grade 2 listed railway buildings. The Goods Shed was about to be demolished in 1986, before being saved by a preservation order. 
