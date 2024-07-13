@@ -27,9 +27,9 @@ Supplying the growing car manufacturing sector, one of the largest upholstery ta
 
 [Trading Estates](/canterbury/20c-canterbury-trading-estates)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/3f/Elizabeth_Bowen_1899-1973_Writer_lived_here_1935-1952.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/5dd13fa2-03ce-46d5-bd42-34901758643d)
 
-‘Possibly it was England made me a novelist’ Elizabeth Bowen loved East Kent. When she was uprooted from Ireland and transplanted to the Folkestone area as a child of seven she was immediately bewitched.
+Since the 1960s the map of Canterbury reflects the development of commercial retail and trading estates built outside the city centre and along outer ring roads.
 
 ## Retail
 
