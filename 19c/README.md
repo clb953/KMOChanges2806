@@ -630,7 +630,7 @@ As one 19th century wag observed, Folkestone is a near anagram of â€˜Kent Foolsâ
 
 [Folkestone Free Library](19c-folkestone-free-library)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/4d/Canterbury_Library_main_entrance.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/45/Folkestone_Library_-_geograph.org.uk_-_6441598.jpg)
 
 Whilst the Libraries Act of 1850 enabled the provision of public libraries through the rates, provincial towns were unaccountably reluctant, in short -  as Mr Micawber might have put it - they were slow to act.
 
