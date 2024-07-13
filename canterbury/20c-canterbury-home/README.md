@@ -43,7 +43,7 @@ The first retail department store in Canterbury, Lefevre’s, opened in 1926. Th
 
 [Boom City](/canterbury/20c-canterbury-boom-city).
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/d6/The_Butter_Market_square_outside_of_Canterbury_Cathedral_-_geograph.org.uk_-_2428011.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/d/de/Canterbury_War_Memorial_Buttermarket.JPG)
 
 During the “Great War” of 1914-1918 Canterbury was mobilised as a garrison city with hospitals handed over to the army, and for the mustering and training of thousands of horses for the carnage of the western front.
 
