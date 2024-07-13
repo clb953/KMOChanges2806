@@ -4,8 +4,8 @@
 <!-- Global Entities -->
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q4898591" aliases="Betteshanger">
-<param ve-entitley eid="Q7548600" aliases="Snowdown">
-<param ve-entitley eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q7548600" aliases="Snowdown">
+<param ve-entity eid="Q179224" aliases="Dover">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
@@ -15,8 +15,6 @@
 **It’s not what you look at, it’s what you see**   
 On April 2nd, 2022, a new museum opened on the site of what was once Betteshanger Colliery in the Kent coalfield. The Kent Mining Museum draws on collections built up over the years by the East Kent coalfield communities. Coal was first discovered in East Kent in 1890, while Betteshanger was the last pit to close in the Coalfield in 1989. The in-between history is important, complex and contested. When we observe this landscape, and visit the Museum, we still risk doing an injustice to local working class history set within a complex terrain. Mapping any terrain has to be multi-layered and multi-dimensional. It must include the people who lived and worked there. There needs to be aesthetically satisfying representations of the whole  – geological, ecological, historical, socio-cultural, political as well as human; women alongside men.  It must include fulsome illumination of a vibrant, troubled, resilient, questioning, collectivist culture, and how people experienced and made sense of their work, lives, economic and political change, as well as Kent and a wider world. There will be gaps in the portraiture, but we do have various individual stories to help us enrich the picture. Here lie many layers of struggle, harsh labour, death, suffering, solidarities, conflict, heroism, courage, loss, political and educational commitment. We can learn to see, imaginatively, through the eyes of some of those most intimately involved in mining in Kent and in the making of their working class culture. 
 <param ve-image url="https://stor.artstor.org/stor/8cc5eb9c-60be-4b8d-8408-cea130517fd6" label="The Waiting Miner" attribution="Martin Crowther">
-<!-- Base map centered on Bishopsourne --> 
-<!-- param ve-map center="Q866348" zoom="11" -->
 <!-- Base map centered on Ninington --> 
 <param ve-map center="Q3141352" zoom="11">
 
