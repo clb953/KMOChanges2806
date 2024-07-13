@@ -19,7 +19,7 @@ The 20th-century map of Canterbury has to combine both the post  World War II re
 
 [Industry](/canterbury/20c-canterbury-industrial)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/16/Edmund_Blunden_by_Rex_Whistler_pencil%2C_1929.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/c2a24edf-49f6-48fd-9c29-11731fb15d16)
 
 ‘Two influences stand out clearly and unmistakably; that of Kent, his native countryside, and that of the war. Mr Blunden is a thorough Kentishman. That probably is why he succeeds so admirably in recreating the very soul and atmosphere of the southern counties.’
 
