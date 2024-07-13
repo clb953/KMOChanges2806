@@ -67,9 +67,9 @@ In view of the rich heritage of Christian learning it is not surprising that in 
 
 [A Canterbury Tale](/canterbury/20c-canterbury-tales-film)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Canterbury_Holland_Chaucer_statue.jpg/894px-Canterbury_Holland_Chaucer_statue.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Directors Michael Powell and Emeric Pressburger pay homage to Geoffrey Chaucer's work in their 1944 film A Canterbury Tale, where the characters willingly or unwillingly follow in the footsteps of the old pilgrims and even feel their presence.
 
 ## Transport
 
