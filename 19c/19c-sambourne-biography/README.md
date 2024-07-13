@@ -30,8 +30,6 @@ Edward Linley Sambourne, cartoonist, began his career as a marine draughtsman at
 
 A few years after joining the magazine, Sambourne inherited money from his aunt, enabling him to marry Marion Herapath at St Peter’s Church, Thanet in 1874. His bride was the daughter of Spencer Herapath, a wealthy London stockbroker who had built Westwood Lodge as a holiday home. The wedding attracted visitors from London and 'a more imposing and pretty wedding has never been witnessed in the Isle of Thanet.' Special trains brought the visitors to [Broadstairs](/dickens/broadstairs-19th-century) station which was decorated with evergreens and flowers.[^ref2]  [Francis Burnand](/19c/19c-burnand-biography), one of the illustrators and later editor at _Punch_, who lived in [Ramsgate](/19c/19c-ramsgate), attended the wedding. He and his wife were to become lifelong friends of the couple. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/41/St_Peters_Church%2C_Broadstairs.jpg" label="St Peter's Church, Broadstairs" attribution="Graham Pritchard, CC BY-SA 2.0, via Wikimedia Commons">
-<!-- Base map centered on Nash Court -->
-<!-- param ve-map center="Q26386990" zoom="12" -->
 <!-- Base map centered on Manston -->
 <param ve-map center="Q2779399" zoom="12">
 
@@ -48,8 +46,8 @@ The Sambournes moved in artistic and literary circles. In 1884 Edward met [Henry
 
 To create his black and white cartoons, Sambourne purchased studio portraits and collected cuttings of subjects from which he drew inspiration. In 1883 he began taking his own photographs, inviting models to his house whilst his wife was away.[^ref8]   He often used a small camera to take surreptitious shots of women and girls. In March 1906, he took the train to Ramsgate where he was met by Sir Francis and Lady [Burnand](/19c/19c-burnand-biography). He walked to the Granville Hotel, but was 'very much winded in climbing up steps.'[^ref9]  They had an ‘indifferent lunch’ at Cliftonville and a ‘poor dinner’ followed by a 'lovely walk rounds the sands by Margate.'[^ref10]  He records taking a dozen shots of a fair-haired girl at Ramsgate and three dozen on the sands. The next day he took a dozen shots on the pier and records that he 'just missed a ladies’ school going down steps', revealing his somewhat unnerving obsession with young women.[^ref11]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/01/Edward_Linley_Sambourne_modelling_10_Jan_1895.jpg" label="Self portrait of Linley Sambourne modelling for a Punch cartoon Quite English, You Know! published Vol 108, Jan 19, 1895, pg 26." attribution="Heritage123 at English Wikipedia, Public domain, via Wikimedia Commons">
-<!-- Base map centered Ramsgate -->
-<param ve-map center="Q736439" zoom="12">
+<!-- Base map centered on Manston -->
+<param ve-map center="Q2779399" zoom="12">
 
 Sambourne also visited [Folkestone](/19c/19c-folkestone). In 1882 he made 'a sort of Jules Verne journey into the bowels of the earth' to visit the Channel Tunnel Works, where he toasted the health of her Majesty half a mile from the shore with a party of pressmen. In September 1906, he returned staying at the Pavilion Hotel, where [Charles Dickens](/dickens/dickens-folkestone) had been a frequent visitor. He records: 'Took camera and went up to the Lees. High wind. Missed 2 pretty girls. Got nursemaid.' He met the suffragette Fanny Streatfield and her friend Woodruff walking along the Lees. His candid shots of day-trippers included young women on the beach and twenty-one people in the wind. He lunched at the Grand Hotel where he had a fair lunch, followed by coffee at the Metropole. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/df/Lee%27s_Promenade_and_Bandstand%2C_Folkestone%2C_England-LCCN2002696748.tif" label="Promenade and Bandstand, Folkestone, c.1890-1900" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
@@ -61,7 +59,7 @@ In the winter of 1910, Sambourne, who was suffering from ill health, stayed at t
 This article was published: 5 March 2022.
 <param ve-image url="https://stor.artstor.org/stor/c588a4b8-e77a-4b52-bf74-c1dc705350b8" label="Granville Hotel, Ramsgate">
 <!-- Base map centered Ramsgate -->
-<param ve-map center="Q736439" zoom="12">
+<param ve-map center="Q736439" zoom="13">
 
 ### References
 
