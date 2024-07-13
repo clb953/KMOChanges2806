@@ -89,17 +89,17 @@ Cicely Hamilton was a feminist actress, writer and playwright. She co-founded th
 
 [D.H. Lawrence](20c-lawrence-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/The_Green_at_Crockham_Hill_-_geograph.org.uk_-_4474691.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+David Herbert Lawrence, a coal miner's son and struggling writer from Nottingham, visited Kent in the autumn of 1911. He had sent two short stories to critic and literary editor Edward Garnett who invited him to stay at his home The Cearne at Crockham Hill, Edenbridge.
 
 ## Daphne Oram
 
 [Daphne Oram](20c-oram-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/5c0f95b3-e762-4282-926b-abbe671a1ae4)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Born in 1925, Daphne Oram, pioneer of electronic music, turned down a place at the Royal College of Music in 1942 to become a Junior Studio Engineer and ‘music balancer’ at the BBC.
 
 ## Derek Jarman
 
@@ -113,25 +113,25 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 [Diana & Tony Powell-Cotton](20c-powell-cotton)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/20c/Tony_Archaeologist.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Diana Powell-Cotton (1908-1986) & Tony (Antoinette) Powell-Cotton (1913-1997), arguably the first British women documentary filmmakers, travelled to the interior of Africa in the 1930s where they recorded the domestic lives of those they met and lived with. 
 
 ## Donald Maxwell
 
 [Donald Maxwell](20c-maxwelld-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ff02b007-70c7-432e-88d7-04fa94cfefde)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Donald Maxwell, enlisted as a Royal Naval Volunteer Reserve and posted to North Sea Patrol at Sheerness during WW1. Post war, he lived in Borstal, near Rochester.
 
 ## E.M. Forster
 
 [E.M. Forster](20c-forster-em-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=ttps://upload.wikimedia.org/wikipedia/commons/b/b2/Tonbridge_School%2C_from_the_cricket_field.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+In 1893 E.M. Forster and his mother moved to Tonbridge  where they rented ‘Dryhurst’ in Dry Hill Park Road so that Forster might attend Tonbridge School as a day boy.
 
 ## Edith Craig
 
@@ -139,23 +139,23 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Edith ‘Edy” Craig was a trailblazing theatrical director, producer, costumier and actress. She was also committed to the fight for equality for women and, as an extension of that, to the cause of women’s suffrage.
 
 ## Elizabeth Von Arnim
 
 [Elizabeth Von Arnim](20c-vonarnim-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/24/Waterfront_Way%2C_Chatham_-_geograph.org.uk_-_1816619.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Elizabeth von Arnim (31 August 1866 – 9 February 1941), born Mary Annette Beauchamp, was an English novelist. She undertook a caravanning holiday in Sussex and Kent in the summer of 1907.
 
 ## Ellen Terry
 
 [Ellen Terry](20c-terry-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/1b/Ellen_Terry_as_Margaret.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Ellen Terry was the superstar English actress of the Victorian period. Born to a theatrical family, she is best known for her long theatrical partnership with Sir Henry Irving, performing at the Lyceum Theatre, London, and throughout the UK and the US.   
 
 ## Ford Madox Ford
 
@@ -163,7 +163,7 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Ford, originally named ‘Ford Hermann Hueffer’, eloped, in 1894, with his childhood sweetheart Elsie Martindale, and they moved to the Romney Marsh, where Ford lived until they gradually separated from 1907-09. 
 
 ## Gladys Waterer
 
