@@ -83,10 +83,6 @@ The Canterbury and Kent road and railway networks developed throughout the 20th 
 
 [Railway](/canterbury/20c-canterbury-railway)
 
-
-`image ![](thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/Canterbury_Holland_Chaucer_statue.jpg/894px-Canterbury_Holland_Chaucer_statue.jpg)`
-
-
 `image ![](thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5b/Canterbury_West_Station_-_geograph.org.uk_-_5033042.jpg)`
 
 Canterbury West station now comprises an impressive set of Grade 2 listed railway buildings. The Goods Shed was about to be demolished in 1986, before being saved by a preservation order. 
