@@ -4,8 +4,8 @@
 <!-- Global Entities -->
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q4898591" aliases="Betteshanger">
-<param ve-entitley eid="Q179224" aliases="Dover">
 <param ve-entitley eid="Q7548600" aliases="Snowdown">
+<param ve-entitley eid="Q179224" aliases="Dover">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
