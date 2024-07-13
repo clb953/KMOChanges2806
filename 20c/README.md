@@ -201,7 +201,7 @@ Nora Geraldine (Gerry) Gordon Salmon, a popular historical fiction writer of the
 
 [John Ferguson](20c-ferguson-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f7f77d64-c2cc-428e-a73f-c954aa757393)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/502194a/20c/images/arrivalofbelgiansFMuseum.jpg)
 
 Scottish by birth, novelist and dramatist John Ferguson became chaplain of Eversley girls’ school in Sandgate in 1915. The following year he wrote a paper for the Folkestone War Refugees Committee on the town’s contribution in helping Belgian refugees.
 
