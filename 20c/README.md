@@ -209,41 +209,41 @@ Scottish by birth, novelist and dramatist John Ferguson became chaplain of Evers
 
 [Julian Symons](20c-symons-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/6571a7bd-b4ea-4cdc-b6f6-fe54cef2a745)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Julian Symons was a poet and a prolific author of both history and crime fiction. In 1951 he was elected the first Jewish member of the Detection Club, becoming President in 1976 and also President of the Conan Doyle Society in 1979.
 
 ## M.R. James
 
 [M.R. James](20c-jamesmr-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/MRJames1900.jpg/330px-MRJames1900.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Medieval scholar and ghost writer, Montague Rhodes James was born at Goodnestone Parsonage in August 1862. An eminent academic, he was also Director of the Fitzwilliam Museum in Cambridge and a Fellow of the British Academy.
 
 ## Marian Fielding Peck
 
 [Marian Fielding Peck](20c-peck-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f3df3254-575f-4f32-ae8b-198c806e9d50)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Marian Fielding Peck (always known as Maisie) started painting seriously in the 1920s and, as well as map designs, she also specialised in calligraphy and miniatures, some of which were exhibited at the Royal Academy.
 
 ## Mary Kelly
 
 [Mary Kelly](20c-kelly-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/The_Thames_at_Greenhithe_-_geograph.org.uk_-_2532424.jpg/1024px-The_Thames_at_Greenhithe_-_geograph.org.uk_-_2532424.jp)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Writing in the 1950s and 1960s, Mary Kelly (1927-2017) was an English crime writer best known for the Inspector Brett Nightingale series. She wrote her novel 'Due to a Death' following a holiday to Greenhithe, Kent.
 
 ## Mary L. Pendered
 
 [Mary L. Pendered](20c-pendered-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/18912934-acb7-4c45-b1fc-83b59b86e182)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Mary Lucy Pendered, who is remembered as the author of ‘coy pastoral tales’ spent several years in Herne Bay, where she was the President of the local branch of the National Union of Women’s Suffrage Societies.
 
 ## Mary Tourtel
 
