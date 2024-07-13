@@ -107,7 +107,7 @@ Born in 1925, Daphne Oram, pioneer of electronic music, turned down a place at t
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Derek Jarman, painter, poet, film-maker, was born in 1942 in Northwood, Thanet. He fell in love with Dungeness in general and Prospect Cottage in particular when a desire for fish and chips brought him to Romney Marsh in 1986 at the age of 44.
 
 ## Diana & Tony Powell
 
