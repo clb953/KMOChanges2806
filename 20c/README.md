@@ -105,7 +105,7 @@ Born in 1925, Daphne Oram, pioneer of electronic music, turned down a place at t
 
 [Derek Jarman](20c-jarman-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/8c8e4df6-5b93-4f5f-b6a5-c87f76df018a)
 
 Derek Jarman, painter, poet, film-maker, was born in 1942 in Northwood, Thanet. He fell in love with Dungeness in general and Prospect Cottage in particular when a desire for fish and chips brought him to Romney Marsh in 1986 at the age of 44.
 
