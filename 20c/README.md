@@ -161,7 +161,7 @@ Ellen Terry was the superstar English actress of the Victorian period. Born to a
 
 [Ford Madox Ford](20c-fordmadoxford-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/6/67/Picture_of_Ford_Madox_Hueffer.jpg)
 
 Ford, originally named ‘Ford Hermann Hueffer’, eloped, in 1894, with his childhood sweetheart Elsie Martindale, and they moved to the Romney Marsh, where Ford lived until they gradually separated from 1907-09. 
 
@@ -169,9 +169,9 @@ Ford, originally named ‘Ford Hermann Hueffer’, eloped, in 1894, with his chi
 
 [Gladys Waterer](20c-waterer-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/982eba99-332b-4bcd-8cbe-a328476822ca)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Gladys Waterer was best known in her lifetime as a dramatist and leading light of the Broadstairs branch of the Dickens Fellowship from its inauguration in 1837.
 
 ## H.G. Wells
 
