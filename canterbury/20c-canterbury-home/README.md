@@ -11,7 +11,7 @@ This collection of short essays covers a range of themes that help explain how C
 
 [Overview](/canterbury/20c-canterbury-overview)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/0/02/Canterbury_Cathedral_-_Portal_Nave_Cross-spire.jpeg)
 
 The 20th-century map of Canterbury has to combine both the post  World War II reconstruction of the inner core of the historic city, and also the enlargement of the city in response to the expansion of population, education, tourism and commerce in the latter part of the century.
 
