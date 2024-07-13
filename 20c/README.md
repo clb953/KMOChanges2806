@@ -137,7 +137,7 @@ In 1893 E.M. Forster and his mother moved to Tonbridge  where they rented ‘Dry
 
 [Edith Craig](20c-craig-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/4/4c/Edith_Ailsa_Geraldine_Craig%2C_1895.jpg)
 
 Edith ‘Edy” Craig was a trailblazing theatrical director, producer, costumier and actress. She was also committed to the fight for equality for women and, as an extension of that, to the cause of women’s suffrage.
 
@@ -177,33 +177,33 @@ Gladys Waterer was best known in her lifetime as a dramatist and leading light o
 
 [H.G. Wells](20c-wellshg-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/54/H._G._Wells%2C_c.1890.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+On medical advice, wells and his wife Jane moved to the Kent coast at Sandgate where the writer had many connections to other authors who spent time in and wrote about Kent.
 
 ## Ian Fleming
 
 [Ian Fleming](20c-fleming-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/07405b1d-ef21-4501-90ed-3ad985c20029)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Fleming’s fondness for Kent flowered from its roots as an occasional golfing retreat to what was to become, for a time, a blissful domestic haven. With so much invested in Kent it was natural for Fleming to mine it as a source for what was to become his career as a writer.
 
 ## J.G. Sarasin
 
 [J.G. Sarasin](20c-salmon-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f7f77d64-c2cc-428e-a73f-c954aa757393)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Nora Geraldine (Gerry) Gordon Salmon, a popular historical fiction writer of the 1920s-1960s, lived in Canterbury and Harbledown for much of her career.
 
 ## John Ferguson
 
 [John Ferguson](20c-ferguson-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/f7f77d64-c2cc-428e-a73f-c954aa757393)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Scottish by birth, novelist and dramatist John Ferguson became chaplain of Eversley girls’ school in Sandgate in 1915. The following year he wrote a paper for the Folkestone War Refugees Committee on the town’s contribution in helping Belgian refugees.
 
 ## Julian Symons
 
