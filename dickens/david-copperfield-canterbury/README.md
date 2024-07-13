@@ -17,8 +17,8 @@ a grave building in a courtyard, with a learned air about it that seemed very we
 <param ve-image url="https://stor.artstor.org/stor/c7538ee6-6e4e-4321-a748-578148758e2a" label="Mint Yard 12079 Kings School" attribution=" By kind permission of Peter Henderson">
 
 Tradition places Dr Strong’s house at 1 Lady Wootton’s Green, although some remain sceptical. Not least among them, a 1928 guide writer insists that ‘I can give a dozen reasons as to the utter absurdity of it. Fancy the Head Master of the King’s School living by St Augustine’s College. He might as well have lived in Dover. Dr Strong lived in the Precincts. adjoining his school.’[^ref3]
-<param ve-compare curtain url="https://stor.artstor.org/stor/deb8a6fd-bc51-42fb-8ac2-28b556c482ab" label="St Augustine's College, Canterbury (1905 or earlier)">
-<param ve-compare url="https://stor.artstor.org/stor/f5acfe60-3c2c-4d9e-979f-2ec2896ebb2d" label="St Augustine's College, Canterbury, 2021">
+<param ve-compare curtain url="https://stor.artstor.org/stor/f5acfe60-3c2c-4d9e-979f-2ec2896ebb2d" label="St Augustine's College, Canterbury, 2021">
+<param ve-compare url="https://stor.artstor.org/stor/deb8a6fd-bc51-42fb-8ac2-28b556c482ab" label="St Augustine's College, Canterbury (1905 or earlier)">
 
 David's first impression though is of ‘the sunny street [Sun Street?] of [Canterbury](/19c/19c-canterbury), dozing as it were in the hot light’.[^ref4]   
 Though a plaque on the wall of the Sun Hotel claims it as Dickens’ ‘Little Inn’ it is more likely that the real progenitor of this is actually The Three Tuns by Castle St. And while we are on the subject of pubs, it is pleasant to imagine David passing the [Bat and Ball](http://www.dover-kent.com/Bat-and-Ball-Canterbury.html) by the cricket ground on his thankless walk along the Dover Road [Dover Road](/dickens/david-copperfield-dover-road).
