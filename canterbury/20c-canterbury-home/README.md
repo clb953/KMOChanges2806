@@ -59,9 +59,9 @@ By the end of the 20th century Canterbury was home to three universities, the Un
 
 [Education](/canterbury/20c-canterbury-education)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/67a31a8c-c065-4747-a259-131c9d72eddc)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+In view of the rich heritage of Christian learning it is not surprising that in the 20th century Canterbury became pre-eminent as a centre of education. Physically the expansion of schools and universities filled every vacant space in the city.
 
 ## A Canterbury Tale
 
