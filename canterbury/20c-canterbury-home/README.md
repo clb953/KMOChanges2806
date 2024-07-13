@@ -9,7 +9,7 @@ This collection of short essays covers a range of themes that help explain how C
 
 ## Overview
 
-[overview of 20th-century Canterbury](/canterbury/20c-canterbury-overview)
+[Overview](/canterbury/20c-canterbury-overview)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
 
@@ -17,7 +17,7 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 ## Industry
 
-[industry](/canterbury/20c-canterbury-industrial)
+[Industry](/canterbury/20c-canterbury-industrial)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/16/Edmund_Blunden_by_Rex_Whistler_pencil%2C_1929.jpg)
 
@@ -25,7 +25,7 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 ## Trading Estates
 
-[trading estates](/canterbury/20c-canterbury-trading-estates)
+[Trading Estates](/canterbury/20c-canterbury-trading-estates)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/3f/Elizabeth_Bowen_1899-1973_Writer_lived_here_1935-1952.jpg)
 
@@ -33,7 +33,7 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 ## Retail
 
-[retail industry](/canterbury/20c-canterbury-retail-store)
+[Retail](/canterbury/20c-canterbury-retail-store)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/a/ae/Jocelyn_Brooke.jpg)
 
@@ -41,7 +41,7 @@ Jocelyn Brooke spent most of his life in the little village of Bishopsbourne, wh
 
 ## Boom City
 
-[boom city](/canterbury/20c-canterbury-boom-city).
+[Boom City](/canterbury/20c-canterbury-boom-city).
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
 
@@ -49,7 +49,7 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 ## Universities
 
-[universities](/canterbury/20c-canterbury-universities)
+[Universities](/canterbury/20c-canterbury-universities)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
 
@@ -57,7 +57,7 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 ## Education
 
-[education](/canterbury/20c-canterbury-education)
+[Education](/canterbury/20c-canterbury-education)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
 
@@ -65,7 +65,7 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 ## A Canterbury Tale
 
-[1944 film *A Canterbury Tale*](/canterbury/20c-canterbury-tales-film)
+[A Canterbury Tale](/canterbury/20c-canterbury-tales-film)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
 
@@ -73,7 +73,7 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 ## Transport
 
-[transport](/canterbury/20c-canterbury-transport)
+[Transport](/canterbury/20c-canterbury-transport)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
 
@@ -81,7 +81,7 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 ## Railway
 
-[railway](/canterbury/20c-canterbury-railway)
+[Railway](/canterbury/20c-canterbury-railway)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
 
