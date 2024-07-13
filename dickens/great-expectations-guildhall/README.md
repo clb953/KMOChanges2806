@@ -11,7 +11,7 @@
 <param title="Rochester" eid="Q507517">
 
 <!-- Kent with map centered at Rochester -->
-<param ve-map center="Q507517" zoom="10">
+<param ve-map center="Q507517" zoom="13">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent OS 1860">
