@@ -37,7 +37,7 @@ Since the 1960s the map of Canterbury reflects the development of commercial ret
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/a/ae/Jocelyn_Brooke.jpg)
 
-Jocelyn Brooke spent most of his life in the little village of Bishopsbourne, which lies some 5 miles or so south-east of Canterbury, concealed like a secret in the Elham Valley, where it is washed (and occasionally flooded) by the intermittent waters of the Nailbourne. He remains an obscure and neglected figure, best known, if at all, for The Orchid Trilogy
+The first retail department store in Canterbury, Lefevre’s, opened in 1926. The brainchild of Charles Lefevre (1879-1945), his father William Lefevre, born 1847 in Canterbury and of Huguenot descent. The 20th century had arrived!
 
 ## Boom City
 
