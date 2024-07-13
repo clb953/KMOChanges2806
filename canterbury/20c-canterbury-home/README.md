@@ -51,9 +51,9 @@ During the “Great War” of 1914-1918 Canterbury was mobilised as a garrison c
 
 [Universities](/canterbury/20c-canterbury-universities)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/ada7827f-a5e3-4daa-a6d2-8bf65efd1113)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+By the end of the 20th century Canterbury was home to three universities, the University for the Creative Arts, Canterbury Christ Church University and the largest and first to be a university, the University of Kent. 
 
 ## Education
 
