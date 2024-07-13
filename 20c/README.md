@@ -43,47 +43,47 @@ Jocelyn Brooke spent most of his life in the little village of Bishopsbourne, wh
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/20c/Cohen_studio.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+In 1963, Cohen and his second wife Diana were looking for a studio. They drove past a striking coach house of a grand Queen Anne-style red-brick mansion called Ballards, on the road to Horsmonden.
 
 ## Amy Johnson
 
 [Amy Johnson](20c-johnson-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/e4/Amy_Johnson_Festival%2C_Kingston_upon_Hull_-_geograph.org.uk_-_5281693.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Amy Johnson (1903-1941), CBE, was a record breaking pilot and engineer, most famous for being the first woman to fly solo from England to Australia in 1930.
 
 ## Baroness Orczy
 
 [Baroness Orczy](20c-orczy-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/20c/Arrival_of_Belgians_FMuseum.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Born in Hungary in 1865, Emma Orczy de Orci, the author of the Scarlet Pimpernel novels moved to Thanet in 1908 with her husband, the illustrator, Montague Barstow.
 
 ## Bertha Porter
 
 [Bertha Porter](20c-porter-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/573d7807-f4c0-40b9-ad07-e65b737daf4f)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Bertha Porter, biographer, and Egyptologist was born in Bloomsbury on April 9th, 1852. In the 1870s, Bertha’s parents, Frederick and Sarah Porter (nee Moyle), bought a seaside home on Marine Terrace, Hythe.
 
 ## Christopher St John
 
 [Christopher St John](20c-st-john-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5c/Christopher_St_John.JPG)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Christopher St John (born Christabel Marshall) was a prolific writer whose work covered biography, suffrage and avant garde plays, experiments in life writing, and over thirty years of journalism for British newspapers and magazines.
 
 ## Cicely Hamilton
 
 [Cicely Hamilton](20c-hamilton-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/13/Cicely_Hamilton_by_Lena_Connell_1910s.png)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Cicely Hamilton was a feminist actress, writer and playwright. She co-founded the Women Writers’ Suffrage League and was a vigorous campaigner for women’s suffrage.
 
 ## D.H. Lawrence
 
