@@ -28,21 +28,20 @@ When Samuel Edward Winbolt, a classics and history teacher and writer of school 
 <param ve-map center="Q375314" zoom="10">
 <param ve-map center="Q60108798" zoom="10">
 
-
 During a three-week [excavation](https://fmlearnwithobjects.co.uk/questions/romans-0-a-pile-of-old-stones/) at Easter, followed by five more weeks during the summer, Winbolt and a team of diggers and enthusiasts - including his daughter Rosalind, and Miss Sybil Thomas - excavated the site.[^ref2] Miss Thomas was a teacher at the Duke of York School in Dover and had studied a two-year course in archaeology.
-<!-- param ve-map center="Q179224" zoom="10" -->
-<!-- param ve-map center="Q26672887" zoom="10" -->
 <!-- Base map centred on St. Radegund's Abbey -->
 <param ve-map center="Q7591573" zoom="12">
+<param ve-map center="Q179224" zoom="10">
+<param ve-map center="Q26672887" zoom="10">
 
 The town’s businessmen, councillors and guest house owners watched the developments with interest, hoping that Roman remains would draw visitors to the town. The walls of a villa, a hypocaust system, a small furnace, a late Celtic bowl and a coin minted in Lyons were quickly discovered.[^ref3]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Mosaic_fragment._%28FindID_69499%29.jpg" label="Mosaic fragment" attribution="The Portable Antiquities Scheme/ The Trustees of the British Museum, CC BY-SA 2.0, via Wikimedia Commons">
 
 On Monday 25th August 1924, nearly a thousand people visited the site, each paying three pence to view the excavations.[^ref4]  Was Folkestone about to experience Romanomania?
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Across_the_site_of_the_Roman_villa_-_panoramio.jpg" label="Across the site of the Roman villa" attribution="Mutzy, CC BY-SA 3.0, via Wikimedia Commons">
-<!-- param ve-map center="Q375314" zoom="10" -->
 <!-- Base map centred on St. Radegund's Abbey -->
 <param ve-map center="Q7591573" zoom="12">
+<param ve-map center="Q375314" zoom="10">
 
 Frank Fletcher, President of the Rotary Club, enthusiastically described Winbolt as having 'done Folkestone a signal service in bringing the town before the reading public.'[^ref5]  Reports about the excavations had been widely reported in the British press  - _The Graphic_ gave a whole page to the story, including illustrations - and the townsfolk must have been eager for an influx of visitors.[^ref6]  The [first world war](20c/20c-folkestone-ww1/) had impacted the popularity of the town - the smart set who had filled the hotels had moved on and it now attracted a more middle-class holiday-maker. Kentish seaside towns had to work hard to attract visitors.
 <param ve-entity eid="Q107339143" aliases="Folkestone Rotary Club">
