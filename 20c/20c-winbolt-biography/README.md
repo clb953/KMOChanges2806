@@ -23,10 +23,10 @@
 
 When Samuel Edward Winbolt, a classics and history teacher and writer of school textbooks, was holidaying in Folkestone in August 1923, he was to learn of a little-known site of archaeological interest on the East Cliff. It was here that Winbolt was to spend the next two holidays excavating the remains of a Roman villa.[^ref1]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/be/Folkestone_Roman_Villa%2C_Wear_Bay_Road_%28geograph_2573346%29.jpg" label="Folkestone Roman Villa, Wear Bay Road" attribution="Lesley Smith / Folkestone Roman Villa, Wear Bay Road">
-<!-- param ve-map center="Q375314" zoom="10" -->
-<!-- param ve-map center="Q60108798" zoom="10" -->
 <!-- Base map centred on St. Radegund's Abbey -->
 <param ve-map center="Q7591573" zoom="12">
+<param ve-map center="Q375314" zoom="10">
+<param ve-map center="Q60108798" zoom="10">
 
 
 During a three-week [excavation](https://fmlearnwithobjects.co.uk/questions/romans-0-a-pile-of-old-stones/) at Easter, followed by five more weeks during the summer, Winbolt and a team of diggers and enthusiasts - including his daughter Rosalind, and Miss Sybil Thomas - excavated the site.[^ref2] Miss Thomas was a teacher at the Duke of York School in Dover and had studied a two-year course in archaeology.
