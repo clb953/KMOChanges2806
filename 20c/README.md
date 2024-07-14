@@ -329,57 +329,49 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 [U.A. Fanthorpe](20c-fanthorpe-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/a/a9/SISSINGHURST_CASTLE_GARDEN_The_Prospect_Tower_and_lawn.JPG)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Fanthorpe’s childhood spent in Bromley would become significant to her work in later life. With her brother David, she spent time exploring Kent by bicycle and stopping at historical sites.
 
 ## Victoria Holt
 
 [Victoria Holt](20c-holt-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/6fbd0fc9-b2ce-421e-98e7-36cd1e89a92f)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Victoria Holt, a prolific and popular author who was a pioneer of the genre known variously as the modern Gothic novel, Gothic romance or romantic suspense.
 
 ## Vita Sackville
 
 [Vita Sackville-West](20c-sackville-west-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/20c/Sissinghurst__2.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+A prolific and versatile writer and poet, Sackville-West is perhaps best known today as a gardener, for her unconventional marriage, and as the inspiration for Virginia Woolf’s Orlando.
 
 ## Walter James, the fourth Lord Northbourne
 
 [Walter James, the fourth Lord Northbourne](20c-northbourne-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5e/Betteshanger_House%2C_Northbourne_Geograph-3389049-by-Stephen-Richards.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Walter James (1896-1982), the fourth Lord Northbourne, is credited with coining the term ‘organic farming’ in his seminal 1940 work _Look to the Land_. Eighty years on, his ideas still have freshness and immediacy. 
 
 ## Wilfred Owen
 
 [Wilfred Owen](20c-owen-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/ea/Wilfred_Owen.pn)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Celebrated war poet, Wilfred Owen, twice passed through Folkestone on his way to the Western Front.
 
 ## William Pett Ridge
 
 [William Pett Ridge](20c-pett-ridge-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/3/34/Chartham_Signalbox_-_geograph.org.uk_-_4844642.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
-
-## Winston Churchill
-
-[Winston Churchill](20c-churchill-chartwell)
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
-
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+William Pett Ridge, writer and ‘friend of the cockneys’ was born at Chilham, near Canterbury on 22 April 1859. His novels include small vignettes of Kentish life which reflect his knowledge of the county.
 
 
 # Places
@@ -423,7 +415,15 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
  
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
  
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent. 
+Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+
+## Winston Churchill - Chartwell
+
+[Winston Churchill](20c-churchill-chartwell)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/0/03/Chartwell_House%2C_rear.JPG)
+
+War-time Prime Minister Winston Churchill has several connections to Kent. Most importantly he was a resident of Kent, living at Chartwell, a country house near Westerham.
 
 
 # Events
