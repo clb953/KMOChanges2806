@@ -10,8 +10,8 @@
 <param ve-entity eid="Q7591573" aliases="St Radegund’s Abbey">
 <param ve-entity eid="Q26314337" aliases="Folkestone Free Library">
 
-<!-- Base map centred on Folkestone -->
-<param ve-map center="Q375314" zoom="10">
+<!-- Base map centred on Canterbury -->
+<param ve-map center="Q29303" zoom="10">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
@@ -51,7 +51,7 @@ Winbolt was also keen to curry favour from local archaeologists and spoke of his
 
 Winbolt was to combine his love of archaeology with his love for writing and in 1925 published a book on _Roman Folkestone_. He was keen that it should break ‘fresh ground’ and appeal to a wider audience than simply historians and archaeologists, he, therefore, included a chapter entitled 'Some humours of excavating' in which he recounted stories from his conversations with diggers, helpers and souvenir-hunters.[^ref12]  A reviewer described it as full of “debatable matter.”[^ref13]   
 The villa site continued to receive visitors over the next few years, enriching the “romance of Kent” but with an increased entrance price of 6d.[^ref14] However, when some of the remains slipped down the cliff in the landslide of 1928, W.H.E  who was concerned that this significant site might be  lost, complained in the _Folkestone, Hythe, Sandgate & Cheriton Herald_ that Winbolt had put too much effort into describing what life was like in Roman Folkestone rather than recording the buildings, leaving it “to the reader’s imagination as to what the buildings were like.”[^ref15]  Winbolt’s ‘fresh’ approach had clearly not appealed to the more serious reader and it is quite possible that more used to his schoolboy audience, Winbolt had missed the mark.
-<param ve-map center="Q26627877" zoom="15">
+<param ve-map center="Q26627877" zoom="12">
 	
 Winbolt’s association with the county continued throughout the next decade. He wrote _Bell’s Pocket Guide to Kent_ (1930), which “the tourist will find … an invaluable ally in his enjoyment of this beautiful county”and the [_Penguin Guide to Kent, Surrey and Sussex_](https://www.bbc.co.uk/news/stories-42425157) in 1939.[^ref16]  He also presented a volume containing photographs and press cuttings about the dig to [Folkestone Library](19c/19c-folkestone-free-library/) in May 1934.[^ref17]  In his obituary in _The Times_, he was described as follows:   
 <br>
@@ -60,7 +60,7 @@ During his lifetime, S.E. Winbolt wrote and edited over 70 publications. His vis
 <br><br>
 This article was published: 10 July 2021.
 <param ve-image url="https://s2.geograph.org.uk/geophotos/06/44/15/6441598_45f93e8d_1024x1024.jpg" label="Folkestone Library" attribution="© Copyright Wayland Smith and licensed for reuse under this Creative Commons Licence.">
-<param ve-map center="Q26627877" zoom="15">
+<param ve-map center="Q26627877" zoom="13">
 
 ### References
 
