@@ -35,7 +35,7 @@ Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northampt
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/a/ae/Jocelyn_Brooke.jpg)
 
-Jocelyn Brooke spent most of his life in the little village of Bishopsbourne, which lies some 5 miles or so south-east of Canterbury, concealed like a secret in the Elham Valley, where it is washed (and occasionally flooded) by the intermittent waters of the Nailbourne. He remains an obscure and neglected figure, best known, if at all, for The Orchid Trilogy
+Jocelyn Brooke spent most of his life in the little village of Bishopsbourne, 5 miles south-east of Canterbury, concealed like a secret in the Elham Valley. He remains an obscure and neglected figure, best known, if at all, for The Orchid Trilogy
 
 ## Alfred Cohen
 
@@ -257,57 +257,57 @@ Rupert Bear is a children’s comic strip character first published on the 8th N
 
 [Noel Coward](20c-coward-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/5aee558d-22f7-4227-9dbc-4a0a188399e9)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+From a young man, already with some career success, Sir Noël Peirce Coward (1899-1973) lived in and was part of the literary circle of East Kent for several decades before relocating to the West Indies.  
 
 ## Pamela Wynne
 
 [Pamela Wynne](20c-wynne-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/20c/Lovemist.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Both romance and crime fiction flourished in the 1930s holiday market, and Margate on the East coast of Kent provided an obvious setting for middlebrow fiction. 
 
 ## Paul Nash
 
 [Paul Nash](20c-nash-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://uploads7.wikiart.org/00269/images/paul-nash/nostalgic-landscape-23-38.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Paul Nash was a war artist and photographer and an important influence in British inter-war surrealism and Modern Art. He moved to Dymchurch, suffering post-traumatic stress disorder after World War One, where he recuperated whilst repeatedly painting seascapes.
 
 ## R. Austin Freeman
 
 [R. Austin Freeman](20c-freeman-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/f8/The_fort%2C_Margate%2C_England-LCCN2002697071.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Doctor and pioneering crime writer R. Austin Freeman is widely credited with the invention of the ‘inverted’ crime story and lived in Kent with his wife Annie and their two children after being invalided out of the Colonial Service in 1891.
 
 ## S.C. Nethersole
 
 [S.C. Nethersole](20c-nethersole-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d2965a31-40d3-4adf-b404-3edce096f551)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Susie Colyer Nethersole, author of rural fiction, was born into a farming family in 1869 at Goodnestone where her father farmed 220 acres.
 
 ## S.E. Winbolt
 
 [S.E. Winbolt](20c-winbolt-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/20c/Roman_Folkestone_by_Winbolt_MJC.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Holidaying in Folkestone in 1923, Samuel Edward Winbolt, a classics and history teacher, learnt of a site of archaeological interest on the East Cliff and was to spend the next two holidays excavating the remains of a Roman villa.
 
 ## Siegfried Sassoon
 
 [Siegfried Sassoon](20c-sassoon-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b4/Siegfried_Sassoon_by_Glyn_Warren_Philpot_1917.jpeg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Alongside his friend and protégé Wilfred Owen, Siegfried Sassoon (1886-1967), who was born in Matfield, Kent, is one of the most widely read poets of the First World War. 
 
 ## Somerset Maugham
 
