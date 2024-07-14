@@ -381,41 +381,41 @@ William Pett Ridge, writer and ‘friend of the cockneys’ was born at Chilham,
 
 [Canterbury](/canterbury/20c-canterbury-home)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/b51a34a6-cf52-44c9-b52a-d7398d78edee)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Canterbury, with its Cathedral, founded 597 A.D. was a pilgrimage site in the Middle Ages. Ancient walls, originally built by the Romans, encircle its medieval centre with cobbled streets and timber-framed houses.
 
 ## Folkestone and World War One
  
 [Folkestone and World War One](20c-folkestone-ww1)   
  
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/20c/The_Doorway_of_England_A80069-72.jpg)
  
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent. 
- 
+The outbreak of war in August 1914 led to a transformation of this genteel resort. Folkestone, with its port and excellent rail and road links, became the main point of embarkation and return for the battlefields of France and Flanders.
+
 ## Gravesend
  
 [Gravesend](/placesej/gravesend-overview)   
  
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/44f84728-2548-48bc-9a14-67c47b94b6ef)
  
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent. 
+As a modern transport hub, Gravesend, is home to the Port of London Health Authority, and the Trinity House, Thames River pilots. The town grew considerably in the 19th century as a watering place, and the Royal Terrace Pier and public gardens were opened.
  
 ## Richborough: The Secret Port
  
 [Richborough: The Secret Port](20c-richborough)   
  
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/20c/Richborough_Ferry_1916-19_PC19-077.jpg)
  
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent. 
+Due to its location, the old Roman port of Richborough, at the mouth of the Wantsum channel, was chosen for development as a 'secret port' during World War I.
 
 ## The Secret War Tunnels of Dover Castle
  
 [The Secret War Tunnels of Dover Castle](20c-secret-tunnels)   
  
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/20c/Brooke.jpg)
  
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+During the Second World War, Dover Castle played a vital role in the strategic operations of the British Army and its secret network of seven tunnels was home to the only underground barracks in the country.
 
 ## Winston Churchill - Chartwell
 
