@@ -8,7 +8,7 @@
 <param ve-entity eid="Q729006" aliases="Chatham">
 
 <!-- Base map centred on Yalding -->
-<param ve-map center="Q2051722" zoom="12.5">
+<param ve-map center="Q2051722" zoom="13">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="02beda348c553bd7" title="OS SE England & London 1933">
@@ -39,7 +39,7 @@ After the war, Blunden decided to move to London where he began a career in lite
 <!-- Base map centred on Five Oak Green -->
 <param ve-map center="Q5456052" zoom="12">
 <param ve-entity eid="Q2183870" aliases="Matfield">
-<param ve-map center="Q2183870" zoom="12">
+<param ve-map center="Q2183870" zoom="13">
 
 In 1931, Blunden's parents retired to Yalding, leasing Cleave House,[^ref8] and for a few months Blunden stayed with them whilst he edited the poems of war poet Wilfred Owen. He was to spend his university vacations in Yalding over the next few years. Later, his parents moved to The Cottage, Vicarage Road.[^ref9]
 <br><br>
@@ -50,8 +50,8 @@ In 1945, his book _English Villages_ was published, in which he described Yaldin
 
 Blunden had a complicated personal life, marrying several times and moving frequently with work. He spent a short time in Chatham and also Tonbridge where he wrote 'VE Day', which was published after his death. He retired from teaching in 1964 and died ten years later. He is buried in Long Melford, Suffolk.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0d/VE_DAY_Piccadily_1945.jpg" label="Piccadilly Square pictured as supporters celebrate VE Day, May 08, 1945. Photo taken by Sgt. James A. Spence, during his service in World War II." attribution="Mrjspence at English Wikipedia, via Wikimedia Commons" license="CC BY-SA 3.0">
-<param ve-map center="Q729006" zoom="12">
-<param ve-map center="Q936183" zoom="12">
+<param ve-map center="Q729006" zoom="13">
+<param ve-map center="Q936183" zoom="13">
 
 **Bibliography**   
 Poetry Foundation. 2021. [Edmund Blunden](https://www.poetryfoundation.org/poets/edmund-blunden). Accessed 10 May 2021. 
