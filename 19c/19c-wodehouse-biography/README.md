@@ -10,7 +10,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 <param ve-entity eid="Q17530246" aliases="Fairlawne">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="02beda348c553bd7" title="OS SE England 1933">
+<param ve-map-layer active allmaps allmaps-id="02beda348c553bd7" title="OS SE England & London 1933">
 
 #
 
