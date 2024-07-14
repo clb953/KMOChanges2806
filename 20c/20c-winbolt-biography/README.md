@@ -11,7 +11,7 @@
 <param ve-entity eid="Q26314337" aliases="Folkestone Free Library">
 
 <!-- Base map centred on Canterbury -->
-<param ve-map center="Q29303" zoom="10.5">
+<param ve-map center="Q29303" zoom="10.25">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
