@@ -433,49 +433,49 @@ War-time Prime Minister Winston Churchill has several connections to Kent. Most 
  
 [Belgian Refugees](20c-belgian-refugees)   
  
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/20c/Arrival_of_Belgians_FMuseum.jpg)
  
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent. 
+As many as 250,000 Belgians from all layers of society sought refuge in Britain after the fall of Antwerp on 6 October 1914. Many were exhausted and few spoke English.  
 
 ## Doodlebugs in Kent
  
 [Doodlebugs in Kent](ww2-doodlebug)   
  
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://www.normandythenandnow.com/wp-content/uploads/2018/04/Map-showing-where-the-doodlebug-fell-in-kent-published-in-the-Kent-Messenger-newspaper.jpg" label="Where the doodlebugs fell, Kent Messenger, via https://www.normandythenandnow.com/">
  
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+The year 1944 was one of devastating human loss for Kent, in part due to the impact of a newly invented ‘revenge weapon’ used by the Germans, the V-1 flying bomb, also known as the doodlebug. 
 
 ## Ellen Terry's funeral
  
 [Ellen Terry's funeral](20c-terry-funeral)  
  
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/51/Hayman_Seleg_Mendelssohn%2C_Ellen_Terry_1886.jpg)
  
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent. 
+In the days before the great Victorian actress Ellen Terry died on 21 July 1928, the nation had been on tenterhooks for news of her health and an efficient ‘news bureau’ had been set up in her house at Smallhythe Place.
 
 ## Hop Picking and the Literary Imagination
  
 [Hop Picking and the Literary Imagination](20c-hop-picking)   
  
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/20c/Oast_houses_MJC.jpg)
  
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent. 
+To this day the autumn hop picking season provides a potent image of Kent rural life. In the nineteenth and twentieth centuries, workhouses were considerably less busy at this time as families and people of all ages were able to participate.  
 
 ## The Great Storm of 1987
  
 [The Great Storm of 1987](20c-hurricane)   
  
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/67b64280-c709-4af8-b956-9fc90495f2b5)
  
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent. 
+On 15 October 1987 weather forecaster Michael Fish had no idea that he would become famous just for saying there would not be a hurricane that night. Hours later the worst storm since 1703 hit the UK.
   
 ## Kent Coal Mining
  
 [Kent Coal Mining](20c-kent-miners)   
  
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/8cc5eb9c-60be-4b8d-8408-cea130517fd6)
  
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Coal was first discovered in East Kent in 1890, while Betteshanger was the last pit to close in the Coalfield in 1989. The in-between history is important, complex and contested.
 
 
 # Texts
