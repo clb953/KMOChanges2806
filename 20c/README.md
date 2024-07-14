@@ -313,9 +313,9 @@ Alongside his friend and protégé Wilfred Owen, Siegfried Sassoon (1886-1967), 
 
 [Somerset Maugham](20c-maugham-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/6/64/William_Somerset_Maugham_1965.jpg)
 
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Playwright, novelist, and short story writer Somerset Maugham was one of the most popular writers of the inter-war period. Born in Paris, Maugham attended the King’s School in Canterbury which features in several of his stories.
 
 ## T.S. Eliot
 
