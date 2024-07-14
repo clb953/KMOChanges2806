@@ -11,8 +11,8 @@
 
 In the early winter of 1909 Canterbury was literally waterlogged, assailed by severe weather that damaged hundreds of homes. Heavy rains from Tuesday 2 November, with a storm on the evening of Thursday 4, saw residents being rescued in boats, while enterprising postmen went round on carts and threw their letters through upstairs windows. More seriously, considerable damage was done in working-class areas such as Millers’ Field, Linden Grove, St Peter’s Place and Black Griffin Lane, leaving a number of old people trapped in their bedrooms with no fire-place and no means of keeping warm.
 <param ve-compare curtain url="https://stor.artstor.org/stor/53ab0dbd-6c38-4418-bfcb-8b7003287465" label="Flood, Pound Lane" attribution="Horace Spence, King's School, Canterbury, 1909">
-<param ve-compare url="https://stor.artstor.org/stor/b54ab1d8-47ca-49e4-bf43-2e8b25d1776d" label="Flood, Pound Lane, 2021">
-<param ve-image url="https://stor.artstor.org/stor/8a73b8e9-398c-46dc-8669-7fab7d348202" label="St Peter's Lane" attribution="Horace Spence Collection.">
+<param ve-compare curtain url="https://stor.artstor.org/stor/53ab0dbd-6c38-4418-bfcb-8b7003287465" label="Flood, Pound Lane" attribution="Horace Spence, King's School, Canterbury, 1909">
+<param ve-compare url="https://stor.artstor.org/stor/b54ab1d8-47ca-49e4-bf43-2e8b25d1776d" label="Flood, Pound Lane, 2021" attribution="Photographer Unknown">
 
 As schools were closed down in the worst affected areas, students from the [Simon Langton Boys’ Grammar School](https://thelangton.org.uk/) were still able to get in for their day’s lessons. But they seem to have made the best of this misfortune, as ‘It was quite fashionable to go down to the flooded districts and have free rides through the water. The mysterious examination of the playground by certain of “ours” was explained, when news came that certain schools were closing on account of the deluge'.  At the nearby King’s School the only casualty was, of all places, the drying room. 
 <param ve-image url="https://stor.artstor.org/stor/bf43a613-500a-415a-83d8-acef046c222d" label="'Schools Closed' sign" attribution="Photographer unknown">
