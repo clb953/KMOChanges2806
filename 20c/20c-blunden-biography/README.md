@@ -35,6 +35,8 @@ In August 1915, Blunden enlisted in the army and experienced the horrors of tren
 <br><br>
 After the war, Blunden decided to move to London where he began a career in literary journalism. It was at this period that he met [Siegfried Sassoon](/20c/20c-sassoon-biography), who was the literary editor at the _Daily Herald_. Sassoon was a fellow poet and war survivor who was born in Matfield, Kent and who shared his love of cricket.  They became life-long friends. He also met Leonard and Virginia Woolf. In 1919 he took up a place at Oxford, but found it difficult to adjust to academic life, and so he returned to work in London. Nevertheless, he was later to return to academia, becoming a professor of English literature at Tokyo University, Hong Kong University and later Professor of Poetry at Oxford.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b4/Siegfried_Sassoon_by_Glyn_Warren_Philpot_1917.jpeg" label="Siegfried_Sassoon by Glyn Warren Philpot 1917" attribution="Glyn Warren Philpot, Public domain, via Wikimedia Commons">
+<!-- Base map centred on Five Oak Green -->
+<param ve-map center="Q5456052" zoom="12">
 <param ve-entity eid="Q2183870" aliases="Matfield">
 <param ve-map center="Q2183870" zoom="12">
 
