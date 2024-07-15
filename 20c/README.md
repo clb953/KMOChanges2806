@@ -441,7 +441,7 @@ As many as 250,000 Belgians from all layers of society sought refuge in Britain 
  
 [Doodlebugs in Kent](ww2-doodlebug)   
  
-![](https://iiif.juncture-digital.org/thumbnail?url=https://www.normandythenandnow.com/wp-content/uploads/2018/04/Map-showing-where-the-doodlebug-fell-in-kent-published-in-the-Kent-Messenger-newspaper.jpg" label="Where the doodlebugs fell, Kent Messenger, via https://www.normandythenandnow.com/">
+![](https://iiif.juncture-digital.org/thumbnail?url=https://www.normandythenandnow.com/wp-content/uploads/2018/04/Map-showing-where-the-doodlebug-fell-in-kent-published-in-the-Kent-Messenger-newspaper.jpg">
  
 The year 1944 was one of devastating human loss for Kent, in part due to the impact of a newly invented ‘revenge weapon’ used by the Germans, the V-1 flying bomb, also known as the doodlebug. 
 
