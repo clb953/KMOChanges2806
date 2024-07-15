@@ -129,7 +129,7 @@ Donald Maxwell, enlisted as a Royal Naval Volunteer Reserve and posted to North 
 
 [E.M. Forster](20c-forster-em-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=ttps://upload.wikimedia.org/wikipedia/commons/b/b2/Tonbridge_School%2C_from_the_cricket_field.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/b/b2/Tonbridge_School%2C_from_the_cricket_field.jpg)
 
 In 1893 E.M. Forster and his mother moved to Tonbridge  where they rented ‘Dryhurst’ in Dry Hill Park Road so that Forster might attend Tonbridge School as a day boy.
 
@@ -233,7 +233,7 @@ Marian Fielding Peck (always known as Maisie) started painting seriously in the 
 
 [Mary Kelly](20c-kelly-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/The_Thames_at_Greenhithe_-_geograph.org.uk_-_2532424.jpg/1024px-The_Thames_at_Greenhithe_-_geograph.org.uk_-_2532424.jp)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/The_Thames_at_Greenhithe_-_geograph.org.uk_-_2532424.jpg/1024px-The_Thames_at_Greenhithe_-_geograph.org.uk_-_2532424.jpg)
 
 Writing in the 1950s and 1960s, Mary Kelly (1927-2017) was an English crime writer best known for the Inspector Brett Nightingale series. She wrote her novel 'Due to a Death' following a holiday to Greenhithe, Kent.
 
@@ -361,7 +361,7 @@ Walter James (1896-1982), the fourth Lord Northbourne, is credited with coining 
 
 [Wilfred Owen](20c-owen-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/ea/Wilfred_Owen.pn)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/e/ea/Wilfred_Owen.png)
 
 Celebrated war poet, Wilfred Owen, twice passed through Folkestone on his way to the Western Front.
 
