@@ -70,7 +70,9 @@ Nethersole’s stories are set in the rural communities that her family would ha
 Nethersole’s rural idyll would soon be upset by the First World War. Men and horses were deployed on the battlefields of France and farming communities were hit hard. In the village of Staple, seven men lost their lives, of which four were agricultural workers.[^ref19]   Nethersole wrote _The game of the tangled web_ (1916) during this time however it was set before the war. Her post-war novel, _Take Joy Home: a novel of country life_ (1919) which was described as 'unnecessarily old-fashioned'[^ref20] does not mention the war. Although critics felt the plot and characters were unbelievable, she was praised for her 'rendering of the slow, warm atmosphere of the Kentish fields' which is where she was most at home. Her depictions of nearby towns of Becketsbury ([Canterbury](/canterbury/20c-canterbury-home/)) and Stourwich (Sandwich) were considered less well drawn.[^ref22]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9e/Footpath_to_Fleming_Road_-_geograph.org.uk_-_2269159.jpg" label="Foothpath to Fleming Road, Staple" attribution="David Anstiss, via Wikimedia Commons" attribution="CC BY-SA 2.0">
 <!-- Base map centred on Staple -->
-<param ve-map center="Q2232081" zoom="11">
+<!-- param ve-map center="Q2232081" zoom="11" -->
+<!-- Base map centred on Eastry -->
+<param ve-map center="Q5330905" zoom="12">
 
 Although farming was in Nethersole’s blood on both sides (her maternal grandfather George Collyer had a 295 acre farm at Denton), Nethersole told an interviewer at the _Bookman_ that she 'has never actually gone out with the hoe herself'.[^ref23]  Her 1922 book _Time o’ lilacs: and other times_ was a series of sketches and poems from the Garden of England, which was 'just the book to make one forget the noise and bustle of everyday life'.[^ref24]  For those nostalgic for a time gone by it was perfect, but for those with one foot in the present, there were other Mills and Boon writers who could craft more exciting plots, for example Sophie Cole, whose _Passing Footsteps_ (1922) addresses the consequences of war.[^ref25]
 <param ve-image url="https://stor.artstor.org/stor/2722db34-ee70-4747-85e8-7d0173107c9f" label="The Tallyman" attribution="Thomas Sidney Cooper by kind permission of Marrin Books">
@@ -92,7 +94,7 @@ Her sister Florence married John Lade Worsfold of Sandwich, cousin of [Jessie Ch
 This article was published: 8 January 2023.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/The_Fleur_de_Lys_-_geograph.org.uk_-_3283851.jpg/1165px-The_Fleur_de_Lys_-_geograph.org.uk_-_3283851.jpg" label="The Fleur de Lys, Sandwich" attribution="Des Blenkinsopp, via Wikimedia Commons" license="CC BY-SA 2.0"> 
 <!-- Base map centred on Whitstable -->
-<param ve-map center="Q964785" zoom="10">
+<param ve-map center="Q964785" zoom="12">
 
 ### References
 
