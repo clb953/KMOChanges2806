@@ -30,8 +30,8 @@ Maugham attended the [King’s School](https://www.kings-school.co.uk/) in [Cant
 
 After his mother’s death in 1882 Maugham was sent to stay with his uncle, who was a Vicar in Whitstable. He was sent to King’s school, [Canterbury](/19c/19c-canterbury/) , Britain’s oldest public school founded in 597, and part of the Eton group. There, he was isolated and bullied for his poor English, owing to which he later developed a stammer. In his novel _Of Human Bondage_ Canterbury becomes Tercanbury, but King’s School retains its name. Maugham describes it thus, ‘The King's School at Tercanbury, to which Philip went when he was thirteen, prided itself on its antiquity. It traced its origin to an abbey school, founded before the Conquest, where the rudiments of learning were taught by Augustine monks’. In the novel Maugham’s experiences of being bullied at the prestigious school are portrayed, and the school is held responsible, ‘for the rest of the term he tormented Philip cruelly, and, though Philip tried to keep out of his way, the school was so small that it was impossible’. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/94/Great_Stour_at_Canterbury_-_geograph.org.uk_-_1987472.jpg" label="Great Stour at Canterbury" attribution="Great Stour at Canterbury by Paul Gillett, CC BY-SA 2.0, via Wikimedia Commons">
-<!-- Base map centered on Blean -->
-<param ve-map center="Q2741069" zoom="12">
+<!-- Base map centered on Honey Hill -->
+<param ve-map center="Q3140008" zoom="12">
 <param ve-map center="Q29303" zoom="11">
 <param ve-map center="Q964785" zoom="11">
 
