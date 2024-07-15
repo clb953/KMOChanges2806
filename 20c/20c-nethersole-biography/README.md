@@ -11,8 +11,8 @@
 <param ve-entity eid="Q26163" aliases="Sandwich">
 <param ve-entity eid="Q2232081" aliases="Staple">
 <param ve-entity eid="Q2104233" aliases="Sydenham">
-<param ve-entitley eid="Q26608214" aliases="Rowling Court">
-<param ve-entitley eid="Q1011096" aliases="Deal">
+<param ve-entity eid="Q26608214" aliases="Rowling Court">
+<param ve-entity eid="Q1011096" aliases="Deal">
 
 <!-- Base map centred on Goodnestone -->
 <param ve-map center="Q2195317" zoom="12">
