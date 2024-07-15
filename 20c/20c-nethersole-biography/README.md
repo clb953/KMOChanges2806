@@ -39,7 +39,7 @@ By the time Nethersole was eleven, her parents had moved to Crixhall Court near 
  'Numparel and me are doing French verbs,' up and spoke Mercy in her soft, serious voice, 'and we say them over to Hannah, and she says them to us, and then we remember them better... Oh, I're a fine scholard now I're larnin’ Bonyparty's talk'.[^ref7]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1e/Crixhall_Court._-_geograph.org.uk_-_304512.jpg" label="Crixhall Court" attribution="Nick Smith" license="CC BY-SA 2.0">
 <!-- Base map centred on Staple -->
-<param ve-map center="Q2232081" zoom="12">
+<param ve-map center="Q2232081" zoom="13">
 
 When Mercy is sent to school in Sibert’s Wood (Sibertswold also known as Shepherdswell) she feels sad that she will no longer receive lessons at home:
 <br><br>
@@ -48,7 +48,7 @@ When Mercy is sent to school in Sibert’s Wood (Sibertswold also known as Sheph
 Although Sibertswold had a national school, it is more likely that Nethersole (unlike her character Mercy) attended the national school at Staple, which had 90 pupils on is registers in 1882.[^ref9]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e7/The_Old_School_on_the_corner_of_Mill_Lane_-_geograph.org.uk_-_1587155.jpg" label="The Old School on Mill Lane, Shepherdswell" attribution="John Baker" license="CC BY-SA 2.0">
 <!-- Base map centred on Staple -->
-<param ve-map center="Q2232081" zoom="12">
+<param ve-map center="Q2232081" zoom="13">
 
 It is uncertain when Nethersole began writing, but in 1897 she entered the _Hearth and Home_ Literary Guild competition to write a story suitable for factory girls. The secretary Frances H. Low was disappointed with the contributions, a good half of which 'dealt with the hackneyed motive of a girl of the humbler classes jilting an honest lover in favour of a worthless one' and she did not award a prize that month, but gave a certificate to Nethersole and one other girl as encouragement.[^ref10]  However, it was not until 1909 that Nethersole’s first book _Mary up at Gaffries and Letitia her Friend_, was published by the recently established fiction publisher Mills and Boon, who keen to make their name, had commissioned 123 novels in their first year.[^ref11] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cf/Poul_Friis_Nybo_-_Interi%C3%B8r_med_en_l%C3%A6sende_kvinde_ved_en_skrivepult.png" label="Interior with a woman reading at a desk, between 1887 and 1929" attribution="Poul Friis Nybo, Public domain, via Wikimedia Commons">
