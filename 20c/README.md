@@ -89,7 +89,7 @@ Cicely Hamilton was a feminist actress, writer and playwright. She co-founded th
 
 [D.H. Lawrence](20c-lawrence-biography)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/The_Green_at_Crockham_Hill_-_geograph.org.uk_-_4474691.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/c/cf/Crockham_Hill_Village_Sign_-_geograph.org.uk_-_1754443.jpg)
 
 David Herbert Lawrence, a coal miner's son and struggling writer from Nottingham, visited Kent in the autumn of 1911. He had sent two short stories to critic and literary editor Edward Garnett who invited him to stay at his home The Cearne at Crockham Hill, Edenbridge.
 
