@@ -485,22 +485,22 @@ Coal was first discovered in East Kent in 1890, while Betteshanger was the last 
  
 [Rupert Bear by Mary Tourtel](20c-rupert-bear)   
  
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/66c4b3c1-6392-4deb-ac01-541afe9e3855)
  
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent. 
+Rupert Bear was first published in 1920 in the _Daily Express_ newspaper. He was created by the Canterbury-born illustrator Mary Tourtel and became firmly rooted within the city’s literary heritage. 
 
 ## Shepherds in Sackcloth by Sheila Kaye-Smith
  
 [Shepherds in Sackcloth by Sheila Kaye-Smith](20c-kaye-smith-delmonden)   
  
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/72/Newenden%2C_the_White_Hart_Pub._-_geograph.org.uk_-_171249.jpg)
  
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent. 
+Author Sheila Kaye-Smith was dubbed the ‘Sussex Hardy’ in the 1920s, but this in no way constrained her fluid use of geography when it came to locations for her novels.
 
 ## Double Double by John Brunner
  
 [Double Double by John Brunner](20c-double-double)   
  
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/f/ff/H.E._Bates.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/d56de85e-015f-4305-9adb-9ddb12601fcc)
  
-Herbert Ernest Bates (1905-1974), a newspaper reporter originally from Northamptonshire, became well-known for his 1958 novel Darling Buds of May, which centred around the Larkin family and their adventures in rural Kent.
+Notes on the landscape might seem extraneous given all the other details but one of the best things about the Double Double by John Brunner is its descriptions of the Kent countryside.
