@@ -15,6 +15,9 @@ Playwright, novelist, and short story writer born in Paris, Somerset Maugham is 
 Maugham attended the [King’s School](https://www.kings-school.co.uk/) in [Canterbury](/19c/19c-canterbury/) and two of his novels have obvious connections to Kent: [_Of Human Bondage_ ](http://www.kings-archives.co.uk/books-about-kings/memories-of-kings/somerset-maugham-of-human-bondage/)(1915) is based on his experiences at King’s School and _Cakes and Ale_ (1930) on the people of Whitstable.'
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/64/William_Somerset_Maugham_1965.jpg" label="William Somerset Maugham 1965" attribution="Anefo, CC0, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/53/Mint_Yard_Canterbury.jpg" label="King’s School in Canterbury" attribution="Ymblanter, CC BY-SA 4.0, via Wikimedia Commons">
+<param ve-entity eid="Q3360332" aliases="The King's School Canterbury">
+<!-- Base map centered on Honey Hill -->
+<param ve-map center="Q3140008" zoom="11">
 <param ve-map center="Q3360332" zoom="11">
 <param ve-map center="Q29303" zoom="11">
 <param ve-map center="Q964785" zoom="11">
@@ -27,6 +30,9 @@ Maugham attended the [King’s School](https://www.kings-school.co.uk/) in [Cant
 
 After his mother’s death in 1882 Maugham was sent to stay with his uncle, who was a Vicar in Whitstable. He was sent to King’s school, [Canterbury](/19c/19c-canterbury/) , Britain’s oldest public school founded in 597, and part of the Eton group. There, he was isolated and bullied for his poor English, owing to which he later developed a stammer. In his novel _Of Human Bondage_ Canterbury becomes Tercanbury, but King’s School retains its name. Maugham describes it thus, ‘The King's School at Tercanbury, to which Philip went when he was thirteen, prided itself on its antiquity. It traced its origin to an abbey school, founded before the Conquest, where the rudiments of learning were taught by Augustine monks’. In the novel Maugham’s experiences of being bullied at the prestigious school are portrayed, and the school is held responsible, ‘for the rest of the term he tormented Philip cruelly, and, though Philip tried to keep out of his way, the school was so small that it was impossible’. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/94/Great_Stour_at_Canterbury_-_geograph.org.uk_-_1987472.jpg" label="Great Stour at Canterbury" attribution="Great Stour at Canterbury by Paul Gillett, CC BY-SA 2.0, via Wikimedia Commons">
+<param ve-entity eid="Q3360332" aliases="The King's School Canterbury">
+<!-- Base map centered on Honey Hill -->
+<param ve-map center="Q3140008" zoom="11">
 <param ve-map center="Q29303" zoom="11">
 <param ve-map center="Q964785" zoom="11">
 
