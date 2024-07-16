@@ -13,6 +13,7 @@
 <param ve-entity eid="Q3307700" aliases="Reculver">
 <param ve-entity eid="Q1000115" aliases="Faversham">
 <param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q179224" aliases="Dover">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="5aa3ce47b380271b" title="Kent Road Map">
