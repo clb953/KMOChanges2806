@@ -24,7 +24,7 @@
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7c/Royal_St_George%27s_Golf_Clubhouse._-_geograph.org.uk_-_304182.jpg" label="Royal St George's Golf Clubhouse" attribution="Nick Smith, CC BY 4.0, via Wikimedia Commons">
 <param ve-entity eid="Q1586134" aliases="Royal St George's Golf Club">
 <!-- Basemap centred on Sandwich -->
-<param ve-map center="Q28803" zoom="12">
+<param ve-map center="Q26163" zoom="12">
 <param ve-map center="Q179224" zoom="12">
 
 Fleming’s fondness for Kent flowered from its roots as an occasional golfing retreat to what was to become, for a time, a blissful domestic haven.  Beginning in 1948, he regularly visited his friend Noel Coward at Coward’s residence ‘White Cliffs’, situated in Kent’s St Margaret’s Bay area.  In 1951, so enamoured of the area, Fleming took on the lease of a nearby property, which he called ‘Summer’s Lease’, from author Eric Ambler (another friend of Coward’s) and then, in the same year, the lease of White Cliffs when Coward vacated the property.  Fleming and Ann Rothermere, whom he married the following year, lived there until 1957.  Then, with Ann expressing a desire to move away from the seafront in St Margaret’s Bay, Fleming bought ‘The Old Palace’ in Bekesbourne, near [Canterbury](/canterbury/20c-canterbury-home), where the two of them lived for a couple of years before moving into a flat in Whitehall in Sandwich Bay.
