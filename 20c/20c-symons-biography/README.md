@@ -14,6 +14,7 @@
 <param ve-entity eid="Q2796278" aliases="Dymchurch">
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q5601499" aliases="Greatstone-on-Sea">
+<param ve-entity eid="Q181071" aliases="New Romney">
 
 <!-- Base map centred on Bishopsbourne -->
 <!-- param ve-map center="Q866348" zoom="10" -->
@@ -53,7 +54,7 @@ His own literary interests can glimpsed in the nod to [Dickens](/dickens). [Davi
 <param ve-image url="https://stor.artstor.org/stor/6571a7bd-b4ea-4cdc-b6f6-fe54cef2a745" label="Julian with his family at Barling House" attribution="By kind permission of Christine Symons">
 <!-- Base map centered on Romney Marsh -->
 <param ve-map center="Q1506093" zoom="12">
-<param ve-map center="Q1506093" zoom="12">
+<param ve-map center="Q179224" zoom="12">
 
 _The Belting Inheritance_ (1965) also speaks to the complexities of the past. The narrator tells the story of his informal adoption some years after the war, by an ageing relative with an estate near Folkestone, ‘My immediate reaction as I looked at the forbidding spires of the Victorian Gothic front was that I was being taken to live in a church.’[^ref15]  When a letter arrives purporting to be from the woman’s adored son (believed to have been killed in action), the rest of the family are not convinced.
 <br><br>
