@@ -1,8 +1,7 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Julian Symons (1912-1994)" author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/0/08/Hafen_von_Folkestone.JPG" description="Julian Symons was a poet and a prolific author of both history and crime fiction.">
 
-<param ve-map center="Q866348" zoom="10">
-
+<!-- Global Entities -->
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q7416410" aliases="Sandling">
 <param ve-entity eid="Q5646437" aliases="Ham Street">
@@ -10,8 +9,13 @@
 <param ve-entity eid="Q6390913" aliases="Kennington">
 <param ve-entity eid="Q1836548" aliases="Barham">
 
+<-- Base map centered on Bishopsbourne -->
+<param ve-map center="Q866348" zoom="10">
+
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="5aa3ce47b380271b" title="Kent Road Map">
+<param ve-map-layer active allmaps allmaps-id="02beda348c553bd7" title="OS SE England & London 1933">
+
+#
 
 ‘But to come back to Folkestone. I loved the little zig-zag paths that went down to the lower level from which one might approach the sea, the water-drawn lift cage in which for twopence (it costs more now) one might go down or of course up, for the cars work in couples, to the deliciously ugly red brick Victorian lifthouse, the small shops around the harbour and the harbour itself, the rows of solid hotels that stand back from the front’ 
 _The Belting Inheritance_ (1965)[^ref1]
