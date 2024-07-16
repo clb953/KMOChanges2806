@@ -16,7 +16,7 @@
 <param ve-entity eid="Q29303" aliases="Canterbury">
 
 <!-- Basemap centred on Canterbury -->
-<param ve-map center="Q29303" zoom="12">
+<!-- param ve-map center="Q29303" zoom="12" -->
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="5aa3ce47b380271b" title="Kent Road Map">
 
