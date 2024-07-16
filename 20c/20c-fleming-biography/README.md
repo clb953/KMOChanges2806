@@ -65,7 +65,7 @@ Fleming’s love affair with Kent continued in his seventh Bond adventure, _Gold
 In Goldfinger, though, Fleming still writes “wincingly well”, as _The Sunday Times_ had put it, without a wasted word, the narrative speeding from one excitement to the next.  But Fleming still has ample time for Kent: “Now Bond was running through the endless orchards of the Faversham growers.  The sun had come out from behind the smog of London.  There was the distant gleam of the Thames on his left . . . Bond left the Canterbury road and switched on to the incongruously rich highway that runs through the cheap bungaloid world of the holiday lands - Whitstable, Herne Bay, Birchington, Margate.”[^ref9].   Then on, to the fictional golf course that Fleming called Royal St Marks but which was based firmly on his beloved Royal St Georges, and an epic match play duel with Goldfinger extending over two chapters, a story-within-a-story that imparts real golfing knowledge but doesn’t exclude those with little interest in the game.  This was a skill Fleming was born with, to convey information effortlessly without descending to rote – brilliantly demonstrated in Moonraker, with the opening third of the novel depicting the bridge game to which Bond has been invited by M to help him discover how Drax is cheating.  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0e/Quince_Orchard%2C_Brogdale_-_geograph.org.uk_-_418906.jpg" label="Quince Orchard at Brogdale, Faversham" attribution="Colin Smith">
 <!-- Basemap centred on Canterbury -->
-<param ve-map center="Q29303" zoom="10.5">
+<param ve-map center="Q29303" zoom="11">
 <param ve-map center="Q618045" zoom="12">
 <param ve-map center="Q929286" zoom="12">
 <param ve-map center="Q865021" zoom="12">
