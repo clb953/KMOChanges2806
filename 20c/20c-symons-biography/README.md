@@ -11,6 +11,7 @@
 <param ve-entity eid="Q911577" aliases="Dungeness">
 <param ve-entity eid="Q1506093" aliases="Romney Marsh">
 <param ve-entity eid="Q640951" aliases="Lydd-on-Sea">
+<param ve-entity eid="Q2796278" aliases="Dymchurch">
 
 <!-- Base map centered on Bishopsbourne -->
 <!-- param ve-map center="Q866348" zoom="10" -->
