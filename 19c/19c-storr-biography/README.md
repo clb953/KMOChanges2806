@@ -6,7 +6,7 @@
 <param ve-entity eid="Q793057" aliases="Aylesford">
 
 <!-- Base map centred on Maidstone -->
-<param ve-map center="Q213180" zoom="10">
+<!-- param ve-map center="Q213180" zoom="10" -->
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="9fdfcd0d2307e89c" title="Letts 1883">
