@@ -9,6 +9,7 @@
 <param ve-entity eid="Q6390913" aliases="Kennington">
 <param ve-entity eid="Q1836548" aliases="Barham">
 <param ve-entity eid="Q911577" aliases="Dungeness">
+<param ve-entity eid="Q1506093" aliases="Romney Marsh">
 
 <!-- Base map centered on Bishopsbourne -->
 <!-- param ve-map center="Q866348" zoom="10" -->
@@ -28,9 +29,12 @@ Julian Symons was a poet and a prolific author of both history and crime fiction
 
 Like Holmes, Symons spent much of his life in London. But he enjoyed time in Kent as early as 1938, when he spent a formative holiday with the poet Roy Fuller and his wife. They initially considered St Margaret’s Bay, before opting for the area of Romney Marsh.[^ref4] The journey started at the Fullers’ home in Kennington near Ashford, from where the party took a train to Sandling to connect with the Romney, Hythe and Dymchurch railway to St Mary’s Bay.[^ref5]  Here they spent a fortnight in a bungalow, where they ‘read poetry aloud, talked about current poetry and poets, argued about politics, discussed cricket prospects, played a sort of tennis quoits in the garden’ until ‘At the end of two weeks we had all run out of money.’[^ref6]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7e/St_Mary%27s_Bay%2C_Dec_2020_01.jpg" label="St Mary's Bay" attribution="Poliphilo, via Wikimedia Commons" attribution="CC0">
+<param ve-map center="Q1506093" zoom="12">
 <param ve-map center="Q7416410" zoom="12">
 
-This experience probably influenced the backdrop of _The Paper Chase_ (1956), in which gangster and former MP Johnny Bogue makes his headquarters in Bramley Hall in an isolated area of [Romney Marsh](/placesqz/romney-overview) before WW2. Symons had been conscripted in 1942 after his request for exemption on conscientious grounds had been refused. As his protagonist Charles Applegate investigates the mystery surrounding Bogue, his encounters with the veterans who knew him reveal that they all have an ambivalent past. Between 1950 and 1955 Symons had been living with his wife at Corner Cottage, Badlesmere Lees[^ref7]  (their second child was born in the Kent and Canterbury hospital),[^ref8] but like other writers before him he realised that the setting of [Romney Marsh](/landscape/romney-writers) is particularly evocative. 
+This experience probably influenced the backdrop of _The Paper Chase_ (1956), in which gangster and former MP Johnny Bogue makes his headquarters in Bramley Hall in an isolated area of [Romney Marsh](/placesqz/romney-overview) before WW2. Symons had been conscripted in 1942 after his request for exemption on conscientious grounds had been refused. As his protagonist Charles Applegate investigates the mystery surrounding Bogue, his encounters with the veterans who knew him reveal that they all have an ambivalent past. Between 1950 and 1955 Symons had been living with his wife at Corner Cottage, Badlesmere Lees[^ref7]  (their second child was born in the Kent and Canterbury hospital),[^ref8] but like other writers before him he realised that the setting of [Romney Marsh](/landscape/romney-writers) is particularly evocative.
+<param ve-map center="Q1506093" zoom="12">
+<param ve-map center="Q301744" zoom="12">
 
 The action of _The Paper Chase_ is set in the mid-1940s, by which time attempts had been made to build new communities along the coast through the creation of the new town Lydd-on-Sea and the rerouting of the branch line from Ashford. When Applegate gets the train from Ashford to Romney Marsh[^ref9]  he therefore  goes via Ham Street, Brookland and Lydd-on-Sea (which he mistakenly refers to as Lydd).[^ref10]  His destination Bramley Hall is in Greatstone-on-Sea (the Bramley of the novel).[^ref11]  Set pieces include picturesque if reckless drives between here and New Romney (Murdstone),[^ref12]  where Applegate and his friends fight a battle of wits at the Grand Marine Hotel (possibly the Dormy House Hotel). The novel presents a town in flux and perhaps slightly unsure of itself:
 <br><br>
