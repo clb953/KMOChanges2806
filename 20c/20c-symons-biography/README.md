@@ -12,6 +12,7 @@
 <param ve-entity eid="Q1506093" aliases="Romney Marsh">
 <param ve-entity eid="Q640951" aliases="Lydd-on-Sea">
 <param ve-entity eid="Q2796278" aliases="Dymchurch">
+<param ve-entity eid="Q179224" aliases="Dover">
 
 <!-- Base map centred on Bishopsbourne -->
 <!-- param ve-map center="Q866348" zoom="10" -->
@@ -43,20 +44,21 @@ The action of _The Paper Chase_ is set in the mid-1940s, by which time attempts 
 'a long avenue of pines which ended abruptly in a narrow street full of glossy-fronted, neon-lighted shops. … From the High Street they emerged into a decaying square. Through a gap slate-grey sea could be glimpsed.’[^ref13]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c7/Romney_Sands%2C_Greatstone_on_Sea_-_geograph.org.uk_-_445370.jpg" label="Romney Sands, Greatsone on Sea" attribution="Simon Carey" license="CC BY-SA 2.0">
 <!-- Base map centered on Lydd-on-Sea -->
-<param ve-map center="Q640951" zoom="12">
+<param ve-map center="Q640951" zoom="12.5">
 
 By this time Symons and his family had moved back to London, but they came back in 1963[^ref14]  to take up residence at Barling House, Brookland, in [Romney Marsh](/placesqz/romney-overview).
 <br><br>
 His own literary interests can glimpsed in the nod to [Dickens](/dickens). [David Copperfield](/dickens/david-copperfield-curated-walk) of course makes his way to [Dover](/19c/19c-dover/) a few miles along the coast, where he will successfully plead with his aunt to rescue him from the guardianship of Mr Murdstone. Symons had published a book on [Dickens](/dickens) in 1951; as a guest on Desert Island Discs many years later he opted for [_Bleak House_](/dickens/bleak-house-deal) as his island book.
 <param ve-image url="https://stor.artstor.org/stor/6571a7bd-b4ea-4cdc-b6f6-fe54cef2a745" label="Julian with his family at Barling House" attribution="By kind permission of Christine Symons">
-<!-- Base map centered on Lydd-on-Sea -->
-<param ve-map center="Q640951" zoom="12">
+<!-- Base map centered on Romney Marsh -->
+<param ve-map center="Q1506093" zoom="12">
+<param ve-map center="Q1506093" zoom="12">
 
 _The Belting Inheritance_ (1965) also speaks to the complexities of the past. The narrator tells the story of his informal adoption some years after the war, by an ageing relative with an estate near Folkestone, ‘My immediate reaction as I looked at the forbidding spires of the Victorian Gothic front was that I was being taken to live in a church.’[^ref15]  When a letter arrives purporting to be from the woman’s adored son (believed to have been killed in action), the rest of the family are not convinced.
 <br><br>
 Symons once said that ‘My object in writing detective stories is to free myself from the rigours of an ordinary office job’.[^ref16]  They continue to fulfil this role. But like the best of [Wilkie Collins](/19c/19c-collins-biography), these acutely perceptive novels also have the power to destabilise the reader, jolting us out of our complacency in unexpected ways.
 <param ve-image url="https://stor.artstor.org/stor/e90594b9-625d-405a-b920-59069f230d90" label="Julian at Barling House" attribution="By kind permission of Christine Symons">
-<param ve-map center="Q375314" zoom="12">
+<param ve-map center="Q375314" zoom="13">
 
 This is particularly true of the 1980 _Sweet Adelaide_, based on the true story of the ['Pimlico Mystery'](/19c/19c-bartlett-biography) and set partly in 1880s [Dover](/19c/19c-dover).
 
