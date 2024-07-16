@@ -9,7 +9,7 @@
 <param ve-entity eid="Q6390913" aliases="Kennington">
 <param ve-entity eid="Q1836548" aliases="Barham">
 
-<-- Base map centered on Bishopsbourne -->
+<!-- Base map centered on Bishopsbourne -->
 <param ve-map center="Q866348" zoom="10">
 
 <!-- Historical map layers -->
