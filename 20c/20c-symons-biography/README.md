@@ -46,33 +46,38 @@ The action of _The Paper Chase_ is set in the mid-1940s, by which time attempts 
 'a long avenue of pines which ended abruptly in a narrow street full of glossy-fronted, neon-lighted shops. … From the High Street they emerged into a decaying square. Through a gap slate-grey sea could be glimpsed.’[^ref13]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c7/Romney_Sands%2C_Greatstone_on_Sea_-_geograph.org.uk_-_445370.jpg" label="Romney Sands, Greatsone on Sea" attribution="Simon Carey" license="CC BY-SA 2.0">
 <!-- Base map centered on Lydd-on-Sea -->
-<param ve-map center="Q640951" zoom="12.5">
+<param ve-map center="Q640951" zoom="12">
 
 By this time Symons and his family had moved back to London, but they came back in 1963[^ref14]  to take up residence at Barling House, Brookland, in [Romney Marsh](/placesqz/romney-overview).
 <br><br>
 His own literary interests can glimpsed in the nod to [Dickens](/dickens). [David Copperfield](/dickens/david-copperfield-curated-walk) of course makes his way to [Dover](/19c/19c-dover/) a few miles along the coast, where he will successfully plead with his aunt to rescue him from the guardianship of Mr Murdstone. Symons had published a book on [Dickens](/dickens) in 1951; as a guest on Desert Island Discs many years later he opted for [_Bleak House_](/dickens/bleak-house-deal) as his island book.
 <param ve-image url="https://stor.artstor.org/stor/6571a7bd-b4ea-4cdc-b6f6-fe54cef2a745" label="Julian with his family at Barling House" attribution="By kind permission of Christine Symons">
 <!-- Base map centered on Romney Marsh -->
-<param ve-map center="Q1506093" zoom="12">
+<param ve-map center="Q1506093" zoom="13">
 <param ve-map center="Q179224" zoom="12">
 
 _The Belting Inheritance_ (1965) also speaks to the complexities of the past. The narrator tells the story of his informal adoption some years after the war, by an ageing relative with an estate near Folkestone, ‘My immediate reaction as I looked at the forbidding spires of the Victorian Gothic front was that I was being taken to live in a church.’[^ref15]  When a letter arrives purporting to be from the woman’s adored son (believed to have been killed in action), the rest of the family are not convinced.
 <br><br>
 Symons once said that ‘My object in writing detective stories is to free myself from the rigours of an ordinary office job’.[^ref16]  They continue to fulfil this role. But like the best of [Wilkie Collins](/19c/19c-collins-biography), these acutely perceptive novels also have the power to destabilise the reader, jolting us out of our complacency in unexpected ways.
 <param ve-image url="https://stor.artstor.org/stor/e90594b9-625d-405a-b920-59069f230d90" label="Julian at Barling House" attribution="By kind permission of Christine Symons">
+<!-- Base map centered on Folkestone -->
 <param ve-map center="Q375314" zoom="13">
 
 This is particularly true of the 1980 _Sweet Adelaide_, based on the true story of the ['Pimlico Mystery'](/19c/19c-bartlett-biography) and set partly in 1880s [Dover](/19c/19c-dover).
+<!-- Base map centered on Dover -->
+<param ve-map center="Q179224" zoom="12">
 
 Despite using it as a setting for several of his novels, Symons was apparently unable to settle in Romney Marsh, heading back to London and later the United States just six years after moving to Brookland.[^ref17]  But he and his wife moved down to Kent for a third and final time in 1980, to Groton House, 330 Dover Road, Walmer.  _The Detling Secret_, a neo-Victorian political thriller published in 1982, is partly set in a fictional village near Elham. The rail service from [Canterbury](/19c/19c-canterbury/) allows a mysterious American speculator to visit on Christmas Eve, before making his getaway from [Dover](/19c/19c-dover/) a few miles away. But a disgruntled Londoner who has married into a county family finds that 'getting there was by no means simple.' They first have to change trains at Harbledown Junction just outside [Canterbury](/19c/19c-canterbury/), boarding the Elham Valley Light Railway which ran for around 16 miles to Cheriton outside [Folkestone](/19c/19c-folkestone/). 'The carriages were old, the jolting was considerable'[^ref18] and they arrive to find that the only available cab has been taken to the other side of Rhodes Minnis. The house itself has no gas or running water, and a ride to Barham over fields the next day is vetoed by their cautious host, who fears that the horses will get stuck in the snow. In the same novel working class a witness are characterised by the throwaway comment that he is 'Where he always is when he's got a few quid in his pocket, taken his tart down to [Margate](/19c/19c-margate) to spend it.'
-<param ve-map center="5091980" zoom="12">
+<!-- Base map centered on Walmer -->
+<param ve-map center="Q2551894" zoom="13">
 
 The tension between those who love the country and those who prefer a London life has not aged in the half century since the book appeared. Having shuttled between Kent and London for over 40 years, Symons himself died at his home in Walmer in late 1994[^ref19] and was cremated at Barham crematorium.
 <br><br>
 With thanks to Christine Symons for information and images.
 <br><br>
 This article was published: 28 June 2023
-<param ve-map center="Q1836548" zoom="12">
+<!-- Base map centered on Barham -->
+<param ve-map center="Q1836548" zoom="13">
 
 ### Bibliography
 [Desert Island Discs 15 May 1982](https://www.bbc.co.uk/sounds/play/p009mkqf)  
