@@ -8,9 +8,10 @@
 <param ve-entity eid="Q2551894" aliases="Walmer">
 <param ve-entity eid="Q6390913" aliases="Kennington">
 <param ve-entity eid="Q1836548" aliases="Barham">
+<param ve-entity eid="Q911577" aliases="Dungeness">
 
 <!-- Base map centered on Bishopsbourne -->
-<param ve-map center="Q866348" zoom="10">
+<!-- param ve-map center="Q866348" zoom="10" -->
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="6810391d199af2d1" title="Kent Admin Boundaries 1967">
@@ -22,7 +23,8 @@ _The Belting Inheritance_ (1965)[^ref1]
 <br><br>
 Julian Symons was a poet and a prolific author of both history and crime fiction. [Martin Edwards](/21c/21c-edwards-sepulchre-street) notes that when he was elected to the Detection Club in 1951 ‘on the strength of a handful of promising books, long before he became a master of the crime novel', he was also the first Jewish member.[^ref2]  He went on to become President in 1976 and also became President of the [Conan Doyle](/19c/19c-conan-doyle) Society in 1979. Like other writers before and since, he was drawn to the imaginative possibilities of [Romney Marsh](/landscape/romney-writers). A late novel, _The Kentish Manor Murders_, imagines a ‘lost’ Sherlock Holmes manuscript including ‘smuggling activities by local fishermen, a body washed up by the tide near Dungeness’ and a dash across the Channel.[^ref3] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Folkestone%2C_Leas_Cliff_Funicular_railway%2C_tracks_and_lifts.jpg/1280px-Folkestone%2C_Leas_Cliff_Funicular_railway%2C_tracks_and_lifts.jpg" label="Leas Cliff, Funicular Railway" attribution="Paul Bissegger, via Wikimedia Commons" license="CC BY-SA 4.0">
-<param ve-map center="Q375314" zoom="12">
+<param ve-map center="Q375314" zoom="13">
+<param ve-map center="Q911577" zoom="13">
 
 Like Holmes, Symons spent much of his life in London. But he enjoyed time in Kent as early as 1938, when he spent a formative holiday with the poet Roy Fuller and his wife. They initially considered St Margaret’s Bay, before opting for the area of Romney Marsh.[^ref4] The journey started at the Fullers’ home in Kennington near Ashford, from where the party took a train to Sandling to connect with the Romney, Hythe and Dymchurch railway to St Mary’s Bay.[^ref5]  Here they spent a fortnight in a bungalow, where they ‘read poetry aloud, talked about current poetry and poets, argued about politics, discussed cricket prospects, played a sort of tennis quoits in the garden’ until ‘At the end of two weeks we had all run out of money.’[^ref6]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7e/St_Mary%27s_Bay%2C_Dec_2020_01.jpg" label="St Mary's Bay" attribution="Poliphilo, via Wikimedia Commons" attribution="CC0">
