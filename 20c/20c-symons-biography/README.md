@@ -13,7 +13,7 @@
 <param ve-entity eid="Q640951" aliases="Lydd-on-Sea">
 <param ve-entity eid="Q2796278" aliases="Dymchurch">
 
-<!-- Base map centered on Bishopsbourne -->
+<!-- Base map centred on Bishopsbourne -->
 <!-- param ve-map center="Q866348" zoom="10" -->
 
 <!-- Historical map layers -->
