@@ -13,7 +13,7 @@
 <param ve-map center="Q866348" zoom="10">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="02beda348c553bd7" title="OS SE England & London 1933">
+<param ve-map-layer active allmaps allmaps-id="6810391d199af2d1" title="Kent Admin Boundaries 1967">
 
 #
 
