@@ -11,8 +11,8 @@ _David Copperfield_
 
 When a footsore David makes his way along St Dunstan’s St he necessarily passes what is now ‘The House of Agnes’ giving it the strongest claim to be the original of the:
 very old house bulging out over the road; a house with long low lattice-windows bulging out still farther, and beams with carved heads on the ends bulging out too, so that I fancied the whole house was leaning forward, trying to see who was passing on the narrow pavement below.,[^ref1]
-<!param ve-compare curtain url="https://stor.artstor.org/stor/0da84cd3-3704-45d2-b301-bb44a60a7d45" label="House of Agnes" attribution="Unknown" license="No known copyright">
-<!param ve-compare url="https://stor.artstor.org/stor/aaceb5d3-7946-4843-8443-d6663752501a" label="House of Agnes, 2021" attribution="Nat Lowden and Sara Gelencer" license="In Copyright">
+<!-- param ve-compare curtain url="https://stor.artstor.org/stor/0da84cd3-3704-45d2-b301-bb44a60a7d45" label="House of Agnes" attribution="Unknown" license="No known copyright" -->
+<!-- param ve-compare url="https://stor.artstor.org/stor/aaceb5d3-7946-4843-8443-d6663752501a" label="House of Agnes, 2021" attribution="Nat Lowden and Sara Gelencer" license="In Copyright" -->
 <param ve-compare curtain url="https://stor.artstor.org/stor/0da84cd3-3704-45d2-b301-bb44a60a7d45">
 <param ve-compare url="https://stor.artstor.org/stor/aaceb5d3-7946-4843-8443-d6663752501a">
   
