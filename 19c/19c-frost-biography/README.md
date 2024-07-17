@@ -16,7 +16,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 <param ve-map center="Q29303" zoom="10">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="9fdfcd0d2307e89c" title="Letts 1881">
+<param ve-map-layer active allmaps allmaps-id="9fdfcd0d2307e89c" title="Letts 1883">
 
 #
 
