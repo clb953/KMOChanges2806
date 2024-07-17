@@ -5,7 +5,7 @@
 <param ve-entity eid="Q179224" aliases="Dover">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="e81a29ae269767b7" title="Letts 1881">
+<param ve-map-layer active allmaps allmaps-id="9fdfcd0d2307e89c" title="Letts 1883">
 
 #
 
@@ -34,6 +34,8 @@ Edwin sent a telegram and money for Dyson’s next visit the following week. In 
 
 Dyson probably had unchaperoned time alone at 14 St James’ Street with Adelaide, who told stories to elicit his sympathy and galvanise him into action. Feeding Dyson with shocking morsels about Edwin’s alleged ill health, she tested his reactions and gave a credible context for her husband’s enthusiasm for a deepening relationship between them. According to Dyson, Adelaide confided that Edwin had a growth in his abdomen and that a Dr Nichols said Edwin had less than a year to live. Dyson alleged Adelaide told him that a nurse ‘had brought’ her chloroform, that Edwin was in great pain while in [Dover](/19c/19c-dover), knew the seriousness of his condition – and that Edwin swore his wife to secrecy about his plight.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/93/Zonder_titel_PK-F-60.1560%2C_PK-F-60.1559.jpg" label="Dover seafront c. 1875" attribution="Valentine, J. via Wikimedia Commons" license="CC BY 4.0">
+<!-- Base map centred on Dover -->
+<param ve-map center="Q179224" zoom="12">
 
 From 8 December Edwin became ill and he had no idea why.  Christmas was a terrible time for him but by 28 December his doctor thought he was rallying. However that same day Dyson made visits to three chemists and purchased pure chloroform – at two of them using the rehearsed embellishment that he needed the poison to remove stains from clothing. On New Year’s morning 1886, Adelaide tapped at the Doggett’s bedroom door and called out ‘Come down, I think Mr Bartlett is dead’…
 <br><br>
