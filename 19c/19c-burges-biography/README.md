@@ -29,7 +29,7 @@ In 1858, William ‘Billy’ Burges, Neo-gothic architect and designer, was comm
 Burges was the son of marine engineer Alfred Burges (1796–1886) who along with his business partner, James Walker designed the Admiralty Pier and lighthouse, Dover. Alfred was very successful and his wealth ensured that Billy could study and practice architecture without the pressure of making money. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b0/Admiralty_Pier_Dover_England.jpg" label="Admiralty Pier, Dover" attribution="Snapshots Of  The Past, via Wikimedia Commons" license="CC BY-SA 2.0">
 <!-- Base map centred on Dover -->
-<param ve-map center="Q179224" zoom="12">
+<param ve-map center="Q179224" zoom="11.5">
 
 After studying at King’s College School, London, where he became friends with pre-Raphaelite artist [Dante Gabriel Rossetti](/19c/19c-rossetti-biography) and his brother William Michael, Burges entered the offices of the pre-eminent Gothic Revival architect, Edward Blore, in 1844. After this, he joined the offices of Matthew Digby Wyatt and worked on the Medieval Court at the Great Exhibition of 1851.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/be/William_Burges_portrait.jpg" label="William Burges" attribution="Henry Van der Weyde (1838-1924), Public domain, via Wikimedia Commons">
@@ -63,7 +63,7 @@ In 1880, the Mayor of [Dover](/19c/19c-dover) decided that the town needed an as
 <param ve-image url="https://stor.artstor.org/stor/d5b27092-f8fb-411c-9d48-dd2224622676" label="Ceiling in the Mayor's Parlour" attribution="William Burges. Photogaph by Michelle Crowther">
 <param ve-image url="https://stor.artstor.org/stor/feed4654-a3ac-41ce-b021-49d5ec0313b6" label="Fireplace in the Mayor's Parlour" attribution="William Burges. Photograph by Michelle Crowther">
 <!-- Base map centred on Dover -->
-<param ve-map center="Q179224" zoom="12">
+<param ve-map center="Q179224" zoom="11.5">
 
 Sadly, Burges did not live to see his vision as he died on the 20 April 1881. Burges's brother-in-law Richard Popplewell Pullan and his business partner John Starling Chapple continued the work, but Burges's rich decorative scheme was later painted over in the twentieth century. A multi-million pound project entitled ['Reawakening a Gothic Fantasy'](https://www.maisondieudover.org.uk/) is currently restoring the Burges scheme. Burges's most notable works were Cardiff Castle and Castell Coch which were commissioned by the 3rd Marquess of Bute.
 <br><br>
