@@ -11,10 +11,10 @@
 <param ve-entity eid="Q23298" aliases="Kent">
 
 <!-- Base map centred on Canterbury -->
-<param ve-map center="Q1094104" zoom="10">
+<!-- param ve-map center="Q1094104" zoom="10" -->
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="d93beb8a7cb608af" title="Kent Ordnance Survey 1860">
+<param ve-map-layer active allmaps allmaps-id="9fdfcd0d2307e89c" title="Letts 1883">
 
 #
 
