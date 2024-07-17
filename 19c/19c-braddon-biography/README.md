@@ -29,7 +29,7 @@ _Gerard, or, The World, The Flesh and The Devil_ (1891) whimsically suggests tha
 _I believe he invents a name and a Bad every summer, and then goes quietly and lives up the country between Broadstairs and Birchington, and basks all day upon some solitary stretch of sand, or on the edge of some lonely cliff, where the North sea breezes blow above the rippling whiteness of the wheat; and lies in the sunshine, and plans fresh impostures for the winter season._
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a2/Broadstairs-beach.jpg" label="Broadstairs-beach.jpg" attribution="Le Deluge, via Wikimedia Commons" license="CC BY-SA 3.0">
 <!-- Base map centred on Minster -->
-<param ve-map center="Q9033431" zoom="11.5">
+<param ve-map center="Q9033431" zoom="11">
 <param ve-map center="Q618045" zoom="13">
 
 [_All Along the River_](http://www.gutenberg.org/files/57405/57405-h/57405-h.htm) (1893) invokes [Broadstairs](/dickens/broadstairs-19th-century) only as a foil to the sublime Italian landscape.   
