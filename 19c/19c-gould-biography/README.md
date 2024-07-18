@@ -31,6 +31,7 @@ On the 18th of July in 1804, in the seaside town of [Ramsgate](/19c/19c-ramsgate
 <param ve-map center="Q736439" zoom="11">
 
 Some may find the family name “Gould” familiar, especially in ornithological circles, with association with titles such as “The Birdman” or “The Father of Australian Ornithology” who published some of the most famous ornithologic books of the 19th century [^3]. Most would remember the accomplished man as John Gould. He left a remarkable legacy of beautifully illustrated documentation of various animals across the globe. Yet, he was not the sole creditor for his prodigious work. He had the help of a talented partner, his wife Elizabeth, who supported and worked alongside him throughout his career.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f6/Dover_College_postcard.jpg" label="Dover College" attribution="Unknown author, Public domain, via Wikimedia Commons">
 <param ve-image 
        fit="contain"
        title="John Gould" 
