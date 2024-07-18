@@ -60,7 +60,6 @@ Boys is writing fifty years after ‘Turnip’ Townshend’s introduction of the
 <param ve-image url="https://stor.artstor.org/stor/439a71e9-2c05-4dcf-b3f6-9a5448eed90d" label="Crop rotation, John Boys" attribution="© Augustine House Library, Canterbury Christ Church University">
 <param ve-map center="Q1752642" zoom="10">
 
-
 Nevertheless, twenty-five years later William Cobbett would find very few fallow fields in Thanet, writing: ‘When I got upon the corn land in the Isle of Thanet, I got into a garden indeed. There is hardly any fallow; comparatively few turnhips [sic]. It is a country of corn’.[^ref9]  Cobbett frequently remarks on the excellence of the wheat crop when in early September 1823 he passes from Folkestone via Dover to Thanet, ‘that spot so famous for corn’.[^ref10]  Here Cobbett is echoing Boys who remarks: 
 <br><br>
 In short, is there another district in Great Britain, or in the World, of the same extent, in such a perfect state of cultivation, where the Farmers are so wealthy and intelligent, where land, naturally of so inferior a quality, is let for so much money and produces such abundant crops?[^ref11]
