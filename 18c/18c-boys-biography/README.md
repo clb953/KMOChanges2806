@@ -53,12 +53,13 @@ Boys’ report extends to over 200 pages, and he begins by describing the county
 
 **Implements**   
 Boys describes implements used, singling out the Kent turn-wrest plough. For all sorts of soils, and for all required depths of ploughing, it is the best he has ever seen and tried.[^ref5] He moves on to machines for seed drilling, harrows, and carriages called hutches for carrying corn to market. He tells us wheat is reaped with a toothed sickle, while barley and oats are mown with a long scythe and cradle. He describes a threshing mill which he himself designed, and which requires four horses, eight men and four boys to operate, ‘threshing every kind of corn cleaner that it is usually done by the common mode’.[^ref6]  For hop grounds, an oast, built substantially with the ‘requisite stowage room’ is necessary.[^ref7]
-<param ve-image url="https://stor.artstor.org/stor/24226407-4255-42b5-a1e0-4fe9ddbf8a30" label="Horse farm, 19th century England">
+<param ve-image url="https://stor.artstor.org/stor/24226407-4255-42b5-a1e0-4fe9ddbf8a30">
 
 **Crops: rotation and fallowing**   
 Boys is writing fifty years after ‘Turnip’ Townshend’s introduction of the Norfolk four-course rotation scheme whereby instead of a fallow year turnips and clover are planted alternately with wheat and other cereals to replenish the nitrogen in the soil. He remarks that ‘[t]here is not any part of agriculture which has occasioned more discussion and controversy among writers on husbandry, than this subject of Fallowing’.[^ref8] In all he lists nine different systems found in the county, rotating over periods of three to seven years. He details the various crops: most commonly grown are wheat, barley, beans, oats, peas, canary seed, radish seed, turnips and cole (rape) seed, while some less often grown include tares (a vetch), clover, trefoil, sainfoin, lucern, burnet, spinach, kidney beans, cress, potatoes, flax, cabbage, and two plants used for dyeing, woad and madder. However, while he is even-handed, from his detailed instructions on how to make a good fallow, it is difficult not to believe that he himself favoured fallowing. 
 <param ve-image url="https://stor.artstor.org/stor/439a71e9-2c05-4dcf-b3f6-9a5448eed90d" label="Crop rotation, John Boys" attribution="© Augustine House Library, Canterbury Christ Church University">
 <param ve-map center="Q1752642" zoom="10">
+
 
 Nevertheless, twenty-five years later William Cobbett would find very few fallow fields in Thanet, writing: ‘When I got upon the corn land in the Isle of Thanet, I got into a garden indeed. There is hardly any fallow; comparatively few turnhips [sic]. It is a country of corn’.[^ref9]  Cobbett frequently remarks on the excellence of the wheat crop when in early September 1823 he passes from Folkestone via Dover to Thanet, ‘that spot so famous for corn’.[^ref10]  Here Cobbett is echoing Boys who remarks: 
 <br><br>
@@ -83,7 +84,7 @@ The area around Maidstone has plenty of orchards, principally apples and cherrie
 
 **Livestock**   
 Boys devotes a chapter to livestock, starting with cattle, saying there is ‘no particular breed which may be allowed the appellation of Kentish Cattle’.[^ref16]  The beef cattle are bought in from Wales by graziers to be fattened on the Kent marshes until they are fit for the butcher. For the most part, dairy cows are selected from the Welsh droves, but in recent years a few dairy cows, remarkable for the richness of their milk, have been brought from Alderney and Guernsey ‘for the use of the dairies of gentlemens [sic] families’.[^ref17]  Moving on to sheep, he observes that Kent has long been famous for the Romney Marsh breed, known at Smithfield Market as Kent sheep, valuable not only for their meat, but for their very long fine wool. 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5c/Brebis_agneau_South-Down.jpg" label="South Downs sheep, 1850" attribution="Hermann Eichens, Public domain, via Wikimedia Commons">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/5/5c/Brebis_agneau_South-Down.jpg" label="South Down sheep, 1850" attribution="Hermann Eichens, Public domain, via Wikimedia Commons">
 <param ve-map center="Q614560" zoom="10">
 
 While Boys himself seems to have had a reputation for his South Downs sheep, being complimented on five South Down ewes which he exhibited at Lord Somerville’s Spring Cattle Show in 1809, he makes little mention of this breed in his Survey, apart from the illustration of ‘A Small South Down Ram belonging to Mr. Boys’.[^ref18]  Cobbett comments on how, when having travelled across East Kent he arrives near Tonbridge where he begins to see South Down sheep again for the first since he left Tenterden, implying that he saw none in the area east of those towns.[^ref19]  Apart from sheep, the main livestock production of the county at large includes horses, hogs, poultry, rabbits, pigeons and bees.
@@ -96,7 +97,7 @@ Boys begins his chapter on ‘Improvements’ with a section on drainage, saying
 <param ve-map center="Q5330905" zoom="10">
 
 His other sections include paring and burning, and manuring: as well as dung he advocates seaweed which is plentiful around the coast. He lists waste lands, neglected woods, and impoverished commons, and says he is taking the liberty of suggesting to the Board of Agriculture that they should approach the legislature with the view to introducing an act of inclosure, in order to put these lands under proper systems of management.
-<br><br>
+<br>
 In a short concluding chapter, Boys lists the principle obstacles to the general improvement of the county which include the payment of tithes in kind, the corn-laws, and the prohibition to export wool in its raw state. He also lists the rights of commonage on heathlands as being an obstacle to their improvement, along with short leases which offer no incentive to improve the land.
 <param ve-image url="https://stor.artstor.org/stor/2b7f39a7-b9a8-4bf5-9eb8-bce9bd32ddb8" label="Survey of Woods by John Boys" attribution="© Augustine House Library, Canterbury Christ Church University">
 <param ve-map center="Q5637324" zoom="12">
@@ -130,9 +131,8 @@ Hasted, Edward. 'Parishes: Northborne', in _The History and Topographical Survey
 
 ### References
 
-[^ref1]: https://vufind.org/advanced_demo/Record/1028040
-[^ref2]: An extensive Boys pedigree is found at https://www.kent-opc.org/families/BOYSMediaeval30.pdf
-John Boys first appears on page 40, and his descendants start at page 60. Other Betteshanger Boys, many of whom have memorials in the Church of St Mary the Virgin, Betteshanger, are found on page 25. See also https://www.kentarchaeology.org.uk/Research/Pub/ArchCant/Vol.079%20-%201964/079-04.pdf
+[^ref1]: https://vufind.org/advanced_demo/Record/1028040   
+[^ref2]: An extensive Boys pedigree can be found [here](https://www.kent-opc.org/families/BOYSMediaeval30.pdf). John Boys first appears on page 40, and his descendants start at page 60. Other Betteshanger Boys, many of whom have memorials in the Church of St Mary the Virgin, Betteshanger, are found on page 25. See also [Kent Archaeology](https://www.kentarchaeology.org.uk/Research/Pub/ArchCant/Vol.079%20-%201964/079-04.pdf).  
 [^ref3]: https://www.british-history.ac.uk/survey-kent/vol10/pp44-49 
 [^ref4]: http://www.dover-kent.com/VILLAGES/24-Betteshanger.html 
 [^ref5]: https://www.agriculturalmuseumbrook.org.uk/explore/collections/plough
