@@ -50,6 +50,7 @@ In 1642, on the eve of the Civil War, Tradescant again travelled to Virginia for
 <param ve-map center="Q1370" zoom="4">
 
 **Later career and death**
+<br>
 Tradescant published the 183-page _Museum Tradescantianum_ catalogue in 1656, prompted (and funded) by Elias Ashmole. It was the first museum catalogue to appear in England, and much of it was written by either Ashmole or Thomas Wharton, a renowned physician and anatomist, and the text itself was dedicated to the President and Fellows of the Royal College of Physicians. It is likely that there had been discussions about the College establishing a physic garden, founded in part on the medicinal plants in the Tradescant collection, but this also never came to pass.
 <param ve-image url="https://thegardenstrustblog.files.wordpress.com/2020/04/screenshot-92.png" label="The title page of the "Museum Tradescantianum" catalogue, featuring John Tradescant the Elder" attribution="Public domain, via The Garden’s Trust">
 
