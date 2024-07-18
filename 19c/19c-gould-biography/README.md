@@ -15,23 +15,17 @@
 <param ve-entity eid="Q375946"> <!-- The Zoology of the Voyage of H.M.S. Beagle - Part III Birds -->
 <param ve-entity eid="Q967304"> <!-- Birds of Australia -->
 
-<!-- Base map centred on Canterbury -->
-<!-- param ve-map center="Q29303" zoom="12" -->
-<!-- Base map centred on Stourmouth -->
-<!-- param ve-map center="Q5220240" zoom="11" -->
-
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="bd3bb7d13a5d0a88" title="Moule 1850">
 
 #
 
 On the 18th of July in 1804, in the seaside town of [Ramsgate](/19c/19c-ramsgate/), Mr Nicholas Coxen and Elizabeth Coxen (nee Tomkins) welcomed a baby girl into the world. She was one of the couple’s many children, though sadly only she and three brothers survived their childhood. Though information regarding the early life of the Coxen children is sparse, they were "firmly middle class" through "links to the military" and we can imagine that she lived a typical life fitting for the era [^1]. The sons pursued careers as scientists or military personnel, whilst Elizabeth studied subjects that were typical for women of her class and age, including languages, music, and art [^2]. In spite of her relatively ordinary upbringing, she would exceed expectations and become a wonderfully skilful artist. She will contribute invaluably to the world of ornithology with her talents and inspire the next generation of ornithologists. She will be Elizabeth Gould.
-<param ve-map title="Birth place of Elizabeth Gould" center="Q736439" zoom="12" prefer-geojson show-labels>
+<!-- param ve-map title="Birth place of Elizabeth Gould" center="Q736439" zoom="12" prefer-geojson show-labels -->
 <!-- Base map centred on Ramsgate -->
 <param ve-map center="Q736439" zoom="11">
 
 Some may find the family name “Gould” familiar, especially in ornithological circles, with association with titles such as “The Birdman” or “The Father of Australian Ornithology” who published some of the most famous ornithologic books of the 19th century [^3]. Most would remember the accomplished man as John Gould. He left a remarkable legacy of beautifully illustrated documentation of various animals across the globe. Yet, he was not the sole creditor for his prodigious work. He had the help of a talented partner, his wife Elizabeth, who supported and worked alongside him throughout his career.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f6/Dover_College_postcard.jpg" label="Dover College" attribution="Unknown author, Public domain, via Wikimedia Commons">
 <param ve-image 
        fit="contain"
        title="John Gould" 
