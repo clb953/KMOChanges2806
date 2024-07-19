@@ -46,6 +46,7 @@ All these creations were published in London: the Game by Goulding, D’Almaine,
 Thomas Goodban was not the only important character in Canterbury’s musical history. Another was [William Henry Longhurst](/music/19c-william-longhurst-biography) (1819–1904).
 <br><br>
 This article was published: 1 June 2020.
+<param ve-image url="https://raw.githubusercontent.com/kent-map/kent-map/images/main/music/Thomas%20Goodban.jpg" label="Mr Thomas Goodban (1785–1863) of Canterbury Catch Club with Violin and Music" attribution="Canterbury Museums and Galleries">
 
 ### Bibliography
 Goodban, T. (1818). _Goodban’s Game of Musical Characters_. GB-Lbl; 1042.e.25.   
