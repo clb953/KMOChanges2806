@@ -32,8 +32,11 @@ Immediately after the murder Richard fled to [Dover](/19c/19c-dover) Port, from 
 <!-- Base map default centered on Dover --> 
 <param ve-map center="Q179224" zoom="12">
 
-[Dickens](/dickens) was among those who remained fascinated by the case. The artist W. P. Frith told William R. Hughes that on one occasion he went with [Dickens](/dickens)  and Georgina Hogarth to the [Leather Bottle inn](/dickens/pickwick-papers-leather-bottle), ‘where [Dickens](/dickens) was eloquent on the subject of the Dadd parricide, showing us the place where the body was found, with many startling and interesting details of the discovery.’[^ref8]  
+[Dickens](/dickens) was among those who remained fascinated by the case. The artist W. P. Frith told William R. Hughes that on one occasion he went with [Dickens](/dickens)  and Georgina Hogarth to the [Leather Bottle Inn](/dickens/pickwick-papers-leather-bottle), ‘where [Dickens](/dickens) was eloquent on the subject of the Dadd parricide, showing us the place where the body was found, with many startling and interesting details of the discovery.’[^ref8]  
 <param ve-image url="https://stor.artstor.org/stor/5aae08bd-3755-49e9-b144-25809d990abe" label="Leather Bottle Inn" attribution="Benjamin Mortley">
+<param ve-entity eid="Q26633482" aliases="Leather Bottle Inn">
+<!-- Base map default centered on Cobham --> 
+<param ve-map center="Q949561" zoom="13">
 
 Between the years 1843 and 1863, Dadd was an inmate at London’s Bethlem Hospital, where his painting for therapeutic and recreational purposes was encouraged. His collection of The Passions created throughout the 1850s reveals his own interpretation of murder, agony, brutality and betrayal. While ‘Murder’ is apparently self-explanatory, Dadd believed until his death in 1886 that he had in fact slain the devil, rather than his father. In the painting itself, the figures represent the murder of Abel by his brother Cain. These works are still held in what is now the [Bethlem Museum of the Mind](https://museumofthemind.org.uk/). 
 <param ve-image url="https://stor.artstor.org/stor/f0fcc4d1-c3d4-40a3-a6e1-9f8a7711bba4" label="Murder" attribution="By permission of Bethlem Museum of the Mind">
