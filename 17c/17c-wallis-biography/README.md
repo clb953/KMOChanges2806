@@ -13,7 +13,11 @@
 <param ve-entity eid="Q2621103" aliases="Saltwood">
 <param ve-entity eid="Q951928" aliases="Egerton">
 
+<!-- Base map centred on Canterbury -->
+<param ve-map center="Q29303" zoom="10">
 
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="dce10f1c411cebb1" title="Blaeu Kent 1665">
 
 #
 
