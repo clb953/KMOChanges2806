@@ -14,7 +14,7 @@
 <param ve-map center="Q936183" zoom="10">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="6215fa6c47c47347" title="Bartholomew Kent 1904">
+<param ve-map-layer active allmaps allmaps-id="d549f0ddbeca485f" title="OS Kent 1899">
 
 #
 
