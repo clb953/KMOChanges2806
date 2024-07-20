@@ -36,12 +36,11 @@ However, two years later, in _Howards End_, Forster would ask ‘Why has not Eng
 <br><br>
 Alas, our Kentish gods had failed to dominate the classical ones!
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/09/Cricket_pitch%2C_Great_Chart_-_geograph.org.uk_-_2479477.jpg" label="Cricket pitch, Great Chart" attribution="by N Chadwick, CC BY-SA 2.0, via Wikimedia Commons">
-<param ve-entity eid="Q2298322" title="Weald">
+<param ve-entity eid="Q2298322" title="The Weald">
 <param ve-entity eid="Q5598954" title="Great Chart">
 <param ve-entity eid="Q2001391" title="Borough Green">
-<param ve-entity eid="Q939838" title="Sevenoaks">
-<!-- Base map centred on Weald -->
-<param ve-map center="Q2298322" zoom="12">
+<!-- Base map centred on Marden -->
+<param ve-map center="Q6758628" zoom="12">
 
 ## References
 
