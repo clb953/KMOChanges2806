@@ -13,7 +13,7 @@ banner="https://stor.artstor.org/stor/f3590125-3b05-42a0-b365-e33a8735353c" desc
 <param ve-map center="Q950970" zoom="10">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="4f72c8eb5fe1eba5" title="Mackenzie 1900">
+<param ve-map-layer active allmaps allmaps-id="6215fa6c47c47347" title="Bartholomew Kent 1904">
 
 #
 
