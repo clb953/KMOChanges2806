@@ -36,7 +36,7 @@ Boys’ report extends to over 200 pages, and he begins by describing the county
 <param ve-entity eid="Q1500299" aliases="Sheppey">
 <param ve-entity eid="Q2298322" aliases="Weald">
 <param ve-entity eid="Q1506093" aliases="Romney Marsh">
-<param ve-map center="Q29303" zoom="10">
+<param ve-map center="Q28339447" zoom="10">
 
 **Implements**   
 Boys describes implements used, singling out the Kent turn-wrest plough. For all sorts of soils, and for all required depths of ploughing, it is the best he has ever seen and tried.[^ref5] He moves on to machines for seed drilling, harrows, and carriages called hutches for carrying corn to market. He tells us wheat is reaped with a toothed sickle, while barley and oats are mown with a long scythe and cradle. He describes a threshing mill which he himself designed, and which requires four horses, eight men and four boys to operate, ‘threshing every kind of corn cleaner that it is usually done by the common mode’.[^ref6]  For hop grounds, an oast, built substantially with the ‘requisite stowage room’ is necessary.[^ref7]F
