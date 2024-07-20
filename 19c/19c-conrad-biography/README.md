@@ -7,6 +7,12 @@
 <param ve-entity eid="Q5360119" aliases="Elham Valley">
 <param data-map primary center="Q866348" zoom="10">
 
+<!-- Base map centred on Canterbury -->
+<!-- param ve-map center="Q29303" zoom="10" -->
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="6215fa6c47c47347" title="Bartholomew Kent 1904">
+
 #
 
 Joseph Conrad, an extraordinary and significant Polish British literary figure of the late nineteenth and early twentieth century, lived the last decades of his life in Bishopsbourne, a village about six miles south of [Canterbury](/canterbury/20c-canterbury-home) in the Elham valley. Born in 1857 in Berdychiv, Ukraine, to Polish parents of noble birth who protested Russian rule of their homeland, Conrad had a disrupted childhood as his family was persecuted by the Russian authorities. Whilst this meant that he lost the opportunity of regular education, his father, Apollo, taught him at home and shared a love of literature with his son. Unfortunately, at the age of 11, Conrad lost his parents to tuberculosis and the orphan was sent to live with an uncle in Kracow, where he was schooled. 
