@@ -24,12 +24,13 @@ At the age of 16, Conrad’s uncle arranged for him to join a French shipping co
 Conrad came ashore in 1894 due to persistent ill-health and a desire to write and published his first novel, _Almayer’s Folly_ in the following year. Set in Borneo, he used his sailing experiences to reflect on colonialism, a theme that was to continue through further novels such as _Heart of Darkness_ (1899) and _An Outpost of Progress_ (1897). Conrad married an English woman, Jessie in 1896, and they lived in the Kent countryside with their 3 children. 
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/19c/Rear_of_Oswalds_-_Bishopsbourne_MJC.jpg" label="Oswalds" attribution="©Martin Crowther">
 <!-- Base map centred on Patrixbourne -->
-<param ve-map center="Q7148079" zoom="12.5">
+<param ve-map center="Q7148079" zoom="12">
 
 Although a popular novelist and eventually recognised by the critics, Conrad did not enjoy financial success, although he was awarded an annual government grant of £100 in 1910, which helped until his death at the age of 66 in August 1924. Conrad died in his house (Oswalds) in Bishopsbourne and was buried in Canterbury Cemetery.
 <br><br>
 Conrad’s legacy lies in his storytelling and his capture of the human interest in what was, during his time, regarded as exotic and ordinary. Major feature films such as ‘Lord Jim’(1965), ‘Apocalypse Now’ (1979) and ‘An Outcast of the Islands’ (1952) provide testimony for the enduring humanity of his work. In 1916 Conrad was the subject of a biography by fellow Kent author [Hugh Walpole](/19c/19c-walpole-biography). [_Joseph Conrad_](https://www.gutenberg.org/files/52453/52453-h/52453-h.htm) was published in New York by Henry Holt and Company.
 <param ve-image url="https://stor.artstor.org/stor/fdcf1896-22cd-41c2-917a-cd07a8621a22" label="Joseph Conrad's grave" attribution="© Kate Davies">
-<!-- Base map centred on Patrixbourne -->
-<param ve-map center="Q7148079" zoom="12.5">
+<!-- Base map centred on Bishopsbourne -->
+<param ve-map center="Q866348" zoom="13">
+<param ve-map center="Q29303" zoom="13">
 
