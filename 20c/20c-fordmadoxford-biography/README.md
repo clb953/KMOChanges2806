@@ -39,7 +39,7 @@ By now the Hueffers had been forgiven by Elsie’s parents. Dr Martindale, a cel
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/03/View_of_Aldington_Knoll_-_geograph.org.uk_-_2127422.jpg" label="View of Aldington Knoll" attribution="David Anstiss via Wikimedia Commons" license="CC BY-SA 2.0">
 <param ve-entity eid="Q642884" aliases="Bonnington">
 <param ve-entity eid="Q921173" aliases="Aldington Knoll">
-<param ve-map center="Q921173" zoom="13">
+<param ve-map center="Q921173" zoom="14">
 
 Ford befriended a group of extraordinary writers in the area, whom he was the first to designate as Impressionists in literature: not just [Conrad](/19c/19c-conrad-biography), but also [Henry James](/19c/19c-jamesh-hever-castle), living in Rye, and his fellow American Stephen Crane, at Brede. [H. G. Wells](/20c/20c-wellshg-biography), living at Sandgate, became another close friend. Ford wrote much about the area. His huge, playful topographical book _The Cinque Ports_ came out in 1900. But he would continue to write about it not only in his many volumes of reminiscence – including his superb memoir _Joseph Conrad: A Personal Remembrance_ (1924), but also in his fiction: mostly notably in _Parade’s End_ (1924-28), his sequence of four novels covering the years before, during and after the First World War. The first novel, _Some Do Not_ . . ., includes magical evocations of the Kent and Sussex countryside in which the hero and heroine meet, argue, and fall in love:
 <br><br>
@@ -51,7 +51,8 @@ You can hear Professor Max Saunders talking about Ford Madox Ford on the Kent Ma
 <param ve-entity eid="Q1941797" aliases="Brede">
 <param ve-entity eid="Q1000312" aliases="Sandgate">
 <param ve-entity eid="Q1026871" aliases="Winchelsea">
-<param ve-map center="Q921173" zoom="10">
+<!-- Base map centered on Orlestone -->
+<param ve-map center="Q690486" zoom="10">
 
 ### References
 
