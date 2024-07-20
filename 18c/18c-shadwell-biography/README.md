@@ -2,12 +2,7 @@
 <param ve-config title="Charles Shadwell (1672-5? – 1726)" author="Michelle Crowther" layout="vtl" 
 banner="https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg">
 
-
-
 <param ve-entity eid="Q729006" aliases="Chatham">
-
-<!-- Base map centred on Canterbury -->
-<param ve-map center="Q29303" zoom="10">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="c7eccb646f966ca4" title="Moll Kent 1724">
