@@ -17,6 +17,14 @@
 <param ve-entity eid="Q80330" aliases="Civil War">
 <param ve-entity eid="Q3174344" aliases="Jean Riolan">
 
+<!-- Base map centred on Canterbury -->
+<param ve-map center="Q29303" zoom="10">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="f3fd96025bef7dd9" title="Sanson Kent 1654">
+
+#
+
 **Early Life and Education**   
 William Harvey was born in Folkestone, Kent on 1 April 1578, the eldest child of a farmer and carrier, Thomas Harvey and his second wife, Joan, née Halke. He had six brothers and three sisters, and his brothers were successful merchants and courtiers who provided him material assistance during his career.
 <param ve-image url="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/KT/FK/KT_FK_12_018-001.jpg" label="William Harvey" attribution="Uknonwn artist. Photo credit: Folkestone Museum" license="CC BY-NC-SA">
