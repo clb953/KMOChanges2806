@@ -6,6 +6,14 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg">
 <param ve-entity eid="Q179224" aliases="Dover">
 <param ve-entity eid="Q729006" aliases="Chatham">
 
+<!-- Base map centred on Canterbury -->
+<param ve-map center="Q29303" zoom="10">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="c7eccb646f966ca4" title="Moll Kent 1724">
+
+#
+
 'To my GENEROUS and OBLIGING FRIENDS OF THE County of KENT.   
 <br>
 GENTLEMEN, This Play was both design'd and finish'd in Your County, and therefore comes for Protection to the Place of its Nativity. It drags not a sluggish and unwilling Pace, as timorous of its Reception, and the hardiness of its fate; but pants for its native air, where it was brought forth with pleasure, and flies to the good treatment of your experience’d hospitality' - Introduction to _The Fair Quaker of Deal: or, the Humours of the Navy, 1710._[^ref1]
