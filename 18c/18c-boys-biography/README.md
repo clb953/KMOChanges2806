@@ -115,7 +115,7 @@ In a short concluding chapter, Boys lists the principle obstacles to the general
 Boys considers the highways, and observes that while the principal road in the county, from London to Canterbury, is ‘kept in excellent order by the commissioners’, it is ‘somewhat extraordinary that their power is not extended eastward to Deal, where there is such a resort of shipping’[^ref21]  (Boys was writing shortly before the Napoleonic wars when Admiral Lord Nelson would set up his shore Headquarters in what is now the Royal Hotel in Deal). He notes that the turnpike roads are in general good, apart from some in the Weald which are very frequently impassable in winter. In the first version of his Review he tells us that the difference between the shoulders of the axle trees of waggons and carts is two inches greater in the eastern part of Kent than it is in Sittingbourne, and two inches less in the western part of Kent, making it difficult for carriages from one part of the district to pass in the deep channels of the other.[^ref22]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b8/The_Royal_Hotel%2C_Beach_Street%2C_Deal_-_geograph.org.uk_-_957769.jpg" label="The Royal Hotel, Beach Street, Deal" attribution="John Salmon" license="CC BY-SA 2.0">
 <param ve-entity eid="Q1011096" aliases="Deal">
-<param ve-map center="Q1011096" zoom="12">
+<param ve-map center="Q1011096" zoom="13">
 
 **Boys the innovator**   
 Boys was an innovator. Not only did he design the threshing mill described above, he also experimented with the long-term preservation of potatoes by drying, both in slices and as meal. The potatoes were then transported in kegs to St Helena, and were pronounced on arrival to ‘retain the essential qualities of the potatoe [sic], unimpaired, though somewhat altered in colour’.[^ref23]
@@ -130,10 +130,7 @@ The house [pertaining to the estate of Little Betteshanger] is large, and has be
 Boys and his wife later moved from Betteshanger to Each End, between Ash and Wingham. He is buried at St Mary the Virgin, Wingham, where there is a memorial to him.
 <param ve-image url="https://stor.artstor.org/stor/6b64c68c-189f-4cdf-af16-519319fcf8a1" label="Boys' memorial in St Mary the Virgin, Wingham" attribution="Steve Sheath">
 <param ve-entity eid="Q2632094" aliases="Wingham">
-<param ve-map center="Q2632094" zoom="12">
-
-<param ve-entity eid="Q1626044" aliases="Sittingbourne">
-<param ve-entity eid="Q3141352" aliases="Nonington">
+<param ve-map center="Q2632094" zoom="13">
 
 ### Bibliography
 
