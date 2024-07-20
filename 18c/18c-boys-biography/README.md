@@ -3,18 +3,16 @@
 banner="https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg">
 
 <param ve-entity eid="Q1011096" aliases="Deal">
-<param ve-entity eid="Q29303" aliases="Canterbury">
-<param ve-entity eid="Q1752642" aliases="Thanet">
-<param ve-entity eid="Q1500299" aliases="Sheppey">
-<param ve-entity eid="Q2005288" aliases="Charing">
-<param ve-entity eid="Q213180" aliases="Maidstone">
-<param ve-entity eid="Q1506093" aliases="Romney Marsh">
+
+
+
+
+
+
 <param ve-entity eid="Q1626044" aliases="Sittingbourne">
-<param ve-entity eid="Q2632094" aliases="Wingham">
-<param ve-entity eid="Q375314" aliases="Folkestone">
-<param ve-entity eid="Q179224" aliases="Dover">
-<param ve-entity eid="Q618045" aliases="Margate">
-<param ve-entity eid="Q736439" aliases="Ramsgate">
+
+
+
 <param ve-entity eid="Q936183" aliases="Tonbridge">
 <param ve-entity eid="Q614560" aliases="Tenterden">
 <param ve-entity eid="Q3072600" aliases="Finglesham">
@@ -23,7 +21,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg">
 <param ve-entity eid="Q26163" aliases="Sandwich">
 <param ve-entity eid="Q26530206" aliases="Cottington">
 <param ve-entity eid="Q1540243" aliases="Stour">
-<param ve-entity eid="Q4898591" aliases="Betteshanger">
+
 <param ve-entity eid="Q3141352" aliases="Nonington">
 
 <!-- Base map centred on Canterbury -->
@@ -42,20 +40,27 @@ The people liberal, valiant, active, wealthy.
 <br>
 This epigraph, which clearly underlines his affection for and pride in Kent, was given by John Boys to _A General View of the Agriculture of the County of Kent, with Observations on the Means of its Improvement_ which he prepared for the Board of Agriculture and which appeared in 1796. His original version had appeared in 1794, and this was an expanded and revised edition in line with the uniform model provided by the Board of Agriculture, so that ‘information respecting the State of the kingdom, and Agricultural Knowledge in general, will be attainable with every possible advantage’ (Boys 1796, ix). It is possible that he was invited to compile this report because he was one of the Stewards of the Kent Society for the Encouragement of Agriculture and Industry, established in Canterbury a few years earlier in January 1793.[^ref1]
 <param ve-image url="https://stor.artstor.org/stor/0a089144-1037-4a97-999f-28208ceaef93" label="A General View of the Agriculture of the County of Kent" attribution="John Boys">
+<param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-map center="Q29303" zoom="12">
 
 **Betteshanger**    
 Boys farmed at Betteshanger Home Farm, about five miles inland from [Deal](/seascape/deal). He was a scion of the Boys family who had arrived with William the Conqueror, and whose members had lived in East Kent since at least the fourteenth century, notably at Fredville near Nonington between the fifteenth and seventeenth centuries, as well as at Betteshanger from the early seventeenth century.[^ref2]  However, Boys was a tenant farmer, rather than an owner. An earlier, distantly related Boys, Edward Grotius (1679-1706), had died without issue and bequeathed the Betteshanger estate to a cousin who sold it the Morrice family in about 1713, from whom John Boys leased the property.[^ref3]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1d/%27Taking_in_New_Hay_and_stacking_it_Jun_74%27_%28Bray_album%29_RMG_PT1977.tiff" label="Taking in new hay and stacking it, possibly Kent, June 1774" attribution="Gabriel Bray, Public domain, via Wikimedia Commons">
+<param ve-entity eid="Q4898591" aliases="Betteshanger">
 <param ve-map center="Q4898591" zoom="12">
 
 The Morrice family sold the Betteshanger estate in 1850 to Sir Walter James, who in 1884 became Lord Northbourne. His descendent, the fourth [Lord Northbourne](/20c/20c-northbourne-biography), would follow in Boys’ footsteps, confirming Betteshanger as an important crucible of agricultural wisdom and innovation when he held the 1939 Betteshanger Summer School and Conference on Bio-dynamic Farming, and by coining the term ‘organic farming’ in _Look to the Land_,  his seminal work of 1940.[^ref4] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/1b/Home_Farm_and_Home_Farm_cottages%2C_Little_Betteshanger._-_geograph.org.uk_-_304375.jpg" label="Home Farm and Home Farm cottages, Little Betteshanger" attribution="Nick Smith" license="CC BY-SA 2.0">
+<param ve-entity eid="Q4898591" aliases="Betteshanger">
 <param ve-map center="Q4898591" zoom="12">
  
 **A General view of the agriculture of the county of Kent**   
-Boys’ report extends to over 200 pages, and he begins by describing the county of Kent, giving its location and dimensions, and then moves on to a description of its [geography](/landscape): the two chains of hills, the Isles of Thanet and Sheppey, the Weald, and Romney Marsh. He highlights the many different types of soil which account for the various systems of management and production, and describes the types of buildings and the modes of occupation of farms, including leases, tithes, rents and poor rates. 
+Boys’ report extends to over 200 pages, and he begins by describing the county of Kent, giving its location and dimensions, and then moves on to a description of its [geography](/landscape): the two chains of hills, the Isles of Thanet and Sheppey, the Weald, and Romney Marsh. He highlights the many different types of soil which account for the various systems of management and production and describes the types of buildings and the modes of occupation of farms, including leases, tithes, rents and poor rates. 
 <param ve-image url="https://stor.artstor.org/stor/28f41aa7-4b9e-481f-a997-c8d43f536e94" label="Map engraved for John Boys" attribution="© Augustine House Library, Canterbury Christ Church University">
+<param ve-entity eid="Q1752642" aliases="Thanet">
+<param ve-entity eid="Q1500299" aliases="Sheppey">
+<param ve-entity eid="Q1506093" aliases="Romney Marsh">
+<param ve-map center="Q29303" zoom="10">
 
 **Implements**   
 Boys describes implements used, singling out the Kent turn-wrest plough. For all sorts of soils, and for all required depths of ploughing, it is the best he has ever seen and tried.[^ref5] He moves on to machines for seed drilling, harrows, and carriages called hutches for carrying corn to market. He tells us wheat is reaped with a toothed sickle, while barley and oats are mown with a long scythe and cradle. He describes a threshing mill which he himself designed, and which requires four horses, eight men and four boys to operate, ‘threshing every kind of corn cleaner that it is usually done by the common mode’.[^ref6]  For hop grounds, an oast, built substantially with the ‘requisite stowage room’ is necessary.[^ref7]F
@@ -64,7 +69,6 @@ Boys describes implements used, singling out the Kent turn-wrest plough. For all
 **Crops: rotation and fallowing**   
 Boys is writing fifty years after ‘Turnip’ Townshend’s introduction of the Norfolk four-course rotation scheme whereby instead of a fallow year turnips and clover are planted alternately with wheat and other cereals to replenish the nitrogen in the soil. He remarks that ‘[t]here is not any part of agriculture which has occasioned more discussion and controversy among writers on husbandry, than this subject of Fallowing’.[^ref8] In all he lists nine different systems found in the county, rotating over periods of three to seven years. He details the various crops: most commonly grown are wheat, barley, beans, oats, peas, canary seed, radish seed, turnips and cole (rape) seed, while some less often grown include tares (a vetch), clover, trefoil, sainfoin, lucern, burnet, spinach, kidney beans, cress, potatoes, flax, cabbage, and two plants used for dyeing, woad and madder. However, while he is even-handed, from his detailed instructions on how to make a good fallow, it is difficult not to believe that he himself favoured fallowing. 
 <param ve-image url="https://stor.artstor.org/stor/439a71e9-2c05-4dcf-b3f6-9a5448eed90d" label="Crop Rotation, John Boys" attribution="© Augustine House Library, Canterbury Christ Church University">
-<param ve-map center="Q1752642" zoom="10">
 
 Nevertheless, twenty-five years later William Cobbett would find very few fallow fields in Thanet, writing: ‘When I got upon the corn land in the Isle of Thanet, I got into a garden indeed. There is hardly any fallow; comparatively few turnhips [sic]. It is a country of corn’.[^ref9]  Cobbett frequently remarks on the excellence of the wheat crop when in early September 1823 he passes from Folkestone via Dover to Thanet, ‘that spot so famous for corn’.[^ref10]  Here Cobbett is echoing Boys who remarks: 
 <br><br>
@@ -72,16 +76,29 @@ In short, is there another district in Great Britain, or in the World, of the sa
 <br><br>
 Hay is usually set up in stacks, either in the marshes near a foddering lodge, or in farm-yards near the marshes for fattening bullock. Boys gives a hint of the burgeoning importance of Thanet as a resort from the mid-eighteenth century when he notes that hay is sold to innkeepers at Margate or Ramsgate.[^ref12]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Mown_Corn_field_-_geograph.org.uk_-_404576.jpg" label="Mown Cornfield" attribution="David Mould" license="CC BY-SA 2.0">
+<param ve-entity eid="Q375314" aliases="Folkestone">
+<param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q1752642" aliases="Thanet">
+<param ve-entity eid="Q618045" aliases="Margate">
+<param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-map center="Q1752642" zoom="10">
 
 **Woodlands, hops and orchards**   
 Boys reproduces a table detailing various woodlands in the county.[^ref13]  He tells us that the woodlands between Chatham Hill and Charing provide poles, stakes and binders of various lengths. The best are cut from chestnut, ash, willow and maple, while the second best are cut from oak, gascoign (a form of wild cherry), red birch, beech and hornbeam. Stakes and binders are also cut from hazel. Props to be used in the coal-mines at Newcastle are cut from oak and birch, six feet four or five inches long.[^ref14]
 <param ve-image url="https://stor.artstor.org/stor/c7b86f66-bc0f-474f-9257-c9a742e4c6fe" label="Hop picking in the early 19th century" attribution="Copyright Martin Crowther">
-<param ve-map center="Q2005288" zoom="12">
+<param ve-entity eid="Q2005288" aliases="Charing">
+<param ve-entity eid="Q2005288" aliases="Ramsgate">" zoom="12">
 
 Other poles would be used for hops. The Hop Grounds in the vicinity of Canterbury and Maidstone are the principle ones in the county, with those of Canterbury superior to those of Maidstone.[^ref15]  This contemporary hop field lies between Ash and Wingham, just south of Canterbury and two or three miles from Each End where Boys moved to when he left Betteshanger and somewhere he would have known well.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/73/Hop_Fields_along_Pedding_Lane_-_geograph.org.uk_-_1974865.jpg" label="Hop Fields along Pedding Lane" attribution="Oast House Archive" license="CC BY-SA 2.0">
-<param ve-map center="Q2632094" zoom="10">
+<param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q213180" aliases="Maidstone">
+<param ve-entity eid="Q2632094" aliases="Ash">
+<param ve-entity eid="Q2632094" aliases="Wingham">
+<param ve-entity eid="Q2632094" aliases="Each End">
+
+<param ve-map center="Q29303" zoom="12">
+<param ve-map center="Q2632094" zoom="12">
 
 The area around Maidstone has plenty of orchards, principally apples and cherries, as it does today, as well as filbert plantations. Apples are grown both for cider and for domestic use, and among those Boys lists are varieties still grown commercially today such as royal russet and Ribstone pippin, while others are still available from specialist nurseries. Apples were shipped along the Medway and thence to London and also to Newcastle in returning colliers. The bulk of the filbert harvest was shipped to London. The area around Sandwich also had plenty of orchards.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/38/Cherry_orchard_-_geograph.org.uk_-_4704.jpg" label="Cherry Orchard near Torry Hill, Sittingbourne" attribution="Penny Mayes" license="CC BY-SA 2.0">
