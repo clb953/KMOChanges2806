@@ -23,18 +23,18 @@ Prisoners sentenced to transportation went first to a [hulk](/prisons/convict-hu
 <param ve-entity eid="Q1003196" aliases="Sheerness">
 <param ve-entity eid="Q729006" aliases="Chatham">
 <!---Basemap centered on Upchurch--->
-<param ve-map center="Q2483544" zoom="10">
+<param ve-map center="Q2483544" zoom="12">
 
 The eventual closure of the [hulks](/prisons/convict-hulks), the last of which burned down in 1857, coincided with the end of transportation: New South Wales shut its doors to convicts in 1840 (although it opened them again briefly at the end of the decade), and Tasmania followed suit in 1853 (small numbers then went to a penal settlement in Western Australia until 1868). Hence the necessity for three huge ‘public works’ convict prisons which opened at Portland in 1848, Portsmouth in 1852, and Chatham in 1856,  built to accommodate prisoners who would hitherto have been sent to the hulks or shipped overseas. Unlike other English prisons, where prisoners served terms of up to two years (though often no more than a week or two), convict prisons were reserved for men sentenced to penal servitude, the sentence introduced to replace transportation. Penal servitude’s minimum term was three years; in practice, its maximum life sentence seldom exceeded twenty. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7f/The_Devonshire_prison-ship%2C_at_Sheerness_ILN_1854-0923-0008.jpg" label="The Devonshire prison ship at Sheerness, 1854" attribution="The Illustrated London News, Public domain, via Wikimedia Commons">
 <param ve-entity eid="Q729006" aliases="Chatham">
 <!---Basemap centered on Chatham--->
-<param ve-map center="Q729006" zoom="15">
+<param ve-map center="Q729006" zoom="13">
 
 The location of the new prisons was determined by the projects upon which convicts would be put to work. Their architect, Major-General Sir Joshua Jebb, formerly of the Royal Engineers, imagined a grand system of naval dockyards, harbours of refuge, and coastal defences extending downriver from London and along the South Coast, built entirely by convict labour. Accordingly, convicts began work on the colossal [breakwater]( https://www.portlandhistory.co.uk/portland-harbour.html) at Portland, while at Portsmouth and [Chatham](/19c/19c-convicts-chatham) they extended [naval dockyards](/19c/19c-chatham-dockyard). At [Chatham](/19c/19c-convicts-chatham), this work continued for over a generation, the prison closing in 1892 upon its completion (Portsmouth shut two years later; as a Young Offenders' Institution, Portland is still in use today). 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/05/Joshua_Jebb.jpg" label="Joshua Jebb" attribution="Thomas Dewell Scott, Public domain, via Wikimedia Commons">
 <param ve-entity eid="Q729006" aliases="Chatham">
-<param ve-map center="Q729006" zoom="12">
+<param ve-map center="Q729006" zoom="13">
 
 In the meantime, work began in 1874 on a much smaller convict prison at the village of Borstal, near Rochester, where the War Department planned to construct hill fortifications. It was built entirely by convicts, who were marched there daily from [Chatham](/19c/19c-convicts-chatham) until they had erected a block of forty cells, into which they then moved in order to build the rest of the prison. Today it remains in use as HMYOI Rochester. As Borstal Convict Prison, it became famous for a reformatory regime for youths aged between 16 and 21, developed there during the early years of the twentieth century, giving a generic name to a new institution – the borstal - to which this regime was extended after 1908. 
 <param ve-image url="https://stor.artstor.org/stor/947750e4-99c1-4ab8-94a5-1cea68295001" label="Report of the Directors of Convict Prisons on the Discipline and Management" attribution="No known copyright">
