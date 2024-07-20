@@ -53,7 +53,8 @@ You can hear Professor Max Saunders talking about Ford Madox Ford on the Kent Ma
 <param ve-entity eid="Q1020800" aliases="Rye">
 <param ve-entity eid="Q1941797" aliases="Brede">
 <param ve-entity eid="Q1000312" aliases="Sandgate">
-<param ve-map center="Q921173" zoom="11">
+<param ve-entity eid="Q1026871" aliases="Winchelsea">
+<param ve-map center="Q921173" zoom="10">
 
 ### References
 
