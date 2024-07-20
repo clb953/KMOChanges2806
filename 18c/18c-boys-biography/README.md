@@ -2,13 +2,6 @@
 <param ve-config title="John Boys (1749-1824)" author="Diana Hirst" layout="vtl" 
 banner="https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg">
 
-<param ve-entity eid="Q1626044" aliases="Sittingbourne">
-
-<param ve-entity eid="Q3141352" aliases="Nonington">
-
-<!-- Base map centred on Canterbury -->
-<param ve-map center="Q29303" zoom="10">
-
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="95a97f635eb83b37" title="Cary 1787">
 
@@ -135,6 +128,9 @@ Boys and his wife later moved from Betteshanger to Each End, between Ash and Win
 <param ve-image url="https://stor.artstor.org/stor/6b64c68c-189f-4cdf-af16-519319fcf8a1" label="Boys' memorial in St Mary the Virgin, Wingham" attribution="Steve Sheath">
 <param ve-entity eid="Q2632094" aliases="Wingham">
 <param ve-map center="Q2632094" zoom="12">
+
+<param ve-entity eid="Q1626044" aliases="Sittingbourne">
+<param ve-entity eid="Q3141352" aliases="Nonington">
 
 ### Bibliography
 
