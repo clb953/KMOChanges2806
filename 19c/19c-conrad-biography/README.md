@@ -4,7 +4,6 @@
 
 <param ve-entity eid="Q866348" aliases="Bishopsbourne">
 <param ve-entity eid="Q29303" aliases="Canterbury">
-<param ve-entity eid="Q5360119" aliases="Elham Valley">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="6215fa6c47c47347" title="Bartholomew Kent 1904">
@@ -13,8 +12,8 @@
 
 Joseph Conrad, an extraordinary and significant Polish British literary figure of the late nineteenth and early twentieth century, lived the last decades of his life in Bishopsbourne, a village about six miles south of [Canterbury](/canterbury/20c-canterbury-home) in the Elham valley. Born in 1857 in Berdychiv, Ukraine, to Polish parents of noble birth who protested Russian rule of their homeland, Conrad had a disrupted childhood as his family was persecuted by the Russian authorities. Whilst this meant that he lost the opportunity of regular education, his father, Apollo, taught him at home and shared a love of literature with his son. Unfortunately, at the age of 11, Conrad lost his parents to tuberculosis and the orphan was sent to live with an uncle in Kracow, where he was schooled. 
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/19c/Bishopsbourne_Village_Hall_Memorial_Plaque.jpg" label="Bishopsbourne Village Hall Memorial Plaque" attribution="©Martin Crowther"> 
-<!-- Base map centred on Elham Valley -->
-<param ve-map center="Q5360119" zoom="12">
+<!-- Base map centred on Wye -->
+<param ve-map center="Q590063" zoom="12">
 
 The young Conrad was bright but lacked enthusiasm for study and began to dream of a career at sea, having been inspired by an account of the search for [Franklin’s](/19c/19c-franklin-biography) ships lost in the endeavour to discover the north-west passage. Despite his apparent lack of enthusiasm, Conrad retained a love of Polish Romantic literature and acquired French and the classical languages whilst in Kracow, and this enabled him to engage with both his first career at sea and then his second as a writer.
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/19c/Erebusand_Terror.jpg" label="The Erebus and Terror among Icebergs in Dr Hartwig's The Polar World, 1886" attribution="© Michelle Crowther"> 
