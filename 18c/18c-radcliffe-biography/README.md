@@ -2,18 +2,6 @@
 <param ve-config title="Ann Radcliffe (1764 – 1823)" author="Dr Michael Goodrum" layout="vtl" 
 banner="https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg">
 
-<param ve-entity eid="Q29303" aliases="Canterbury">
-<param ve-entity eid="Q179224" aliases="Dover">
-<param ve-entity eid="Q1626044" aliases="Sittingbourne">
-<param ve-entity eid="Q375314" aliases="Folkestone">
-<param ve-entity eid="Q1000312" aliases="Sandgate">
-<param ve-entity eid="Q967166" aliases="Hythe">
-<param ve-entity eid="Q729006" aliases="Chatham">
-
-
-<!-- Base map centred on Canterbury -->
-<!-- param ve-map center="Q29303" zoom="10" -->
-
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="95a97f635eb83b37" title="Cary 1787">
 
