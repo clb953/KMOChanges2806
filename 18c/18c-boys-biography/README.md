@@ -125,7 +125,7 @@ Boys was an innovator. Not only did he design the threshing mill described above
 According to Gentleman’s Magazine for 1825, Boys’ report was ‘accorded the palm amongst County reports of agriculture, “for soundness of judgment and enlightened practical views”’.[^ref24] 
 At times Boys quotes extensively from Edward Hasted’s _History and Topographical Survey of the County of Kent_ and Hasted returns the compliment in his 1800 edition, saying:
 <br><br>
-The house [pertaining to the estate of Little Betteshanger] is large, and has been the residence of gentlemen; a family of the name of Boys has inhabited it for many years, Mr. John Boys now resides in it, a gentleman, whose scientific knowledge in husbandry is well known, especially by the publication of the Agricultural Society of the state of it, and its improvements in this county, for which they are, I believe, wholly indebted to him.[^ref25]
+"The house [pertaining to the estate of Little Betteshanger] is large, and has been the residence of gentlemen; a family of the name of Boys has inhabited it for many years, Mr. John Boys now resides in it, a gentleman, whose scientific knowledge in husbandry is well known, especially by the publication of the Agricultural Society of the state of it, and its improvements in this county, for which they are, I believe, wholly indebted to him."[^ref25]
 <br><br>
 Boys and his wife later moved from Betteshanger to Each End, between Ash and Wingham. He is buried at St Mary the Virgin, Wingham, where there is a memorial to him.
 <param ve-image url="https://stor.artstor.org/stor/6b64c68c-189f-4cdf-af16-519319fcf8a1" label="Boys' memorial in St Mary the Virgin, Wingham" attribution="Steve Sheath">
