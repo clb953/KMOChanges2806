@@ -2,9 +2,7 @@
 
 <param ve-config title="William Harvey (1578 – 1657)" author="Dr Dominique Gracia and Arnav" layout="vtl" banner="https://stor.artstor.org/stor/fafede9a-16fc-4f57-8c41-61a929e62593">
 
-<param ve-entity eid="Q29303" aliases="Canterbury">
-<param ve-entity eid="Q375314" aliases="Folkestone">
-<param ve-entity eid="Q3360332" aliases="King’s School">
+
 <param ve-entity eid="Q711332" aliases="Matthew Parker">
 <param ve-entity eid="Q435296" aliases="Hieronymus Fabricius">
 <param ve-entity eid="Q6483605" aliases="Lancelot Browne">
@@ -18,7 +16,7 @@
 <param ve-entity eid="Q3174344" aliases="Jean Riolan">
 
 <!-- Base map centred on Canterbury -->
-<param ve-map center="Q29303" zoom="10">
+<!-- param ve-map center="Q29303" zoom="10" -->
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="f3fd96025bef7dd9" title="Sanson Kent 1654">
@@ -28,15 +26,20 @@
 **Early Life and Education**   
 William Harvey was born in Folkestone, Kent on 1 April 1578, the eldest child of a farmer and carrier, Thomas Harvey and his second wife, Joan, née Halke. He had six brothers and three sisters, and his brothers were successful merchants and courtiers who provided him material assistance during his career.
 <param ve-image url="https://d3d00swyhr67nd.cloudfront.net/w1200h1200/collection/KT/FK/KT_FK_12_018-001.jpg" label="William Harvey" attribution="Uknonwn artist. Photo credit: Folkestone Museum" license="CC BY-NC-SA">
+<param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-map center="Q375314" zoom="10">
 
 Harvey was educated at The King’s School, Canterbury and then at Gonville and Caius College, Cambridge. His studies were supported by a Matthew Parker scholarship, founded by the Archbishop of Canterbury to support someone born in Kent and educated at King’s to study medicine.
 <br><br>
 After completing his degree at Cambridge, Harvey studied medicine at the University of Padua in Italy, obtaining his MD degree in 1602. At Padua, he was tutored by the scientist and surgeon Hieronymus Fabricius (Girolamo Fabrizi of Acquapendente). Fabricius, who was fascinated by anatomy, recognised that veins in the human body had one-way valves, but was puzzled as to their function. Harvey would take the foundation of Fabricius's teaching and go on to find out what part the valves played in the circulation of blood through the body.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/13/Archbishop_Matthew_Parker.jpg" label="Painting of Matthew Parker (1504-1575), Archbishop of Canterbury, by an unidentified painter of the Flemish School" attribution="Public domain, via Wikimedia Commons">
+<!-- param ve-entity eid="Q29303" aliases="Canterbury" -->
+<param ve-entity eid="Q3360332" aliases="King’s School">
+<param ve-map center="Q29303" zoom="10">
 
 **Medical Career**   
 Returning from Italy in 1602, Harvey established himself as a physician in London. He was not admitted to the Royal College of Physicians until 1604, having initially failed in his admission examinations. Having finally gained admission, in 1604 he married Elizabeth Browne, daughter of Lancelot Browne, one of the physicians to Elizabeth I and James I of England, at St Sepulchre’s.
+<param ve-entity eid="Q26534074" aliases="St Sepulchre’s">
 <param ve-map center="Q26534074" zoom="13">
 
 In 1607, Harvey became a fellow of the Royal College of Physicians and, in 1609, was appointed physician to St Bartholomew's Hospital. In 1613, he was appointed a censor, one of the College’s examiners, and reappointed thereafter in 1625 and 1627, when he also became an elect. He subsequently became the College’s Treasurer (1628). In 1618, Harvey followed in his father-in-law’s footsteps and became a physician to James I and then to James' son Charles when he became king. Both James and Charles took a close interest in and encouraged Harvey's research, with Charles providing deer for Harvey to dissect. 
