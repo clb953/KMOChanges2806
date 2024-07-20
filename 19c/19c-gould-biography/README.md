@@ -16,7 +16,7 @@
 <param ve-entity eid="Q967304"> <!-- Birds of Australia -->
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="bd3bb7d13a5d0a88" title="Moule 1850">
+<param ve-map-layer active allmaps allmaps-id="4478e36824ad9d1a" title="Greenwood 1829">
 
 #
 
