@@ -40,7 +40,7 @@ Alas, our Kentish gods had failed to dominate the classical ones!
 <param ve-entity eid="Q5598954" title="Great Chart">
 <param ve-entity eid="Q2001391" title="Borough Green">
 <!-- Base map centred on Marden -->
-<param ve-map center="Q6758628" zoom="12">
+<param ve-map center="Q6758628" zoom="10">
 
 ## References
 
