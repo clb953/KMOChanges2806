@@ -60,6 +60,7 @@ Two years later in 1669/70 he received letters from Hythe recording one of the h
 <param ve-entity eid="Q2621103" aliases="Saltwood">
 <param ve-entity eid="Q1639689" aliases="Lydd">
 <param ve-entity eid="Q951928" aliases="Egerton">
+<param ve-map center="Q967166" zoom="11">
 <param ve-map center="Q967166" zoom="12">
 <param ve-map center="Q921173" zoom="12">
 <param ve-map center="Q2621103" zoom="12">
