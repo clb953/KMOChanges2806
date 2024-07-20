@@ -14,11 +14,8 @@
 <param ve-entity eid="Q80330" aliases="Civil War">
 <param ve-entity eid="Q3174344" aliases="Jean Riolan">
 
-<!-- Base map centred on Canterbury -->
-<!-- param ve-map center="Q29303" zoom="10" -->
-
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="f3fd96025bef7dd9" title="Sanson Kent 1654">
+<param ve-map-layer active allmaps allmaps-id="dce10f1c411cebb1" title="Blaeu Kent 1665">
 
 #
 
