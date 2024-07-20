@@ -104,7 +104,7 @@ Boys begins his chapter on ‘Improvements’ with a section on drainage, saying
 <param ve-entity eid="Q5637324" aliases="Hacklinge">
 <param ve-entity eid="Q26530206" aliases="Cottington">
 <param ve-entity eid="Q1540243" aliases="Stour">
-<param ve-map center="Q3192739" zoom="11">
+<param ve-map center="Q3192739" zoom="12">
 
 His other sections include paring and burning, and manuring: as well as dung he advocates seaweed which is plentiful around the coast. He lists waste lands, neglected woods, and impoverished commons, and says he is taking the liberty of suggesting to the Board of Agriculture that they should approach the legislature with the view to introducing an act of inclosure, in order to put these lands under proper systems of management.
 <br><br>
