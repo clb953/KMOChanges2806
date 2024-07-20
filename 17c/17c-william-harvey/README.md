@@ -2,7 +2,6 @@
 
 <param ve-config title="William Harvey (1578 – 1657)" author="Dr Dominique Gracia and Arnav" layout="vtl" banner="https://stor.artstor.org/stor/fafede9a-16fc-4f57-8c41-61a929e62593">
 
-
 <param ve-entity eid="Q711332" aliases="Matthew Parker">
 <param ve-entity eid="Q435296" aliases="Hieronymus Fabricius">
 <param ve-entity eid="Q6483605" aliases="Lancelot Browne">
@@ -40,10 +39,10 @@ After completing his degree at Cambridge, Harvey studied medicine at the Univers
 **Medical Career**   
 Returning from Italy in 1602, Harvey established himself as a physician in London. He was not admitted to the Royal College of Physicians until 1604, having initially failed in his admission examinations. Having finally gained admission, in 1604 he married Elizabeth Browne, daughter of Lancelot Browne, one of the physicians to Elizabeth I and James I of England, at St Sepulchre’s.
 <param ve-entity eid="Q26534074" aliases="St Sepulchre’s">
-<param ve-map center="Q26534074" zoom="13">
+<param ve-map center="Q26534074" zoom="10">
 
 In 1607, Harvey became a fellow of the Royal College of Physicians and, in 1609, was appointed physician to St Bartholomew's Hospital. In 1613, he was appointed a censor, one of the College’s examiners, and reappointed thereafter in 1625 and 1627, when he also became an elect. He subsequently became the College’s Treasurer (1628). In 1618, Harvey followed in his father-in-law’s footsteps and became a physician to James I and then to James' son Charles when he became king. Both James and Charles took a close interest in and encouraged Harvey's research, with Charles providing deer for Harvey to dissect. 
-<param ve-map center="Q164946" zoom="13">
+<param ve-map center="Q164946" zoom="10">
 
 Harvey's research was furthered through the dissection of animals. He himself noted conducting a post-mortem on his wife, Elizabeth’s, pet parrot. Harvey first revealed his findings at the Royal College of Physicians in 1616, through his Lumleian lectureship. His ideas were received with great interest in England, although they were greeted with some scepticism as well because they contradicted the ideas of Galen, who believed blood was generated in liver, then sent around the body. The Church, along with many physicians, supported Galen's ideas, making it difficult for Harvey, whose theories on the circulatory system marked a significant shift away from the traditional ideas in the Renaissance.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Portrait_of_Galen_Wellcome_L0000098.jpg/925px-Portrait_of_Galen_Wellcome_L0000098.jpg" label="Portrait of Galen" attribution="Wellcome Trust, CY-BY-4.0, via Wikimedia Commons">
@@ -57,7 +56,7 @@ As physician to King Charles I, Harvey played a significant role at Court in the
 
 During the Civil War, in 1643, Harvey was made warden of Merton College, Oxford. A few years later, in 1646, Oxford was surrendered, and Harvey returned to London to live with his brothers. During this time, Harvey continued to defend his theory of circulation, making a reply in-print to the other of his principal opponents, Jean Riolan, entitled _Exercitatio anatomica de circulatione sanguinis_ (1649).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8a/Portrait_of_Jean_Riolan_the_younger_by_Lasne%2C_1626_Wellcome_L0002158_f.jpg" label="Portrait of Jean Riolan the younger by Lasne, 1626" attribution="Wellcome Trust, CY-BY-4.0, via Wikimedia Commons">
-<param ve-map center="Q82513" zoom="13">
+<param ve-map center="Q82513" zoom="10">
 
 Harvey also continued his work on another important aspect of medical science. Although often overshadowed by his work on the circulatory system, Harvey was the first to suggest that mammals reproduced via fertilisation of an egg by sperm, in his _Exercitationes de generatione animalium_ (1651). He had worked on this subject throughout his time at Court, including at Oxford, dissecting animals provided by the King himself.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/W._Harvey%2C_Exercitationes_de_generatione_ani_Wellcome_L0032301.jpg/814px-W._Harvey%2C_Exercitationes_de_generatione_ani_Wellcome_L0032301.jpg" label="Title page of Harvey’s _Exercitationes de generatione animalium_ (1651)" attribution="Wellcome Trust, CY-BY-4.0, via Wikimedia Commons">
@@ -67,7 +66,7 @@ During the Commonwealth, Harvey was temporarily banished from London by Parliame
 
 Harvey died, likely from a stroke, on 2 June 1657 at the house of his brother Eliab. He had no children, but left an annuity to his brother-in-law, Galen Browne, who was also a physician. He is buried in the Harvey chapel of the Church of St Andrew, Hempstead, Essex. The William Harvey Hospital in Ashford is named after him.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/2f/Harvey-in-Folkestone.JPG" label="Statue of William Harvey in Folkestone" attribution="Immanuel Giel, via Wikimedia Commons" license="CC BY-SA 3.0">
-<param ve-map center="Q17534618" zoom="13">
+<param ve-map center="Q17534618" zoom="10">
 
 ### Bibliography
 Bennell, John. ‘Browne, Lancelot (d. 1605)’. _Oxford Dictionary of National Biography_. 23 September 2004. Date accessed 4 February 2022.   
