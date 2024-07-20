@@ -12,6 +12,12 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/18c.jpg">
 <param ve-entity eid="Q729006" aliases="Chatham">
 <param ve-entity eid="Q676689" aliases="Gravesend">
 
+<!-- Base map centred on Canterbury -->
+<param ve-map center="Q29303" zoom="10">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="95a97f635eb83b37" title="Cary 1787">
+
 #
 
 “One of the richest green landscapes, with woods and villages, I ever saw”: Ann Radcliffe’s trip to Kent in September 1797.   
