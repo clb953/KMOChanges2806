@@ -2,7 +2,7 @@
 
 <param ve-config title="John Wallis (1616-1703)" author="Duke of Edinburgh Scheme Participants" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/17c.jpg"> 
 
-<param ve-entity eid="Q725261" aliases="Ashford">
+
 <param ve-entity eid="Q632173" aliases="Godmersham">
 <param ve-entity eid="Q614560" aliases="Tenterden">
 <param ve-entity eid="Q967166" aliases="Hythe">
@@ -23,6 +23,8 @@
 
 The mathematician, John Wallis, was born in Ashford on the 23rd of November 1616. His father, Reverend John Wallis (1567-1622) died a week after John’s sixth birthday so his mother, Joanna (nee Chapman) raised her 5 children alone.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f5/St_Mary%27s_Church_Ashford_Kent_04.JPG" label="St Mary's Church, Ashford" attribution="Ad Meskens via Wikimedia Commons" license="CC BY-SA 4.0">
+<param ve-entity eid="Q725261" aliases="Ashford">
+<param ve-map center="Q725261" zoom="12">
 
 John began his education in Ashford, but after an outbreak of plague in 1625, was moved to James Mouat’s private school at Ley (Leigh) Green, near Tenterden.  He continued at Mouat’s school under the tutelage of Mr Finch, until 1630, when the school closed, then in 1631 he was enrolled at the school of Martin Holbeach in Felsted, Essex. 
 <br><br>
