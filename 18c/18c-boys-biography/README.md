@@ -57,7 +57,7 @@ Hay is usually set up in stacks, either in the marshes near a foddering lodge, o
 <param ve-entity eid="Q1752642" aliases="Thanet">
 <param ve-entity eid="Q618045" aliases="Margate">
 <param ve-entity eid="Q736439" aliases="Ramsgate">
-<param ve-map center="Q1752642" zoom="10">
+<param ve-map center="Q866348" zoom="10">
 
 **Woodlands, hops and orchards**   
 Boys reproduces a table detailing various woodlands in the county.[^ref13]  He tells us that the woodlands between Chatham Hill and Charing provide poles, stakes and binders of various lengths. The best are cut from chestnut, ash, willow and maple, while the second best are cut from oak, gascoign (a form of wild cherry), red birch, beech and hornbeam. Stakes and binders are also cut from hazel. Props to be used in the coal-mines at Newcastle are cut from oak and birch, six feet four or five inches long.[^ref14]
