@@ -39,7 +39,7 @@ Radcliffe’s tour of Kent continued for some days, moving through Chatham (“a
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q1000312" aliases="Sandgate">
 <param ve-entity eid="Q967166" aliases="Hythe">
-<param ve-map center="Q179224" zoom="15">
+<param ve-map center="Q28339447" zoom="9.5">
 
 For those interested in the history of landscape, and also that of writing about landscape, this has significant appeal. Much of the Romantic writing about landscape existed in some relationship with the Lakes – largely thanks to the ‘Lake Poets’ and their shadow of influence – so to have such descriptions of Kent in the same style are welcome deviations. Unlike Radcliffe’s other descriptive prose, though, they were drawn from experience, not paintings; from her style, we see the same emotion being imbued, regardless of how the material came to her senses.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e9/Ordnance_Survey_Drawings_-_Hythe%2C_Kent_%28OSD_105%29.jpg" label="Ordnance Survey, Hythe, 1797" attribution="British Library, OGL v1.0, via Wikimedia Commons">
