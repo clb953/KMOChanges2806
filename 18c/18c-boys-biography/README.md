@@ -52,6 +52,7 @@ Boys’ report extends to over 200 pages, and he begins by describing the county
 <param ve-image url="https://stor.artstor.org/stor/28f41aa7-4b9e-481f-a997-c8d43f536e94" label="Map engraved for John Boys" attribution="© Augustine House Library, Canterbury Christ Church University">
 <param ve-entity eid="Q1752642" aliases="Thanet">
 <param ve-entity eid="Q1500299" aliases="Sheppey">
+<param ve-entity eid="Q2298322" aliases="Weald">
 <param ve-entity eid="Q1506093" aliases="Romney Marsh">
 <param ve-map center="Q29303" zoom="10">
 
