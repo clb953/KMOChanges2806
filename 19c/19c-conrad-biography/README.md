@@ -8,7 +8,7 @@
 <param data-map primary center="Q866348" zoom="10">
 
 <!-- Base map centred on Canterbury -->
-<!-- param ve-map center="Q29303" zoom="10" -->
+<param ve-map center="Q29303" zoom="10">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="6215fa6c47c47347" title="Bartholomew Kent 1904">
