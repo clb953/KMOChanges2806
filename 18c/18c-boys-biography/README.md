@@ -52,6 +52,9 @@ In short, is there another district in Great Britain, or in the World, of the sa
 <br><br>
 Hay is usually set up in stacks, either in the marshes near a foddering lodge, or in farm-yards near the marshes for fattening bullock. Boys gives a hint of the burgeoning importance of Thanet as a resort from the mid-eighteenth century when he notes that hay is sold to innkeepers at Margate or Ramsgate.[^ref12]  
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c8/Mown_Corn_field_-_geograph.org.uk_-_404576.jpg" label="Mown Cornfield" attribution="David Mould" license="CC BY-SA 2.0">
+<param ve-entity eid="Q375314" aliases="Folkestone">
+<param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q1752642" aliases="Thanet">
 <param ve-entity eid="Q618045" aliases="Margate">
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-map center="Q1752642" zoom="10">
