@@ -46,7 +46,7 @@ Shadwell jokes to his patrons in the dedication of _The Fair Quaker of Deal_ "to
 In Act 1 scene 1, Captain Worthy leaves his ship at anchor in The Downs having returned from a trip abroad as part of the Virginia Fleet, which was involved in the Atlantic slave trade. The Downs is the water between Deal and the [Goodwins Sands](/dickens/david-copperfield-goodwin-sands/) which provides a natural anchorage for ships waiting for a good wind. There were sometimes 300-400 ships lying at anchor and it was from here that Admiral [Sir Cloudsley Shovell](/17c/17c-shovell-biography) sailed with a squadron in 1694 to bombard Dunkirk. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7e/English_warships_at_anchor_in_a_calm%2C_drying_sails_RMG_BHC1009.tiff" label="English warships at anchor in a calm, drying sails" attribution="Peter Monamy, Public domain, via Wikimedia Commons">
 <param ve-entity eid="Q1011096" aliases="Deal">
-<param ve-map center="Q26163" zoom="12">
+<param ve-map center="Q26163" zoom="11.5">
 
 Worthy opens _The Fair Quaker_ with the words:
 <br><br>
