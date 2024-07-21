@@ -13,8 +13,8 @@ The couple settled into their new home, Cleave [Cleve] Court, a manor house two 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/81/Baroness_Emma_Orczy_%28Bassano%29.jpg"  label="Baroness Emma Orczy" attribution="Bassano Ltd, Public domain, via Wikimedia Commons">
 <param ve-entity eid="Q590422" aliases="Isle of Thanet">
 <param ve-entity eid="Q1917280" aliases="Monkton">
-<!-- Base map centred on Lydden -->
-<param ve-map center="Q2624651" zoom="12.5">
+<!-- Base map centred on Nash Court -->
+<param ve-map center="Q26386990" zoom="12.5">
 
 The area was to prove the perfect place for breaking in the five Transylvanian horses which she had imported from her uncle’s estate: 'We used to get up at five o’clock in the morning that first autumn, when, harnessed to a light wagonette which we had brought for the purpose, we first took those dear timorous things out on the roads between Acol and Minster, and many a scamper we had over fields at the first approach of a motor and its ominous honking….To say that we created a sensation in the sleepy backwater of Minster-in-Thanet would be, to put it mildly.'[^ref2]   
 <br>
@@ -22,8 +22,8 @@ The local schoolmaster Mr Hawtry swore loudly whenever he met the team of horses
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/66/Minster-in-Thanet%2C_Kent_02.jpg" label="Minster in Thanet, Kent" attribution="Simon Burchell, CC BY-SA 4.0, via Wikimedia Commons">
 <param ve-entity eid="Q2404354" aliases="Acol">
 <param ve-entity eid="Q9033431" aliases="Minster">
-<!-- Base map centred on Lydden -->
-<param ve-map center="Q2624651" zoom="12.5">
+<!-- Base map centred on Nash Court -->
+<param ve-map center="Q26386990" zoom="12.5">
 
 The Baroness quickly became involved in the life of the county, opening fetes, art exhibitions and acting as the guest of honour at school prize givings. In December 1908, she presented prizes and certificates to the students of the Ramsgate County School for Girls delivering: 'a few bright, cheering and encouraging remarks to the girls.'[^ref4]
 <br><br>
@@ -31,8 +31,8 @@ It was in Thanet that she wrote _The Nest of the Sparrowhawk_ (1809), set in Aco
 <param ve-image url="https://stor.artstor.org/stor/7d4c5d4c-62c0-40e9-a900-3b7400521033" label="Ramsgate Commemorative Map 1884-1934">
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q2404354" aliases="Acol">
-<!-- Base map centred on Lydden -->
-<param ve-map center="Q2624651" zoom="12.5">
+<!-- Base map centred on Nash Court -->
+<param ve-map center="Q26386990" zoom="12.5">
 
 When the lease was up on Cleave Court, the couple decided to move to Bearsted, near Maidstone buying Snowfield house which had twenty acres of garden. They planted the garden with rhododendrons, flaming azaleas; she wrote: 'We were passionate gardeners, both of us, and the making of that beautiful Kentish garden was one of the joys of our life.' 
 <br><br>
