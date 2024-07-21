@@ -1,8 +1,8 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Hop Picking and the Literary Imagination" author="Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/4/44/Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22170.jpg" description="In this visual essay, Carolyn Oulton explores the role of the Kent hop picking culture in Nineteenth/Twentieth Century literature.">
 
-<!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="6215fa6c47c47347" title="Bartholomew Kent 1904">
+<!-- Historical map layers 6215fa6c47c47347 -->
+<param ve-map-layer active allmaps allmaps-id="d549f0ddbeca485f" title="Bartholomew Kent 1904">
 
 #
 
