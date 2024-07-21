@@ -18,7 +18,7 @@
 
 'A Kentish hop-garden, in the month of September, is one of the prettiest scenes to be witnessed in any part of the country.' 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/dc/Hop-Picking_in_Kent_by_Stephen_Thompson_1875.jpg" label="Hop-Picking in Kent by Stephen Thompson 1875" attribution="Stephen Thompson, Public domain, via Wikimedia Commons">
-
+<br><br>
 [Thomas Frost](/19c/19c-frost-biography), author of _In Kent With Charles Dickens_.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/dc/Hop-Picking_in_Kent_by_Stephen_Thompson_1875.jpg" label="Hop-Picking in Kent by Stephen Thompson 1875" attribution="Stephen Thompson, Public domain, via Wikimedia Commons">
 
