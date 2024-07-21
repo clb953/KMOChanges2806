@@ -49,7 +49,7 @@ By 1872 Adams, now operating as a chemist in [Canterbury](/19c/19c-canterbury), 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/b/b5/Charles_Dickens_and_Rochester_%281880%29_%2814768272425%29.jpg" label="Charles Dickens and Rochester (1880)" attribution="Robert Langton, Internet Archive Book Images, No restrictions, via Wikimedia Commons">
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q507517" aliases="Rochester">
-<param ve-map center="Q29303" zoom="12">
+<param ve-map center="Q29303" zoom="13">
 
 ### Bibliography
 
