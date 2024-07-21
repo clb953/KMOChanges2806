@@ -55,7 +55,7 @@ However, when Olive describes her sister as 'the uncivilized product of barbaric
 Nevertheless, despite its barbarity, there is a simplicity and pureness about Thanet in the novel: 'Tomorrow she thought that she could persuade Aunt and Uncle to go back to dear old Thanet, where there were no intrigues, no lies, no false appearance of affection, no lying lips, but where memory dwelt under the cherry-trees and was kept sweet and young in the fragrance of spring flowers.' [^ref11]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/9/9d/Cherry_Blossom_-_geograph.org.uk_-_418920.jpg" label="Cherry Blossom" attribution="Colin Smith / Cherry Blossom">
 
-At the outbreak of the first world war, the Baroness founded the Women of England’s Active Service League (W.E.A.S.L), encouraging women to support their men to go to war:
+At the outbreak of the First World War, the Baroness founded the Women of England’s Active Service League (W.E.A.S.L), encouraging women to support their men to go to war:
 <br><br>
 'Women and girls of Britain, you cannot shoulder a rifle, but you can actively serve your country all the same. Give your country your sweetheart, she wants him; your son, your brother, she wants them all; your friends she wants them all.'[^ref12]
 <br><br>
@@ -65,17 +65,19 @@ The acronym was it must be supposed intentional and the league quickly attracted
 However, after some 'White feather foolery' which she said was 'absolutely contrary to the spirit and the letter of the league'. She wrote: 'My attention has been called to the fact; that some exceedingly foolish young people have wasted their time and tried the tempers of sensible persons by sending white feathers to certain young men in the neighbourhood who they consider ought to have enlisted before this.'[^ref13] She pointed out that she in no way endorsed this 'amateur press-gang'. 
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/Feather_1228678_1920.jpg" label="White Feather"  atribution="Image by Myriams-Fotos from Pixabay">
 
-The arrival of the [Belgian Refugees](/20c-belgian-refugees/) in October 1914 disturbed the tranquillity of the village; and although Emma helped out she wrote: ''what intruded most persistently on my consciousness was the ever-flowing stream of Belgian refugees which threatened to submerge our small towns and villages in this part of Kent. Hospitals could not, of course, cope with it; the stream overflowed into every house, every cottage, every stable and barn from Chatham to Rochester, to Maidstone, to Ashford.' [^ref14] 
+The arrival of the [Belgian Refugees](/20c-belgian-refugees/) in October 1914 disturbed the tranquillity of the village; and although Emma helped out she wrote: ''what intruded most persistently on my consciousness was the ever-flowing stream of Belgian refugees which threatened to submerge our small towns and villages in this part of Kent. Hospitals could not, of course, cope with it; the stream overflowed into every house, every cottage, every stable and barn from Chatham to Rochester, to Maidstone, to Ashford.'[^ref14] 
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/Arrival_of_Belgians_FMuseum.jpg" label="Belgian Refugees" attribution="Folkestone Museum">
 
-In November 1914, the Baroness was invited to distribute prizes at Maidstone Girls Grammar School. The girls, all dressed in virginal white, were encouraged to do their best in life: 'whatever calling they cut out for themselves in life – whether industrial, professional, business, nursing, or scrubbing floors – they should set their minds to do it efficiently.' [^ref15] Considering the number of women who remained unmarried after the first world war, Orczy’s words were prescient.
-<br><br>
-In the following year, she presented prizes at Ramsgate Girls Grammar School, but this time her cheering words were more like a battle cry as she spoke in Darwinian terms of the survival of the fittest: 'The world will have no further use for the ‘half-baked’ individual who can do twenty-three things badly and not one well; it makes no difference whether you sweep a crossing or write a novel. Determine to do whatever you take in hand just a shade better than it has ever be done before.' [^ref16] 
-<param ve-image url="https://stor.artstor.org/stor/3e492cf1-989d-4c1d-9cda-e61b89ed1677" label="Maidstone Grammar School for Girls at Albion Place" attribution="By kind permission of Maidstone Grammar School for Girls">
+In November 1914, the Baroness was invited to distribute prizes at Maidstone Girls Grammar School. The girls, all dressed in virginal white, were encouraged to do their best in life: 'whatever calling they cut out for themselves in life – whether industrial, professional, business, nursing, or scrubbing floors – they should set their minds to do it efficiently.'[^ref15] Considering the number of women who remained unmarried after the first world war, Orczy’s words were prescient.
 <param ve-entity eid="Q213180" aliases="Maidstone">
-<param ve-entity eid="Q725261" aiases="Ashford">
 <!-- Base map centred on Maidstone -->
 <param ve-map center="Q213180" zoom="10">
+
+In the following year, she presented prizes at Ramsgate Girls Grammar School, but this time her cheering words were more like a battle cry as she spoke in Darwinian terms of the survival of the fittest: 'The world will have no further use for the ‘half-baked’ individual who can do twenty-three things badly and not one well; it makes no difference whether you sweep a crossing or write a novel. Determine to do whatever you take in hand just a shade better than it has ever be done before.'[^ref16] 
+<param ve-image url="https://stor.artstor.org/stor/3e492cf1-989d-4c1d-9cda-e61b89ed1677" label="Maidstone Grammar School for Girls at Albion Place" attribution="By kind permission of Maidstone Grammar School for Girls">
+<param ve-entity eid="Q736439" aliases="Ramsgate">
+<!-- Base map centred on Ramsgate -->
+<param ve-map center="Q736439" zoom="10">
 
 The couple lived in Kent until the end of the first world war, and built a 'dear little house' in the grounds for her mother, however in June 1918: 
 <br><br>
