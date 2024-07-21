@@ -22,11 +22,11 @@ The autumn hop picking season also saw a culture clash between diverse groups of
 
 With a characteristic splicing of verve and sharp observation, [Dickens](/dickens/dickens-biography) wrote in [_The Uncommercial Traveller_]( https://www.djo.org.uk/indexes/authors/charles-dickens/the-uncommercial-traveller.html) about the prevalence of casual labour in the countryside surrounding his home at [Gad’s Hill](/dickens/dickens-gads-hill):
 <br><br>
-They crowd all the roads, and camp under all the hedges and on all the scraps of common-land, and live among and upon the hops until they are all picked, and the hop-gardens, so beautiful through the summer, look as if they had been laid waste by an invading army. Then, there is a vast exodus of tramps out of the country; and if you ride or drive round any turn of any road, at more than a foot pace, you will be bewildered to find that you have charged into the bosom of fifty families, and that there are splashing up all around you, in the utmost prodigality of confusion, bundles of bedding, babies, iron pots, and a good-humoured multitude of both sexes and all ages, equally divided between perspiration and intoxication. 
+"They crowd all the roads, and camp under all the hedges and on all the scraps of common-land, and live among and upon the hops until they are all picked, and the hop-gardens, so beautiful through the summer, look as if they had been laid waste by an invading army. Then, there is a vast exodus of tramps out of the country; and if you ride or drive round any turn of any road, at more than a foot pace, you will be bewildered to find that you have charged into the bosom of fifty families, and that there are splashing up all around you, in the utmost prodigality of confusion, bundles of bedding, babies, iron pots, and a good-humoured multitude of both sexes and all ages, equally divided between perspiration and intoxication."
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/Oast_houses_MJC.jpg" label="The Hop Farm" attribution="© Martin Crowther">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f6/The_Uncommercial_Traveller_Illus_1.jpg" label="The Uncommercial Traveller, Charles Dickens" attribution="Author:Charles DickensIllustrator:Harry Furniss, Public domain, via Wikimedia Commons">
 <param ve-entity eid="Q104082075" aliases="Gads Hill">
-<param ve-map center="Q104082075" zoom="13">
+<param ve-map center="Q104082075" zoom="12.5">
 
 On their ‘Canterbury Pilgrimage’ of 1885 American visitors Joseph Pennell and his wife, the writer Elizabeth Robins Pennell, came across:
 
@@ -34,7 +34,7 @@ On their ‘Canterbury Pilgrimage’ of 1885 American visitors Joseph Pennell an
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/88/Portrait_Sketch_of_Joseph_Pennell.jpg" label="Portrait Sketch of Joseph Pennell" attribution="William Strang, Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/44/Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22170.jpg" label="Hopping in Kent- Hop-picking in Yalding, Kent, England, UK, 1944" attribution="Ministry of Information Photo Division Photographer, Public domain, via Wikimedia Commons">
 <param ve-entity eid="Q29303" aliases="Canterbury">
-<param ve-map center="Q29303" zoom="10">
+<param ve-map center="Q29303" zoom="12.5">
 
 The presence of Londoners – or perhaps strangers in general -continued to be a source of tension in the early years of the twentieth century, as local author [Bessie Marchant](/19/19c-marchantb-biography)’s 1904 _Yew Tree Farm_ makes clear. The story of three sisters who take up farming on their own account, the book is largely preoccupied crop and sheep management as well as the mechanics of negotiating prices at market. Hop picking appears only briefly, but tellingly the narrator the flags up a decided tension between local workers and those from further afield:
 <br><br>
