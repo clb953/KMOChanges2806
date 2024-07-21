@@ -17,7 +17,7 @@ Maxwell’s description of the giant paper pulp stacks at Sittingbourne Papermil
 <param ve-entity eid="Q107314188" aliases="Milton Creek">
 <param ve-entity eid="Q1626044" aliases="Sittingbourne">
 <param ve-entity eid="Q1000115" aliases="Faversham">
-<param ve-entity eid="Q1000115" aliases="Sheerness">
+<param ve-entity eid="Q1003196" aliases="Sheerness">
 <!-- Base map centred on Sittingbourne -->
 <param ve-map center="Q1003196" zoom="11">
 
