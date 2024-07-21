@@ -3,14 +3,11 @@
 <param ve-config title="Baroness Emmuska Orczy (1865-1947)" author="Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/20c.jpg" description="Michelle Crowther explores the Kent decade 1908-18 of Hungarian Baroness Emma Orczy, author of the Scarlet Pimpernel stories.">
 
 <!-- Global Entities -->
-<param ve-entity eid="Q590422" aliases="Isle of Thanet">
-<param ve-entity eid="Q1917280" aliases="Monkton">
-<param ve-entity eid="Q2404354" aliases="Acol">
-<param ve-entity eid="Q9033431" aliases="Minster">
-<param ve-entity eid="Q736439" aliases="Ramsgate">
-<param ve-entity eid="Q213180" aliases="Maidstone">
-<param ve-entity eid="Q725261" aiases="Ashford">
-<param ve-entity eid="Q2065577" aliases="Bearsted">
+
+
+
+
+
 
 <!-- Base map centred on Isle of Thanet -->
 <param ve-map center="Q590422" zoom="10">
@@ -24,35 +21,43 @@ Born in Hungary in 1865, Emma Orczy de Orci, the author of the Scarlet Pimpernel
 <br><br>
 The couple settled into their new home, Cleave [Cleve] Court, a manor house two miles northeast of Monkton Church. She wrote: 'Thanet is not a beautiful part of England. It is flat; there are no hills, few trees, only big fields and wide spaces with the tang and smell of the sea all around. We spent three very happy years there.'[^ref1]   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/81/Baroness_Emma_Orczy_%28Bassano%29.jpg"  label="Baroness Emma Orczy" attribution="Bassano Ltd, Public domain, via Wikimedia Commons">
+<param ve-entity eid="Q590422" aliases="Isle of Thanet">
+<param ve-entity eid="Q1917280" aliases="Monkton">
 <!-- Base map centred on Monkton -->
-<param ve-map center="Q1917280" zoom="10">
+<param ve-map center="Q1917280" zoom="12">
 
 The area was to prove the perfect place for breaking in the five Transylvanian horses which she had imported from her uncle’s estate: 'We used to get up at five o’clock in the morning that first autumn, when, harnessed to a light wagonette which we had brought for the purpose, we first took those dear timorous things out on the roads between Acol and Minster, and many a scamper we had over fields at the first approach of a motor and its ominous honking….To say that we created a sensation in the sleepy backwater of Minster-in-Thanet would be, to put it mildly.'[^ref2]   
 <br>
 The local schoolmaster Mr Hawtry swore loudly whenever he met the team of horses being driven around the country lanes, shouting: 'How many more of these abominable beasts are you going to drive about the place?'[^ref3]   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/66/Minster-in-Thanet%2C_Kent_02.jpg" label="Minster in Thanet, Kent" attribution="Simon Burchell, CC BY-SA 4.0, via Wikimedia Commons">
+<param ve-entity eid="Q2404354" aliases="Acol">
+<param ve-entity eid="Q9033431" aliases="Minster">
 <!-- Base map centred on Minster -->
-<param ve-map center="Q9033431" zoom="10">
+<param ve-map center="Q9033431" zoom="12">
 
 The Baroness quickly became involved in the life of the county, opening fetes, art exhibitions and acting as the guest of honour at school prize givings. In December 1908, she presented prizes and certificates to the students of the Ramsgate County School for Girls delivering: 'a few bright, cheering and encouraging remarks to the girls.'[^ref4]
 <br><br>
 It was in Thanet that she wrote _The Nest of the Sparrowhawk_ (1809), set in Acol in 1657.    
 <param ve-image url="https://stor.artstor.org/stor/7d4c5d4c-62c0-40e9-a900-3b7400521033" label="Ramsgate Commemorative Map 1884-1934">
+<param ve-entity eid="Q736439" aliases="Ramsgate">
+<param ve-entity eid="Q2404354" aliases="Acol">
 <!-- Base map centred on Acol -->
-<param ve-map center="Q2404354" zoom="10">
+<param ve-map center="Q2404354" zoom="12">
 
 When the lease was up on Cleave Court, the couple decided to move to Bearsted, near Maidstone buying Snowfield house which had twenty acres of garden. They planted the garden with rhododendrons, flaming azaleas; she wrote: 'We were passionate gardeners, both of us, and the making of that beautiful Kentish garden was one of the joys of our life.' 
 <br><br>
-Unlike Thanet, which she considered to be 'interesting and romantic',[^ref5]  life at Bearsted was much busier, with football matches at Maidstone and cricket matches on Bearsted Green. The couple bought their first car and would motor up to London to see shows.  However, driving the wagonette with her team of Hungarian horses became impossible as:  'The Kentish roads round about us were narrow and twisting. Motor cars soon increased in numbers and took possession of the roads to the detriment of peaceful driving which I loved.'[^ref6]
+Unlike Thanet, which she considered to be 'interesting and romantic',[^ref5] life at Bearsted was much busier, with football matches at Maidstone and cricket matches on Bearsted Green. The couple bought their first car and would motor up to London to see shows.  However, driving the wagonette with her team of Hungarian horses became impossible as: 'The Kentish roads round about us were narrow and twisting. Motor cars soon increased in numbers and took possession of the roads to the detriment of peaceful driving which I loved.'[^ref6]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3f/Looking_over_Bearsted_Pond_towards_Bearsted_Green_-_geograph.org.uk_-_245781.jpg" label="Bearsted Pond towards Bearsted Green" attribution="Philip Frith / Looking over Bearsted Pond towards Bearsted Green">
+<param ve-entity eid="Q2065577" aliases="Bearsted">
 <!-- Base map centred on Bearsted -->
-<param ve-map center="Q2065577" zoom="10">
+<param ve-map center="Q2065577" zoom="12">
 
-It was at this time that she wrote _Meadowsweet_ (1912) set in the ‘Old Manor farm’ Thanet, which was probably inspired by Cleve Court. In the novel two young women, Olive and Boudicea are sent to live with their aunt in Thanet. Olive makes up her mind that: 'she would not wear out her youth and her beauty at the Old Manor Farm in the company of Uncle Jasper’s stuffed abominations: and since Aunt Caroline could not afford to take her up to London, where she might have made a suitable match, she looked about her in Thanet itself.'[^ref7]  She fixes her attention on Sir Baldwin Jeffrey’s who has a large estate near Ashford and has 'come down to the neighbourhood of Minster-in-Thanet for some fishing.'[^ref8] The story describes the Garden of England, with its plums, cherries, strawberries and hot weather which leaves Olive’s 'young face, tanned by sun and sea, beaten by the breezes of Thanet'[^ref9] and one gets the sense that Orczy enjoyed the country life.   
+It was at this time that she wrote _Meadowsweet_ (1912) set in the ‘Old Manor farm’ Thanet, which was probably inspired by Cleve Court. In the novel two young women, Olive and Boudicea are sent to live with their aunt in Thanet. Olive makes up her mind that: 'she would not wear out her youth and her beauty at the Old Manor Farm in the company of Uncle Jasper’s stuffed abominations: and since Aunt Caroline could not afford to take her up to London, where she might have made a suitable match, she looked about her in Thanet itself.'[^ref7] She fixes her attention on Sir Baldwin Jeffrey’s who has a large estate near Ashford and has 'come down to the neighbourhood of Minster-in-Thanet for some fishing.'[^ref8] The story describes the Garden of England, with its plums, cherries, strawberries and hot weather which leaves Olive’s 'young face, tanned by sun and sea, beaten by the breezes of Thanet'[^ref9] and one gets the sense that Orczy enjoyed the country life.   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fe/The_Church_of_St._Mary_Magdelene%2C_Monkton%2C_Kent_-_geograph.org.uk_-_493855.jpg" label="Church of St Mary Magdelene, Monkton, Kent" attribution="david mills, CC BY-SA 2.0, via Wikimedia Commons">
-<param ve-entity eid="Q725261" aiases="Ashford">
-<!-- Base map centred on Ashford -->
-<param ve-map center="Q725261" zoom="10">
+<param ve-entity eid="Q590422" aliases="Isle of Thanet">
+<param ve-entity eid="Q1917280" aliases="Monkton">
+<!-- Base map centred on Monkton -->
+<param ve-map center="Q1917280" zoom="12">
 
 However, when Olive describes her sister as 'the uncivilized product of barbaric surroundings. What can you expect from education that has been confined within the boundaries of Thanet'[^ref10], the mothers of the girls from the Ramsgate county school may have been slightly galled by this description.
 <br><br>
@@ -76,6 +81,8 @@ In November 1914, the Baroness was invited to distribute prizes at Maidstone Gir
 <br><br>
 In the following year, she presented prizes at Ramsgate Girls Grammar School, but this time her cheering words were more like a battle cry as she spoke in Darwinian terms of the survival of the fittest: 'The world will have no further use for the ‘half-baked’ individual who can do twenty-three things badly and not one well; it makes no difference whether you sweep a crossing or write a novel. Determine to do whatever you take in hand just a shade better than it has ever be done before.' [^ref16] 
 <param ve-image url="https://stor.artstor.org/stor/3e492cf1-989d-4c1d-9cda-e61b89ed1677" label="Maidstone Grammar School for Girls at Albion Place" attribution="By kind permission of Maidstone Grammar School for Girls">
+<param ve-entity eid="Q213180" aliases="Maidstone">
+<param ve-entity eid="Q725261" aiases="Ashford">
 <!-- Base map centred on Maidstone -->
 <param ve-map center="Q213180" zoom="10">
 
