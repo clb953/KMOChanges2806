@@ -14,7 +14,7 @@ Kentish prisons, like those in many English counties, include establishments tha
 <param ve-entity eid="Q1003196" aliases="Sheerness">
 <param ve-entity eid="Q729006" aliases="Chatham">
 <!---Basemap centered on Warden -->
-<param ve-map center="Q980974" zoom="10">
+<param ve-map center="Q980974" zoom="11">
 <!---Basemap centered on Lynsted -->
 <!-- param ve-map center="Q2691555" zoom="10" -->
 
