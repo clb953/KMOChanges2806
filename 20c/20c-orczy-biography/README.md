@@ -36,7 +36,7 @@ It was in Thanet that she wrote _The Nest of the Sparrowhawk_ (1809), set in Aco
 
 When the lease was up on Cleave Court, the couple decided to move to Bearsted, near Maidstone buying Snowfield house which had twenty acres of garden. They planted the garden with rhododendrons, flaming azaleas; she wrote: 'We were passionate gardeners, both of us, and the making of that beautiful Kentish garden was one of the joys of our life.' 
 <br><br>
-Unlike Thanet, which she considered to be 'interesting and romantic',[^ref5] life at Bearsted was much busier, with football matches at Maidstone and cricket matches on Bearsted Green. The couple bought their first car and would motor up to London to see shows.  However, driving the wagonette with her team of Hungarian horses became impossible as: 'The Kentish roads round about us were narrow and twisting. Motor cars soon increased in numbers and took possession of the roads to the detriment of peaceful driving which I loved.'[^ref6]
+Unlike Thanet, which she considered to be 'interesting and romantic',[^ref5]  life at Bearsted was much busier, with football matches at Maidstone and cricket matches on Bearsted Green. The couple bought their first car and would motor up to London to see shows.  However, driving the wagonette with her team of Hungarian horses became impossible as: 'The Kentish roads round about us were narrow and twisting. Motor cars soon increased in numbers and took possession of the roads to the detriment of peaceful driving which I loved.'[^ref6]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/3f/Looking_over_Bearsted_Pond_towards_Bearsted_Green_-_geograph.org.uk_-_245781.jpg" label="Bearsted Pond towards Bearsted Green" attribution="Philip Frith / Looking over Bearsted Pond towards Bearsted Green">
 <param ve-entity eid="Q213180" aliases="Maidstone">
 <param ve-entity eid="Q2065577" aliases="Bearsted">
@@ -68,18 +68,18 @@ However, after some 'White feather foolery' which she said was 'absolutely contr
 The arrival of the [Belgian Refugees](/20c-belgian-refugees/) in October 1914 disturbed the tranquillity of the village; and although Emma helped out she wrote: ''what intruded most persistently on my consciousness was the ever-flowing stream of Belgian refugees which threatened to submerge our small towns and villages in this part of Kent. Hospitals could not, of course, cope with it; the stream overflowed into every house, every cottage, every stable and barn from Chatham to Rochester, to Maidstone, to Ashford.'[^ref14] 
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/Arrival_of_Belgians_FMuseum.jpg" label="Belgian Refugees" attribution="Folkestone Museum">
 
-In November 1914, the Baroness was invited to distribute prizes at Maidstone Girls Grammar School. The girls, all dressed in virginal white, were encouraged to do their best in life: 'whatever calling they cut out for themselves in life – whether industrial, professional, business, nursing, or scrubbing floors – they should set their minds to do it efficiently.'[^ref15] Considering the number of women who remained unmarried after the first world war, Orczy’s words were prescient.
+In November 1914, the Baroness was invited to distribute prizes at Maidstone Girls Grammar School. The girls, all dressed in virginal white, were encouraged to do their best in life: 'Whatever calling they cut out for themselves in life – whether industrial, professional, business, nursing, or scrubbing floors – they should set their minds to do it efficiently.'[^ref15] Considering the number of women who remained unmarried after the First World War, Orczy’s words were prescient.
 <param ve-entity eid="Q213180" aliases="Maidstone">
 <!-- Base map centred on Maidstone -->
-<param ve-map center="Q213180" zoom="10">
+<param ve-map center="Q213180" zoom="12.5">
 
 In the following year, she presented prizes at Ramsgate Girls Grammar School, but this time her cheering words were more like a battle cry as she spoke in Darwinian terms of the survival of the fittest: 'The world will have no further use for the ‘half-baked’ individual who can do twenty-three things badly and not one well; it makes no difference whether you sweep a crossing or write a novel. Determine to do whatever you take in hand just a shade better than it has ever be done before.'[^ref16] 
 <param ve-image url="https://stor.artstor.org/stor/3e492cf1-989d-4c1d-9cda-e61b89ed1677" label="Maidstone Grammar School for Girls at Albion Place" attribution="By kind permission of Maidstone Grammar School for Girls">
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <!-- Base map centred on Ramsgate -->
-<param ve-map center="Q736439" zoom="10">
+<param ve-map center="Q736439" zoom="12.5">
 
-The couple lived in Kent until the end of the first world war, and built a 'dear little house' in the grounds for her mother, however in June 1918: 
+The couple lived in Kent until the end of the First World War, and built a 'dear little house' in the grounds for her mother, however in June 1918: 
 <br><br>
 'My poor dear mother got it into her head that she was doing us harm (especially to my husband) by living on our property. She was an ‘alien enemy’ and although the neighbours around, the police and the authorities were most kind, there were some village folk, either malicious or merely ignorant, who were not.'[^ref17]  
 <br>
