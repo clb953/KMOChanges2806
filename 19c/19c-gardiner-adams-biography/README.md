@@ -21,7 +21,7 @@ Henry Gardiner Adams was born in [Deal](/seascape/deal) and must have left schoo
 <param ve-image url="https://stor.artstor.org/stor/be26a7b9-01e8-423d-9934-50efe93590d3" label="Canterbury High Street" attribution="Kent Maps Online Postcard Collection">
 <param ve-entity eid="Q1011096" aliases="Deal">
 <param ve-entity eid="Q29303" aliases="Canterbury">
-<param ve-map center="Q2632094" zoom="11">
+<param ve-map center="Q765835" zoom="11">
 <param ve-map center="Q1011096" zoom="13">
 <param ve-map center="Q29303" zoom="13">
 
