@@ -14,9 +14,9 @@ Kentish prisons, like those in many English counties, include establishments tha
 <param ve-entity eid="Q1003196" aliases="Sheerness">
 <param ve-entity eid="Q729006" aliases="Chatham">
 <!---Basemap centered on Warden -->
-<param ve-map center="Q980974" zoom="11">
+<!-- param ve-map center="Q980974" zoom="11" -->
 <!---Basemap centered on Lynsted -->
-<!-- param ve-map center="Q2691555" zoom="10" -->
+<param ve-map center="Q2691555" zoom="11">
 
 Prisoners sentenced to transportation went first to a [hulk](/prisons/convict-hulks); those serving longer sentences and judged healthy enough to survive the voyage were then sent to penal settlements in Australia. The rest languished aboard the ships, which were notorious for disorder, vermin, and disease, employed by day in such heavy tasks as dredging, loading coal and hauling timber. There was also a hulk for boys aged 14 or under: the _Bellerophon_, moored at Sheerness, which had fought in the Battle of Trafalgar, replaced in 1825 by another Trafalgar veteran, the _Euryalus_, which was moored at Chatham until 1843. Aboard both ships, the children worked below decks as tailors and shoemakers in brutal, miserable conditions. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/A_convicted_thief_sits_in_prison_with_his_distraught_sister_Wellcome_V0019427.jpg/1280px-A_convicted_thief_sits_in_prison_with_his_distraught_sister_Wellcome_V0019427.jpg" label="A convicted thief sits in prison with his distraught sister" attribution="George Cruickshank, 1848">
