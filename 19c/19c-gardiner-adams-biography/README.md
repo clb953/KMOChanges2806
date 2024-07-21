@@ -29,6 +29,7 @@ By 1839 he was living in Chatham, and his poetry was appearing regularly in the 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e7/Kentish_Coronal_Dadd.jpg" label="Frontispiece to Kentish Coronal (1841) edited by Henry Gardiner Adams" attribution="Google Books via Wikimedia Commons">
 <param ve-entity eid="Q729006" aliases="Chatham">
 <param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q301948" aliases="Boxley">
 <param ve-map center="Q729006" zoom="13">
 
 [Dickens](https://kent-maps.online/dickens/) cried off any personal contribution, but was happy to subscribe on the basis of his ‘many happy recollections connected with Kent’.[^ref6]  In 1845 Adams wrote him too a sonnet. Their correspondence continued almost until the end of [Dickens](https://kent-maps.online/dickens/)’s life, and he agreed to read twice (in 1858 and 1861)[^ref7] for the benefit of the Chatham Mechanics’ Institute, of which Adams was Hon. Secretary. Adams treads carefully in an article of 1857, making no claims to the great author's acquaintance as he notes that 'Perhaps the circumstance of having passed much of his youth in [Chatham](/dickens/dickens-chatham), induced Dickens to select this spot'.[^ref8]
