@@ -15,15 +15,15 @@ Kentish prisons, like those in many English counties, include establishments tha
 <param ve-entity eid="Q729006" aliases="Chatham">
 <!---Basemap centered on Warden -->
 <param ve-map center="Q980974" zoom="10">
-<!---Basemap centered on Doddington -->
-<!-- param ve-map center="Q2357887" zoom="10" -->
+<!---Basemap centered on Lynsted -->
+<!-- param ve-map center="Q2691555" zoom="10" -->
 
 Prisoners sentenced to transportation went first to a [hulk](/prisons/convict-hulks); those serving longer sentences and judged healthy enough to survive the voyage were then sent to penal settlements in Australia. The rest languished aboard the ships, which were notorious for disorder, vermin, and disease, employed by day in such heavy tasks as dredging, loading coal and hauling timber. There was also a hulk for boys aged 14 or under: the _Bellerophon_, moored at Sheerness, which had fought in the Battle of Trafalgar, replaced in 1825 by another Trafalgar veteran, the _Euryalus_, which was moored at Chatham until 1843. Aboard both ships, the children worked below decks as tailors and shoemakers in brutal, miserable conditions. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/A_convicted_thief_sits_in_prison_with_his_distraught_sister_Wellcome_V0019427.jpg/1280px-A_convicted_thief_sits_in_prison_with_his_distraught_sister_Wellcome_V0019427.jpg" label="A convicted thief sits in prison with his distraught sister" attribution="George Cruickshank, 1848">
 <param ve-entity eid="Q1003196" aliases="Sheerness">
 <param ve-entity eid="Q729006" aliases="Chatham">
 <!---Basemap centered on Upchurch--->
-<param ve-map center="Q2483544" zoom="12">
+<param ve-map center="Q2483544" zoom="11">
 
 The eventual closure of the [hulks](/prisons/convict-hulks), the last of which burned down in 1857, coincided with the end of transportation: New South Wales shut its doors to convicts in 1840 (although it opened them again briefly at the end of the decade), and Tasmania followed suit in 1853 (small numbers then went to a penal settlement in Western Australia until 1868). Hence the necessity for three huge ‘public works’ convict prisons which opened at Portland in 1848, Portsmouth in 1852, and Chatham in 1856,  built to accommodate prisoners who would hitherto have been sent to the hulks or shipped overseas. Unlike other English prisons, where prisoners served terms of up to two years (though often no more than a week or two), convict prisons were reserved for men sentenced to penal servitude, the sentence introduced to replace transportation. Penal servitude’s minimum term was three years; in practice, its maximum life sentence seldom exceeded twenty. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7f/The_Devonshire_prison-ship%2C_at_Sheerness_ILN_1854-0923-0008.jpg" label="The Devonshire prison ship at Sheerness, 1854" attribution="The Illustrated London News, Public domain, via Wikimedia Commons">
@@ -42,7 +42,7 @@ In the meantime, work began in 1874 on a much smaller convict prison at the vill
 <param ve-entity eid="Q507517" aliases="Rochester">
 <param ve-entity eid="Q729006" aliases="Chatham">
 <!---Basemap centered on Borstal--->
-<param ve-map center="Q4946691" zoom="12">
+<param ve-map center="Q4946691" zoom="13">
 
 England’s last public works prison was built at [Dover]( https://www.nationaltrust.org.uk/the-white-cliffs-of-dover/features/langdon-convict-prison), on the clifftop east of [Dover Castle](/20c/20c-secret-tunnels), where a National Trust visitor centre now stands. The first block was built by civilian contractors and the rest by convicts themselves, who began arriving there in 1885. It was designed to hold a thousand convicts, who would be put to work building a new harbour of refuge. This scheme remained on hold, however, due to a steep and unanticipated drop in England’s prison population during the 1880s, and the new prison was neither completed nor fully occupied. It was finally abandoned in 1895, work on the harbour having by then commenced without convict labour. In 1909, a new convict prison for first offenders opened at [Maidstone](/19c/19c-convicts-maidstone), built alongside the town’s older local jail. By 1930, it occupied the entire site of what is now HMP Maidstone, remaining a convict establishment until the outbreak of the Second World War. 
 <br><br>
