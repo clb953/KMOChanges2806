@@ -26,7 +26,7 @@ With a characteristic splicing of verve and sharp observation, [Dickens](/dicken
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/Oast_houses_MJC.jpg" label="The Hop Farm" attribution="© Martin Crowther">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f6/The_Uncommercial_Traveller_Illus_1.jpg" label="The Uncommercial Traveller, Charles Dickens" attribution="Author:Charles DickensIllustrator:Harry Furniss, Public domain, via Wikimedia Commons">
 <param ve-entity eid="Q104082075" aliases="Gads Hill">
-<param ve-map center="Q104082075" zoom="12.5">
+<param ve-map center="Q104082075" zoom="12.75">
 
 On their ‘Canterbury Pilgrimage’ of 1885 American visitors Joseph Pennell and his wife, the writer Elizabeth Robins Pennell, came across:
 <br><br>
@@ -34,7 +34,7 @@ On their ‘Canterbury Pilgrimage’ of 1885 American visitors Joseph Pennell an
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/88/Portrait_Sketch_of_Joseph_Pennell.jpg" label="Portrait Sketch of Joseph Pennell" attribution="William Strang, Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/44/Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22170.jpg" label="Hopping in Kent- Hop-picking in Yalding, Kent, England, UK, 1944" attribution="Ministry of Information Photo Division Photographer, Public domain, via Wikimedia Commons">
 <param ve-entity eid="Q29303" aliases="Canterbury">
-<param ve-map center="Q29303" zoom="13">
+<param ve-map center="Q29303" zoom="12.75">
 
 The presence of Londoners – or perhaps strangers in general -continued to be a source of tension in the early years of the twentieth century, as local author [Bessie Marchant](/19/19c-marchantb-biography)’s 1904 _Yew Tree Farm_ makes clear. The story of three sisters who take up farming on their own account, the book is largely preoccupied crop and sheep management as well as the mechanics of negotiating prices at market. Hop picking appears only briefly, but tellingly the narrator the flags up a decided tension between local workers and those from further afield:
 <br><br>
@@ -53,7 +53,7 @@ But later fictional accounts repeatedly invoke the language of nostalgia, a rhet
 
 It took the incisive language of a George Orwell to deconstruct these airbrushed set pieces. In 1935, as Europe moved towards another world war, he sent a young middle class woman to see for herself in his novel _A Clergyman’s Daughter_. The narrator comments almost brutally that ‘The stems of the bines were covered with minute thorns which within two or three days had torn the skin of your hands to pieces. In the morning it was a torment to begin picking when your fingers were almost too stiff to bend and bleeding in a dozen places; but the pain wore off when the cuts had reopened and the blood was flowing freely.’  But for some the discomfort was apparently worth it. One former pupil from Simon Langton Girls’ Grammar School in Canterbury  remembers with fondness how the girls were allowed out early on a Friday to join the hop picking.
 <param ve-entity eid="Q7519165" aliases="Simon Langton Girls' Grammar School">
-<param ve-map center="Q7519165" zoom="13">
+<param ve-map center="Q7519165" zoom="12.75">
 
 ### Bibliography 
 
