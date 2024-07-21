@@ -12,10 +12,9 @@
 <param ve-map center="Q29303" zoom="10">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="4f72c8eb5fe1eba5" title="Mackenzie 1900">
+<param ve-map-layer active allmaps allmaps-id="6215fa6c47c47347" title="Bartholomew Kent 1904">
 
 #
-
 
 'A Kentish hop-garden, in the month of September, is one of the prettiest scenes to be witnessed in any part of the country.' 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/dc/Hop-Picking_in_Kent_by_Stephen_Thompson_1875.jpg" label="Hop-Picking in Kent by Stephen Thompson 1875" attribution="Stephen Thompson, Public domain, via Wikimedia Commons">
