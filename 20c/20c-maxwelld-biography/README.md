@@ -29,19 +29,17 @@ Maxwell used his writing and illustration to infuse the industrial and everyday 
 
 ‘The Haunted Battleship’ (_The Enchanted Road_) is an epic description of the demolition of the _Conqueror_ by commercial shipbreakers at Upnor on the Medway. The ship saw service at Jutland, but the hulk was, when Maxwell visited, being taken apart bit by bit to make ‘razor blades and mowing machines.’ His drawing and description provide dignity to the process. In the ruined wardroom ‘[v]istas of woodland landscape appeared through rents in the steel walls, an eerie compensation for the absence of pictorial decoration.’                                             
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/89/Upnor_Medway_2605.jpg" label="Upnor, Medway" attribution="ClemRutter via Wikimedia Commons" license="CC BY-SA 4.0">
-<param ve-entity eid="Q7898393" aliases="Medway">
 <param ve-entity eid="Q7898393" aliases="Upnor">
 <!-- Base map centred on Upnor -->
-<param ve-map center="Q7898393" zoom="11">
+<param ve-map center="Q7898393" zoom="13">
 
 Older, abandoned sites of industry also attracted Maxwell’s attention. In _The Enchanted Road_ his chapter ‘The Valley of Dreams’ describes a landscape where ‘geography gets lost, where geology is suspended, and where even the laws of gravity are slightly modified’. This ‘valley enchanted’ is no natural phenomenon, but the site of a string of rag stone quarries dating back perhaps to Roman times, now ameliorated by the growth of vegetation. A similar treatment is provided for the Elizabethan iron foundry landscape of the Weald.
 <br><br>
 Maxwell does, however, provide his fair share of the charming, quaint and the curious, for example his excursion to Cooling to visit the ‘lozenge’ tombstones, the model for opening chapter of [_Great Expectations_](/dickens/great-expectations-curated-walk).
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/ac/Cooling_Church_Graveyard_-_geograph.org.uk_-_43903.jpg" label="Cooling Church graveyard" attribution="Hywel Williams" license="CC BY-SA 2.0">
 <param ve-entity eid="Q2649453" aliases="Cooling">
-<param ve-entity eid="Q2298322" aliases="Weald">
 <!-- Base map centred on Cooling -->
-<param ve-map center="Q2649453" zoom="10">
+<param ve-map center="Q2649453" zoom="13">
 
 ### Bibliography
 Maxwell, Donald. [_Unknown Kent_.](https://ia902700.us.archive.org/28/items/unknownkent00maxw/unknownkent00maxw.pdf   
