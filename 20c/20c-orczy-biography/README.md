@@ -47,8 +47,6 @@ It was at this time that she wrote _Meadowsweet_ (1912) set in the ‘Old Manor 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/fe/The_Church_of_St._Mary_Magdelene%2C_Monkton%2C_Kent_-_geograph.org.uk_-_493855.jpg" label="Church of St Mary Magdelene, Monkton, Kent" attribution="david mills, CC BY-SA 2.0, via Wikimedia Commons">
 <param ve-entity eid="Q590422" aliases="Isle of Thanet">
 <param ve-entity eid="Q1917280" aliases="Monkton">
-<!-- Base map centred on Monkton -->
-<!-- param ve-map center="Q1917280" zoom="12.5" -->
 <!-- Base map centred on Acol -->
 <param ve-map center="Q2404354" zoom="12.5">
 
