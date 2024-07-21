@@ -14,7 +14,7 @@ The couple settled into their new home, Cleave [Cleve] Court, a manor house two 
 <param ve-entity eid="Q590422" aliases="Isle of Thanet">
 <param ve-entity eid="Q1917280" aliases="Monkton">
 <!-- Base map centred on Acol -->
-<param ve-map center="Q2404354" zoom="12.5">
+<param ve-map center="Q2404354" zoom="12.25">
 
 The area was to prove the perfect place for breaking in the five Transylvanian horses which she had imported from her uncle’s estate: 'We used to get up at five o’clock in the morning that first autumn, when, harnessed to a light wagonette which we had brought for the purpose, we first took those dear timorous things out on the roads between Acol and Minster, and many a scamper we had over fields at the first approach of a motor and its ominous honking….To say that we created a sensation in the sleepy backwater of Minster-in-Thanet would be, to put it mildly.'[^ref2]   
 <br>
