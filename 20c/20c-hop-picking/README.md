@@ -29,7 +29,7 @@ With a characteristic splicing of verve and sharp observation, [Dickens](/dicken
 <param ve-map center="Q104082075" zoom="12.5">
 
 On their ‘Canterbury Pilgrimage’ of 1885 American visitors Joseph Pennell and his wife, the writer Elizabeth Robins Pennell, came across:
-
+<br><br>
 "the large army of hop-pickers who, every autumn, come from London to make the Kentish roads unsafe after dark and the householder doubly watchful. Whitechapel and other low quarters are nearly emptied at this season. It is pleasant to know that at least once a year these people escape from their smoky, squalid streets, into green places where they can breathe pure air, but their coming is not welcomed in the country."
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/88/Portrait_Sketch_of_Joseph_Pennell.jpg" label="Portrait Sketch of Joseph Pennell" attribution="William Strang, Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/44/Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22170.jpg" label="Hopping in Kent- Hop-picking in Yalding, Kent, England, UK, 1944" attribution="Ministry of Information Photo Division Photographer, Public domain, via Wikimedia Commons">
