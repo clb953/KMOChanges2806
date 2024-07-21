@@ -15,7 +15,7 @@ To this day the autumn hop picking season provides a potent image of Kent rural 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/dc/Hop-Picking_in_Kent_by_Stephen_Thompson_1875.jpg" label="Hop-Picking in Kent by Stephen Thompson 1875" attribution="Stephen Thompson, Public domain, via Wikimedia Commons">
 <param ve-entity eid="Q7985606" aliases="West Kent">
 <!-- Base map centered on Leeds, Kent -->
-<param ve-map center="Q2460124" zoom="9.5">
+<param ve-map center="Q2460124" zoom="9.25">
 
 The autumn hop picking season also saw a culture clash between diverse groups of people as local farming communities were joined by ‘ladies’ picking for charity, gypsies and tramps, as well as the religious campaigners come to keep an eye on their morals. But of all these unlikely co-workers, the most visible were the Londoners who came for a ‘holiday’ or simply to escape from the slums for a few weeks and earn money in the process. The sharp division between villagers and seasonal workers is apparent in both nineteenth and twentieth century accounts. Oral history suggests that at the turn of the century ‘If one word could be singled out to describe most effectively what the villagers thought of Londoners, it would be “dirty”’.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/a/a8/Hopping_in_Kent-_Hop-picking_in_Yalding%2C_Kent%2C_England%2C_UK%2C_1944_D22172.jpg" label="Hopping in Kent- Hop-picking in Yalding, Kent, England, UK, 1944" attribution="Ministry of Information Photo Division Photographer, Public domain, via Wikimedia Commons">
