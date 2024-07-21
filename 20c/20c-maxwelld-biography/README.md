@@ -17,8 +17,9 @@ Maxwell’s description of the giant paper pulp stacks at Sittingbourne Papermil
 <param ve-entity eid="Q107314188" aliases="Milton Creek">
 <param ve-entity eid="Q1626044" aliases="Sittingbourne">
 <param ve-entity eid="Q1000115" aliases="Faversham">
-<!-- Base map centred on Upnor -->
-<param ve-map center="Q7898393" zoom="11">
+<param ve-entity eid="Q1000115" aliases="Sheerness">
+<!-- Base map centred on Sittingbourne -->
+<param ve-map center="Q1003196" zoom="11">
 
 Paul Tritton claims that Maxwell ‘did more than any other to inspire his and subsequent generations to explore the [Kentish landscape](/landscape), and view familiar places in a new light.’ His praise is fully justified, but Maxwell is now far less well-known than he deserves, and his vision of landscape is yet to be fully appreciated. Tritton noted that Maxwell saw form and beauty in the ‘commonplace’ and what others would regard as ‘eyesores’. Sadly, most people will still regard as carbuncles the quarries, industries and sites of dereliction that Maxwell eulogised and lovingly illustrated alongside the quaint and the picturesque.
 <param ve-image url="https://stor.artstor.org/stor/ced608e6-1e5f-48a9-b58c-0f2eda22bead" label="Unknown Kent, 1921">                                             
