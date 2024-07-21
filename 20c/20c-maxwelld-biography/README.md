@@ -31,7 +31,7 @@ Maxwell used his writing and illustration to infuse the industrial and everyday 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/89/Upnor_Medway_2605.jpg" label="Upnor, Medway" attribution="ClemRutter via Wikimedia Commons" license="CC BY-SA 4.0">
 <param ve-entity eid="Q7898393" aliases="Medway">
 <!-- Base map centred on Upnor -->
-<param ve-map center="Q7898393" zoom="10">
+<param ve-map center="Q7898393" zoom="11">
 
 Older, abandoned sites of industry also attracted Maxwell’s attention. In _The Enchanted Road_ his chapter ‘The Valley of Dreams’ describes a landscape where ‘geography gets lost, where geology is suspended, and where even the laws of gravity are slightly modified’. This ‘valley enchanted’ is no natural phenomenon, but the site of a string of rag stone quarries dating back perhaps to Roman times, now ameliorated by the growth of vegetation. A similar treatment is provided for the Elizabethan iron foundry landscape of the Weald.
 <br><br>
