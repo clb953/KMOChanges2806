@@ -31,8 +31,8 @@ It was in Thanet that she wrote _The Nest of the Sparrowhawk_ (1809), set in Aco
 <param ve-image url="https://stor.artstor.org/stor/7d4c5d4c-62c0-40e9-a900-3b7400521033" label="Ramsgate Commemorative Map 1884-1934">
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q2404354" aliases="Acol">
-<!-- Base map centred on Acol -->
-<param ve-map center="Q2404354" zoom="12.5">
+<!-- Base map centred on Nash Court -->
+<param ve-map center="Q26386990" zoom="12.5">
 
 When the lease was up on Cleave Court, the couple decided to move to Bearsted, near Maidstone buying Snowfield house which had twenty acres of garden. They planted the garden with rhododendrons, flaming azaleas; she wrote: 'We were passionate gardeners, both of us, and the making of that beautiful Kentish garden was one of the joys of our life.' 
 <br><br>
