@@ -13,8 +13,8 @@ The couple settled into their new home, Cleave [Cleve] Court, a manor house two 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/81/Baroness_Emma_Orczy_%28Bassano%29.jpg"  label="Baroness Emma Orczy" attribution="Bassano Ltd, Public domain, via Wikimedia Commons">
 <param ve-entity eid="Q590422" aliases="Isle of Thanet">
 <param ve-entity eid="Q1917280" aliases="Monkton">
-<!-- Base map centred on Nash Court -->
-<param ve-map center="Q26386990" zoom="12">
+<!-- Base map centred on Lydden -->
+<param ve-map center="Q2624651" zoom="12">
 
 The area was to prove the perfect place for breaking in the five Transylvanian horses which she had imported from her uncle’s estate: 'We used to get up at five o’clock in the morning that first autumn, when, harnessed to a light wagonette which we had brought for the purpose, we first took those dear timorous things out on the roads between Acol and Minster, and many a scamper we had over fields at the first approach of a motor and its ominous honking….To say that we created a sensation in the sleepy backwater of Minster-in-Thanet would be, to put it mildly.'[^ref2]   
 <br>
