@@ -1,14 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="May Aldington (1872-1954)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/6/69/An_illustrated_and_descriptive_guide_to_the_great_railways_of_England_and_their_connections_with_the_Continent_%281885%29_%2814573960910%29.jpg" description="Michelle Crowther traces the often turbulent life and work of the author, Jessie May Aldington.">
 
-<!-- Global Entities -->
-
-
-
-
-<!-- Base map default centered on Canterbury -->
-<!-- param ve-map center="Q29303" zoom="10" -->
-
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="6215fa6c47c47347" title="Bartholomew Kent 1904">
 
@@ -27,7 +19,9 @@ By 1881, the family had settled in [Dover](/19c/19c-dover/) at 14, Liverpool St,
 When her parents and younger siblings moved to London, May remained with her two aunts, Isabel and Catherine, at the Bell and Anchor,[^ref3] and it was here that she met her future husband Albert Aldington, a [Dover](/19c/19c-dover/) solicitor, whom she married in a 'shotgun wedding' in 1891.[^ref4] The couple had two children, Edward (the poet Richard Aldington) and Margery.
 <param ve-image url="https://stor.artstor.org/stor/be2d7a73-d2b3-4188-8d40-1a76523fa117" label="Ward Lock Dover">
 <param ve-entity eid="Q179224" aliases="Dover">
+<param ve-entity eid="Q26163" aliases="Sandwich">
 <param ve-map center="Q179224" zoom="13">
+<param ve-map center="Q26163" zoom="13">
 
 Moving to a large yellow brick house, no. 5, Godwyne Road, Dover, the Aldingtons lived a comfortable life, sending their son to Mr Sweetman’s Seminary for Young Gentlemen at St Margaret’s Bay, where he learned French and Latin, before attending Dover College. Richard remembers passing the 'sad housemaids' whitening the steps on his way to school.[^ref5]
 <br><br>
