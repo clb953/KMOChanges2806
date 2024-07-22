@@ -1,13 +1,14 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Henry James (1843-1916)" author="Dr Peter Merchant" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/1/1d/David_Cox_Jnr_-_Cox-Jnr-98091_-_Hever_Castle_-_circa_1850.jpg" description="In this visual essay, Dr Peter Merchant documents the relationship between author Henry James and Hever Castle, Kent home to Anne Boleyn.">
 
+<!-- Global Entities -->
 <param ve-entity eid="Q1132683" aliases="Hever Castle">
 
 <!-- Base map centred on Hever Castle -->
-<param ve-map center="Q1132683" zoom="12">
+<param ve-map center="Q1132683" zoom="13"> 
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="4f72c8eb5fe1eba5" title="Mackenzie 1900">
+<param ve-map-layer active allmaps allmaps-id="6215fa6c47c47347" title="Bartholomew Kent 1904">
 
 #
 
@@ -15,7 +16,8 @@
 By which famous Henry was Hever Castle put on the map?    
 In 1876, when armchair tourists could very enjoyably ensconce themselves in _Old English Homes: A Summer’s Sketch-Book_, by the photographer and essayist Stephen Thompson, there was only one possible answer to that question:
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/04/Cox-Jnr-98093_-_Hever_Castle_from_the_Moat_-_circa_1850.jpg" label="Cox-Jnr-98093 - Hever Castle from the Moat - circa 1850.jpg" attribution="David Cox Jr., Public domain, via Wikimedia Commons">
-<param ve-map center="Q1132683" zoom="15"> 
+<param ve-entity eid="Q1132683" aliases="Hever Castle">
+<param ve-map center="Q1132683" zoom="13"> 
 
 “Hever Castle, as every one knows, … was the birthplace of Anne Boleyn, wife of Henry VIII., the abode in which she passed her girlhood, and her residence during the years of courtship preceding that fatal marriage.” 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f2/Anne_Boleyn.jpg" label="Anne boleyn.jpg" attribution="National Portrait Gallery, Public domain, via Wikimedia Commons">
