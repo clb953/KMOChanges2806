@@ -34,10 +34,9 @@ _The chimneys of Northfleet, the clustering roofs of Gravesend, the populous anc
 <br><br>
 A number of his subsequent novels and stories, from the 1913 _The Unwilling Adventurer_, set in 18th century Gravesend, to the later Thorndyke stories, are set in carefully detailed Kent locations.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Northfleet_Power_Station2.jpg" label="The chimneys of Northfleet" attribution="Pterre, CC BY-SA 3.0, via Wikimedia Commons">
-<param ve-entity eid="Q838965" aliases="Northfleet">
+<param ve-entity eid="Q2087380" aliases="Northfleet">
 <param ve-entity eid="Q676689" aliases="Gravesend">
-<param ve-map center="Q676689" zoom="13">
-<param ve-map center="Q838965" zoom="13">
+<param ve-map center="Q2087380" zoom="13">
 <param ve-map center="Q676689" zoom="13">
 
 In 1915 Freeman joined the Royal Army Medical Corps in Maidstone, from which he was discharged in 1919. By 1921 the family was living in Darnley Road, Gravesend. It was here that Freeman wrote his story of a woman who disappears in Rochester, the suspiciously named _Mystery of Angelina Frood_ (1924). He later admitted that ‘This book was written as a playful commentary on Dickens’s great story, [_The Mystery of Edwin Drood_](/dickens/edwin-drood-curated-walk); but, as few people are now familiar with Goldsmith’s _Edwin and Angelina_, the mild joke fell flat.’[^ref3] 
