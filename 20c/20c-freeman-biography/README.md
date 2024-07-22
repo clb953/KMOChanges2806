@@ -25,19 +25,23 @@
 <param ve-map center="Q950970" zoom="10">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="4f72c8eb5fe1eba5" title="Mackenzie 1900">
+<param ve-map-layer active allmaps allmaps-id="121dee41dae035be" title="Bartholomew Kent 1919">
 
 #
 
 **Places:** Visited or lived in Folkestone, Gravesend, Maidstone, Ramsgate, Rochester.
+<br><br>
 _‘The Isle of Thanet has a certain peculiar charm which lingers even to this day, despite the too successful efforts of the speculative builder to annihilate it. A few years ago … before the unlovely suburban streets had arisen to disfigure it, the north eastern quarter of the island wore a pleasant air of remoteness that disguised its proximity to busy Margate and prosperous Broadstairs.’_    
 [‘The Great Portrait Mystery’](http://gutenberg.net.au/ebooks05/0500471.txt) (1918)   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c3/Isle_of_Thanet_-_Rutupiae.jpg" label="Isle of Thanet" attribution="William Barlow, Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f8/The_fort%2C_Margate%2C_England-LCCN2002697071.jpg" label="The Fort, Margate" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Broadstairs.jpg" label="Broadstairs Harbour" attribution="User: (WT-shared) Bh518 at  wts wikivoyage, Public domain, via Wikimedia Commons">
-<param ve-map center="Q590422" zoom="10">
-<param ve-map center="Q618045" zoom="10">
-<param ve-map center="Q922739" zoom="10">
+<param ve-entity eid="Q590422" aliases="The Isle of Thanet">
+<param ve-entity eid="Q618045" aliases="Margate">
+<param ve-entity eid="Q922739" aliases="Broadstairs">
+<param ve-map center="Q590422" zoom="12">
+<param ve-map center="Q618045" zoom="12">
+<param ve-map center="Q922739" zoom="12">
 
 Doctor and pioneering crime writer R. Austin Freeman is widely credited with the invention of the ‘inverted’ crime story (later popularised by tv detective Lieutenant Columbo). Born in London, he lived at a series of Kent addresses with his wife Annie and their two children after being invalided out of the Colonial Service in 1891.
 His first Kent address was in St Peter’s, just outside Broadstairs, from 1896. Around 1900 the family moved to 9 Vale Square, Ramsgate.  
