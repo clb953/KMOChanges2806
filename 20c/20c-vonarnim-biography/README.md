@@ -19,7 +19,7 @@
 <param ve-map center="Q29303" zoom="10">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="4f72c8eb5fe1eba5" title="Mackenzie 1900">
+<param ve-map-layer active allmaps allmaps-id="121dee41dae035be" title="Bartholomew Kent 1919">
 
 #
 
