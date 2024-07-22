@@ -29,7 +29,7 @@ Published in 1909, Elizabeth von Arnim’s comic novel _The Caravaners_ is remin
 <param ve-entity eid="Q2041007" aliases="Staplehurst">
 <param ve-entity eid="Q15063189" aliases="Sissinghurst">
 <param ve-entity eid="Q793057" aliases="Aylesford">
-<param ve-map center="Q2161900" zoom="10.25">
+<param ve-map center="Q2161900" zoom="10.5">
 <param ve-map center="Q729006" zoom="13">
 <param ve-map center="Q746876" zoom="13">
 <param ve-map center="Q1000312" zoom="13">
