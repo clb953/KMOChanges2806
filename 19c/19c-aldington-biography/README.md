@@ -2,7 +2,7 @@
 <param ve-config title="May Aldington (1872-1954)" author="Michelle Crowther" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/6/69/An_illustrated_and_descriptive_guide_to_the_great_railways_of_England_and_their_connections_with_the_Continent_%281885%29_%2814573960910%29.jpg" description="Michelle Crowther traces the often turbulent life and work of the author, Jessie May Aldington.">
 
 <!-- Global Entities -->
-<param ve-entity eid="Q2313624" aliases="Rolvenden">
+
 
 
 
@@ -17,7 +17,10 @@
 Jessie May Aldington, author of ‘Love Letters that caused a Divorce’ and 'Meg of the Salt Pans', was born in Hythe in 1872. She was the daughter of Charles Godfree, a Sergeant Major in the Army Hospital Corps, who was temporarily stationed at the Hythe School of Musketry, and Eliza Burden, the daughter of a Rolvenden shoemaker. According to _The Sphere_ she was descended from the family of John Gay, who wrote _The Beggar's Opera_.[^ref1]  The family moved frequently due to Charles's work, living at Hythe, Rolvenden, Bermuda and Portsea. Jessie remembers her parents being sent copies of the _Kentish Express_ during their five years in Bermuda, which her mother read word for word.[^ref2]
 <param ve-image url="https://stor.artstor.org/stor/921dbaac-faac-4fcc-bb1f-4da1329f58cf" label="Hythe School of Musketry" attribution="Invicta Album of Hythe">
 <param ve-entity eid="Q967166" aliases="Hythe">
-<param ve-map center="Q967166" zoom="10">
+<param ve-entity eid="Q2313624" aliases="Rolvenden">
+<param ve-map center="Q690486" zoom="10">
+<param ve-map center="Q967166" zoom="13">
+<param ve-map center="Q2313624" zoom="13">
 
 By 1881, the family had settled in [Dover](/19c/19c-dover/) at 14, Liverpool St, which was in the St James area of the town. May, as she preferred to be known, lived here until her father retired from the army and took on the license of the Bell and Anchor Inn in Sandwich.
 <br><br>
