@@ -13,6 +13,8 @@ Publication: _The Z.Z.G., or Zig Zag Guide round and about the bold and beautifu
 'The New Pier, many years old by now, for entrance to which, as being something superior, twopence is charged, is an instance of that kind of half-fulfilled promise whereof Ramsgate generally offers several evident examples. But while there is a pier there is hope, and it may yet occur to its proprietors, or to the local authorities, to say, after the manner of Mr Wemmick, out of office-hours, in [Great Expectations](/dickens/great-expectations-curated-walk), "Hello! Here’s a pier! Let’s do something with it!"’ _The Z.Z.G._
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e8/Portrait_of_F._C._Burnand.jpg" label="Portrait of F. C. Burnand.jpg" attribution="Elliott & Fry, Public domain, via Wikimedia Commons">
 <param ve-entity eid="Q736439" aliases="Ramsgate">
+<!-- Base map centered on Nash Court -->
+<param ve-map center="Q26386990" zoom="12.5">
 <param ve-map center="Q736439" zoom="13">
 
 Sir Francis Cowley Burnand (knighted in 1902) is best known as the editor of _Punch_ from 1880-1906, serialising the [Grossmiths](/19c/19c-grossmith-biography)’ runaway success _Diary of a Nobody_ in 1888. 
@@ -26,12 +28,14 @@ In the _Z.Z.G._ Burnand includes a number of knowing jokes about [Ramsgate](/dic
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q618045" aliases="Margate">
 <param ve-entity eid="Q922739" aliases="Broadstairs">
-<!-- Bse map centered on Nash Court -->
-<param ve-map center="Q26386990" zoom="12">
+<!-- Base map centered on Nash Court -->
+<param ve-map center="Q26386990" zoom="12.5">
 
 Burnand died of bronchitis on 21 April 1917, and is buried in the cemetery attached to St Augustine's Abbey church in [Ramsgate](/dickens/19c-ramsgate).
 <param ve-image url="https://stor.artstor.org/stor/39bd98f7-5bb3-4079-ad90-4c63abc93774" label="Burnand's grave" attribution="Martin Crowther">
 <param ve-entity eid="Q736439" aliases="Ramsgate">
+<!-- Base map centered on Nash Court -->
+<param ve-map center="Q26386990" zoom="12.5">
 <param ve-map center="Q736439" zoom="13">
 
 ### Bibliography
