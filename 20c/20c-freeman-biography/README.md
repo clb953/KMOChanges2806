@@ -32,9 +32,9 @@ His first Kent address was in St Peter’s, just outside Broadstairs, from 1896.
 
 Freeman is rightly noted for his forensic attention to detail, leading [Julian Symons](/20c/20c-symons-biography) to comment that ‘Reading a Freeman story is very much like chewing dry straw.’[^ref1] But he occasionally indulges himself with lines of pure poetry, as in this account of a train journey from London to the Goodwins, from ‘The Echo of a Mutiny’ (1912):
 _The chimneys of Northfleet, the clustering roofs of Gravesend, the populous anchorage and the lurking batteries, were left behind, and, as we swung out of the Lower Hope, the wide expanse of sea spread out before us like a great sheet of blue-shot satin._[^ref2] 
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Northfleet_Power_Station2.jpg" label="The chimneys of Northfleet" attribution="Pterre, CC BY-SA 3.0, via Wikimedia Commons">
-
+<br><br>
 A number of his subsequent novels and stories, from the 1913 _The Unwilling Adventurer_, set in 18th century Gravesend, to the later Thorndyke stories, are set in carefully detailed Kent locations.
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/0f/Northfleet_Power_Station2.jpg" label="The chimneys of Northfleet" attribution="Pterre, CC BY-SA 3.0, via Wikimedia Commons">
 <param ve-entity eid="Q838965" aliases="Northfleet">
 <param ve-entity eid="Q676689" aliases="Gravesend">
 <param ve-map center="Q838965" zoom="13">
