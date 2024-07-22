@@ -1,18 +1,9 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="F. C. Burnand (1836-1917)" author="Professor Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/b/b4/Robert_Jacob_Hamerton_-_Poster_for_F._C._Burnand_and_Arthur_Sullivan%27s_The_Contrabandista.jpg" description="Prof. Carolyn Oulton introduces the Kent years and work of author, playwright and 'Punch' Editor, Sir Francis Cowley Burnand.">
 
-<!-- Global Entities -->
-<param ve-entity eid="Q736439" aliases="Ramsgate">
-<param ve-entity eid="Q618045" aliases="Margate">
-<param ve-entity eid="Q922739" aliases="Broadstairs">
-<param ve-entity eid="Q26163" aliases="Sandwich">
-
-<!-- Base map centred on Canterbury -->
-<param ve-map center="Q29303" zoom="10">
-
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="4f72c8eb5fe1eba5" title="Mackenzie 1900">
-
+<param ve-map-layer active allmaps allmaps-id="6215fa6c47c47347" title="Bartholomew Kent 1904">
+	
 #
 
 Lived in Ramsgate from around 1875 - until death in 1917     
@@ -21,6 +12,7 @@ Publication: _The Z.Z.G., or Zig Zag Guide round and about the bold and beautifu
 <br>
 'The New Pier, many years old by now, for entrance to which, as being something superior, twopence is charged, is an instance of that kind of half-fulfilled promise whereof Ramsgate generally offers several evident examples. But while there is a pier there is hope, and it may yet occur to its proprietors, or to the local authorities, to say, after the manner of Mr Wemmick, out of office-hours, in [Great Expectations](/dickens/great-expectations-curated-walk), "Hello! Here’s a pier! Let’s do something with it!"’ _The Z.Z.G._
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e8/Portrait_of_F._C._Burnand.jpg" label="Portrait of F. C. Burnand.jpg" attribution="Elliott & Fry, Public domain, via Wikimedia Commons">
+<param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-map center="Q736439" zoom="12">
 
 Sir Francis Cowley Burnand (knighted in 1902) is best known as the editor of _Punch_ from 1880-1906, serialising the [Grossmiths](/19c/19c-grossmith-biography)’ runaway success _Diary of a Nobody_ in 1888. 
@@ -29,11 +21,16 @@ He was also a member of the 'Boz Club' inaugurated after the death of [Dickens](
 
 In the _Z.Z.G._ Burnand includes a number of knowing jokes about [Ramsgate](/dickens/19c-ramsgate) as well as [Margate](/dickens/19c-margate), [Broadstairs](/dickens/broadstairs-19th-century) and Sandwich as if from the standpoint of an itinerant tourist. In fact by 1883 he had ‘made his house at Ramsgate’, travelling to London once or twice a week. The 1887 Street Directory locates a Frederick Charles Burnand at 18 Royal Crescent (where Burnand died in 1917); the 1911 census shows that while Francis’s fifth son Philip was born in Middlesex (now part of London) in 1869, his fourth daughter Mary was born in Ramsgate in 1875.  
 <param ve-image url="https://stor.artstor.org/stor/33ea5295-f1f5-4d3f-9724-352f18abcddf" label="Ramsgate Pavilion" attribution="Kent Maps Online Postcard Collection">
-<param ve-map center="Q922739" zoom="12">
+<param ve-entity eid="Q736439" aliases="Ramsgate">
+<param ve-entity eid="Q618045" aliases="Margate">
+<param ve-entity eid="Q922739" aliases="Broadstairs">
+<!-- Bse map centered on Nash Court -->
+<param ve-map center="Q26386990" zoom="12">
 
 Burnand died of bronchitis on 21 April 1917, and is buried in the cemetery attached to St Augustine's Abbey church in [Ramsgate](/dickens/19c-ramsgate).
 <param ve-image url="https://stor.artstor.org/stor/39bd98f7-5bb3-4079-ad90-4c63abc93774" label="Burnand's grave" attribution="Martin Crowther">
-
+<param ve-entity eid="Q736439" aliases="Ramsgate">
+<param ve-map center="Q736439" zoom="12">
 
 ### Bibliography
 
