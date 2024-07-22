@@ -5,7 +5,7 @@
 <param ve-entity eid="Q3360332" aliases="Kings School">
 
 <!-- Base map centred on Canterbury -->
-<param ve-map center="Q3360332" zoom="13">
+<param ve-map center="Q3360332" zoom="12.75">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="e401b16b2669a50d" title="OS SE 1903">
