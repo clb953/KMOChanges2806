@@ -46,7 +46,7 @@ In 1915 Freeman joined the Royal Army Medical Corps in Maidstone, from which he 
 <param ve-entity eid="Q213180" aliases="Maidstone">
 <param ve-entity eid="Q107339038" aliases="Darnley Road">
 <param ve-entity eid="Q507517" aliases="Rochester">
-<param ve-map center="Q507517" zoom="11">
+<param ve-map center="Q507517" zoom="11.5">
 <param ve-map center="Q507517" zoom="13">
 <param ve-map center="Q213180" zoom="13">
 <param ve-map center="Q107339038" zoom="13">
@@ -56,9 +56,9 @@ Freeman’s last two addresses were both in Gravesend, at 1 Portland Villas, Wes
 <param ve-entity eid="Q107339044" aliases="Portland Villas, West Hill">
 <param ve-entity eid="Q107339048" aliases=" Rosemount, 94 Windmill St">
 <param ve-entity eid="Q107339052" aliases="Gravesend Cemetery">
-<param ve-map center="Q107339044" zoom="14">
-<param ve-map center="Q107339048" zoom="14">
-<param ve-map center="Q107339052" zoom="14">
+<param ve-map center="Q107339044" zoom="13">
+<param ve-map center="Q107339048" zoom="13">
+<param ve-map center="Q107339052" zoom="13">
 
 
 ### Bibliography
