@@ -57,7 +57,7 @@ After the war, Albert took on clerical work in Malcolm Hilbery’s Chambers in H
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/8e/St._Mildred%27s_Church%2C_Tenterden%2C_Kent.JPG" label="The Woolpack, Tenterden, Abuk SABUK, CC BY-SA 3.0, via Wikimedia Commons">
 <param ve-entity eid="Q1020800" aliases="Rye">
 <param ve-entity eid="Q614560" aliases="Tenterden">
-<param ve-map center="Q690486" zoom="10.5">
+<param ve-map center="Q3487141" zoom="10.5">
 <param ve-map center="Q1020800" zoom="12">
 <param ve-map center="Q614560" zoom="12">
 
