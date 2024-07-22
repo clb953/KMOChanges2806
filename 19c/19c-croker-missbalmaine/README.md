@@ -10,7 +10,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 “Down in a desolate part of the South of England, bordering on the celebrated “Romney Marsh” and between that and the sea, there is what we should call a village, but its inhabitants dignify by the name of a “town”. _Miss Balmaine’s Past_ (Croker, 1898, p.1)
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/The_description_of_Romney_Marsh_RMG_K1030-001.jpg/800px-The_description_of_Romney_Marsh_RMG_K1030-001.jpg" label="The description of Romney Marsh" attribution="Tucker, Elhanan, Public domain, via Wikimedia Commons">
 <param ve-entity eid="Q1506093" aliases="Romney Marsh">
-<param ve-map center="Q1506093" zoom="12">
+<param ve-map center="Q1506093" zoom="11">
 
 ‘Horton’ a thinly veiled New Romney is the setting for Bithia Mary Croker’s 1898 novel _Miss Balmaine’s Past_. Bithia Croker (c.1848-1920), a successful novelist, was born in Ireland and known mainly for her army stories set in India. She moved to [Sandgate](/placesqz/sandgate-overview) with her husband, a retired lieutenant colonel in 1897 and lived at 10 Radnor Cliff, until at least 1911.[^ref1] It was there that she gained inspiration for her novel.
 <param ve-image url="https://stor.artstor.org/stor/5454fc2e-1081-496d-b102-fed7f892e003" label="Blue Plaque, 10 Radnor Cliff" attribution="Martin Crowther">
@@ -50,7 +50,7 @@ Rosamund determines to go to Horton to avoid the public gaze that is now upon he
 Mrs Croker described New Romney and the Marshes as timeless and tedious, but also as a place where her characters could be themselves, free of the trammels of society and where love could blossom, where a rose could be wild, not like a hot-house flower despatched to Covent Garden. The wilds of the marshes offer the potential for secret but chaste love, a purer love than the formalised setting of Sandshire and London.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e0/Wild_rose_-_geograph.org.uk_-_459566.jpg" label="Wild rose" attribution="Nick Smith">
 <param ve-entity eid="Q1506093" aliases="Romney Marsh">
-<param ve-map center="Q1506093" zoom="12">
+<param ve-map center="Q1506093" zoom="11">
 
 Bithia Croker continued to write until she died in 1920, although she returned to her much-loved themes of Anglo-India. She wrote at least 16 novels whilst in Sandgate.[^ref2] Other noted Sandgate writers at this period include [Florence Warden](/19c/19c-florence-warden-biography) and [H.G.Wells](/20c/20c-wellshg-biography/).
 <br><br>
