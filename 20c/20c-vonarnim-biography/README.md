@@ -29,7 +29,7 @@ Published in 1909, Elizabeth von Arnim’s comic novel _The Caravaners_ is remin
 <param ve-entity eid="Q2041007" aliases="Staplehurst">
 <param ve-entity eid="Q15063189" aliases="Sissinghurst">
 <param ve-entity eid="Q793057" aliases="Aylesford">
-<param ve-map center="Q6133687" zoom="10.5">
+<param ve-map center="Q6133687" zoom="9.5">
 <param ve-map center="Q729006" zoom="13">
 <param ve-map center="Q746876" zoom="13">
 <param ve-map center="Q1000312" zoom="13">
@@ -47,7 +47,7 @@ In the novel the appalling behaviour of the boorish narrator Baron von Ottringel
 <param ve-entity eid="Q639208" aliases="Bodiam Castle">
 <param ve-entity eid="Q2152461" aliases="Paddock Wood">
 <param ve-entity eid="Q29303" aliases="Canterbury">
-<param ve-map center="Q2005288" zoom="10">
+<param ve-map center="Q2005288" zoom="9.5">
 <param ve-map center="Q797782" zoom="13">
 <param ve-map center="Q639208" zoom="13">
 <param ve-map center="Q2152461" zoom="13">
