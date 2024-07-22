@@ -12,9 +12,9 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 <param ve-map center="Q665489" zoom="10">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="a674cc941b6c08cf" title="1822 OS Map">
+<param ve-map-layer active allmaps allmaps-id="4478e36824ad9d1a" title="Greenwood 1829">
 
-<!-- # -->
+#
 
 ‘the pleasantest greenest place in the world, pleasant woods close at hand, fields on the other side very quiet and happy to walk in’.[^ref1] - Thackeray on Southborough, near Tunbridge Wells.
 <param ve-image url="https://stor.artstor.org/stor/99141c27-93ca-4f9d-bfef-56a29b4bc3f3" label="In the Woods near Tunbridge Wells" attribtuion="A. R. Quinton, J. Salmon, Sevenoaks">
