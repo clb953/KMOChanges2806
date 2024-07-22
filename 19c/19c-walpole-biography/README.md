@@ -5,7 +5,7 @@
 <param ve-entity eid="Q3360332" aliases="Kings School">
 
 <!-- Base map centred on Canterbury -->
-<param ve-map center="Q3360332" zoom="12.75">
+<param ve-map center="Q3360332" zoom="11">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="e401b16b2669a50d" title="OS SE 1903">
@@ -27,7 +27,7 @@ Hugh Walpole’s initial connection to Kent was through the [King’s School]( h
 Alongside schooling, Walpole’s time in Kent draws reference to reading. It is depicted in his diaries, as  when he caught [the] train for Ashford, and on the ‘way down read first vol: of “Pelle” which” he describes as ‘charming’.[^ref8]  Travelling through Kent brought him time to read, where, in an additional trip ‘frozen in the train down to Canterbury reading _Our Mutual Friend_ (Diaries, 178), Walpole discusses [Dicken’s](/dickens/dickens-biography) ‘determined turn towards modernism’ - clearly his time in Kent brought him not just writing inspiration, but ample time to read. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/33/P_124--Charles_Dickens--In_Dickens_London.jpg" label="Charles Dickens" attribution="Francis Hopkinson Smith (all charcoal drawings), Public domain, via Wikimedia Commons">
 <param ve-entity eid="Q725261" aliases="Ashford">
-<param ve-map center="Q725261" zoom="13">
+<param ve-map center="Q725261" zoom="11">
 
 For The King’s School as a possible ‘original’ of Dr Strong’s Academy in _David Copperfield_ see [David Copperfield: a Curated Walk](https://www.kent-maps.online/dickens/david-copperfield-curated-walk/). Walpole wrote the film adaptation for Metro-Goldwyn-Mayer in 1935 and played a minor part himself.
 Later diary entries reference Walpole’s friendship with another Kent author, [Joseph Conrad](/19c/19c-conrad-biography). Other literary friends and acquaintances with a Kent connection include [Elizabeth von Arnim](/20c/20c-vonarnim-biography) and [H. G. Wells](/20c/20c-wellshg-biography). The archive of [Sarah Grand](/19c/19c-grand-biography) material held by [ICVWW](https://www.canterbury.ac.uk/arts-and-humanities/school-of-humanities/research/victorian-women-writers/centre-for-victorian-women-writers.aspx) includes reviews of his work, suggesting that she admired his writing. However fellow author [Somerset Maugham](/20c/20c-maugham-biography) would notoriously pillory Walpole as Alroy Kear in _Cakes and Ale_.
