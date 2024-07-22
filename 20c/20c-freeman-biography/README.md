@@ -37,8 +37,8 @@ _The chimneys of Northfleet, the clustering roofs of Gravesend, the populous anc
 A number of his subsequent novels and stories, from the 1913 _The Unwilling Adventurer_, set in 18th century Gravesend, to the later Thorndyke stories, are set in carefully detailed Kent locations.
 <param ve-entity eid="Q838965" aliases="Northfleet">
 <param ve-entity eid="Q676689" aliases="Gravesend">
-<param ve-map center="Q838965" zoom="12">
-<param ve-map center="Q676689" zoom="12">
+<param ve-map center="Q838965" zoom="13">
+<param ve-map center="Q676689" zoom="13">
 
 In 1915 Freeman joined the Royal Army Medical Corps in Maidstone, from which he was discharged in 1919. By 1921 the family was living in Darnley Road, Gravesend. It was here that Freeman wrote his story of a woman who disappears in Rochester, the suspiciously named _Mystery of Angelina Frood_ (1924). He later admitted that ‘This book was written as a playful commentary on Dickens’s great story, [_The Mystery of Edwin Drood_](/dickens/edwin-drood-curated-walk); but, as few people are now familiar with Goldsmith’s _Edwin and Angelina_, the mild joke fell flat.’[^ref3] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f5/The_History_of_the_Maidstone_Companies%2C_Royal_Army_Medical_Corps_%28Volunteers%29_-_by_Frederick_J._Wood_%281907%29_%2814598183990%29.jpg" label="The History of the Maidstone Companies, Royal Army Medical Corps (Volunteers) - by Frederick J. Wood (1907)" attribution="Internet Archive Book Images, No restrictions, via Wikimedia Commons">
@@ -46,17 +46,19 @@ In 1915 Freeman joined the Royal Army Medical Corps in Maidstone, from which he 
 <param ve-entity eid="Q213180" aliases="Maidstone">
 <param ve-entity eid="Q107339038" aliases="Darnley Road">
 <param ve-entity eid="Q507517" aliases="Rochester">
-<param ve-map center="Q213180" zoom="12">
-<param ve-map center="Q107339038" zoom="13">
+<param ve-map center="Q507517" zoom="11">
 <param ve-map center="Q507517" zoom="13">
+<param ve-map center="Q213180" zoom="13">
+<param ve-map center="Q107339038" zoom="13">
+
 
 Freeman’s last two addresses were both in Gravesend, at 1 Portland Villas, West Hill (from 1926 to 1930) and at Rosemount, 94 Windmill St, where he lived until his death in 1943. He was buried in Gravesend Cemetery, where a stone was erected by 'The friends of "Dr Thorndyke"' in 1979.
 <param ve-entity eid="Q107339044" aliases="Portland Villas, West Hill">
 <param ve-entity eid="Q107339048" aliases=" Rosemount, 94 Windmill St">
 <param ve-entity eid="Q107339052" aliases="Gravesend Cemetery">
-<param ve-map center="Q107339044" zoom="13">
-<param ve-map center="Q107339048" zoom="13">
-<param ve-map center="Q107339052" zoom="13">
+<param ve-map center="Q107339044" zoom="14">
+<param ve-map center="Q107339048" zoom="14">
+<param ve-map center="Q107339052" zoom="14">
 
 
 ### Bibliography
