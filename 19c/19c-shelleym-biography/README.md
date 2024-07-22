@@ -10,9 +10,9 @@
 <param ve-map center="Q967166" zoom="10">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="0d13de43a9570166" title="1820 Map">
+<param ve-map-layer active allmaps allmaps-id="4478e36824ad9d1a" title="Greenwood 1829">
 
-<!-- # -->
+#
 
 **Place:** Sandgate, Hythe, Canterbury    
 **Publication of Interest:** The Fortunes of Perkin Warbeck    
