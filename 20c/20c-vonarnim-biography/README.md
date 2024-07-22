@@ -1,23 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://www.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="Elizabeth von Arnim. Pseudonym of Mary Beauchamp (1866-1941)" author="Carolyn Oulton" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/4/45/Leeds_Castle_-_side_view.jpg" discription="Carolyn Oulton discusses the Kent exploits of 'The Caravaners' by Elizabeth von Arnim. Pseudonym of Mary Beauchamp.">
 
-<!-- Global Entities -->
-<param ve-entity eid="Q729006" aliases="Chatham">
-<param ve-entity eid="Q746876" aliases="Leeds Castle">
-<param ve-entity eid="Q1000312" aliases="Sandgate">
-<param ve-entity eid="Q5598954" aliases="Great Chart">
-<param ve-entity eid="Q2041007" aliases="Staplehurst">
-<param ve-entity eid="Q15063189" aliases="Sissinghurst">
-<param ve-entity eid="Q725261" aliases="Ashford">
-<param ve-entity eid="Q793057" aliases="Aylesford">
-
-<param ve-entity eid="Q797782" aliases="Medway">
-<param ve-entity eid="Q639208" aliases="Bodiam Castle">
-<param ve-entity eid="Q2152461" aliases="Paddock Wood">
-
-<!-- Base map centred on Canterbury -->
-<param ve-map center="Q29303" zoom="10">
-
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="121dee41dae035be" title="Bartholomew Kent 1919">
 
