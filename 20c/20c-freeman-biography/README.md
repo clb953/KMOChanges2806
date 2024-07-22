@@ -8,8 +8,7 @@
 
 **Places:** Visited or lived in Folkestone, Gravesend, Maidstone, Ramsgate, Rochester.
 <br><br>
-_‘The Isle of Thanet has a certain peculiar charm which lingers even to this day, despite the too successful efforts of the speculative builder to annihilate it. A few years ago … before the unlovely suburban streets had arisen to disfigure it, the north eastern quarter of the island wore a pleasant air of remoteness that disguised its proximity to busy Margate and prosperous Broadstairs.’_    
-[‘The Great Portrait Mystery’](http://gutenberg.net.au/ebooks05/0500471.txt) (1918)   
+_‘The Isle of Thanet has a certain peculiar charm which lingers even to this day, despite the too successful efforts of the speculative builder to annihilate it. A few years ago … before the unlovely suburban streets had arisen to disfigure it, the north eastern quarter of the island wore a pleasant air of remoteness that disguised its proximity to busy Margate and prosperous Broadstairs.’_ [‘The Great Portrait Mystery’](http://gutenberg.net.au/ebooks05/0500471.txt) (1918)   
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/c3/Isle_of_Thanet_-_Rutupiae.jpg" label="Isle of Thanet" attribution="William Barlow, Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f8/The_fort%2C_Margate%2C_England-LCCN2002697071.jpg" label="The Fort, Margate" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cb/Broadstairs.jpg" label="Broadstairs Harbour" attribution="User: (WT-shared) Bh518 at  wts wikivoyage, Public domain, via Wikimedia Commons">
