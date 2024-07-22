@@ -17,9 +17,9 @@
 <param ve-map center="Q179224" zoom="10">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="0d13de43a9570166" title="1820 Map">
+<param ve-map-layer active allmaps allmaps-id="4478e36824ad9d1a" title="Greenwood 1829">
 
-<!-- # -->
+#
 
 Dramatist and writer, Douglas Jerrold was born on the 3rd January 1803 in Greek Street, Soho, the son of Samuel and Mary Anne Jerrold (nee Reid). His father was a strolling player and printer for the Dover Company of Players, and his mother was an actress.[^ref1] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/81/Douglas_William_Jerrold_by_Sir_Daniel_Macnee.jpg" label="Douglas William Jerrold" attribution="by Daniel Macnee, Public domain, via Wikimedia Commons">
