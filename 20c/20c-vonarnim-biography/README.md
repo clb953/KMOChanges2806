@@ -10,7 +10,7 @@ Caravanning holiday in Sussex and Kent in the summer of 1907.
 <br><br> 
 _‘We journeyed that day towards Canterbury, a town you, my friends, may or may not have heard of. That it is an English town I need not say, for if it were not would we have been going there? And it is chiefly noted, I remembered, for its archbishop.’_
 <param ve-entity eid="Q29303" aliases="Canterbury">
-<param ve-map center="Q29303" zoom="12">
+<param ve-map center="Q29303" zoom="12.5">
 
 _The Caravaners_ follows the German Baron von Ottringel on what is meant to be a month long holiday in Kent with his wife and a group of friends. His selfish behaviour and complete lack of self-awareness provide much of the humour of the novel, but also force his frustrated companions to abort the holiday after only a week.
 <br><br>
