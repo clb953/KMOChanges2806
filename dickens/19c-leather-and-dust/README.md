@@ -9,18 +9,9 @@
 <param ve-map center="Q729006" zoom="12">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="a674cc941b6c08cf" title="1822 OS Map">
+<param ve-map-layer active allmaps allmaps-id="4478e36824ad9d1a" title="Greenwood 1829">
 
-<!-- OLD: param data-map-layer
-       title="Kent 1904"
-       type="mapwarper"
-       mapwarper-id="45555" 
-       active="true" -->
-       
-<!-- OLD Historical map layers --> 
-<!-- param ve-map-layer active mapwarper mapwarper-id="38872" title="Kent 1820"> <param ve-map-layer mapwarper mapwarper-id="44832" title="Kent Topo Survey 1860"> <param ve-map-layer mapwarper mapwarper-id="37387" title="Kent 1808"> <param ve-map-layer mapwarper mapwarper-id="45555" title="Kent 1904" -->
-
-<!-- #  -->
+#
 
 David Copperfield's [curated walk](David_Copperfield_Curated_walk) can tell us much about the route he follows from London - so far David's account is painstakingly accurate. What he does not tell us is what he can [smell](https://vimeo.com/408543370/5eccb2722a) as he enters rural Kent or quite why his feet are so damaged by the journey's end. 
 <param ve-map-layer geojson active eid="dickens:dover-road" title="Dover Road" url="/geojson/david-copperfield-dover-road.json">
