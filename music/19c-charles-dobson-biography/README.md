@@ -10,7 +10,7 @@
 <param ve-map center="Q5036128" zoom="10">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="a674cc941b6c08cf" title="1822 OS Map">
+<param ve-map-layer active allmaps allmaps-id="4478e36824ad9d1a" title="Greenwood 1829">
 
 
 <!-- # -->
