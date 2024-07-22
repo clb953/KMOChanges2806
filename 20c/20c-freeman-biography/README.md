@@ -15,7 +15,7 @@ _‘The Isle of Thanet has a certain peculiar charm which lingers even to this d
 <param ve-entity eid="Q590422" aliases="The Isle of Thanet">
 <param ve-entity eid="Q618045" aliases="Margate">
 <param ve-entity eid="Q922739" aliases="Broadstairs">
-<param ve-map center="Q590422" zoom="12">
+<param ve-map center="Q590422" zoom="12.25">
 <param ve-map center="Q618045" zoom="13">
 <param ve-map center="Q922739" zoom="13">
 
@@ -24,7 +24,7 @@ His first Kent address was in St Peter’s, just outside Broadstairs, from 1896.
 <param ve-entity eid="Q7595373" aliases="St Peter’s">
 <param ve-entity eid="Q107339017" aliases="9 Vale Square">
 <param ve-entity eid="Q922739" aliases="Broadstairs">
-<param ve-map center="Q590422" zoom="12">
+<param ve-map center="Q590422" zoom="12.25">
 <param ve-map center="Q922739" zoom="13">
 <param ve-map center="Q7595373" zoom="13">
 <param ve-map center="Q107339017" zoom="13">
