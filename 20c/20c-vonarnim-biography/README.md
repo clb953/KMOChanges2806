@@ -47,11 +47,11 @@ In the novel the appalling behaviour of the boorish narrator Baron von Ottringel
 <param ve-entity eid="Q639208" aliases="Bodiam Castle">
 <param ve-entity eid="Q2152461" aliases="Paddock Wood">
 <param ve-entity eid="Q29303" aliases="Canterbury">
-<param ve-map center="Q2161900" zoom="10">
-<param ve-map primary center="Q797782" zoom="13">
-<param ve-map primary center="Q639208" zoom="13">
-<param ve-map primary center="Q2152461" zoom="13">
-<param ve-map primary center="Q29303" zoom="13">
+<param ve-map center="Q2005288" zoom="10.5">
+<param ve-map center="Q797782" zoom="13">
+<param ve-map center="Q639208" zoom="13">
+<param ve-map center="Q2152461" zoom="13">
+<param ve-map center="Q29303" zoom="13">
 
 He observes at one point, with no sense of irony, that hop kilns ‘recurring at frequent intervals as one travels through the county of Kent, are striking and picturesque additions to the landscape, and as our guide book described them very fully I was able to talk a good deal about them.'[^ref4] By the end of the holiday he has learned little about the scenery - or about himself - but looks forward to sharing his written account of his travels with his friends and neighbours.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/64/Oast_House_at_Kiln_Way%2C_Paddock_Wood%2C_Kent_-_geograph.org.uk_-_322542.jpg" label="Oast House at Kiln Way, Paddock Wood, Kent" attribution="Oast House Archive">
