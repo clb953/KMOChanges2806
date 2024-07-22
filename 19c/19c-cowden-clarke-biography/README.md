@@ -10,8 +10,9 @@
 
 <!--Basemap centred on Canterbury-->
 <param ve-map center="Q29303" zoom="10">
+
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="e9f6ea856473bbaa" title="Kent Map 1820">
+<param ve-map-layer active allmaps allmaps-id="4478e36824ad9d1a" title="Greenwood 1829">
 
 #
 
