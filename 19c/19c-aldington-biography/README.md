@@ -10,7 +10,7 @@ Jessie May Aldington, author of ‘Love Letters that caused a Divorce’ and 'Me
 <param ve-image url="https://stor.artstor.org/stor/921dbaac-faac-4fcc-bb1f-4da1329f58cf" label="Hythe School of Musketry" attribution="Invicta Album of Hythe">
 <param ve-entity eid="Q967166" aliases="Hythe">
 <param ve-entity eid="Q2313624" aliases="Rolvenden">
-<param ve-map center="Q690486" zoom="10.5">
+<param ve-map center="Q2321600" zoom="10.5">
 <param ve-map center="Q967166" zoom="12">
 <param ve-map center="Q2313624" zoom="12">
 
