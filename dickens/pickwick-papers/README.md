@@ -29,11 +29,11 @@ Charles Dickens’s first serial novel, _The Pickwick Papers_ is preoccupied wit
 <param ve-entity eid="Q507517" aliases="Rochester">
 <param ve-entity eid="Q729006" aliases="Chatham">
 <param ve-entity eid="Q4973747" aliases="Brompton">
-<param ve-map center="Q507517" zoom="11">
-<param ve-map center="Q1808441" zoom="12">
-<param ve-map center="Q507517" zoom="12">
-<param ve-map center="Q729006" zoom="12">
-<param ve-map center="Q4973747" zoom="12">
+<param ve-map center="Q507517" zoom="13">
+<param ve-map center="Q1808441" zoom="13">
+<param ve-map center="Q507517" zoom="13">
+<param ve-map center="Q729006" zoom="13">
+<param ve-map center="Q4973747" zoom="13">
 
 Whilst [Dickens’s](dickens-biography) attachment to [Gad’s Hill Place](/dickens/dickens-gads-hill) would result in many unequivocally fond representations of Kent in his later career, in _Pickwick_ his engagement with Kentish geographies, inhabitants and stereotypes is more variable. Both Dickens and his characters alternate between a genuine if snobbish admiration of Kent’s picturesque history and a savage satire of its inhabitants.
 <param ve-image url="https://stor.artstor.org/stor/5c3cfffa-911e-44cf-ab35-28b94bf80418" label="Gad's Hill" attribution="Benjamin Mortley">
