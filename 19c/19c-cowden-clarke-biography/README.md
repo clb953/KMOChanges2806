@@ -2,15 +2,6 @@
 
 <param ve-config title="Mary Cowden Clarke" author="Michelle Crowther" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
 
-<param ve-entity eid="Q736439" aliases="Ramsgate">
-<param ve-entity eid="Q179224" aliases="Dover">
-<param ve-entity eid="Q618045" aliases="Margate">
-<param ve-entity eid="Q665489" aliases="Tunbridge">
-<param ve-entity eid="Q1626044" aliases="Sittingbourne">
-
-<!--Basemap centred on Canterbury-->
-<param ve-map center="Q29303" zoom="10">
-
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="4478e36824ad9d1a" title="Greenwood 1829">
 
@@ -23,22 +14,28 @@ Mary’s first visit to Kent was during her childhood, when her parents decided 
 <br><br>
 'As the steamer left the London Docks, I heard a man in a wherry bawl out jeeringly, - “I say! bile up yere kettle!” We had made some way down the river when a portion of the machinery broke, and there was much confusion and alarm on deck among the passengers. My dear mother bade me hide my head in her lap and remain still. I did so, and she praised me for my quiet and obedience. The vessel managed to reach the shore; we disembarked; and I remember my father carrying the then baby in his arms while we all walked across the fields towards Milton or Sittingbourne, at one of which places, on the Kentish High Road, we had to stay till next day, when we could proceed on our journey by the stage-coach.'[^ref2]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/46/Scene_aboard_a_Margate_hoy.jpg" label="A Scene on board a Margate Hoy as described by Dibden, 1804" attribution="Published by John Fairburn, National Maritime Museum, Greenwich, Public domain, via Wikimedia Commons">
+<param ve-entity eid="Q618045" aliases="Margate">
+<param ve-entity eid="Q1626044" aliases="Sittingbourne">
 <param ve-map center="Q618045" zoom="12">
+<param ve-map center="Q1626044" zoom="12">
 
 Another trip to Kent (this time en route to Boulogne), was also mired with mishap: 
 <br><br>
 'We travelled by the stage coach to [Dover](/19c/19c-dover) (there were no railways then), but when we arrived there, it was found that the wind did not serve for the sailing-packet to cross the Channel, so we had to stay for three days at an inn, til we could embark.'[^ref3]
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/dickens/Snargate_St_Dover_1830.jpg" label="Snargate St Dover c.1830" attribution="Drawn by G.Shepherd">
+<param ve-entity eid="Q179224" aliases="Dover">
 <param ve-map center="Q179224" zoom="12">
 
 However, not all Mary’s recollections of Kent are tinged by transport delays and disasters. A holiday at a farmhouse near Tonbridge was recalled fondly:
 <br><br>
 'Delightful were those early mornings when I was despatched to another farm about half a mile off, that I might drink new milk from the cow, after a walk through green lanes before breakfast. In those matutinal walks I was invariably accompanied by a kitten, who had taken a fancy to me, or perhaps knew that she was to have a saucer of milk given to her when we arrived ... Nutting and blackberrying for hours of an afternoon were delights to me. Glorious were those baking days, when feasts of new-made bread, a Kentish delicacy called ‘huffkins’ – a sort of muffin plentifully buttered and eaten hot, - and a superb pork pie, containing alternate layers of potato, sage and dairy-fed pork formed the delicious periodically-appointed cates.’[^ref4]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/4/43/%27Blackberries%27_by_John_F._Francis.jpg" label="Blackberries" attribution="John F. Francis, Public domain, via Wikimedia Commons">
+<param ve-entity eid="Q665489" aliases="Tunbridge">
 <param ve-map center="Q665489" zoom="12">
 
 Mary married childhood friend Charles Cowden Clarke, who was also a Shakespearian scholar. Charles, whose father had taught [John Keats](/19c-keats-margate/), spent some of his youth in Kent after his father's retirement. Charles recalled bumping into Samuel Taylor Coleridge on the East Cliff at [Ramsgate](https://kent-maps.online/19c/19c-ramsgate/), who for an hour and a half 'gave utterance to some of the grandest thoughts [Clarke] ever heard from the mouth of man'.[^ref5] 
 <param ve-image url="https://stor.artstor.org/stor/47ed345c-3d26-4e7f-a46e-3bdc267e68f4" label="Ramsgate, East Cliff Promenade" attribution="Kent Maps Online Collection">
+<param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-map center="Q736439" zoom="12">
 
 As a result of her love of Shakespeare, Mary convinced [Charles Dickens](/dickens/) to allow her to play 'Mistress Quickly' in his amateur company performance of 'The Merry Wives of Windsor' at the Haymarket, on 15 May 1848.
