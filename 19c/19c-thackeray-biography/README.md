@@ -48,7 +48,7 @@ Thackeray satirises 18th century [Tunbridge Wells](/18c/18c-beau-nash-biography/
 <param ve-image url="https://stor.artstor.org/stor/1b674697-28d5-4f4c-b603-89bfd74b0245" label="Tunbridge Wells Common" attribution="Kent Maps Online">
 <param ve-entity eid="Q665489" aliases="Tunbridge Wells">
 <param ve-entity eid="Q49218" aliases="Rochester">
-<param ve-map center="Q676689" zoom="13">
+<param ve-map center="Q665489" zoom="13">
 <param ve-map center="Q49218" zoom="13">
 
 ### Bibliography 
