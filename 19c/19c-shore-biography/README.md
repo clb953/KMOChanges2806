@@ -61,8 +61,8 @@ It comes as no surprise to find her back in Kent in 1835, eagerly following the 
 <param ve-image url="https://stor.artstor.org/stor/f04e222b-2912-487e-8194-b1a6e24c51c1" label="Chatham Dockyard">
 <param ve-entity eid="Q1068204" aliases="Chatham Dockward">
 <param ve-entity eid="Q5138885" aliases="Cobham Hall">
-<param ve-map center="Q1068204" zoom="10">
-<param ve-map center="Q5138885" zoom="10">
+<param ve-map center="Q1068204" zoom="12">
+<param ve-map center="Q5138885" zoom="12">
 
 ### References
 
