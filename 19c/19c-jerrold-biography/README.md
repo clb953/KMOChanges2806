@@ -32,7 +32,7 @@ By January 27th 1807, Samuel Jerrold had left Wilsley for good as competition am
 Jerrold’s parents were busy running their theatres, and so he was raised by his grandmother, Mrs Reid, and “no speck was ever seen upon his collar”[^ref8]. He was educated by one of the actors, Mr Wilkinson, who taught him to read and write at the age of 6.  As a young boy, he was often locked in his room “like a pet bird” and left to read whilst his grandmother collected the takings at the theatre. He would look out of the window with envy as his friends played in the streets below.[^ref9] After Mr Wilkinson left the company, Jerrold was sent to Mr Herbert’s School in Sheerness which had a hundred pupils. Herbert taught the boys “to turn noughts into nines.”[^ref10] 
 <param ve-image url="https://stor.artstor.org/stor/e5edb1c7-9b9f-427e-8057-e5df4793b6d4" label="George Vertue, The Picturesque Beauties of Great Britain: Kent.  Dock Yard, Sheerness, 1829" attribution="Photo by Astrid Stilma. By permission of Patrick Marrin">
 <param ve-entity eid="Q1003196" aliases="Sheerness">
-<param ve-map center="Q1003196" zoom="13">
+<param ve-map center="Q1003196" zoom="11">
 
 By 1813, profits in the theatre were down and Jerrold aged 10 left school and went to sea, serving on the gunship _Namur_. His captain was [Jane Austen](/19c/19c-austen-biography)’s brother. Jerrold disliked the navy and left in 1815 after the end of the Napoleonic Wars to help his now elderly father.[^ref11] Peace brought poverty to the town of Sheerness and the Jerrolds auctioned off their belongings at the White Horse. His mother set off to London to find new lodgings and work, leaving her children in the charge of her mother. They were reunited on New Year’s Day, 1816, the year that Jerrold was apprenticed to a printer. He spent his first wages on the ingredients to make a beefsteak pie.[^ref12]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/78/HMS_Namur_IMG_4822.jpg" label="HMS Namur" attribution="Richard Perret, active in 1806, Public domain, via Wikimedia Commons">
@@ -44,8 +44,9 @@ _Black-eyed Susan; or, "All in the downs"_ was a nautical and domestic drama, se
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Ebenezer_Landells_-_The_Illuminated_Magazine_-_No.1%2C_May_1843.jpg" label="The Illuminated Magazine edited by Douglas Jerrold, 1843" attribution="Ebenezer Landells, Public domain, via Wikimedia Commons">
 <param ve-entity eid="Q1011096" aliases="Deal">
 <param ve-entity eid="Q179224" aliases="Dover">
-<param ve-map center="Q1011096" zoom="15">
-<param ve-map center="Q179224" zoom="15">
+<param ve-map center="Q7961502" zoom="11">
+<param ve-map center="Q1011096" zoom="13">
+<param ve-map center="Q179224" zoom="13">
 
 In 1837 Jerrold met [Charles Dickens](/dickens/dickens-biography) and the two men hit it off. They were from similar backgrounds, both having experienced poverty in childhood. Although preferring a life off stage, Jerrold was persuaded to act in the 1851 production of Sir Edward Bulwer Lytton’s play _Not So Bad As We Seem_, alongside [Charles Dickens](/dickens/dickens-biography) and [Wilkie Collins](/19c/19c-collins-biography).[^ref17] [Queen Victoria](/19c/19c-victoria-biography) who watched the play described ‘Dr Jerrold’ as ‘a funny little man who writes in _Punch_ extremely well’.[^ref18]  
 <br>
