@@ -12,7 +12,7 @@ Anna Atkins, botanist and photographer, was born on the 16 March 1799, in Tonbri
 <param ve-entity eid="Q2220232" aliases="Hildenborough">
 <param ve-entity eid="Q2048526" aliases="Southborough">
 <param ve-entity eid="Q665489" aliases="Tunbridge Wells">
-<param ve-map center="Q2048526" zoom="12">
+<param ve-map center="Q2048526" zoom="11">
 <param ve-map center="Q936183" zoom="13">
 <param ve-map center="Q99678204" zoom="13">
 <param ve-map center="Q2220232" zoom="13">
@@ -37,7 +37,7 @@ Anna began working with her father in her early 20s, producing 250 engravings fo
 <param ve-entity eid="Q99678204" aliases="Halstead Place">
 <param ve-entity eid="Q2050835" aliases="Knockholt">
 <param ve-entity eid="Q122384" aliases="Pratts Bottom">
-<param ve-map center="Q99678204" zoom="13">
+<param ve-map center="Q99678204" zoom="11">
 <param ve-map center="Q2050835" zoom="13">
 <param ve-map center="Q122384" zoom="13">
 
@@ -52,7 +52,7 @@ Anna died on the 9 June 1871 at Halstead Place, near Sevenoaks, and is buried in
 <param ve-entity eid="Q99678204" aliases="Halstead Place">
 <param ve-entity eid="Q939838" aliases="Sevenoaks">
 <param ve-entity eid="Q2744669" aliases="Hawkhurst">
-<param ve-map center="Q2426311" zoom="12">
+<param ve-map center="Q2426311" zoom="11">
 <param ve-map center="Q99678204" zoom="13">
 <param ve-map center="Q939838" zoom="13">
 <param ve-map center="Q2744669" zoom="13">
