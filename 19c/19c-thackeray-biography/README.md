@@ -11,6 +11,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 <param ve-image url="https://stor.artstor.org/stor/99141c27-93ca-4f9d-bfef-56a29b4bc3f3" label="In the Woods near Tunbridge Wells" attribtuion="A. R. Quinton, J. Salmon, Sevenoaks">
 <param ve-entity eid="Q2048526" aliases="Southborough">
 <param ve-entity eid="Q665489" aliases="Tunbridge Wells">
+<param ve-map center="Q7852844" zoom="13">
 <param ve-map center="Q2048526" zoom="13">
 <param ve-map center="Q665489" zoom="13">
 
