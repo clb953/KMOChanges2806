@@ -5,16 +5,12 @@
        author="Michelle Crowther"
        banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg"
        layout="vertical"
-       description="A visual essay by Michelle Crowther, which introduces the life and work of dramatist and writer, Douglas Jerrold".>
+       description="A visual essay by Michelle Crowther, which introduces the life and work of dramatist and writer, Douglas Jerrold.">
 
 
 <param ve-entity eid="Q1011096" aliases="Deal">
-<param ve-entity eid="Q1003196" aliases="Sheerness">
-<param ve-entity eid="Q2160826" aliases="Cranbrook">
-<param ve-entity eid="Q179224" aliases="Dover">
 
-<!-- Basemap centred on Dover -->
-<param ve-map center="Q179224" zoom="10">
+
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="4478e36824ad9d1a" title="Greenwood 1829">
@@ -23,11 +19,15 @@
 
 Dramatist and writer, Douglas Jerrold was born on the 3rd January 1803 in Greek Street, Soho, the son of Samuel and Mary Anne Jerrold (nee Reid). His father was a strolling player and printer for the Dover Company of Players, and his mother was an actress.[^ref1] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/8/81/Douglas_William_Jerrold_by_Sir_Daniel_Macnee.jpg" label="Douglas William Jerrold" attribution="by Daniel Macnee, Public domain, via Wikimedia Commons">
+<param ve-entity eid="Q179224" aliases="Dover">
+<param ve-map center="Q179224" zoom="13">
 
-Shortly after his birth, Jerrold’s family moved to Wilsley near Cranbrook where Samuel leased a theatre in a small, thatched barn.[^ref2] However, by October 1803 “a respectable company under the management of Mr Jerrold” opened in Sheerness, revealing his parents’ ambitions.[^ref3] Sheerness was 'if a jolly but also a very ‘loose’ place-[^ref4], full of sailors and officers, with the potential for high ticket sales. The audience “was not, as may be readily imagined, a very quiet one”[^ref5] and the company performed Shakespearian tragedies, nautical farces,  and comic songs. In 1804, Douglas made one of his first public appearances in _Rolla_ in the arms of Edmund Kean, who later become a celebrated Shakespearean actor.[^ref6]
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cd/Edmund_Kean_in_the_Character_of_Macbeth_1814_George_Henry_Harlow.jpg" label="Edmund Kean in the Characater of Macbeth, 1814" attribution="By George Henry Harlow, Public domain, via Wikimedia Commons">
-<param ve-map center="Q2160826" zoom="15">
-<param ve-map center="Q1003196" zoom="15">
+Shortly after his birth, Jerrold’s family moved to Wilsley near Cranbrook where Samuel leased a theatre in a small, thatched barn.[^ref2] However, by October 1803 “a respectable company under the management of Mr Jerrold” opened in Sheerness, revealing his parents’ ambitions.[^ref3] Sheerness was 'if a jolly but also a very ‘loose’ place-[^ref4], full of sailors and officers, with the potential for high ticket sales. The audience “was not, as may be readily imagined, a very quiet one”[^ref5] and the company performed Shakespearian tragedies, nautical farces,  and comic songs. In 1804, Douglas made one of his first public appearances in _Rolla_ in the arms of Edmund Kean, who later became a celebrated Shakespearean actor.[^ref6]
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cd/Edmund_Kean_in_the_Character_of_Macbeth_1814_George_Henry_Harlow.jpg" label="Edmund Kean in the Character of Macbeth, 1814" attribution="By George Henry Harlow, Public domain, via Wikimedia Commons">
+<param ve-entity eid="Q2160826" aliases="Cranbrook">
+<param ve-entity eid="Q1003196" aliases="Sheerness">
+<param ve-map center="Q2160826" zoom="13">
+<param ve-map center="Q1003196" zoom="13">
 
 By January 27th 1807, Samuel Jerrold had left Wilsley for good as competition among travelling companies in the rural towns was fierce and he acquired the lease of a wooden theatre in Sheerness. It was situated in the High Street, Blue Town, among the ‘closely-huddled little wooden houses, every other one of which was a tavern and every third a brothel’ which were painted with blue-grey dockyard paint.[^ref7]  Smugglers who operated along the ditch behind the theatre hid their contraband under the theatre floor.  Samuel also leased a theatre in Southend, the other side of the Thames.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/3/38/Wilsley_Oast%2C_Cranbrook_-_geograph.org.uk_-_2942306.jpg" label="Wilsely Oast, Cranbrook" attribution="Wilsley Oast, Cranbrook by Julian P Guffogg, via Wikimedia Commons" license="CC BY-SA 2.0">
