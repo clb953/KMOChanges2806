@@ -52,6 +52,7 @@ Anna died on the 9 June 1871 at Halstead Place, near Sevenoaks, and is buried in
 <param ve-entity eid="Q99678204" aliases="Halstead Place">
 <param ve-entity eid="Q939838" aliases="Sevenoaks">
 <param ve-entity eid="Q2744669" aliases="Hawkhurst">
+<param ve-map center="Q2426311" zoom="12">
 <param ve-map center="Q99678204" zoom="13">
 <param ve-map center="Q939838" zoom="13">
 <param ve-map center="Q2744669" zoom="13">
