@@ -1,16 +1,6 @@
 <a href="https://beta.kent-maps.online"><img src="https://beta.kent-maps.online/juncture/ve-button.png"></a>
 <param ve-config title="The Posthumous Papers of the Pickwick Club" author="Katie Holdway" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Katie Holdway discusses the Kent places and landscapes which feature extensively in Dickens’s first serial novel, The Pickwick Papers.">
 
-<!-- Global Entities -->
-<!-- param ve-entity eid="Q1971996" aliases="Sissinghurst" -->
-<param ve-entity eid="Q507517" aliases="Rochester">
-<param ve-entity eid="Q1808441" aliases="Strood">
-<param ve-entity eid="Q729006" aliases="Chatham">
-<param ve-entity eid="Q4973747" aliases="Brompton">
-
-<!-- Base map centred on Chatham -->
-<param ve-map center="Q729006" zoom="10">
-
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="a674cc941b6c08cf" title="Kent Ordnance Survey 1822">
 
