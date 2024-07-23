@@ -44,7 +44,7 @@ _Black-eyed Susan; or, "All in the downs"_ was a nautical and domestic drama, se
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e2/Ebenezer_Landells_-_The_Illuminated_Magazine_-_No.1%2C_May_1843.jpg" label="The Illuminated Magazine edited by Douglas Jerrold, 1843" attribution="Ebenezer Landells, Public domain, via Wikimedia Commons">
 <param ve-entity eid="Q1011096" aliases="Deal">
 <param ve-entity eid="Q179224" aliases="Dover">
-<param ve-map center="Q7961502" zoom="11">
+<param ve-map center="Q7650188" zoom="11">
 <param ve-map center="Q1011096" zoom="13">
 <param ve-map center="Q179224" zoom="13">
 
