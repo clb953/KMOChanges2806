@@ -9,6 +9,7 @@
 Emily Shore was an observant and precocious diarist. She was born and brought up in Suffolk, but in 1831, as she explains in a preface to her journal from this year, she and her four siblings were ‘taken ill at once with a most dreadful fever, and were all very dangerously ill. When we were all recovered in some degree, so as to be able to walk, and were nearly as strong in health, papa and mamma determined to take us to [Broadstairs](/dickens/broadstairs-19th-century), to spend the summer holidays by the seaside.’[^ref1] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f7/Margaret_Emily_Shore_engraving.jpg" label="Margaret Emily Shore engraving, 1838" attribution="Unknown author, Public domain, via Wikimedia Commons">
 <param ve-entity eid="Q922739" aliases="Broadstairs">
+<param ve-map center="Q1752642" zoom="12">
 <param ve-map center="Q922739" zoom="12">
 
 Emily’s first impressions of Thanet were not entirely favourable. On 6 July she writes, ‘The country about [Margate](/dickens/19c-margate), [Broadstairs](/dickens/broadstairs-19th-century), and [Ramsgate](/dickens/19c-ramsgate) is odious. The soil is chalky, scarce a tree is to be seen, and a hill would be a wonder. The cliffs of [chalk](/landscape/kentish-chalk) have not a broken edge anywhere, and are perfectly the same for miles’. But if the countryside was disappointing and the journey ‘very hot, dusty and fatiguing’,  [Broadstairs](/dickens/broadstairs-19th-century) itself offered a more picturesque view and Emily was immediately captivated by the sea, which none of the children had ever seen before, ‘indeed it broke most beautifully on our sight, of the brightest blue, and perfectly calm.’[^ref2]
@@ -18,6 +19,7 @@ Emily’s first impressions of Thanet were not entirely favourable. On 6 July sh
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q26532465" aliases="Cliff Edge">
 <param ve-entity eid="Q1752642" aliases="Thanet">
+<param ve-map center="Q1752642" zoom="12">
 <param ve-map center="Q618045" zoom="12">
 <param ve-map center="Q922739" zoom="12">
 <param ve-map center="Q736439" zoom="12">
@@ -51,6 +53,7 @@ She may have preferred [Ramsgate](/dickens/19c-ramsgate), described by Emily as 
 <param ve-image url="https://stor.artstor.org/stor/c7983b3e-e756-442c-81ad-5a75c9941c5f" label="Ramsgate, 1830">
 <param ve-entity eid="Q736439" aliases="Ramsgate">
 <param ve-entity eid="Q922739" aliases="Broadstairs">
+<param ve-map center="Q1752642" zoom="12">
 <param ve-map center="Q736439" zoom="12">
 <param ve-map center="Q922739" zoom="12">
 
