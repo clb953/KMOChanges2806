@@ -47,9 +47,10 @@ It soon became too difficult to look after Isabella at home, although initially 
 Thackeray satirises 18th century [Tunbridge Wells](/18c/18c-beau-nash-biography/) in _The Virginians_, set around 30 years before [Jane Austen](/austen/austen-tunbridge-wells) described its ‘long ascent, half rock, half sand’;[^ref9]  as a first response to the news of a family mésalliance, one character ‘had fits and ran off to the solitude of her dear rocks at Tunbridge Wells, where she did not see above forty people of a night at cards.’[^ref10]  But his regret is palpable in ‘Tunbridge Toys’, an article written towards the end of his life. ‘As I look up from my desk, I see Tunbridge Wells Common and the rocks, the strange familiar place which I remember forty years ago.’[^ref11] Readers surely empathise with  the middle-aged author when, like [Dickens](/dickens) revisiting the [Rochester](/dickens/dickens-medway) of his own childhood, he finds that everything has changed and the place no longer knows him.
 <param ve-image url="https://stor.artstor.org/stor/1b674697-28d5-4f4c-b603-89bfd74b0245" label="Tunbridge Wells Common" attribution="Kent Maps Online">
 <param ve-entity eid="Q665489" aliases="Tunbridge Wells">
-<param ve-entity eid="Q49218" aliases="Rochester">
+<param ve-entity eid="Q507517" aliases="Rochester">
+<param ve-map center="Q2001391" zoom="10">
 <param ve-map center="Q665489" zoom="13">
-<param ve-map center="Q49218" zoom="13">
+<param ve-map center="Q507517" zoom="13">
 
 ### Bibliography 
 Austen, Jane. _Sanditon_. _Northanger Abbey Lady Susan the Watsons Sanditon._ Oxford: OUP, 2008.   
