@@ -12,6 +12,7 @@ Anna Atkins, botanist and photographer, was born on the 16 March 1799, in Tonbri
 <param ve-entity eid="Q2220232" aliases="Hildenborough">
 <param ve-entity eid="Q2048526" aliases="Southborough">
 <param ve-entity eid="Q665489" aliases="Tunbridge Wells">
+<param ve-map center="Q2048526" zoom="12">
 <param ve-map center="Q936183" zoom="13">
 <param ve-map center="Q99678204" zoom="13">
 <param ve-map center="Q2220232" zoom="13">
