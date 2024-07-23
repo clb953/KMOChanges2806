@@ -5,8 +5,8 @@
 <!-- Global Entities -->
 <param ve-entity eid="Q618045" title="Margate">
 
-<!-- Base map centred on Canterbury -->
-<param ve-map center="Q618045" zoom="12">
+<!-- Base map centred on Thanet -->
+<param ve-map center="Q1752642" zoom="12">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="4478e36824ad9d1a" title="Greenwood 1829">
