@@ -11,7 +11,7 @@
 **Places:** Rochester, Strood, Chatham, Brompton, ‘Dingley Dell’.
 <br><br>
 _‘“Ah! fine place,” said the stranger, “glorious pile—frowning walls—tottering arches—dark nooks—crumbling staircases—Old cathedral too—earthy smell—pilgrims feet wore away the old steps—little Saxon doors—confessionals like money-takers’ boxes at theatres—queer customers those monks—Popes, and Lord Treasurers, and all sorts of old fellows, with great red faces, and broken noses, turning up every day—buff jerkins too—matchlocks—Sarcophagus—fine place—old legends too—strange stories: capital;”_  
-<br><br>
+<br>
 Alfred Jingle describes Rochester Bridge and Rochester Cathedral. 
 <param ve-image url="https://stor.artstor.org/stor/b20551a2-aa18-453c-b464-69a72531d6ac" label="Rochester Bridge" attribution="1828 Adlard">
 
