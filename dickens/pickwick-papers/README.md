@@ -10,7 +10,9 @@
 <br><br>
 **Places:** Rochester, Strood, Chatham, Brompton, ‘Dingley Dell’.
 <br><br>
-_‘“Ah! fine place,” said the stranger, “glorious pile—frowning walls—tottering arches—dark nooks—crumbling staircases—Old cathedral too—earthy smell—pilgrims feet wore away the old steps—little Saxon doors—confessionals like money-takers’ boxes at theatres—queer customers those monks—Popes, and Lord Treasurers, and all sorts of old fellows, with great red faces, and broken noses, turning up every day—buff jerkins too—matchlocks—Sarcophagus—fine place—old legends too—strange stories: capital;”_  Alfred Jingle describes Rochester Bridge and Rochester Cathedral. 
+_‘“Ah! fine place,” said the stranger, “glorious pile—frowning walls—tottering arches—dark nooks—crumbling staircases—Old cathedral too—earthy smell—pilgrims feet wore away the old steps—little Saxon doors—confessionals like money-takers’ boxes at theatres—queer customers those monks—Popes, and Lord Treasurers, and all sorts of old fellows, with great red faces, and broken noses, turning up every day—buff jerkins too—matchlocks—Sarcophagus—fine place—old legends too—strange stories: capital;”_  
+<br><br>
+Alfred Jingle describes Rochester Bridge and Rochester Cathedral. 
 <param ve-image url="https://stor.artstor.org/stor/b20551a2-aa18-453c-b464-69a72531d6ac" label="Rochester Bridge" attribution="1828 Adlard">
 
 Charles Dickens’s first serial novel, _The Pickwick Papers_ is preoccupied with Kentish geographies almost as much as it is with scenes of London life. From Mr Wardle’s idyllic ‘Manor Farm’ in Dingley Dell to hastily scribbled notes on Strood, Rochester, [Chatham](/dickens/dickens-chatham), and Brompton recovered from Mr Pickwick’s notebook, Kentish scenes have a place at the very heart of the serial.
