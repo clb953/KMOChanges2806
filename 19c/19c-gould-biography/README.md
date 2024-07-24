@@ -131,7 +131,7 @@ Elizabeth Gould was a woman of her time, raised to be a loving wife and doting m
        license="public domain"
        url="https://blog.biodiversitylibrary.org/wp-content/uploads/sites/4/2019/02/nla.obj-150672913-1-716x1024.jpg">
 
-# References
+## References
 
 [^1]: ["Elizabeth (Coxen) Gould (1804 - 1841)." _WikiTree_.  WikiTree Community, 5 Nov 2018. Web.](https://www.wikitree.com/wiki/Coxen-86) Accessed on 21 Jun. 2021
 [^2]: [Castellucci, Adria. “Elizabeth Gould: working wife, Victorian mother.” _The Australian Museum_. The Australian Museum, n.d. Web.](https://australian.museum/learn/collections/museum-archives-library/john-gould/elizabeth-gould-1804-1841/working-wife-and-mother/) Accessed on 1 Jul. 2021
