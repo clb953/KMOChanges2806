@@ -2,7 +2,7 @@
 <param ve-config title="The Posthumous Papers of the Pickwick Club" author="Katie Holdway" layout="vtl" banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Katie Holdway discusses the Kent places and landscapes which feature extensively in Dickens’s first serial novel, The Pickwick Papers.">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="a674cc941b6c08cf" title="Kent Ordnance Survey 1822">
+<param ve-map-layer active allmaps allmaps-id="4478e36824ad9d1a" title="Greenwood 1829">
 
 #
 
