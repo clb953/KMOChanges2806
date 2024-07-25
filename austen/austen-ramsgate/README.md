@@ -7,7 +7,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 <param ve-map center="Q736439" zoom="13">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="6215fa6c47c47347" title="Bartholomew Kent 1904">
+<param ve-map-layer active allmaps allmaps-id="3cec6f180298eeb9" title="Mudge 1801">
 
 #
 
