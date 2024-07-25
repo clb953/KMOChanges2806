@@ -3,6 +3,7 @@
 banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" discription="In this visual essay Susan Civale outlines the 18th century Ramsgate as visited by author Jane Austen.">
 
 <!-- Base map centred on Ramsgate -->
+<param ve-entity eid="Q736439" title="Ramsgate">
 <param ve-map center="Q736439" zoom="14">
 
 <!-- Historical map layers -->
