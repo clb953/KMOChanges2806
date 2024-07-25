@@ -2,8 +2,7 @@
 <param ve-config title="Jane Austen, Ramsgate" author="Susan Civale" layout="vtl" 
 banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" discription="In this visual essay Susan Civale outlines the 18th century Ramsgate as visited by author Jane Austen.">
 
-<!-- Base map centred on Ramsgate -->
-<param ve-entity eid="Q26375708" title="Ramsgate">
+<!-- Base map centred on Pegwell -->
 <param ve-map center="Q56648819" zoom="13.5">
 
 <!-- Historical map layers -->
