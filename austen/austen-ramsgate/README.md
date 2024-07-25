@@ -4,7 +4,7 @@ banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" 
 
 <!-- Base map centred on Ramsgate -->
 <param ve-entity eid="Q26375708" title="Ramsgate">
-<param ve-map center="Q26375708" zoom="13">
+<param ve-map center="Q56648819" zoom="13">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="3cec6f180298eeb9" title="Mudge 1801">
