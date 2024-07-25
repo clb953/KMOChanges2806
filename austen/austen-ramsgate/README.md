@@ -1,6 +1,12 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 <param ve-config title="Jane Austen, Ramsgate" author="Susan Civale" layout="vtl" 
-banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg">
+banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" discription="In this visual essay Susan Civale outlines the 18th century Ramsgate as visited by author Jane Austen.">
+
+<!-- Base map centred on Ramsgate -->
+<param ve-map center="Q736439" zoom="12">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="6215fa6c47c47347" title="Bartholomew Kent 1904">
 
 #
 
