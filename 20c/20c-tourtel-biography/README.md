@@ -25,7 +25,7 @@ The scenery drawn by Mary is idealist, often featuring vast green spaces, countr
 This clear influence is highlighted in the diary of Herbert Tourtel, Mary’s husband. On 21st August 1899, he wrote of an outing with Portia (his nickname for Mary): “We came on to the Patrixbourne farm in the hope of sketching some carthorses, but just arrived as they were going into the stables for their dinner. We came on to my rooms, had lunch, then returned and Portia sketched the horses. One man was very fond of his horses & quite in rapture with a sketch of his head which Pet made.”
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/Tourtel_cantmus__2.jpg" label="Kicking from ‘Horses at Work’" attribution="©Canterbury Museums and Galleries">
 <param ve-entity eid="Q7148079" aliases="Patrixbourne">
-<param ve-map center="Q7148079" zoom="12">
+<param ve-map center="Q7148079" zoom="13">
 
 It was not only the natural landscapes that inspired Tourtel’s work. She also created artworks inspired by the architecture, including the Cathedral at [Canterbury](/19c/19c-canterbury), where her father worked as a stonemason and stained-glass designer. This watercolour is entitled ‘Canterbury Cloisters,’ and was painted by Mary in 1894 when she was 20 years old. 
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/Tourtel_cantmus__5.jpg" label="Canterbury Cloisters" attribution="©Canterbury Museums and Galleries">
