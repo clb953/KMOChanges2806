@@ -17,7 +17,7 @@ Overview of Canterbury in the 20th century
 
 [Boom city](/canterbury/20c-canterbury-boom-city)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/canterbury/Abandoned_Burtons.jpg)
 
 In the interwar years the slopes to the north and south sides of the city were developed to build new semi and detached houses with two storey bay windows, bricks clad in hanging tiles, fake timbering and pebbledash. 
 
@@ -89,7 +89,7 @@ The Canterbury and Whitstable Railway, opened on May 3rd 1830, was the world’s
 
 [Canterbury Retail](/canterbury/20c-canterbury-retail-store/)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/canterbury/Abandoned_Burtons.jpg)
 
 The first retail department store in Canterbury, Lefevre’s, opened in 1926. The 20th century had arrived! It was a modern, new, store in Guildhall Street, which combined the Lefevre family drapers shop with buildings comprising the former Philosophical and Literary Institute, the Theatre Royal and its neighbouring Guildhall Tavern.
 
