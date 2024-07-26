@@ -9,12 +9,14 @@
 <param ve-entity eid="Q1506093" aliases="Romney Marsh">
 <param ve-entity eid="Q929286" aliases="Herne Bay">
 
+#
+
 In the early winter of 1909 Canterbury was literally waterlogged, assailed by severe weather that damaged hundreds of homes. Heavy rains from Tuesday 2 November, with a storm on the evening of Thursday 4, saw residents being rescued in boats, while enterprising postmen went round on carts and threw their letters through upstairs windows. More seriously, considerable damage was done in working-class areas such as Millers’ Field, Linden Grove, St Peter’s Place and Black Griffin Lane, leaving a number of old people trapped in their bedrooms with no fire-place and no means of keeping warm.
 <param ve-compare curtain url="https://stor.artstor.org/stor/53ab0dbd-6c38-4418-bfcb-8b7003287465" label="Flood, Pound Lane - 1909" attribution="Horace Spence, King's School, Canterbury, 1909.">
 <param ve-compare url="https://stor.artstor.org/stor/b54ab1d8-47ca-49e4-bf43-2e8b25d1776d" label="Picture of St Augustine's College - 2021" attribution="Photographer Unknown.">
 
 As schools were closed down in the worst affected areas, students from the [Simon Langton Boys’ Grammar School](https://thelangton.org.uk/) were still able to get in for their day’s lessons. But they seem to have made the best of this misfortune, as ‘It was quite fashionable to go down to the flooded districts and have free rides through the water. The mysterious examination of the playground by certain of “ours” was explained, when news came that certain schools were closing on account of the deluge'.  At the nearby King’s School the only casualty was, of all places, the drying room. 
-<param ve-image url="https://stor.artstor.org/stor/bf43a613-500a-415a-83d8-acef046c222d" label="Schools Closed sign" attribution="Photographer Unknown">
+<param ve-image url="https://stor.artstor.org/stor/bf43a613-500a-415a-83d8-acef046c222d" label="School closed sign" attribution="Photographer Unknown">
 
 It was not just Canterbury that was affected by the floods. The rain ‘caused floods and havoc in all the low-lying districts of Kent, while Thursday night’s storm did enormous damage in places including Chartham, Wye, Maidstone and Ashford. In [Romney Marsh](https://www.kent-maps.online/landscape/romney-writers) scores of sheep were drowned. [Seaside towns]( /seascape) were also badly hit: relief parties in Folkestone were up to their necks in water; Farthingale Farm near Dover was ‘like a huge lake’; and Herne Bay suffered serious damage to the Parade.  
 <param ve-image url="https://stor.artstor.org/stor/b509124b-447a-48a4-b718-bc40372c947a" label="Floods at Fordwich" attribution="Horace Spence Collection">
