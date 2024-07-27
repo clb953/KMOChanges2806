@@ -25,7 +25,7 @@ The Leas summed up Folkestone for her:
 <param ve-image url="https://stor.artstor.org/stor/217498b0-8935-4fb8-b565-6eb02161a180" label="Folkestone" attribution="Diana Hirst">
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q26314321" aliases="The Leas">
-<param ve-map center="Q375314" zoom="13">
+<param ve-map center="Q375314" zoom="12.75">
 
 The landscape, too, entranced her with its ‘wide views, though also mysterious interstices.  Inside the sea wall, the protected lands keep an illusory look of marine emptiness.’ Uphill it is ‘enticing, breathless and lush, with wandering dog paths and choked thickets.’[^ref3]  
 <br>
@@ -35,7 +35,7 @@ And she realised how fiction can be set in the real world: reading _Kipps_ by [H
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7f/H_G_Wells_pre_1922.jpg" label="H. G. Wells" attribution="H. G. Wells, Public domain, via Wikimedia Commons">
 <param ve-entity eid="Q967166" aliases="Hythe">
 <param ve-entity eid="Q375314" aliases="Folkestone">
-<param ve-map center="Q1000312" zoom="12.5">
+<param ve-map center="Q1000312" zoom="12.25">
 <param ve-map center="Q967166" zoom="14">
 <param ve-map center="Q375314" zoom="14">
 
