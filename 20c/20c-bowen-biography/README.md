@@ -50,8 +50,7 @@ For six years, between 1906 and 1912, she and her mother lived in rented houses 
 <param ve-entity eid="Q967166" aliases="Hythe">
 <param ve-entity eid="Q7440217" aliases="Seabrook">
 <param ve-entity eid="Q1870143" aliases="Lyminge">
-<param ve-entity eid="Q125344" aliases="Downe House School">
-<param ve-map center="Q3038318" zoom="11">
+<param ve-map center="Q1000312" zoom="11">
 
 Bowen emphasised the importance of East Kent to her in _Pictures and Conversations_, which devotes much of its first chapter, ‘Origins’, to Bowen’s reactions on her arrival in Kent, glancing only briefly at her Anglo-Irish antecedents. She would draw on the roots which she put down in those six Folkestone years for the settings for episodes in five of her ten novels. _The House in Paris_ (1935) and _The Death of the Heart_ (1938) have episodes in Hythe; _The Little Girls_ (1964) in Folkestone and Dymchurch; _Eva Trout_ (1969) in Broadstairs; while her war novel _The Heat of Day_ (1949) has an envoi set in Hythe. 
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/Bleak_House_Broadstairs_MJC.jpg" label="Bleak House, Broadstairs" attribution="Photographed by Martin Crowther">
