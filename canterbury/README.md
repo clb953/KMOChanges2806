@@ -83,7 +83,7 @@ The Canterbury and Whitstable Railway, opened on May 3rd 1830, was the world’s
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/a88a700f-df99-46c1-ba05-e5809a9d9e77)
 
-The first retail department store in Canterbury, Lefevre’s, opened in 1926. The 20th century had arrived! It was a modern, new, store in Guildhall Street, which combined the Lefevre family drapers shop with buildings comprising the former Philosophical and Literary Institute, the Theatre Royal and its neighbouring Guildhall Tavern.
+The first retail department store in Canterbury, Lefevre’s, opened in 1926. The 20th century had arrived! A modern, store in Guildhall Street, combining the Lefevre family drapers shop with the former Philosophical and Literary Institute, the Theatre Royal and the Guildhall Tavern.
 
 ## Canterbury Tales
 
