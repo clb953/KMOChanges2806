@@ -3,7 +3,7 @@
 banner="https://upload.wikimedia.org/wikipedia/commons/f/f7/Down_House_RC.jpg" description="In this visual essay, Diana Hirst considers the East Kent life of novelist, Elizabeth Bowen and the influence of that landscape on her work.">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="542e2ed0e875aeb4" title="OS East Kent 1945">
+<param ve-map-layer active allmaps allmaps-id="02beda348c553bd7" title="OS SE England & London 1933">
 
 #
                                               
