@@ -17,7 +17,7 @@ Overview of Canterbury in the 20th century
 
 [Boom city](/canterbury/20c-canterbury-boom-city)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/canterbury/Abandoned_Burtons.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/canterbury/Abandoned_Burtons.jpg)
 
 In the interwar years the slopes to the north and south sides of the city were developed to build new semi and detached houses with two storey bay windows, bricks clad in hanging tiles, fake timbering and pebbledash. 
 
@@ -33,7 +33,7 @@ In 1900, Canterbury had few small industries and was primarily a centre for rura
 
 [Canterbury Education](/canterbury/20c-canterbury-education)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent-map/images/blob/main/canterbury/Postcard_of_Kent_College_1930s.jpg)
 
 In view of the rich heritage of Christian learning it is not surprising that in the 20th century Canterbury became pre-eminent as a centre of education.
 
