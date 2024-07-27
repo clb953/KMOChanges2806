@@ -25,7 +25,7 @@ The Leas summed up Folkestone for her:
 <param ve-image url="https://stor.artstor.org/stor/217498b0-8935-4fb8-b565-6eb02161a180" label="Folkestone" attribution="Diana Hirst">
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q26314321" aliases="The Leas">
-<param ve-map center="Q375314" zoom="14">
+<param ve-map center="Q375314" zoom="13">
 
 The landscape, too, entranced her with its ‘wide views, though also mysterious interstices.  Inside the sea wall, the protected lands keep an illusory look of marine emptiness.’ Uphill it is ‘enticing, breathless and lush, with wandering dog paths and choked thickets.’[^ref3]  
 <br>
