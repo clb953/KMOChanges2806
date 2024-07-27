@@ -11,7 +11,7 @@ This collection of short essays covers a range of themes that help explain how C
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/1f/Westgate_Gardens%2C_Canterbury%2C_Kent.jpg)
 
-Overview of Canterbury in the 20th century
+The 20th-century map of Canterbury has to combine both the post  World War II reconstruction of the inner core of the historic city, and also the enlargement of the city in response to the expansion of population, education, tourism and commerce in the latter part of the century.
 
 ## Boom city
 
