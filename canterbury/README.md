@@ -53,14 +53,6 @@ In the early winter of 1909 Canterbury was literally waterlogged, assailed by se
 
 Tourism, for centuries a source of canterbury’s livelihood, brings a million visitors to the Cathedral each year. Organised school and educational visits come not only from London, but from far beyond, including the near Continent. 
 
-## Canterbury Homes
-
-[Canterbury Homes](/canterbury/20c-canterbury-homes)
-
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
-
-Canterbury is .
-
 ## Industrial Canterbury
 
 [Industrial Canterbury](/canterbury/20c-canterbury-industry)
@@ -81,7 +73,7 @@ After the war fierce controversy raged over plans for the redevelopment of the c
 
 [Canterbury Railways](/canterbury/20c-canterbury-railways)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5b/Canterbury_West_Station_-_geograph.org.uk_-_5033042.jpg)
 
 The Canterbury and Whitstable Railway, opened on May 3rd 1830, was the world’s first passenger steam railway. It became a branch of the London and South East Railway when in 1846 the main line reached Canterbury.
 
@@ -89,7 +81,7 @@ The Canterbury and Whitstable Railway, opened on May 3rd 1830, was the world’s
 
 [Canterbury Retail](/canterbury/20c-canterbury-retail-store/)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/canterbury/Abandoned_Burtons.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/a88a700f-df99-46c1-ba05-e5809a9d9e77)
 
 The first retail department store in Canterbury, Lefevre’s, opened in 1926. The 20th century had arrived! It was a modern, new, store in Guildhall Street, which combined the Lefevre family drapers shop with buildings comprising the former Philosophical and Literary Institute, the Theatre Royal and its neighbouring Guildhall Tavern.
 
