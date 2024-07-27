@@ -21,7 +21,7 @@ After the comparative sobriety of the buildings in Dublin and at Bowen’s Court
 
 The Leas summed up Folkestone for her:      
 <br>
-'Buildings either were of rubicund brick, with yellow stone trimmings, or stucco, white, cream, pearl or dove-grey. Everywhere were hanging baskets of pink geraniums. . . . I perceived in Folkestone an absolute, insulating self-contentment. Nothing other than Folkestone did it aspire to. An English ‘resort’ versus the Irish Capital. The blotting-out of all my visual past was so total as to become giddying.'_[^ref2]   
+'Buildings either were of rubicund brick, with yellow stone trimmings, or stucco, white, cream, pearl or dove-grey. Everywhere were hanging baskets of pink geraniums. . . . I perceived in Folkestone an absolute, insulating self-contentment. Nothing other than Folkestone did it aspire to. An English ‘resort’ versus the Irish Capital. The blotting-out of all my visual past was so total as to become giddying.'[^ref2]   
 <param ve-image url="https://stor.artstor.org/stor/217498b0-8935-4fb8-b565-6eb02161a180" label="Folkestone" attribution="Diana Hirst">
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q26314321" aliases="The Leas">
@@ -39,7 +39,7 @@ And she realised how fiction can be set in the real world: reading _Kipps_ by [H
 <param ve-map center="Q967166" zoom="14">
 <param ve-map center="Q375314" zoom="14">
 
-For Bowen the child, ‘England’ _was Kent_, and ‘above all, Kent’s dramatisable coastline’.[^ref7]   Not only did she experience Kent as a gateway to England, she became aware that it was the gateway to a wider world when one day, walking along the Leas, she found to her amazement that France was a real place: it could be seen! Up till then it had existed as something abstract, in the language and _moeurs_ of her mother and her aunts, who had been brought up by a Swiss-French governess. 
+For Bowen the child, ‘England’ _was Kent_, and ‘above all, Kent’s dramatisable coastline’.[^ref7]  Not only did she experience Kent as a gateway to England, she became aware that it was the gateway to a wider world when one day, walking along the Leas, she found to her amazement that France was a real place: it could be seen! Up till then it had existed as something abstract, in the language and _moeurs_ of her mother and her aunts, who had been brought up by a Swiss-French governess. 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/f/f3/The_Lees_-i.e.%2C_Leas-%2C_Folkestone%2C_England-LCCN2002696746.jpg" label="The Leas, Folkestone" attribution="Photochrom Print Collection, Public domain, via Wikimedia Commons">
  
 **Elizabeth Bowen at Downe House in 1916.**   
