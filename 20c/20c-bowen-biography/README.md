@@ -51,8 +51,8 @@ For six years, between 1906 and 1912, she and her mother lived in rented houses 
 <param ve-entity eid="Q7440217" aliases="Seabrook">
 <param ve-entity eid="Q1870143" aliases="Lyminge">
 <param ve-entity eid="Q125344" aliases="Downe">
-<!-- Base map centred on Etchinghill -->
-<param ve-map center="Q9255618" zoom="12.5">
+<!-- Base map centred on Beachborough -->
+<param ve-map center="Q2892781" zoom="12.5">
 <param ve-map center="Q125344" zoom="14">
 
 Bowen emphasised the importance of East Kent to her in _Pictures and Conversations_, which devotes much of its first chapter, ‘Origins’, to Bowen’s reactions on her arrival in Kent, glancing only briefly at her Anglo-Irish antecedents. She would draw on the roots which she put down in those six Folkestone years for the settings for episodes in five of her ten novels. _The House in Paris_ (1935) and _The Death of the Heart_ (1938) have episodes in Hythe; _The Little Girls_ (1964) in Folkestone and Dymchurch; _Eva Trout_ (1969) in Broadstairs; while her war novel _The Heat of Day_ (1949) has an envoi set in Hythe. 
@@ -61,7 +61,7 @@ Bowen emphasised the importance of East Kent to her in _Pictures and Conversatio
 <param ve-entity eid="Q2796278" aliases="Dymchurch">
 <param ve-entity eid="Q922739" aliases="Broadstairs">
 <param ve-entity eid="Q967166" aliases="Hythe">
-<param ve-map center="Q967166" zoom="11">
+<param ve-map center="Q967166" zoom="12">
 <param ve-map center="Q375314" zoom="14">
 <param ve-map center="Q967166" zoom="14">
 <param ve-map center="Q2796278" zoom="14">
@@ -71,7 +71,8 @@ Towards the end of the Second World War Bowen visited East Kent on several occas
 <param ve-entity eid="Q967166" aliases="Hythe">
 <param ve-entity eid="Q179224" aliaases="Dover"> 
 <param ve-entity eid="Q375314" aliases="Folkestone">
-<param ve-map center="Q375314" zoom="12.5">
+<!-- Base map centred on Capel-le-Ferne -->
+<param ve-map center="Q1006783" zoom="12.5">
 <param ve-map center="Q967166" zoom="14">
 <param ve-map center="Q179224" zoom="14">
 <param ve-map center="Q375314" zoom="14">
