@@ -35,7 +35,7 @@ And she realised how fiction can be set in the real world: reading _Kipps_ by [H
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7f/H_G_Wells_pre_1922.jpg" label="H. G. Wells" attribution="H. G. Wells, Public domain, via Wikimedia Commons">
 <param ve-entity eid="Q967166" aliases="Hythe">
 <param ve-entity eid="Q375314" aliases="Folkestone">
-<param ve-map center="Q1000312" zoom="12">
+<param ve-map center="Q1000312" zoom="12.5">
 <param ve-map center="Q967166" zoom="14">
 <param ve-map center="Q375314" zoom="14">
 
