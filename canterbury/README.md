@@ -57,7 +57,7 @@ Tourism, for centuries a source of canterbury’s livelihood, brings a million v
 
 [Industrial Canterbury](/canterbury/20c-canterbury-industry)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/c2a24edf-49f6-48fd-9c29-11731fb15d16)
 
 One of the largest upholstery tanneries in Europe prospered throughout the 20th century within the city walls until its closure in 2002. 
 
