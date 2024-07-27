@@ -85,4 +85,12 @@ The Canterbury and Kent road and railway networks developed throughout the 20th 
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/5/5b/Canterbury_West_Station_-_geograph.org.uk_-_5033042.jpg)
 
-Canterbury West station now comprises an impressive set of Grade 2 listed railway buildings. The Goods Shed was about to be demolished in 1986, before being saved by a preservation order. 
+Canterbury West station now comprises an impressive set of Grade 2 listed railway buildings. The Goods Shed was about to be demolished in 1986, before being saved by a preservation order.
+
+## Canterbury in World War II
+
+[Canterbury in World War II](/canterbury/20c-canterbury-ww2)
+
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2d/Bomb_damage_Canterbury_1940.jpg)
+
+The destruction of World War II came to Canterbury in the night of 1 June 1942, the worst of a series of air raids, when high explosive and incendiary bombs rained down on the old city.
