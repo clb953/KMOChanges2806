@@ -35,8 +35,10 @@ To the south-west of the imaginal realm around Bishopsbourne lies a place which 
 One unbearably hot day the adolescent Brooke decided to walk there. First he took a train to Elham, along a line which has itself now become a present absent, marked out by isolated bridges, tunnels and footpaths between [Canterbury](/canterbury/20c-canterbury-home) and Folkestone. Setting out on foot, he got lost, and suffered ardours both physical and mental, before arriving only to find that The Dog had closed down. The experiences empty his inner and outer world ‘of life and meaning,’ leaving ‘an anarchic chaos of meaningless images.’[^ref8] It is only appropriate, then, that Brooke’s strange, haunting novel _The Image of a Drawn Sword_ identifies Clambercrown as the place from which World War Three spreads across Britain, with the enemy establishing its advance H.Q. in The Dog. [^ref9]
 <param ve-image url="https://stor.artstor.org/stor/d80318dc-0229-4020-9ccf-28174d5ef4c2" label="Elham Valley Railway">
 <param ve-entity eid="Q866348" aliases="Bishopbourne">
+<param ve-entity eid="Q1981740" aliases="Elham">
 <param ve-entity eid="Q5360120" aliases="Elham Valley Railway">
 <param ve-entity eid="Q29303" aliases="Canterbury">
+<param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-map center="Q866348" zoom="13">
 <param ve-map center="Q29303" zoom="13">
 
