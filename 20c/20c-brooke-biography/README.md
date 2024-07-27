@@ -19,8 +19,8 @@ Brooke was born into a well-to-do family in [Sandgate](/placesqz/sandgate-overvi
 <param ve-image url="https://stor.artstor.org/stor/fab81d15-c1f8-43fc-8678-ae80bfbf75e3" label="Ivy Cottage" attribution="Martin Crowther">
 <param ve-entity eid="Q1000312" aliases="Sandgate">
 <param ve-entity eid="Q866348" aliases="Bishopbourne">
-<param ve-map center="Q1000312" zoom="12">
-<param ve-map center="Q866348" zoom="12">
+<param ve-map center="Q1000312" zoom="13">
+<param ve-map center="Q866348" zoom="13">
 
 Brooke imagines the Bishopsbourne of his childhood as an idyll, a kind of English middle-class Eden. He seems to recall ‘the village… held in a perpetual trance of summer afternoons.’[^ref3] It becomes ‘the symbol of a happiness’ which promised to return every year.[^ref4]
 Yet to his childhood imagination this entrancing, languid summerland was constantly threatened by a winterland of subterranean creatures, ‘a dark, alien race, their naked bodies crouched in narrow, pitch-black corridors,’ who might emerge at any moment to abduct him to their terrible caverns.[^ref5] Liminal places – shafts into the underworld – from which these demonic presences may emerge, dotted the countryside of his childhood. A water tower which still stands mysteriously and menacingly in Woodlands Wood by Adisham was one of their outlets. One day, out walking with his nurse, to his horror he actually saw them there: ‘they clung like monkeys to the railing round the tank [of the water tower].’[^ref6] He and the nurse turn and flee. What he had seen were [East Kent miners](/20c/20c-kent-miners) larking around on a Bank Holiday outing, industry and other classes breaking into his bourgeois paradise. The water tower is still there, but the miners are all gone, now.
