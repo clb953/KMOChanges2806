@@ -37,7 +37,7 @@ And she realised how fiction can be set in the real world: reading _Kipps_ by [H
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7f/H_G_Wells_pre_1922.jpg" label="H. G. Wells" attribution="H. G. Wells, Public domain, via Wikimedia Commons">
 <param ve-entity eid="Q967166" aliases="Hythe">
 <param ve-entity eid="Q375314" aliases="Folkestone">
-<param ve-map center="Q1000312" zoom="12">
+<param ve-map center="Q1000312" zoom="12.5">
 <param ve-map center="Q967166" zoom="14">
 <param ve-map center="Q375314" zoom="14">
 
@@ -54,7 +54,7 @@ For six years, between 1906 and 1912, she and her mother lived in rented houses 
 <param ve-entity eid="Q1870143" aliases="Lyminge">
 <param ve-entity eid="Q125344" aliases="Downe">
 <!-- Base map centred on Etchinghill -->
-<param ve-map center="Q9255618" zoom="12">
+<param ve-map center="Q9255618" zoom="13">
 <param ve-map center="Q125344" zoom="14">
 
 Bowen emphasised the importance of East Kent to her in _Pictures and Conversations_, which devotes much of its first chapter, ‘Origins’, to Bowen’s reactions on her arrival in Kent, glancing only briefly at her Anglo-Irish antecedents. She would draw on the roots which she put down in those six Folkestone years for the settings for episodes in five of her ten novels. _The House in Paris_ (1935) and _The Death of the Heart_ (1938) have episodes in Hythe; _The Little Girls_ (1964) in Folkestone and Dymchurch; _Eva Trout_ (1969) in Broadstairs; while her war novel _The Heat of Day_ (1949) has an envoi set in Hythe. 
@@ -72,7 +72,11 @@ Bowen emphasised the importance of East Kent to her in _Pictures and Conversatio
 Towards the end of the Second World War Bowen visited East Kent on several occasions and wrote articles after these visits. The first was to Hythe in February 1944, and her pride for the town’s history and for the way it had suffered, yet survived, the war is evident.[^ref9]  Four months later she visited Dover, writing for the Ministry of Information about D-Day preparations in the harbour. Since these preparations were phoney – she describes the mock invasion barges as having ‘a strange light air, almost of unreality’ – the article was obviously intended as a piece of diversionary propaganda.[^ref10]  A visit to Folkestone a year later reviewed in great detail the effects of the war on the town which had at one time been hailed as the ‘Queen of the South Coast’. She ends by warning Folkestone to _‘get going’_. ‘War damage cannot account for everything; for years before this war she had been feeling the draught’.[^ref11]  Bowen would surely have welcomed the work of the de Haan family since the 1950s in changing the fortunes of the town.
 <param ve-entity eid="Q967166" aliases="Hythe">
 <param ve-entity eid="Q179224" aliaases="Dover"> 
-<param ve-map center="Q967166" zoom="12">
+<param ve-entity eid="Q375314" aliases="Folkestone">
+<param ve-map center="Q375314" zoom="12.5">
+<param ve-map center="Q967166" zoom="14">
+<param ve-map center="Q179224" zoom="14">
+<param ve-map center="Q375314" zoom="14">
 
 Each of those articles mentions the Cinque Ports in its opening paragraph. This part of East Kent’s history was evidently something very important to her, and she must have been very pleased to be invited to write the foreword to the 1952 Batsford Book, _The Cinque Ports_. ‘Few parts of the coast of England,’ she says ‘could offer a more ideal study for the historical geographer than does this, with its layer upon layer of extinct, eroded or shrunken civilisations’.  She pays tribute to the character of the landscape: ‘the somnolent beauty of landlocked Romney; Sandwich’s steep-roofed streets lit by estuarial gleams; the changing light over Hythe, with its Great Marsh vista, and Dover’s strange blend of the utilitarian, military and romantic.’[^ref12] 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/6/61/High_tide_on_the_River_Stour%2C_near_Gazen_Salts%2C_Sandwich_-_geograph.org.uk_-_736584.jpg" label="High tide on the River Stour, near Gazen Salts, Sandwich" attribution="Nick Smith / High tide on the River Stour, near Gazen Salts, Sandwich via Wikimedia Commons">
