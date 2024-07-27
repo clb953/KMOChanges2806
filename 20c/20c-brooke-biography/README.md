@@ -26,8 +26,8 @@ Yet to his childhood imagination this entrancing, languid summerland was constan
 <param ve-image url="https://stor.artstor.org/stor/0095b092-a8e8-4d8f-b644-ad93dd98f9f8" label="The Water Tower, Woodlands Wood, Adisham">
 <param ve-entity eid="Q866348" aliases="Bishopbourne">
 <param ve-entity eid="Q110707352" aliases="Adisham Water Tower">
-<param ve-map center="Q866348" zoom="14">
 <param ve-map center="Q110707352" zoom="14">
+<param ve-map center="Q866348" zoom="14">
 
 To the south-west of the imaginal realm around Bishopsbourne lies a place which is an absence, a negation, which threatens to sap meaning out of Brooke’s mythopoeic Kent. This is much worse than the eternal struggle of Heaven and Earth, as it drains his imagination of life and energy. He calls it ‘an ill-defined, uncharted kingdom,’[^ref7], at the centre of which is a place which is not a place with the name Clambercrown and a pub which is not a pub, called The Dog. 
 <br><br>
