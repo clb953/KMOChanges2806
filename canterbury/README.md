@@ -17,7 +17,7 @@ The 20th-century map of Canterbury has to combine both the post  World War II re
 
 [Boom city](/canterbury/20c-canterbury-boom-city)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/images/main/canterbury/Abandoned_Burtons.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/76/Houses_on_Plumstead_Road_East%2C_Norwich_-_geograph.org.uk_-_4933766.jpg)
 
 In the interwar years the slopes to the north and south sides of the city were developed to build new semi and detached houses with two storey bay windows, bricks clad in hanging tiles, fake timbering and pebbledash. 
 
