@@ -25,7 +25,7 @@ In the interwar years the slopes to the north and south sides of the city were d
 
 [Canterbury Commerce](/canterbury/20c-canterbury-commerce)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/5129a00d-b3c8-46f1-b40c-fe241d7d0479)
 
 In 1900, Canterbury had few small industries and was primarily a centre for rural commerce, to which the famous Cathedral attracted visitors. Between 1900 and 1950, this characterisation changed very little.
 
