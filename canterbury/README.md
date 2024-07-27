@@ -5,23 +5,23 @@ This collection of short essays covers a range of themes that help explain how C
 # &nbsp; 
 `.cards`
 
-## Overview
+## Canterbury Overview
 
-[Overview](/canterbury/20c-canterbury-overview)
+[Canterbury Overview](/canterbury/20c-canterbury-overview)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/1/1f/Westgate_Gardens%2C_Canterbury%2C_Kent.jpg)
 
 The 20th-century map of Canterbury has to combine both the post  World War II reconstruction of the inner core of the historic city, and also the enlargement of the city in response to the expansion of population, education, tourism and commerce in the latter part of the century.
 
-## Boom city
+## Canterbury Boom City
 
-[Boom city](/canterbury/20c-canterbury-boom-city)
+[Canterbury Boom City](/canterbury/20c-canterbury-boom-city)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/7/76/Houses_on_Plumstead_Road_East%2C_Norwich_-_geograph.org.uk_-_4933766.jpg)
 
 In the interwar years the slopes to the north and south sides of the city were developed to build new semi and detached houses with two storey bay windows, bricks clad in hanging tiles, fake timbering and pebbledash. 
 
-## Canterbury commerce
+## Canterbury Commerce
 
 [Canterbury Commerce](/canterbury/20c-canterbury-commerce)
 
@@ -53,9 +53,9 @@ In the early winter of 1909 Canterbury was literally waterlogged, assailed by se
 
 Tourism, for centuries a source of canterbury’s livelihood, brings a million visitors to the Cathedral each year. Organised school and educational visits come not only from London, but from far beyond, including the near Continent. 
 
-## Industrial Canterbury
+## Canterbury Industrial 
 
-[Industrial Canterbury](/canterbury/20c-canterbury-industry)
+[Canterbury Industrial](/canterbury/20c-canterbury-industry)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/c2a24edf-49f6-48fd-9c29-11731fb15d16)
 
@@ -119,9 +119,9 @@ Between 1900 and 1962 all traffic on the A2 from London to Dover passed through 
 By the end of the 20th century Canterbury was home to three universities, the University for the Creative Arts (founded as the Canterbury School of Art and Architecture 1948), 
 Canterbury Christ Church University (formerly College of Education founded 1962) and the University of Kent (founded 1965).
 
-## Canterbury in World War II
+## Canterbury World War II
 
-[Canterbury in World War II](/canterbury/20c-canterbury-ww2)
+[Canterbury World War II](/canterbury/20c-canterbury-ww2)
 
 ![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/2/2d/Bomb_damage_Canterbury_1940.jpg)
 
