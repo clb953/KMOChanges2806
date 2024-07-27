@@ -13,7 +13,7 @@ Elizabeth Bowen loved East Kent. When she was uprooted from Ireland and transpla
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/The_Kent_coast_(IA_kentcoast00lewirich).jpg" label="Lewis, Arthur D, The Kent Coast" attribution="Lewis, Arthur D, Public domain, via Wikimedia Commons">
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <!-- Base map centred on Capel-le-Ferne -->
-<param ve-map center="Q1006783" zoom="12.5">
+<param ve-map center="Q1006783" zoom="13">
 
 After the comparative sobriety of the buildings in Dublin and at Bowen’s Court in County Cork the child’s imagination was excited by the variety of decoration on the buildings in the area. She recalled these impressions in _Pictures and Conversations_, her unfinished autobiography:   
 <br>
