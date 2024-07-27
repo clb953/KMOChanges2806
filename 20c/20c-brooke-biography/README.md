@@ -11,7 +11,6 @@ Jocelyn Brooke spent most of his life in the little village of Bishopsbourne, wh
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q866348" aliases="Bishopbourne">
 <param ve-entity eid="Q5360119" aliases="Elham Valley">
-<param ve-map center="Q7148079" zoom="12">
 <param ve-map center="Q866348" zoom="13">
 <param ve-map center="Q29303" zoom="13">
 
