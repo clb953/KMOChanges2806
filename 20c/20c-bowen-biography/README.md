@@ -72,7 +72,7 @@ Towards the end of the Second World War Bowen visited East Kent on several occas
 <param ve-entity eid="Q179224" aliaases="Dover"> 
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <!-- Base map centred on Capel-le-Ferne -->
-<param ve-map center="Q1006783" zoom="12.5">
+<param ve-map center="Q1006783" zoom="11.5">
 <param ve-map center="Q967166" zoom="14">
 <param ve-map center="Q179224" zoom="14">
 <param ve-map center="Q375314" zoom="14">
