@@ -41,7 +41,7 @@ In view of the rich heritage of Christian learning it is not surprising that in 
 
 [Canterbury Floods](/canterbury/20c-canterbury-overview)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://upload.wikimedia.org/wikipedia/commons/c/cc/High_Street%2C_Canterbury%2C_England_%2849976428122%29.jpg)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/53ab0dbd-6c38-4418-bfcb-8b7003287465)
 
 In the early winter of 1909 Canterbury was literally waterlogged, assailed by severe weather that damaged hundreds of homes.
 
