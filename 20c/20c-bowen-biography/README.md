@@ -13,7 +13,7 @@ Elizabeth Bowen loved East Kent. When she was uprooted from Ireland and transpla
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/The_Kent_coast_(IA_kentcoast00lewirich).jpg" label="Lewis, Arthur D, The Kent Coast" attribution="Lewis, Arthur D, Public domain, via Wikimedia Commons">
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <!-- Base map centred on Capel-le-Ferne -->
-<param ve-map center="Q1006783" zoom="13">
+<param ve-map center="Q1006783" zoom="12.75">
 
 After the comparative sobriety of the buildings in Dublin and at Bowen’s Court in County Cork the child’s imagination was excited by the variety of decoration on the buildings in the area. She recalled these impressions in _Pictures and Conversations_, her unfinished autobiography:   
 <br>
@@ -27,7 +27,7 @@ The Leas summed up Folkestone for her:
 <param ve-entity eid="Q375314" aliases="Folkestone">
 <param ve-entity eid="Q26314321" aliases="The Leas">
 <!-- Base map centred on Capel-le-Ferne -->
-<param ve-map center="Q1006783" zoom="13.5">
+<param ve-map center="Q1006783" zoom="12.75">
 
 The landscape, too, entranced her with its ‘wide views, though also mysterious interstices.  Inside the sea wall, the protected lands keep an illusory look of marine emptiness.’ Uphill it is ‘enticing, breathless and lush, with wandering dog paths and choked thickets.’[^ref3]  
 <br>
