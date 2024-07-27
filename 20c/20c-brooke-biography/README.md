@@ -18,16 +18,16 @@ Brooke was born into a well-to-do family in [Sandgate](/placesqz/sandgate-overvi
 <param ve-image url="https://stor.artstor.org/stor/fab81d15-c1f8-43fc-8678-ae80bfbf75e3" label="Ivy Cottage" attribution="Martin Crowther">
 <param ve-entity eid="Q1000312" aliases="Sandgate">
 <param ve-entity eid="Q866348" aliases="Bishopbourne">
-<param ve-map center="Q1000312" zoom="13">
-<param ve-map center="Q866348" zoom="13">
+<param ve-map center="Q1000312" zoom="14">
+<param ve-map center="Q866348" zoom="14">
 
 Brooke imagines the Bishopsbourne of his childhood as an idyll, a kind of English middle-class Eden. He seems to recall ‘the village… held in a perpetual trance of summer afternoons.’[^ref3] It becomes ‘the symbol of a happiness’ which promised to return every year.[^ref4]
 Yet to his childhood imagination this entrancing, languid summerland was constantly threatened by a winterland of subterranean creatures, ‘a dark, alien race, their naked bodies crouched in narrow, pitch-black corridors,’ who might emerge at any moment to abduct him to their terrible caverns.[^ref5] Liminal places – shafts into the underworld – from which these demonic presences may emerge, dotted the countryside of his childhood. A water tower which still stands mysteriously and menacingly in Woodlands Wood by Adisham was one of their outlets. One day, out walking with his nurse, to his horror he actually saw them there: ‘they clung like monkeys to the railing round the tank [of the water tower].’[^ref6] He and the nurse turn and flee. What he had seen were [East Kent miners](/20c/20c-kent-miners) larking around on a Bank Holiday outing, industry and other classes breaking into his bourgeois paradise. The water tower is still there, but the miners are all gone, now.
 <param ve-image url="https://stor.artstor.org/stor/0095b092-a8e8-4d8f-b644-ad93dd98f9f8" label="The Water Tower, Woodlands Wood, Adisham">
 <param ve-entity eid="Q866348" aliases="Bishopbourne">
 <param ve-entity eid="Q110707352" aliases="Adisham Water Tower">
-<param ve-map center="Q866348" zoom="13">
-<param ve-map center="Q110707352" zoom="13">
+<param ve-map center="Q866348" zoom="14">
+<param ve-map center="Q110707352" zoom="14">
 
 To the south-west of the imaginal realm around Bishopsbourne lies a place which is an absence, a negation, which threatens to sap meaning out of Brooke’s mythopoeic Kent. This is much worse than the eternal struggle of Heaven and Earth, as it drains his imagination of life and energy. He calls it ‘an ill-defined, uncharted kingdom,’[^ref7], at the centre of which is a place which is not a place with the name Clambercrown and a pub which is not a pub, called The Dog. 
 <br><br>
@@ -38,15 +38,15 @@ One unbearably hot day the adolescent Brooke decided to walk there. First he too
 <param ve-entity eid="Q5360120" aliases="Elham Valley Railway">
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q375314" aliases="Folkestone">
-<param ve-map center="Q866348" zoom="13">
-<param ve-map center="Q29303" zoom="13">
+<param ve-map center="Q866348" zoom="14">
+<param ve-map center="Q29303" zoom="14">
 
 Brooke’s re-imaginings lend national significance to this otherwise relatively obscure part of East Kent: England’s political and psychological, metaphysical and mythological stability seems to depend on events here. His visionary landscapes of promise and loss, paradise and terror draw in part on existing local folklore. Bishopsbourne’s little river, the Nailbourne, is one of the five traditional woe-waters of England, intermittent streams whose flowing is understood to foretell disaster for the nation, ‘the fell season,/Predestined and foreknown’ as Brooke’s poem ‘Month’s Mind’ has it.[^ref10] Even when the riverbed is dry, the beautiful scenery of the Elham Valley is haunted by the secret knowledge that disaster is inevitable, that the waters, like Brooke’s subterranean demons, will sooner or later burst above ground.  
 <br>
 Brooke also makes reference to Old England’s Hole, a landscape feature halfway up Bridge Hill, just outside Bishopsbourne. ‘Local legend asserted,’ he writes, ‘that the Britons had entrenched themselves here in some last, desperate stand against the advancing Romans.’[^ref11] Brooke’s landscape is where England is lost: a place of nostalgia for what once was but maybe again.
 <param ve-image url="https://stor.artstor.org/stor/80704dae-34f6-4afe-bbfe-f1890b4a0994" label="Nailbourne" attribution="Martin Crowther">
 <param ve-entity eid="Q866348" aliases="Bishopbourne">
-<param ve-map center="Q866348" zoom="12">
+<param ve-map center="Q866348" zoom="14">
 
 ### References
 [^ref1]: Jocelyn Brooke, _The Orchid Trilogy_ (Harmondsworth: Penguin Books, 1981) 257.
