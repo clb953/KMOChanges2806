@@ -65,7 +65,7 @@ One of the largest upholstery tanneries in Europe prospered throughout the 20th 
 
 [Canterbury Planning](/canterbury/20c-canterbury-planning)
 
-![](https://iiif.juncture-digital.org/thumbnail?url=https://raw.githubusercontent.com/kent-map/kent/main/canterbury/images/xxx.JPG)
+![](https://iiif.juncture-digital.org/thumbnail?url=https://stor.artstor.org/stor/de8f1c7f-cf4d-46ce-bf61-6513e8cd047a)
 
 After the war fierce controversy raged over plans for the redevelopment of the city centre.
 
