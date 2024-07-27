@@ -59,6 +59,7 @@ Bowen emphasised the importance of East Kent to her in _Pictures and Conversatio
 <param ve-entity eid="Q2796278" aliases="Dymchurch">
 <param ve-entity eid="Q922739" aliases="Broadstairs">
 <param ve-entity eid="Q967166" aliases="Hythe">
+<param ve-map center="Q967166" zoom="13">
 <param ve-map center="Q375314" zoom="14">
 <param ve-map center="Q967166" zoom="14">
 <param ve-map center="Q2796278" zoom="14">
