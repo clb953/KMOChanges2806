@@ -11,7 +11,9 @@ Jocelyn Brooke spent most of his life in the little village of Bishopsbourne, wh
 <param ve-entity eid="Q29303" aliases="Canterbury">
 <param ve-entity eid="Q866348" aliases="Bishopbourne">
 <param ve-entity eid="Q5360119" aliases="Elham Valley">
-<param ve-map center="Q866348" zoom="12">
+<param ve-map center="Q7148079" zoom="12">
+<param ve-map center="Q866348" zoom="13">
+<param ve-map center="Q29303" zoom="13">
 
 Brooke was born into a well-to-do family in [Sandgate](/placesqz/sandgate-overview). In 1911 they started spending holidays in a cottage in Bishopsbourne, which his father later bought. Jocelyn’s nanny, of whom he was excessively fond, went to live in Ivy Cottage in around 1923, and the young Jocelyn was a frequent visitor. From 1938 onwards he lived there more or less permanently, apart from spells in the armed forces during and immediately following the Second World War. 
 <param ve-image url="https://stor.artstor.org/stor/fab81d15-c1f8-43fc-8678-ae80bfbf75e3" label="Ivy Cottage" attribution="Martin Crowther">
