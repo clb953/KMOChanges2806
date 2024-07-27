@@ -50,7 +50,7 @@ For six years, between 1906 and 1912, she and her mother lived in rented houses 
 <param ve-entity eid="Q967166" aliases="Hythe">
 <param ve-entity eid="Q7440217" aliases="Seabrook">
 <param ve-entity eid="Q1870143" aliases="Lyminge">
-<param ve-map center="Q1000312" zoom="11">
+<param ve-map center="Q1000312" zoom="12">
 
 Bowen emphasised the importance of East Kent to her in _Pictures and Conversations_, which devotes much of its first chapter, ‘Origins’, to Bowen’s reactions on her arrival in Kent, glancing only briefly at her Anglo-Irish antecedents. She would draw on the roots which she put down in those six Folkestone years for the settings for episodes in five of her ten novels. _The House in Paris_ (1935) and _The Death of the Heart_ (1938) have episodes in Hythe; _The Little Girls_ (1964) in Folkestone and Dymchurch; _Eva Trout_ (1969) in Broadstairs; while her war novel _The Heat of Day_ (1949) has an envoi set in Hythe. 
 <param ve-image url="https://raw.githubusercontent.com/kent-map/images/main/20c/Bleak_House_Broadstairs_MJC.jpg" label="Bleak House, Broadstairs" attribution="Photographed by Martin Crowther">
@@ -58,8 +58,11 @@ Bowen emphasised the importance of East Kent to her in _Pictures and Conversatio
 <param ve-entity eid="Q2796278" aliases="Dymchurch">
 <param ve-entity eid="Q922739" aliases="Broadstairs">
 <param ve-entity eid="Q967166" aliases="Hythe">
-<param ve-map center="Q922739" zoom="11">
- 
+<param ve-map center="Q375314" zoom="14">
+<param ve-map center="Q967166" zoom="14">
+<param ve-map center="Q2796278" zoom="14">
+<param ve-map center="Q922739" zoom="14">
+
 Towards the end of the Second World War Bowen visited East Kent on several occasions and wrote articles after these visits. The first was to Hythe in February 1944, and her pride for the town’s history and for the way it had suffered, yet survived, the war is evident.[^ref9]  Four months later she visited Dover, writing for the Ministry of Information about D-Day preparations in the harbour. Since these preparations were phoney – she describes the mock invasion barges as having ‘a strange light air, almost of unreality’ – the article was obviously intended as a piece of diversionary propaganda.[^ref10]  A visit to Folkestone a year later reviewed in great detail the effects of the war on the town which had at one time been hailed as the ‘Queen of the South Coast’. She ends by warning Folkestone to _‘get going’_. ‘War damage cannot account for everything; for years before this war she had been feeling the draught’.[^ref11]  Bowen would surely have welcomed the work of the de Haan family since the 1950s in changing the fortunes of the town.
 <param ve-entity eid="Q967166" aliases="Hythe">
 <param ve-entity eid="Q179224" aliaases="Dover"> 
@@ -79,7 +82,7 @@ In 1964 she moved back to Hythe and to her last home, a small red brick box of a
 In _Pictures and Conversations_, Bowen reflects that ‘Possibly it was England made me a novelist’.[^ref13]  Possibly it was East Kent made her a novelist?
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/2/27/St_Leonard%27s_church%2C_Hythe.jpg" label="St Leonard's Church, Hythe" attribution="DeFacto, CC BY-SA 4.0, via Wikimedia Commons">
 <param ve-entity eid="Q967166" aliases="Hythe">
-<param ve-map center="Q967166" zoom="13">
+<param ve-map center="Q967166" zoom="14">
 
 ### References
 
