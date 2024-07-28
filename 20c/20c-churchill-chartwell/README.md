@@ -1,12 +1,18 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
-<param ve-config title="Sir Winston Churchill (1874-1965)" author="Michelle Whitham" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/1/1d/Chartwell_and_Surrounding_Land.jpg">
+<param ve-config title="Sir Winston Churchill (1874-1965)" author="Michelle Whitham" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/1/1d/Chartwell_and_Surrounding_Land.jpg" description=".">
 
+<!-- Global Entities -->
 <param ve-entity eid="Q1067909" aliases="Chartwell">
 <param ve-entity eid="Q2321393" aliases="Westerham">
 <param ve-entity eid="Q748895" aliases="Cinque Ports">
 <param ve-entity eid="Q2543161" aliases="Walmer Castle">
 
+<!-- Base map centred on Chartwell -->
+<param ve-map center="Q1067909" zoom="12">
+
+<!-- Historical map layers -->
+<param ve-map-layer active allmaps allmaps-id="02beda348c553bd7" title="OS SE England & London 1933">
 
 #
 
