@@ -9,7 +9,7 @@
 <param ve-entity eid="Q2543161" aliases="Walmer Castle">
 
 <!-- Base map centred on Chartwell -->
-<param ve-map center="Q1067909" zoom="14">
+<param ve-map center="Q1067909" zoom="13">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="121dee41dae035be" title="Bartholomew Kent 1919">
