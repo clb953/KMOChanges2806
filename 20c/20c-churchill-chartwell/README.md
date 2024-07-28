@@ -12,7 +12,7 @@
 <param ve-map center="Q1067909" zoom="12">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="02beda348c553bd7" title="OS SE England & London 1933">
+<param ve-map-layer active allmaps allmaps-id="542e2ed0e875aeb4" title="OS SE England & London 1933">
 
 #
 
@@ -23,7 +23,7 @@ Built upon as early as the 16th century,[^ref3] Churchill purchased the house in
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/0/03/Chartwell_House%2C_rear.JPG" label="Rear of Chartwell" attribution="Gaius Cornelius via Wikimedia Commons" license="CC BY-SA 3.0">
 
 On top of his many talents, unknown to many, Churchill was also an avid painter, picking up his first brush at the age of 41.  After discovering his new passion, he had a studio built at Chartwell in the 1930’s which became one of his favourite refuges.[^ref5]  He would go on to paint over 500 paintings, many of which would be painted at his Kent home.
-<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ef/Entrance_to_Churchill%27s_Garden_Studio_at_Chartwell_-_geograph.org.uk_-_1421616.jpg" label="Entrance to Churchill's studio at Chartwell" attribution="PAUL FARMER">
+<param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/ef/Entrance_to_Churchill%27s_Garden_Studio_at_Chartwell_-_geograph.org.uk_-_1421616.jpg" label="Entrance to Churchill's studio at Chartwell" attribution="Paul Farmer">
 
 Chartwell is now cared for by the National Trust who acquired the property 18 years before the death of Churchill.  Due to the family finding the upkeep of the large estate expensive, in 1945 it was purchased by a group of wealthy friends for £50,000 to allow the family to remain living there.[^ref6]  The group then offered the estate to the National Trust in 1946/47 but with the proviso that Churchill and his wife could continue to reside there for as long as they wanted,[^ref7] paying a nominal rent of £350 per year.[^ref8]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/c/cf/Plaque_on_wall_at_Chartwell_-_geograph.org.uk_-_1421613.jpg" label="Plaque on wall at Chartwell" attribution="Paul Farmer" license="CC BY-SA 2.0">
