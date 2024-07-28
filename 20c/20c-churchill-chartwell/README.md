@@ -32,13 +32,13 @@ Sadly in 1964 Churchill made the decision to leave Chartwell and move to his Lon
 Churchill was also appointed Lord Warden and Admiral of the Cinque Ports (Dover, Sandwich, Hythe, New Romney and Hastings) in September 1941,[^ref10] which provided him with the right to live at Walmer Castle,[^ref11] the official residence of the Lord Warden.  He was elected as an Honorary Life Member of the Association of Men of Kent and Kentish Men in 1949.[^ref12]
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/1/16/Standard_of_the_Lord_Warden_of_the_Cinque_Ports_RMG_L0123.tiff" label="Standard of the Lord Warden of the Cinque Ports" attribution="John Edgington, Public domain, via Wikimedia Commons">
 <param ve-entity eid="Q2543161" aliases="Walmer Castle">
-<param ve-map center="Q2543161" zoom="13">
+<param ve-map center="Q2543161" zoom="12">
 
 As well as residing in Kent, Churchill visited other areas of the county on numerous occasions. Most notably he spent time at Dover Castle, in the [Secret Wartime Tunnels](/20c/20c-secret-tunnels) where a number of notable wartime operations were planned.
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/d/d9/Winston_Churchill_studies_after_action_reports_with_Vice_Admiral_Sir_Bertram_Ramsay%2C_Flag_Officer_Comanding_Dover%2C_28_August_1940._H3508.jpg" label="Churchill and Vice Admiral Sir Bertram Ramsay at the Secret Wartime Tunnels at Dover Castle" attribution="War Office official photographer, Horton (Capt), Public domain, via Wikimedia Commons">
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/7/7b/War_Office_Second_World_War_Official_Collection_H3509.jpg" label="Winston Churchill at Dover Castle Secret Wartime Tunnels" attribution="War Office official photographer, Horton (Capt), Public domain, via Wikimedia Commons">
 <param ve-entity eid="Q179224" aliases="Dover">
-<param ve-map center="Q179224" zoom="13">
+<param ve-map center="Q179224" zoom="12">
 
 Churchill is remembered in Kent through three statues. One is located in Westerham on The Green,[^ref13], another at Chartwell and the third at St. Margaret’s Bay, Dover looking out towards the Dover Patrol Memorial on the white cliffs.[^ref14]
 <param ve-image url="https://stor.artstor.org/stor/9120880e-e4bc-4374-9a8e-a552e6f8d549" label="Churchill Statue in Westerham" attribution="Martin Crowther">
@@ -46,9 +46,9 @@ Churchill is remembered in Kent through three statues. One is located in Westerh
 <param ve-entity eid="Q2321393" aliases="Westerham">
 <param ve-entity eid="Q1067909" aliases="Chartwell">
 <param ve-entity eid="Q24638363" aliases="St Margaret's Bay">
-<param ve-map center="Q2321393" zoom="13">
-<param ve-map center="Q1067909" zoom="13">
-<param ve-map center="Q24638363" zoom="13">
+<param ve-map center="Q2321393" zoom="12">
+<param ve-map center="Q1067909" zoom="12">
+<param ve-map center="Q24638363" zoom="12">
 
 ### References 
 
