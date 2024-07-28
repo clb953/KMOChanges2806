@@ -6,8 +6,8 @@
 <param ve-entity eid="Q1067909" aliases="Chartwell">
 <param ve-entity eid="Q2321393" aliases="Westerham">
 
-<!-- Base map centred on Chartwell -->
-<param ve-map center="Q1067909" zoom="12.5">
+<!-- Base map centred on Westerham -->
+<param ve-map center="Q2321393" zoom="12.5">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="121dee41dae035be" title="Bartholomew Kent 1919">
