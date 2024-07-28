@@ -1,6 +1,6 @@
 <a href="https://www.kent-maps.online"><img src="https://kent-map.github.io/mdpress/juncture/ve-button.png"></a>
 
-<param ve-config title="Sir Winston Churchill (1874-1965)" author="Michelle Whitham" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/1/1d/Chartwell_and_Surrounding_Land.jpg" description=".">
+<param ve-config title="Sir Winston Churchill (1874-1965)" author="Michelle Whitham" layout="vtl" banner="https://upload.wikimedia.org/wikipedia/commons/1/1d/Chartwell_and_Surrounding_Land.jpg" description="Michelle Whitham traces British Prime Minister Winston Churchill's long association with Kent, particularly his country house of Chartwell.">
 
 <!-- Global Entities -->
 <param ve-entity eid="Q1067909" aliases="Chartwell">
@@ -9,7 +9,7 @@
 <param ve-entity eid="Q2543161" aliases="Walmer Castle">
 
 <!-- Base map centred on Chartwell -->
-<param ve-map center="Q1067909" zoom="12">
+<param ve-map center="Q1067909" zoom="13">
 
 <!-- Historical map layers -->
 <param ve-map-layer active allmaps allmaps-id="121dee41dae035be" title="Bartholomew Kent 1919">
