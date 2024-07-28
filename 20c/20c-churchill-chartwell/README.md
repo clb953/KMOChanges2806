@@ -46,6 +46,7 @@ Churchill is remembered in Kent through three statues. One is located in Westerh
 <param ve-entity eid="Q2321393" aliases="Westerham">
 <param ve-entity eid="Q1067909" aliases="Chartwell">
 <param ve-entity eid="Q24638363" aliases="St Margaret's Bay">
+<param ve-map center="Q24638363" zoom="12">
 <param ve-map center="Q2321393" zoom="12">
 <param ve-map center="Q1067909" zoom="12">
 <param ve-map center="Q24638363" zoom="12">
