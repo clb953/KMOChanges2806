@@ -59,7 +59,7 @@ There are no records of Elizabeth’s qualification as a draughtswoman, but she 
        description="Illustrated by Elizabeth Gould for John Gould’s “A Century of Birds from the Himalaya Mountains”, 1831."
        attribution="Biodiversity Heritage Library (https://www.biodiversitylibrary.org/page/42203694)"
        license="public domain"
-       url="https://upload.wikimedia.org/wikipedia/commons/5/57/A_century_of_birds_from_the_Himalaya_Mountains_%28TAB._LX%29_%289240055086%29.jpg">
+       url="https://www.archive.org/download/centurybirdsfro00Goul/page/n253_w304">
 
 “_A Century of Birds from the Himalaya Mountains_” was massively successful and highlighted Elizabeth’s attentive approach to the smallest of details, even when selecting the right pigments and brushes. The _Picus Brunifrons_ template is an excellent demonstration of the young woman’s talents, where she accurately replicated the finest details with only a single-haired brush [^4]. Shamefully, regardless of Elizabeth’s hours of intensive hard work, her name was notably absent from the title page. Her vigorous contributions were only briefly acknowledged in a short credit on the lower left of each plate - <span data-mouseover-image-zoomto="297,2194,437,342"> "Drawn from nature by E. Gould" </span> - but none featured her signature.
 <param ve-image 
