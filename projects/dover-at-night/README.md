@@ -83,5 +83,5 @@ This article was published: 22 March 2024. You can find articles about other Dov
 [^ref7]: Armstrong, T. _Dover Harbour_, 1942.
 [^ref8]: James, M.R. _Casting the Runes_, 1911.
 [^ref9]: Ford, D.M. _The Raid of Dover: A Romance of the Reign of Woman A.D. 1940_, 1910.
-[^ref10]:  _Ned of Dover_, 1800.
+[^ref10]: _Ned of Dover_, 1800.
 [^ref11]: Bates, H.E. _An Aspidistra in Babylon_, 1960, p. 48.
