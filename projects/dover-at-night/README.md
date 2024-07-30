@@ -6,7 +6,7 @@ banner="https://upload.wikimedia.org/wikipedia/commons/7/7f/Plan_of_Dover_and_of
 <param title="Dover" eid="Q179224">
 
 <!-- Base map centered on Dover -->
-<param ve-map center="Q179224" zoom="13">
+<param ve-map center="Q179224" zoom="12.5">
 
 <!-- Historical map layers --> 
 <param ve-map-layer active allmaps allmaps-id="a691a9303557c733" title="Davies 1863">
