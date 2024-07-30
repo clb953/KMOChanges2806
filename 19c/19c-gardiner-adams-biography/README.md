@@ -4,7 +4,7 @@
 banner="https://raw.githubusercontent.com/kent-map/images/main/banners/19c.jpg" description="Professor Carolyn Oulton explores the life and work of Deal (Kent) born poet Henry Gardiner Adams.">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="a674cc941b6c08cf" title="1822 OS Map">
+<param ve-map-layer active allmaps allmaps-id="4478e36824ad9d1a" title="Lewis Kent 1844">
 
 #
 
