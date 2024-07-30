@@ -2,13 +2,14 @@
 <param ve-config title="Dover at Night" author="Michelle Crowther" layout="vtl" 
 banner="https://upload.wikimedia.org/wikipedia/commons/7/7f/Plan_of_Dover_and_of_Dover_Castle_and_Archclift_Fort_%281756%29.jpg">
 
+<!-- Global Entities -->
 <param title="Dover" eid="Q179224">
 
+<!-- Base map centered on Dover -->
 <param ve-map center="Q179224" zoom="13">
 
 <!-- Historical map layers --> 
 <param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent OS 1860">
-
 
 #
 
