@@ -9,7 +9,7 @@ banner="https://upload.wikimedia.org/wikipedia/commons/7/7f/Plan_of_Dover_and_of
 <param ve-map center="Q179224" zoom="13">
 
 <!-- Historical map layers --> 
-<param ve-map-layer active allmaps allmaps-id="08f8a4bca9b4dd3a" title="Kent OS 1860">
+<param ve-map-layer active allmaps allmaps-id="a691a9303557c733" title="Davies 1863">
 
 #
 
