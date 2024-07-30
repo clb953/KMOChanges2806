@@ -8,7 +8,7 @@
 <param ve-entity eid="Q179224" aliases="Dover">
 
 <!-- Historical map layers -->
-<param ve-map-layer active allmaps allmaps-id="e2c6c2d2160a2c8b" title="Kent Road Map">
+<param ve-map-layer active allmaps allmaps-id="5aa3ce47b380271b" title="Kent Road Map">
 
 #
 
